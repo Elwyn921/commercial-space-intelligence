@@ -1,117 +1,256 @@
 {
-  "as_of_date": "2026-07-24",
+  "as_of_date": "2026-07-25",
   "companies": [
     {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_types": {
+        "launch": 43
+      },
+      "item_count": 43,
+      "latest_title": "力箭一号一箭5星圆满成功，下半年将逐月常态化发射 - 凤凰网"
+    },
+    {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 6,
-        "other": 3
+        "launch": 13,
+        "market": 1,
+        "other": 6
       },
-      "item_count": 9,
-      "latest_title": "Florida-launched Starlink satellites now help dog owners find lost pets - Tallahassee Democrat"
+      "item_count": 20,
+      "latest_title": "Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_types": {
+        "launch": 1,
         "other": 2
       },
-      "item_count": 2,
-      "latest_title": "Did the Blue Origin New Glenn rocket explosion burn this osprey? - Florida Today"
+      "item_count": 3,
+      "latest_title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_types": {
+        "launch": 2,
+        "other": 1
+      },
+      "item_count": 3,
+      "latest_title": "朱雀三号遥一运载火箭飞行试验任务完成第一阶段工作『航天视窗』 - 新浪财经"
     }
   ],
-  "company_count": 2,
+  "company_count": 4,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 6,
-    "other": 5
+    "launch": 59,
+    "market": 1,
+    "other": 9
   },
-  "generated_at": "2026-07-24T04:32:19.643243Z",
-  "period_end": "2026-07-23",
-  "period_start": "2026-07-23",
-  "report_date": "2026-07-23",
+  "generated_at": "2026-07-25T04:28:31.241690Z",
+  "period_end": "2026-07-24",
+  "period_start": "2026-07-24",
+  "report_date": "2026-07-24",
   "schema_version": "daily_document.v1",
-  "source_count": 5,
+  "source_count": 32,
   "source_counts": {
-    "Business Insider Africa": 1,
-    "Florida Today": 2,
-    "Tallahassee Democrat": 1,
-    "bing.com": 6,
-    "spaceq.ca": 1
+    "21财经": 1,
+    "4?ds=true&seed=1784939642": 1,
+    "CCTV": 1,
+    "China Daily": 1,
+    "Florida Today": 1,
+    "Jiemian.com": 4,
+    "NASA": 1,
+    "Space": 1,
+    "Spaceflight Now": 1,
+    "Ventura County Star": 2,
+    "arstechnica.com": 1,
+    "bing.com": 20,
+    "jingjiribao.cn": 1,
+    "jnzstatic.cs.com.cn": 1,
+    "shobserver.cn": 1,
+    "space.com": 1,
+    "thepaper.cn": 1,
+    "中华网": 1,
+    "中国科技网": 1,
+    "人民网财经": 1,
+    "凤凰网": 1,
+    "央视网": 1,
+    "广州日报新花城": 1,
+    "手机网易网": 2,
+    "投资界": 1,
+    "搜狐网": 4,
+    "新浪网": 4,
+    "新浪财经": 5,
+    "第一财经": 3,
+    "腾讯新闻": 1,
+    "财联社": 2,
+    "驱动之家": 1
   },
-  "summary": "2026-07-23 共归档 11 条新闻，覆盖 2 家公司、5 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin。",
+  "summary": "2026-07-24 共归档 69 条新闻，覆盖 4 家公司、32 个信息来源。 新闻量较多的公司包括 中科宇航、SpaceX、Blue Origin、蓝箭航天。",
   "top_items": [
     {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "other",
+      "item_id": "b2f74b133c912500",
+      "published_at": "2026-07-24T15:30:21Z",
+      "source_name": "NASA",
+      "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
+      "url": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis"
+    },
+    {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "d4abff8d0da9f764",
-      "published_at": "2026-07-23T15:18:00Z",
-      "source_name": "Tallahassee Democrat",
-      "title": "Florida-launched Starlink satellites now help dog owners find lost pets - Tallahassee Democrat",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNzFlN1hpR045VndsSDR5b3hKQkJ0S1NrOFBod0lRYmxBX1h4M1pZVlVVX0tDdDFKT0JDY1U2b3Bwd3Nza0M3WFhUUkRQYmVlRVd3R0VhS2M3NlhkdE0wR3U1eFpfY0w4d0V1dGI4T0JLcS16ZUQ1UWxtbnpkcGJRdHkzTEJpei1CNnRGeHg3MndPUmxId0NWXy1oM0J1RnNLN3RDS25SRGJQLUw3S0MyQ21uMmJIM0hQdmNYZmh3?oc=5"
+      "item_id": "816120f8f9e70980",
+      "published_at": "2026-07-23T19:12:50Z",
+      "source_name": "Spaceflight Now",
+      "title": "Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work",
+      "url": "https://spaceflightnow.com/2026/07/23/live-coverage-spacex-ready-for-2nd-attempt-to-launch-starship-flight-13-following-post-abort-engine-work"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "market",
+      "item_id": "9f02c474c6c96d0b",
+      "published_at": "2026-07-24T09:45:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX: Why I Am Going Full Contrarian (Rating Upgrade)",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a63b7e0cca84d4aa684486d82f6406b&url=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4925346-spacex-why-i-am-going-full-contrarian-rating-upgrade&c=14416812085046274632&mkt=en-us"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "161c5587f7434b67",
+      "published_at": "2026-07-24T15:37:15Z",
+      "source_name": "凤凰网",
+      "title": "力箭一号一箭5星圆满成功，下半年将逐月常态化发射 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBTNm92aXNGM3BhSVVWZjhia2JxQXAyQ1dJLVdwU3NmWk1iSWZ6bTZtYllieUR4SE5OaGxENktBcUN3ZHc3ejVrbg?oc=5"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "launch",
+      "item_id": "860d1542ab1d0489",
+      "published_at": "2026-07-24T15:34:01Z",
+      "source_name": "新浪财经",
+      "title": "朱雀三号遥一运载火箭飞行试验任务完成第一阶段工作『航天视窗』 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcDVXV1hZSGtCYkJ3cl9SZXpYenVWeXI5V25oV0RQZVlYdkNLeXdWMk5vcHlJWUpScVg4dGRLaVZpajZPaUlYeVVsZWhJaGpnWnc2VE56MnVJRlo0NmRTVUx2UzBqR2MxUURMb3J2SGxTYTduT3hRUnZZYmVDeElzTkVQcw?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "bd439adf75aed88c",
+      "published_at": "2026-07-24T14:34:25Z",
+      "source_name": "arstechnica.com",
+      "title": "Rocket Report: Lightning strikes in China; Starship launch on deck",
+      "url": "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "d52256af99fb0423",
+      "published_at": "2026-07-24T14:26:25Z",
+      "source_name": "Space",
+      "title": "SpaceX will now try to launch critical Starship Flight 13 test today after delays. Here's what to expect. - Space",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRWV3b0hiOHhyLUNEWWkxWk41dlpQQUF1LW11VHFTd20xZ0libUc3NXBxQ2Vkb0Vlc3NGUVlEM01hOHp1dC0yMkE5V2FMTjF4V3NiUUJQZU5Xb3B6eHZPRmVyb2hoREtwdEF3WjRVenREOWp3d1BLN3hFenYza1NqTk9weE9pbDZsNkhRRHFScl9yLTh6bG1RWkQxRkdDZm1WcDRDXzkycDN6RmpQ?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "26933b9daa84c755",
+      "published_at": "2026-07-24T14:17:00Z",
+      "source_name": "bing.com",
+      "title": "After Blue Origin's huge explosion, will it be able to launch to the moon this year?",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a640f17aa884e1a91f1663d35171df3&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Fafter-blue-origins-huge-explosion-will-it-be-able-to-launch-to-the-moon-this-year%2Far-AA28DrJ8&c=12760255923093061179&mkt=en-us"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "026d9756ae07a3ac",
+      "published_at": "2026-07-24T14:12:00Z",
+      "source_name": "CCTV",
+      "title": "[视频]【力箭一号今天成功发射“一箭五星”】“一箭五星”如何成功“拼车”？ - CCTV",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54QWh3MHBfLTg2SjUzRUpQVm1vUlJ6VGZEYzZ1b1BtbWxMTUxpTUtnUXJCb3ZuMjNvdW1YWnlvdkdlZTBTdjJ3YkNnYVhLVWNkRXpyVWF3Zl80WTF2ZWJidXNSOWtxaHNSNjlfMUJqbElJcGpkVnc?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "11f1649a72ba3b4d",
+      "published_at": "2026-07-24T13:04:00Z",
+      "source_name": "Ventura County Star",
+      "title": "California-launched Starlink satellites help dog owners find lost pets - Ventura County Star",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlFPY3VNdm05M1JfYXJSOEV3UGJPSXNRUnhOUkhQVVpOOFNPN3VoZFF0Y25lOTNiZWNqVmdlNHJyT1VPU3FIZWdscGo1ekVIYkNEenhJZlZpdms0bTYtX19YeGZvellKd25sQWtibUFqZmRoVTJlV190M2MtcWlYbjY4V0RJMzRTYk5GNTNXbm9Ld0tFaHc1bmVOZl82UjRsRWk4R3VrQlBYdw?oc=5"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "6485eed4d4ee6b43",
+      "published_at": "2026-07-24T12:42:00Z",
+      "source_name": "新浪财经",
+      "title": "太空多了颗“上海芯”！力箭一号“一箭五星”发射成功，国产GPU算力入轨 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QUHkzeUlMNkRfOWs2SFRXUGRjUlByaE9reUtVN3FZZjQxSVozNWo3bExZYllmWGFGS0FxMUlnYW5HX2xDa0tmUVhfV041VklROWkxRlkyc05rN1kxYTNBajU0RmdsY2UxbTdtVm9zYzdmMmp6VTExZg?oc=5"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "6b84500ab61da87c",
+      "published_at": "2026-07-24T12:37:21Z",
+      "source_name": "搜狐网",
+      "title": "太空多了颗“上海芯”！力箭一号“一箭五星”发射成功，国产GPU算力入轨 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wWHBoVTNrZ2R0YmFCbm9xXy00WVhMbG1FV29Rd0s2UXcySnVRUXh4bUM4QmlDUTNlWnM5Y0IweVYxY20wY29nd1Rfc0l3elFCRng4RW5R?oc=5"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "ffa5837cab1cc85d",
+      "published_at": "2026-07-24T12:37:00Z",
+      "source_name": "shobserver.cn",
+      "title": "太空多了颗“上海芯”！力箭一号“一箭五星”发射成功，国产GPU算力入轨 - shobserver.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wdlBJN1c0dmx5bXRFTUxEbEk1cUxQaFJCZ3g4SVFENFduc2tyZnkybjVHajV1VmQwc2dqWExlMDYySmluWmRYbGdzUVhkei1Pb1N6cXAydi1pQW0x?oc=5"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "other",
-      "item_id": "09db26c6507ac3db",
-      "published_at": "2026-07-23T12:49:00Z",
-      "source_name": "Florida Today",
-      "title": "Did the Blue Origin New Glenn rocket explosion burn this osprey? - Florida Today",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNN29HQ2k3WFY2NU1Xam1iaGViUXYyMkdzV1ZIY0NjVWFWZkdId0wyN0gwWVcwM1l1TmFFLVZHbGo2ajZiOHc3ekIxTHNmWm40N2VzaUtuNTNjTFhsNE1id0tqU1RZRjctaGdOMjhUTUJQeTNRaWhnalluX1o4S0otQVUxM1ZtQUtkdkhUeWJHTTdPdDdjZEw4bzNGczdLZnVjOExaSHoxVGxrT0JqVmRFR2JxSHVZcEhSTERyc3ZaNk9ScGRReFZwaHFHRUdoZFFlYm1rUnZwbmFOS1B2RXVTWDFoR0VNdzVLMld3?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "23c551623525a945",
-      "published_at": "2026-07-23T11:23:00Z",
+      "item_id": "53046c2f5f8508d6",
+      "published_at": "2026-07-24T11:20:00Z",
       "source_name": "bing.com",
-      "title": "SpaceX's Starlink internet could help you track your dogs. Here's how",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a62bd3ae2b14c4090286d47a6cd166e&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Fspacexs-starlink-internet-could-help-you-track-your-dogs-heres-how%2Far-AA28xetk&c=17808537089705720702&mkt=en-us"
+      "title": "Stennis Space Center to host Blue Origin rocket tests",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a63b7e897e34f3fbf697643523860e0&url=https%3A%2F%2Fwww.wjtv.com%2Fnews%2Fstate%2Fstennis-space-center-to-host-blue-origin-rocket-tests%2F&c=9052340269393306461&mkt=en-us"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
       "event_type": "other",
-      "item_id": "5d95dbdfde1a7dab",
-      "published_at": "2026-07-23T08:01:51Z",
-      "source_name": "bing.com",
-      "title": "SpaceX's Starlink internet could help you track your dogs. Here's how",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a626396717842759dfa8b4198d7000e&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Fspacexs-starlink-internet-could-help-you-track-your-dogs-heres-how%2Far-AA28xetk&c=17808537089705720702&mkt=en-us"
+      "item_id": "b1097113d3c10d84",
+      "published_at": "2026-07-24T04:11:54Z",
+      "source_name": "手机网易网",
+      "title": "中国第二枚可重复火箭要来了！朱雀三号、长征十二号甲8月排队挑战回收，难度有多大？ - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LYklUbVZTUGdEZ2VEVkxWRjlhYlNxcWRNUzRRYlo3MVVPT3VmM1ZOQ3dzVGlhNGhiYVBxUTVoRGFLa3VzQng3ZW1lak90TnR3TG44VDV6eVMxd2NhVHpaX3lR?oc=5"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
       "event_type": "launch",
-      "item_id": "4e559c21773e6c3a",
-      "published_at": "2026-07-23T07:05:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX readies for another attempt at 13th Starship test flight in Texas",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a62bd3ae2b14c4090286d47a6cd166e&url=https%3A%2F%2Fwww.aol.com%2Farticles%2Fspacex-readies-another-attempt-13th-140522000.html&c=16643616747908915274&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "4b0d33bc309b00f2",
-      "published_at": "2026-07-23T07:05:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX readies for another attempt at 13th Starship test flight in Texas",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a626396717842759dfa8b4198d7000e&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fspacex-readies-another-attempt-13th-140522961.html&c=2727377273686724704&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "other",
-      "item_id": "733781bc35b3db4c",
-      "published_at": "2026-07-23T09:13:25Z",
-      "source_name": "Florida Today",
-      "title": "Was this osprey burned by Blue Origin's May 28 New Glenn explosion? - Florida Today",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORzR4Y0Mtd2lvTHdEOU53OS1Ia2gzUTZ4YnlVWktzNFFJd211cVIzMkM1WmhzWnlVMUZfS2pYOG5BQmtpR20wY2UyUGp2RUNHb1NxNHR3RmV6WS1aSi1Dc0R5eGItVzVLdzlMcVBCenB3MFBKeFpveUtrYU9QWTVxZTZHREJwMF9HU3RRNzBLRm04ZnZYdVhqYlFqejNfR3VPa09MWnRZdWRXRG9hUUYzbXF1c0hCNUhsSFFrT2hRWXNXRUFzbFM0RDd3?oc=5"
+      "item_id": "3016108949d199d3",
+      "published_at": "2026-07-24T00:55:05Z",
+      "source_name": "新浪网",
+      "title": "朱雀二号遥六发射成功，千帆DTC01星等两颗卫星顺利入轨 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EbDRuX0I1VWt6X1ZqZ21jSVEyb04wMTFRVVNkUVY1WHJRUFZ0SnFsZ01vUGtQeUtLS2dGdUpiNnJSRktXQTM5LVRnN0xvMW9oalFLOEFFQUliN3E4UTZXV0M0MXBWUXczQUEzZXhIeHJ5ckxKeVZIR2wxSHdXQQ?oc=5"
     }
   ],
-  "total_items": 11
+  "total_items": 69
 }
