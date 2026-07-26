@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-07-26
 
-- Report ID: daily-2026-07-26-8d160997
-- Source run: 83e73c03-e7b9-4704-9dd8-132f572cb90a
+- Report ID: daily-2026-07-26-9e486248
+- Source run: 4c61ddcb-2b8d-4fd4-8a96-e963550eb1f1
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 5
+- Total items: 8
 
 ## Executive Summary
 
-2026-07-26 共收录 5 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-07-26 共收录 8 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,15 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
+- [Starship Flight 13 Flies as 6 Launches Succeed | KeepTrack Week in Review - KeepTrack](https://news.google.com/rss/articles/CBMibkFVX3lxTE0wSTdyVjdESVZiYzNEUXhWb2JmRGFJMkIwMzhjNGlSSmRXY09RM1BRR19qVUVmM1pqbVlMWU1zemNfM19WZDByWXJFbExnZElIUzV2TWlXUGtrTzg1b3RLZUJvSXhMWEljbUltdm5n?oc=5) SpaceX
+- [SpaceX launches Starship on 13th test flight, deploys first Starlink V3 satellites - SatellitePro ME](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUo1RmlOTkQ1QVBwTWdveFZfUThkRkUwTU5keGNlel9MUjhmaHhTaGp1WnlTUFhFWldFeER3eEFGWUF4Uzc4OVlLemxvS1pKOVdzTW5JMnFrYVZBdlJBeVlUX0ZMQUFnbGxRUEowOTh0RDlSSEVVSjNrMF8tRTNCSGZkYUF1bmhucU1QTmFoblZqRlA1U3FvU0FJdGxPQ1hlODNfZTM4Zjd4TFhfcWJQR29uTWg?oc=5) SpaceX
 - [SpaceX Targets First Starship Upper Stage Tower Catch for Flight 14](https://satnews.com/2026/07/25/spacex-targets-first-starship-upper-stage-tower-catch-for-flight-14) SpaceX
-- [Flight 13 success clears path for Starship catch attempts and lunar mission timelines](https://spaceq.ca/flight-13-success-clears-path-for-starship-catch-attempts-and-lunar-mission-timelines) SpaceX
-- [SpaceX eyes tower catch for next Starship after auspicious end to 13th flight](https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight) SpaceX
 
 ## Top News
 
+- [Starship Flight 13 Flies as 6 Launches Succeed | KeepTrack Week in Review - KeepTrack](https://news.google.com/rss/articles/CBMibkFVX3lxTE0wSTdyVjdESVZiYzNEUXhWb2JmRGFJMkIwMzhjNGlSSmRXY09RM1BRR19qVUVmM1pqbVlMWU1zemNfM19WZDByWXJFbExnZElIUzV2TWlXUGtrTzg1b3RLZUJvSXhMWEljbUltdm5n?oc=5) SpaceX
+- [SpaceX launches Starship on 13th test flight, deploys first Starlink V3 satellites - SatellitePro ME](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUo1RmlOTkQ1QVBwTWdveFZfUThkRkUwTU5keGNlel9MUjhmaHhTaGp1WnlTUFhFWldFeER3eEFGWUF4Uzc4OVlLemxvS1pKOVdzTW5JMnFrYVZBdlJBeVlUX0ZMQUFnbGxRUEowOTh0RDlSSEVVSjNrMF8tRTNCSGZkYUF1bmhucU1QTmFoblZqRlA1U3FvU0FJdGxPQ1hlODNfZTM4Zjd4TFhfcWJQR29uTWg?oc=5) SpaceX
 - [SpaceX Targets First Starship Upper Stage Tower Catch for Flight 14](https://satnews.com/2026/07/25/spacex-targets-first-starship-upper-stage-tower-catch-for-flight-14) SpaceX
-- [Flight 13 success clears path for Starship catch attempts and lunar mission timelines](https://spaceq.ca/flight-13-success-clears-path-for-starship-catch-attempts-and-lunar-mission-timelines) SpaceX
-- [SpaceX eyes tower catch for next Starship after auspicious end to 13th flight](https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight) SpaceX
 
 ## Risks And Watchpoints
 
