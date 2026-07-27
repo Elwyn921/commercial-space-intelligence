@@ -1,226 +1,94 @@
 {
-  "as_of_date": "2026-07-26",
+  "as_of_date": "2026-07-27",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 23,
-        "market": 2,
-        "other": 2
-      },
-      "item_count": 27,
-      "latest_title": "Live Coverage: SpaceX Falcon 9 to launch Starlink satellites from West Coast"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_types": {
-        "funding": 3,
-        "launch": 2,
-        "order": 3,
-        "other": 3
-      },
-      "item_count": 11,
-      "latest_title": "Jeff Bezos Put $2 Billion of His Own Money Into Blue Origin's First Outside Funding Round"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_types": {
-        "launch": 4,
+        "launch": 7,
+        "market": 1,
         "other": 1
       },
-      "item_count": 5,
-      "latest_title": "一箭五星！力箭一号遥十五运载火箭成功发射 - 新浪财经"
+      "item_count": 9,
+      "latest_title": "Successful Flight for Starship IFT-13"
     }
   ],
-  "company_count": 3,
+  "company_count": 1,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "funding": 3,
-    "launch": 29,
-    "market": 2,
-    "order": 3,
-    "other": 6
+    "launch": 7,
+    "market": 1,
+    "other": 1
   },
-  "generated_at": "2026-07-26T04:42:13.683809Z",
-  "period_end": "2026-07-25",
-  "period_start": "2026-07-25",
-  "report_date": "2026-07-25",
+  "generated_at": "2026-07-27T04:52:16.398022Z",
+  "period_end": "2026-07-26",
+  "period_start": "2026-07-26",
+  "report_date": "2026-07-26",
   "schema_version": "daily_document.v1",
-  "source_count": 17,
+  "source_count": 9,
   "source_counts": {
-    "Blue Origin": 1,
-    "Fortune": 1,
-    "NASASpaceflight": 1,
-    "SpaceNews": 1,
-    "Spaceflight Now": 2,
-    "Tech Times": 1,
-    "TechCrunch": 1,
-    "WDAM-TV": 1,
-    "WLOX": 1,
-    "Yahoo": 2,
-    "bing.com": 24,
-    "chinanews.com.cn": 1,
-    "satellitetoday.com": 1,
-    "space.com": 2,
-    "新浪上海": 1,
-    "新浪网": 1,
-    "新浪财经": 1
+    "Broadband Breakfast": 1,
+    "KeepTrack": 1,
+    "SatellitePro ME": 1,
+    "SpacePolicyOnline.com": 1,
+    "Spaceflight Now": 1,
+    "arstechnica.com": 1,
+    "bing.com": 1,
+    "satnews.com": 1,
+    "spaceq.ca": 1
   },
-  "summary": "2026-07-25 共归档 43 条新闻，覆盖 3 家公司、17 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、中科宇航。",
+  "summary": "2026-07-26 共归档 9 条新闻，覆盖 1 家公司、9 个信息来源。 新闻量较多的公司包括 SpaceX。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "a70f35221c4328bf",
-      "published_at": "2026-07-25T13:58:51Z",
-      "source_name": "Spaceflight Now",
-      "title": "Live Coverage: SpaceX Falcon 9 to launch Starlink satellites from West Coast",
-      "url": "https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "c2b799def43f7572",
-      "published_at": "2026-07-25T01:08:45Z",
-      "source_name": "Spaceflight Now",
-      "title": "Super Heavy-Starship rocket chalks up mostly successful test flight",
-      "url": "https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "46d78b5becc2c021",
-      "published_at": "2026-07-25T00:29:32Z",
-      "source_name": "SpaceNews",
-      "title": "SpaceX conducts 13th Starship test flight",
-      "url": "https://spacenews.com/spacex-conducts-13th-starship-test-flight"
+      "item_id": "c13ee6fee0cecc31",
+      "published_at": "2026-07-25T17:36:37Z",
+      "source_name": "SpacePolicyOnline.com",
+      "title": "Successful Flight for Starship IFT-13",
+      "url": "https://spacepolicyonline.com/news/successful-flight-for-starship-ift-13"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "market",
-      "item_id": "bf32fadf4981575c",
-      "published_at": "2026-07-24T16:57:00Z",
+      "item_id": "8070f1fab30a60f8",
+      "published_at": "2026-07-26T06:00:21Z",
       "source_name": "bing.com",
-      "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a640f0fcaee4fa2ab4a3c757c0d804c&url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F07%2F24%2Fspacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html&c=17620976010275678870&mkt=en-us"
+      "title": "SpaceX launches Starlink satellites and sticks landing on IPO reveal day",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6656a4575f466290231db59b48b2e9&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fnews%2Fworld%2Fspacex-launches-starlink-satellites-and-sticks-landing-on-ipo-reveal-day%2Fvi-AA28Iya8&c=16060689152962374506&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "market",
-      "item_id": "1940494e1c9be4df",
-      "published_at": "2026-07-24T16:57:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX launches massive Starship rocket in first test flight since IPO",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6469cc6fc045b18dacbcdae5dd7dc2&url=https%3A%2F%2Fwww.cnbc.com%2F2026%2F07%2F24%2Fspacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html&c=17620976010275678870&mkt=en-us"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
       "event_type": "launch",
-      "item_id": "76210257f9e1b256",
-      "published_at": "2026-07-25T10:01:00Z",
-      "source_name": "新浪财经",
-      "title": "一箭五星！力箭一号遥十五运载火箭成功发射 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHRVFlazdFN3dWVUtiU2s2TVZpY0JpX2hjOUdRT2xDM3BnWVUzQUFKd3p3VklVa21yRGQ0b0wtVE1renJicHpVdzFwMDRwOGgxMzd0aDRmZ3FqaDB4aWhhalRScl9DUmM3ODJFaG5qdnlVZ09Xd2EtaA?oc=5"
+      "item_id": "a962693477bf11ed",
+      "published_at": "2026-07-26T11:00:15Z",
+      "source_name": "KeepTrack",
+      "title": "Starship Flight 13 Flies as 6 Launches Succeed | KeepTrack Week in Review - KeepTrack",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wSTdyVjdESVZiYzNEUXhWb2JmRGFJMkIwMzhjNGlSSmRXY09RM1BRR19qVUVmM1pqbVlMWU1zemNfM19WZDByWXJFbExnZElIUzV2TWlXUGtrTzg1b3RLZUJvSXhMWEljbUltdm5n?oc=5"
     },
     {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "98717cb02140e942",
-      "published_at": "2026-07-25T07:53:07Z",
-      "source_name": "chinanews.com.cn",
-      "title": "太空多了颗“上海芯”！力箭一号“一箭五星”发射成功，国产GPU算力入轨 - chinanews.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYenFtUHZVdWhLM0dWM19wd3VUU1dOTXBqY2pZbUlhWEVUV3Vpa3N2TmdQSFhQSXhmNUtMT2hIYi1TdllCNU8zeUNydENETFZlZlRsOVZqb192WUd5TkNhd0h4amYzcWJL?oc=5"
+      "item_id": "ceb688965881c76a",
+      "published_at": "2026-07-26T01:53:30Z",
+      "source_name": "SatellitePro ME",
+      "title": "SpaceX launches Starship on 13th test flight, deploys first Starlink V3 satellites - SatellitePro ME",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUo1RmlOTkQ1QVBwTWdveFZfUThkRkUwTU5keGNlel9MUjhmaHhTaGp1WnlTUFhFWldFeER3eEFGWUF4Uzc4OVlLemxvS1pKOVdzTW5JMnFrYVZBdlJBeVlUX0ZMQUFnbGxRUEowOTh0RDlSSEVVSjNrMF8tRTNCSGZkYUF1bmhucU1QTmFoblZqRlA1U3FvU0FJdGxPQ1hlODNfZTM4Zjd4TFhfcWJQR29uTWg?oc=5"
     },
     {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "other",
-      "item_id": "0f642f2b530eea87",
-      "published_at": "2026-07-25T04:19:26Z",
-      "source_name": "新浪网",
-      "title": "110颗卫星！力箭一号创民商火箭百星里程碑 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MVF8tVnRHREhkWGFxMFRpdmZGcVFqcVYwaWh2V3F1U1ZzOGNLQUJiSjhqUjdKSEEtSUZMZmg0bXRCS0lGaERZZkJUbzNFdV9DNnZ1VXYwVGlEMzR6ekhyWFBCbnRyQjBZNkVnTk83YWRJZw?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "funding",
-      "item_id": "f200862ee1bda6d3",
-      "published_at": "2026-07-25T04:06:00Z",
-      "source_name": "bing.com",
-      "title": "Jeff Bezos Put $2 Billion of His Own Money Into Blue Origin's First Outside Funding Round",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a64b1c328794bbfb572eaab9241cb43&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Ftopstocks%2Fjeff-bezos-put-2-billion-of-his-own-money-into-blue-origins-first-outside-funding-round%2Far-AA28F9iR&c=14842470929228172328&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "funding",
-      "item_id": "a02822051bcfc75e",
-      "published_at": "2026-07-25T04:06:00Z",
-      "source_name": "bing.com",
-      "title": "Jeff Bezos Put $2 Billion of His Own Money Into Blue Origin's First Outside Funding Round",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a65040274e246879d82a38aca3a8e0d&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Ftopstocks%2Fjeff-bezos-put-2-billion-of-his-own-money-into-blue-origins-first-outside-funding-round%2Far-AA28F9iR&c=14842470929228172328&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "funding",
-      "item_id": "1764358b23c8a0c5",
-      "published_at": "2026-07-25T04:06:00Z",
-      "source_name": "bing.com",
-      "title": "Jeff Bezos Put $2 Billion of His Own Money Into Blue Origin's First Outside Funding Round",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6561384afd41259ae993296802906b&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Ftopstocks%2Fjeff-bezos-put-2-billion-of-his-own-money-into-blue-origins-first-outside-funding-round%2Far-AA28F9iR&c=14842470929228172328&mkt=en-us"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "7a284934350e1771",
-      "published_at": "2026-07-25T04:05:00Z",
-      "source_name": "新浪上海",
-      "title": "太空多了颗“上海芯”！力箭一号“一箭五星”发射成功，国产GPU算力入轨 - 新浪上海",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFNuTFJtUEtndlRfZlQ3azFaa05HQzhkM3hMdU9Rd0xTT1FFOHl2THB3OEdQLXZYeXZyUkpVQTVIVmd6THg0NVVlWUhxTjJZQ2xUNTljLU9IcUJsWnpPVGt6MF8xYjdtSjFxOUp2VTZnN3ZGQzhXZTBHSldKRy0xM1JrTjFHN0xkQlV1TmR1ZTNOREJkWnUtZFhpOVBKVWNodU1fN1lGRDlZa2lNOUpGbldQcHcxaXFOT2JmRkkyNlNVRmwxRlpjWWxpTlJrZUU?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "order",
-      "item_id": "da7446e3efbe9ca4",
-      "published_at": "2026-07-24T23:47:00Z",
-      "source_name": "WDAM-TV",
-      "title": "NASA, Blue Origin partnership to include testing at Stennis Space Center - WDAM-TV",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeG5qTjBXWGtDRkhtbUZGU2JwZkNEcFNuWWh4NWNOZ2ZCUW9xcXZlT2dDTlZ3dTAzb0ZncjE4d09nV0Z4dEF2R0t3TmpDNkJIR3dsZVhVcjdTSnA4MFZydGJlYWFPdDZoUEZ3eXlMRC02dFRiNzB4WXRGdzJPUU1Jbk95aDJzVndOcU85RmRzbElVSGZnLUgzajZTMS1jU2PSAbMBQVVfeXFMTUYtQzVTNVlmSHpjQUV0UFN4Vm9FczdqSkpIX2RyOWlyZUYyZnk0dEZBQlRvbUg3LUkxNFcxOXZVSk4wOE5BWUNHMklCQWtqUFZTQ3hyMHZ1SlcyQUFXdHVPbm1KTHFDTzY0V25ucloxYTBxb1B6SUJqSzVpZk9FZm4zZXdjd2RrSEE2ZTM5TkhERkIzRjFQWDBaalRDT0FZSzhmbnRZeUJOajVMVVBONUI5TXM?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "order",
-      "item_id": "0138d5807c6b9dcf",
-      "published_at": "2026-07-24T23:47:00Z",
-      "source_name": "WLOX",
-      "title": "NASA, Blue Origin partnership to include testing at Stennis Space Center - WLOX",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY3ZLRkNZdHpEV0hhem5rbXZORVRhOS1SenY5QlE0WHVrclpWSmhPUmNKanp4U0Z2b2tMdU1iOThIQXpZdEZvTTVRak5LM0l3NVhCN1ptRW9iV1RXejd5Y3NCV00zdURsM215ZU8zckxGb2prSlpoNlo5aWEwWFBFSVNUZUpNbFRMS0gzMlVfOEEzWGdDeGhPVFVhYzlFOUHSAbMBQVVfeXFMTXhRaGNScUVtdXdxWXNkS0ZmVHMxbWZyUjBUWG1UWW5jMEhkMjBRX1h5WTRRTUlKd3FHdlJLNFVqQmxWVl94QXpVaDNQbmo1bUwxZ1MwcmJ0bVIzNXpVSVR0NVZ3QmVwTVlXT0pQMkJGRC1vTkpWNW5XSVN4cjB0amdScF9GWkpMR1VIbElUTTdZZzc5Qlp5d2hKRlRRV1RLMVN4TDJDbm1kM3RDVml3bzhPWjQ?oc=5"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "6dda6c9eb72a86aa",
-      "published_at": "2026-07-24T20:04:05Z",
-      "source_name": "Tech Times",
-      "title": "CAS Space Locks In Monthly Kinetica-1 Launches as China’s 2026 Surge Accelerates - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR3FQVmplcHd6RlVNajZhUUpBcmxULTkxTlZyUHZBTWVyNlhObEtFRzhPTUtOU245T0twbGRqNlIyaVcwUzd2aGgyVlVNMVFqY0tuTGxoYlBCbXMyd0xMVlVMS01MSTgyRjJnRHlUU0thd2xUTnA4VzJjWGVVY0ZCVlFidUhjOVR2UE01dzFWOHhmcWFSRG9VZzhrQ01JeVBpNGNhT2prOHF6dFNhNXkxSjF4QVNVRGozWm9UOEZ5T2daWWtUSGx3?oc=5"
+      "item_id": "0b9fab2afdbe05b2",
+      "published_at": "2026-07-25T19:52:52Z",
+      "source_name": "spaceq.ca",
+      "title": "Flight 13 success clears path for Starship catch attempts and lunar mission timelines",
+      "url": "https://spaceq.ca/flight-13-success-clears-path-for-starship-catch-attempts-and-lunar-mission-timelines"
     }
   ],
-  "total_items": 43
+  "total_items": 9
 }
