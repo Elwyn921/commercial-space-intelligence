@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-07-26
+# 每日新闻情报日报 - 2026-07-27
 
-- Report ID: daily-2026-07-26-c2957e85
-- Source run: b083e171-48b3-4330-b983-38c396ff3321
+- Report ID: daily-2026-07-27-07fad8fc
+- Source run: c969f76a-c4d0-4be3-a0fb-5d8e96859e78
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 8
+- Total items: 1
 
 ## Executive Summary
 
-2026-07-26 共收录 8 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-07-27 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 蓝箭鸿擎。
 
 ## Industry Chain Sections
 
@@ -21,6 +21,7 @@ No LLM summary.
 
 No LLM summary.
 
+- [影响市场重大事件：太空算力大动作！中国星网数科与蓝箭鸿擎等三方共建的太空算力技术创新中心揭牌；美“星舰”完成第13次试飞，成功发射20颗新一代“星链”卫星；脑机接口迎重大突破 - 21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxOb19tcEFqbGxSdXZ4ZnFjMGZXWmVrVnZLbXdKNXc5aWUwM2VuTDJIUjhSWW9MaXplX19WQnVQUzk0Q1Bkell2UHh4N1pkOGQ4S2xoQXNQV3o0c3AyR0NTejVtTktZUlMzLVBYeUw3RkpQOWtfdDAxWDlFN1g5dF9mWFBzSkZ0U0V6UFlMSw?oc=5) 蓝箭鸿擎
 
 ### 卫星互联网服务
 
@@ -31,15 +32,10 @@ No LLM summary.
 
 No LLM summary.
 
-- [Starship Flight 13 Flies as 6 Launches Succeed | KeepTrack Week in Review - KeepTrack](https://news.google.com/rss/articles/CBMibkFVX3lxTE0wSTdyVjdESVZiYzNEUXhWb2JmRGFJMkIwMzhjNGlSSmRXY09RM1BRR19qVUVmM1pqbVlMWU1zemNfM19WZDByWXJFbExnZElIUzV2TWlXUGtrTzg1b3RLZUJvSXhMWEljbUltdm5n?oc=5) SpaceX
-- [SpaceX launches Starlink satellites and sticks landing on IPO reveal day](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6656a4575f466290231db59b48b2e9&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fnews%2Fworld%2Fspacex-launches-starlink-satellites-and-sticks-landing-on-ipo-reveal-day%2Fvi-AA28Iya8&c=16060689152962374506&mkt=en-us) SpaceX
-- [SpaceX launches Starship on 13th test flight, deploys first Starlink V3 satellites - SatellitePro ME](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUo1RmlOTkQ1QVBwTWdveFZfUThkRkUwTU5keGNlel9MUjhmaHhTaGp1WnlTUFhFWldFeER3eEFGWUF4Uzc4OVlLemxvS1pKOVdzTW5JMnFrYVZBdlJBeVlUX0ZMQUFnbGxRUEowOTh0RDlSSEVVSjNrMF8tRTNCSGZkYUF1bmhucU1QTmFoblZqRlA1U3FvU0FJdGxPQ1hlODNfZTM4Zjd4TFhfcWJQR29uTWg?oc=5) SpaceX
 
 ## Top News
 
-- [Starship Flight 13 Flies as 6 Launches Succeed | KeepTrack Week in Review - KeepTrack](https://news.google.com/rss/articles/CBMibkFVX3lxTE0wSTdyVjdESVZiYzNEUXhWb2JmRGFJMkIwMzhjNGlSSmRXY09RM1BRR19qVUVmM1pqbVlMWU1zemNfM19WZDByWXJFbExnZElIUzV2TWlXUGtrTzg1b3RLZUJvSXhMWEljbUltdm5n?oc=5) SpaceX
-- [SpaceX launches Starlink satellites and sticks landing on IPO reveal day](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6656a4575f466290231db59b48b2e9&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fnews%2Fworld%2Fspacex-launches-starlink-satellites-and-sticks-landing-on-ipo-reveal-day%2Fvi-AA28Iya8&c=16060689152962374506&mkt=en-us) SpaceX
-- [SpaceX launches Starship on 13th test flight, deploys first Starlink V3 satellites - SatellitePro ME](https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUo1RmlOTkQ1QVBwTWdveFZfUThkRkUwTU5keGNlel9MUjhmaHhTaGp1WnlTUFhFWldFeER3eEFGWUF4Uzc4OVlLemxvS1pKOVdzTW5JMnFrYVZBdlJBeVlUX0ZMQUFnbGxRUEowOTh0RDlSSEVVSjNrMF8tRTNCSGZkYUF1bmhucU1QTmFoblZqRlA1U3FvU0FJdGxPQ1hlODNfZTM4Zjd4TFhfcWJQR29uTWg?oc=5) SpaceX
+- [影响市场重大事件：太空算力大动作！中国星网数科与蓝箭鸿擎等三方共建的太空算力技术创新中心揭牌；美“星舰”完成第13次试飞，成功发射20颗新一代“星链”卫星；脑机接口迎重大突破 - 21财经](https://news.google.com/rss/articles/CBMijAFBVV95cUxOb19tcEFqbGxSdXZ4ZnFjMGZXWmVrVnZLbXdKNXc5aWUwM2VuTDJIUjhSWW9MaXplX19WQnVQUzk0Q1Bkell2UHh4N1pkOGQ4S2xoQXNQV3o0c3AyR0NTejVtTktZUlMzLVBYeUw3RkpQOWtfdDAxWDlFN1g5dF9mWFBzSkZ0U0V6UFlMSw?oc=5) 蓝箭鸿擎
 
 ## Risks And Watchpoints
 
