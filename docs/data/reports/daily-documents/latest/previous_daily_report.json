@@ -1,94 +1,228 @@
 {
-  "as_of_date": "2026-07-27",
+  "as_of_date": "2026-07-28",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 7,
-        "market": 1,
+        "launch": 3,
+        "other": 9,
+        "regulation": 1
+      },
+      "item_count": 13,
+      "latest_title": "SpaceX plans 2 rocket launches this week in California. See the schedule - Ventura County Star"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_types": {
+        "launch": 6
+      },
+      "item_count": 6,
+      "latest_title": "Blue Origin to test New Glenn upper stages at Stennis"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_types": {
+        "launch": 1
+      },
+      "item_count": 1,
+      "latest_title": "一周企业动态盘点丨字节跳动发布音频创作模型Seed Audio1.0；中科宇航力箭一号遥十五运载火箭发射成功 - 北京市科学技术委员会"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_types": {
         "other": 1
       },
-      "item_count": 9,
-      "latest_title": "Successful Flight for Starship IFT-13"
+      "item_count": 1,
+      "latest_title": "以工程化能力铺设复用经济基石：星河动力“苍穹-50”的系统工程方法论 - Sohu"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_types": {
+        "other": 1
+      },
+      "item_count": 1,
+      "latest_title": "错失420多亿元！碧桂园卖飞长鑫科技，还曾错失蓝箭航天 - 21财经"
+    },
+    {
+      "company_id": "hongqing_technology",
+      "company_name": "蓝箭鸿擎",
+      "event_types": {
+        "launch": 1
+      },
+      "item_count": 1,
+      "latest_title": "影响市场重大事件：太空算力大动作！中国星网数科与蓝箭鸿擎等三方共建的太空算力技术创新中心揭牌；美“星舰”完成第13次试飞，成功发射20颗新一代“星链”卫星；脑机接口迎重大突破 - 21财经"
     }
   ],
-  "company_count": 1,
+  "company_count": 6,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 7,
-    "market": 1,
-    "other": 1
+    "launch": 11,
+    "other": 11,
+    "regulation": 1
   },
-  "generated_at": "2026-07-27T04:52:16.398022Z",
-  "period_end": "2026-07-26",
-  "period_start": "2026-07-26",
-  "report_date": "2026-07-26",
+  "generated_at": "2026-07-28T04:28:18.059833Z",
+  "period_end": "2026-07-27",
+  "period_start": "2026-07-27",
+  "report_date": "2026-07-27",
   "schema_version": "daily_document.v1",
-  "source_count": 9,
+  "source_count": 8,
   "source_counts": {
-    "Broadband Breakfast": 1,
-    "KeepTrack": 1,
-    "SatellitePro ME": 1,
-    "SpacePolicyOnline.com": 1,
-    "Spaceflight Now": 1,
-    "arstechnica.com": 1,
-    "bing.com": 1,
-    "satnews.com": 1,
-    "spaceq.ca": 1
+    "21财经": 2,
+    "Florida Today": 1,
+    "SQ Magazine": 1,
+    "Sohu": 1,
+    "SpaceNews": 1,
+    "Ventura County Star": 1,
+    "bing.com": 15,
+    "北京市科学技术委员会": 1
   },
-  "summary": "2026-07-26 共归档 9 条新闻，覆盖 1 家公司、9 个信息来源。 新闻量较多的公司包括 SpaceX。",
+  "summary": "2026-07-27 共归档 23 条新闻，覆盖 6 家公司、8 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、中科宇航、星河动力。",
   "top_items": [
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "c13ee6fee0cecc31",
-      "published_at": "2026-07-25T17:36:37Z",
-      "source_name": "SpacePolicyOnline.com",
-      "title": "Successful Flight for Starship IFT-13",
-      "url": "https://spacepolicyonline.com/news/successful-flight-for-starship-ift-13"
+      "item_id": "f5fdd5db31d0526c",
+      "published_at": "2026-07-27T10:48:56Z",
+      "source_name": "SpaceNews",
+      "title": "Blue Origin to test New Glenn upper stages at Stennis",
+      "url": "https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "market",
-      "item_id": "8070f1fab30a60f8",
-      "published_at": "2026-07-26T06:00:21Z",
+      "event_type": "launch",
+      "item_id": "4b4401b9ce50c73d",
+      "published_at": "2026-07-27T14:40:00Z",
+      "source_name": "Ventura County Star",
+      "title": "SpaceX plans 2 rocket launches this week in California. See the schedule - Ventura County Star",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3RjZm05eGpBdC04LWhMeERoQXdjU09kMGtqdlhtWmhYUGNHOFBLQ1dHUW42SFRVNUVVMkllWTlIWU1CeXFCUGY0WnVhcXd3QVhKX1N6SXoyNFNQSFV0Y2V4SFo0empRLUZnVDQ1QXI5UjVRSFowMjRhVF9Zdnl0aXM1X0drdFVJNjFsX0ZlR2tta3prOGgyeXJlUm1ZWUVsYjRpYUdQVVdsUXA5bGN4a2NqbEhjUQ?oc=5"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "28e7963667e4c852",
+      "published_at": "2026-07-27T14:15:18Z",
+      "source_name": "北京市科学技术委员会",
+      "title": "一周企业动态盘点丨字节跳动发布音频创作模型Seed Audio1.0；中科宇航力箭一号遥十五运载火箭发射成功 - 北京市科学技术委员会",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iNk1RU1VRMVdXeV91LWxodWZhOGlpSTBaM1JvckhEeWY5Sl9xTm1GR0hSaXRURWZRQkpyWl90NWc4UFdtb0J5eXhaYU9EREVGaHdjRFhadU5QYWFCLUhlMzVHZG0tbVFJMFhnWWpfRW0tNkdCd0dBTU5BbnptcEE?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "45565e21cc60ea52",
+      "published_at": "2026-07-27T12:14:00Z",
       "source_name": "bing.com",
-      "title": "SpaceX launches Starlink satellites and sticks landing on IPO reveal day",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6656a4575f466290231db59b48b2e9&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fnews%2Fworld%2Fspacex-launches-starlink-satellites-and-sticks-landing-on-ipo-reveal-day%2Fvi-AA28Iya8&c=16060689152962374506&mkt=en-us"
+      "title": "NASA provides Blue Origin with an alternative for New Glenn tests",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a68022bfdd14f2c97fd7b6df1efe285&url=https%3A%2F%2Fwww.heise.de%2Fen%2Fnews%2FNASA-provides-Blue-Origin-with-an-alternative-for-New-Glenn-tests-11379541.html&c=7934697942695484439&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "83a619d17b0dda47",
+      "published_at": "2026-07-27T10:55:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX stock hits new all-time low despite 'over the moon' Starship test",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a67ac12c5b14840a8019623babcc673&url=https%3A%2F%2Fwww.aol.com%2Farticles%2Fspacex-stock-hits-time-low-144351000.html&c=2054210321878394591&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "d1b381d56eeac5be",
+      "published_at": "2026-07-27T10:00:00Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin's massive New Glenn rocket on move to launch pad",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a67ac1b9b144f79aa9d5918a8256c57&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Fblue-origins-massive-new-glenn-rocket-on-move-to-launch-pad%2Fvi-AA28NKQw&c=3066981390909006249&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "dd3a1d35d0e34610",
+      "published_at": "2026-07-27T07:12:00Z",
+      "source_name": "bing.com",
+      "title": "Lucky 13! Starship deploys Starlink satellites and splashes down intact",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6802240fb04725b0c89f78d04093af&url=https%3A%2F%2Fphys.org%2Fnews%2F2026-07-lucky-starship-deploys-starlink-satellites.html&c=1546160098636426170&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "b9701461321ec213",
+      "published_at": "2026-07-27T07:12:00Z",
+      "source_name": "bing.com",
+      "title": "Lucky 13! Starship deploys Starlink satellites and splashes down intact",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a67ac12c5b14840a8019623babcc673&url=https%3A%2F%2Fphys.org%2Fnews%2F2026-07-lucky-starship-deploys-starlink-satellites.html&c=1546160098636426170&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "a962693477bf11ed",
-      "published_at": "2026-07-26T11:00:15Z",
-      "source_name": "KeepTrack",
-      "title": "Starship Flight 13 Flies as 6 Launches Succeed | KeepTrack Week in Review - KeepTrack",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wSTdyVjdESVZiYzNEUXhWb2JmRGFJMkIwMzhjNGlSSmRXY09RM1BRR19qVUVmM1pqbVlMWU1zemNfM19WZDByWXJFbExnZElIUzV2TWlXUGtrTzg1b3RLZUJvSXhMWEljbUltdm5n?oc=5"
+      "item_id": "0b6a429c86e711c9",
+      "published_at": "2026-07-27T05:55:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a67ac12c5b14840a8019623babcc673&url=https%3A%2F%2Farstechnica.com%2Fspace%2F2026%2F07%2Fspacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight%2F&c=1174039036382047342&mkt=en-us"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "ceb688965881c76a",
-      "published_at": "2026-07-26T01:53:30Z",
-      "source_name": "SatellitePro ME",
-      "title": "SpaceX launches Starship on 13th test flight, deploys first Starlink V3 satellites - SatellitePro ME",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUo1RmlOTkQ1QVBwTWdveFZfUThkRkUwTU5keGNlel9MUjhmaHhTaGp1WnlTUFhFWldFeER3eEFGWUF4Uzc4OVlLemxvS1pKOVdzTW5JMnFrYVZBdlJBeVlUX0ZMQUFnbGxRUEowOTh0RDlSSEVVSjNrMF8tRTNCSGZkYUF1bmhucU1QTmFoblZqRlA1U3FvU0FJdGxPQ1hlODNfZTM4Zjd4TFhfcWJQR29uTWg?oc=5"
+      "item_id": "fd9f10083e28d24d",
+      "published_at": "2026-07-27T03:12:33Z",
+      "source_name": "bing.com",
+      "title": "Artemis: Blue Origin New Glenn rocket test by NASA, RS-25 arrival at Kennedy and more updates",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a67ac1b9b144f79aa9d5918a8256c57&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fartemis-blue-origin-new-glenn-rocket-test-by-nasa-rs-25-arrival-at-kennedy-and-more-updates%2Far-AA28MtDO&c=4449470980324167038&mkt=en-us"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "0b9fab2afdbe05b2",
-      "published_at": "2026-07-25T19:52:52Z",
-      "source_name": "spaceq.ca",
-      "title": "Flight 13 success clears path for Starship catch attempts and lunar mission timelines",
-      "url": "https://spaceq.ca/flight-13-success-clears-path-for-starship-catch-attempts-and-lunar-mission-timelines"
+      "item_id": "63f07e2d09c2ebed",
+      "published_at": "2026-07-27T03:12:33Z",
+      "source_name": "bing.com",
+      "title": "Artemis: Blue Origin New Glenn rocket test by NASA, RS-25 arrival at Kennedy and more updates",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a68022bfdd14f2c97fd7b6df1efe285&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fartemis-blue-origin-new-glenn-rocket-test-by-nasa-rs-25-arrival-at-kennedy-and-more-updates%2Far-AA28MtDO&c=4449470980324167038&mkt=en-us"
+    },
+    {
+      "company_id": "hongqing_technology",
+      "company_name": "蓝箭鸿擎",
+      "event_type": "launch",
+      "item_id": "3edcf6aa5b9ea5c5",
+      "published_at": "2026-07-27T00:40:00Z",
+      "source_name": "21财经",
+      "title": "影响市场重大事件：太空算力大动作！中国星网数科与蓝箭鸿擎等三方共建的太空算力技术创新中心揭牌；美“星舰”完成第13次试飞，成功发射20颗新一代“星链”卫星；脑机接口迎重大突破 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb19tcEFqbGxSdXZ4ZnFjMGZXWmVrVnZLbXdKNXc5aWUwM2VuTDJIUjhSWW9MaXplX19WQnVQUzk0Q1Bkell2UHh4N1pkOGQ4S2xoQXNQV3o0c3AyR0NTejVtTktZUlMzLVBYeUw3RkpQOWtfdDAxWDlFN1g5dF9mWFBzSkZ0U0V6UFlMSw?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "other",
+      "item_id": "8e759442471e0103",
+      "published_at": "2026-07-27T03:54:11Z",
+      "source_name": "Sohu",
+      "title": "以工程化能力铺设复用经济基石：星河动力“苍穹-50”的系统工程方法论 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQXFBQVJUVU1tRF9lSjBWVXVpYngzcC1kRFNyX1BYT0VSNVFxeVVNRjQ3QlppUi1JTmMxLTg0Z0c4NEJ5dGwtSXNodjIxSHpqZUk1ZmY1WWFtNUpYa25SeU1aekl1eXlCS1M3TFJjb3BhTGVjVHQzR0k3aG9GWkJfdXFfLWxpekZV?oc=5"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "other",
+      "item_id": "5f905ef60d6d378e",
+      "published_at": "2026-07-27T13:01:00Z",
+      "source_name": "21财经",
+      "title": "错失420多亿元！碧桂园卖飞长鑫科技，还曾错失蓝箭航天 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUNEZzhDYU9UajJ5RmlMcHNOckxPOGhJdVdSOE1VMUY3VGViSnJCS3BBdEM1N0dBVTZfX1NLQlN1Y21oTll3bHVxUldYajEzc01iNVh2dEUtZE1pTjc1MlV4RjRkYUJneFdETUFiVGFpTDBMSEZiZWYtcWYxODRkYWUwN0VyekE4dVBtNQ?oc=5"
     }
   ],
-  "total_items": 9
+  "total_items": 23
 }
