@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-07-29
 
-- Report ID: daily-2026-07-29-1b2edef4
-- Source run: 3ee97fa5-8505-4cb2-926a-0419ed6289ad
+- Report ID: daily-2026-07-30-21c5a8ad
+- Source run: b5b6ed6d-4c4b-4f37-a610-1ebfe194dda7
 - Generation status: skipped_no_secret
 - Companies covered: 1
 - Total items: 1
 
 ## Executive Summary
 
-2026-07-29 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 蓝箭鸿擎。
+2026-07-30 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -26,16 +26,16 @@ No LLM summary.
 
 No LLM summary.
 
-- [乾照光电：旗下商业航天基金参与鸿擎科技Pre-B轮融资 - 中证网](https://news.google.com/rss/articles/CBMieEFVX3lxTE8yb3Z5d2hxRll5VnlKUXFQOWxwcVQ5Tkw2bnlheWJyNEZReXY3Z1RaQjdDVXNGV3lyd2F2TmxIYkh3UThweGdmWWtsT0NVaEhiQWRQdmpzMmplV244UzNiTTZTRlZIM0xnX3FxcFd2dEdxVWZxNlRjTg?oc=5) 蓝箭鸿擎
 
 ### 国外大厂
 
 No LLM summary.
 
+- [SpaceX launching secret US spy satellite early on July 30: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-spy-satellite-launch-nrol-95) SpaceX
 
 ## Top News
 
-- [乾照光电：旗下商业航天基金参与鸿擎科技Pre-B轮融资 - 中证网](https://news.google.com/rss/articles/CBMieEFVX3lxTE8yb3Z5d2hxRll5VnlKUXFQOWxwcVQ5Tkw2bnlheWJyNEZReXY3Z1RaQjdDVXNGV3lyd2F2TmxIYkh3UThweGdmWWtsT0NVaEhiQWRQdmpzMmplV244UzNiTTZTRlZIM0xnX3FxcFd2dEdxVWZxNlRjTg?oc=5) 蓝箭鸿擎
+- [SpaceX launching secret US spy satellite early on July 30: Watch it live](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-spy-satellite-launch-nrol-95) SpaceX
 
 ## Risks And Watchpoints
 
