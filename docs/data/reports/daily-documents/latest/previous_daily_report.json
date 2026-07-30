@@ -1,230 +1,126 @@
 {
-  "as_of_date": "2026-07-29",
+  "as_of_date": "2026-07-30",
   "companies": [
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_types": {
-        "launch": 5,
-        "other": 1
-      },
-      "item_count": 6,
-      "latest_title": "Blue Origin's massive New Glenn rocket on move to launch pad"
-    },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
         "launch": 4,
-        "market": 1,
-        "other": 1
+        "other": 2
       },
       "item_count": 6,
-      "latest_title": "As SpaceX Shares Continue To Plummet, One Analyst Says Now Is the Time To Buy With 110% Upside"
+      "latest_title": "SpaceX deploys first Starlink V3 satellites on Starship Flight 13 - eciks.org"
     },
     {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_types": {
-        "launch": 3
-      },
-      "item_count": 3,
-      "latest_title": "中科宇航全面攻坚可复用运载器研发：力鸿二号年内完成回收首飞 - 新浪财经"
-    },
-    {
-      "company_id": "yushi_space",
-      "company_name": "宇石空间",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_types": {
         "other": 1
       },
       "item_count": 1,
-      "latest_title": "极擎动力获宇石空间天使轮投资 - 东方财富"
+      "latest_title": "NASA readies historic stand for New Glenn’s 400,000-pound upper-stage test"
     },
     {
       "company_id": "hongqing_technology",
       "company_name": "蓝箭鸿擎",
       "event_types": {
-        "other": 1
+        "funding": 1
       },
       "item_count": 1,
-      "latest_title": "建投动态｜建投华科旗下基金投资鸿擎科技，加码卫星互联网产业链关键环节 - 新浪财经"
+      "latest_title": "乾照光电：旗下商业航天基金参与鸿擎科技Pre-B轮融资 - 中证网"
     }
   ],
-  "company_count": 5,
+  "company_count": 3,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 12,
-    "market": 1,
-    "other": 4
+    "funding": 1,
+    "launch": 4,
+    "other": 3
   },
-  "generated_at": "2026-07-29T04:31:24.117607Z",
-  "period_end": "2026-07-28",
-  "period_start": "2026-07-28",
-  "report_date": "2026-07-28",
+  "generated_at": "2026-07-30T04:21:02.836122Z",
+  "period_end": "2026-07-29",
+  "period_start": "2026-07-29",
+  "report_date": "2026-07-29",
   "schema_version": "daily_document.v1",
-  "source_count": 8,
+  "source_count": 4,
   "source_counts": {
-    "Broadband Breakfast": 1,
-    "Space": 1,
-    "arstechnica.com": 1,
-    "autoevolution": 1,
-    "bing.com": 7,
+    "bing.com": 5,
+    "eciks.org": 1,
     "space.com": 1,
-    "东方财富": 1,
-    "新浪财经": 4
+    "中证网": 1
   },
-  "summary": "2026-07-28 共归档 17 条新闻，覆盖 5 家公司、8 个信息来源。 新闻量较多的公司包括 Blue Origin、SpaceX、中科宇航、宇石空间。",
+  "summary": "2026-07-29 共归档 8 条新闻，覆盖 3 家公司、4 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、蓝箭鸿擎。",
   "top_items": [
     {
       "company_id": "hongqing_technology",
       "company_name": "蓝箭鸿擎",
+      "event_type": "funding",
+      "item_id": "d35ce3e5eec84bcb",
+      "published_at": "2026-07-29T12:01:00Z",
+      "source_name": "中证网",
+      "title": "乾照光电：旗下商业航天基金参与鸿擎科技Pre-B轮融资 - 中证网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yb3Z5d2hxRll5VnlKUXFQOWxwcVQ5Tkw2bnlheWJyNEZReXY3Z1RaQjdDVXNGV3lyd2F2TmxIYkh3UThweGdmWWtsT0NVaEhiQWRQdmpzMmplV244UzNiTTZTRlZIM0xnX3FxcFd2dEdxVWZxNlRjTg?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "d0bc5aa1d7ee975e",
-      "published_at": "2026-07-28T10:00:00Z",
-      "source_name": "新浪财经",
-      "title": "建投动态｜建投华科旗下基金投资鸿擎科技，加码卫星互联网产业链关键环节 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1c1BQdGtYWjZVRHRLUXNRZlVQYXQ2bUxvUVU2MkR6NkktejhyM2xsWlhCOF9Id0VOdS1sMWtCdXE2R3RkVER5allzVU5PMFFKdEJST09XWENjdlZBV3hWOG9pY2Iwb0E0aF9wZTRrMG04RFIxVkE?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "market",
-      "item_id": "4b2bfd14dbcac6ea",
-      "published_at": "2026-07-28T07:52:00Z",
-      "source_name": "bing.com",
-      "title": "As SpaceX Shares Continue To Plummet, One Analyst Says Now Is the Time To Buy With 110% Upside",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a68fc754d80466b9f6497c8ada9be57&url=https%3A%2F%2F247wallst.com%2Finvesting%2F2026%2F07%2F28%2Fas-spacex-shares-continue-to-plummet-one-analyst-says-now-is-the-time-to-buy-with-110-upside%2F&c=9856443467302268883&mkt=en-us"
+      "item_id": "5876e97046d35200",
+      "published_at": "2026-07-28T23:18:46Z",
+      "source_name": "eciks.org",
+      "title": "SpaceX deploys first Starlink V3 satellites on Starship Flight 13 - eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sUzFYc2VXN0xoWFVuWTc1LVM3cWFReEhRT0tKRTVVcTRCT3FQNmNPTnkzLXZhbjF0alJhSDRrNDd3eDRSZTNfSzVPeUdKMlhzM3lXZVUxSFFkMC1zLVBYeUJmU04zZXhFSWJQenVR?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "aaa311997d3b2600",
-      "published_at": "2026-07-28T15:00:00Z",
-      "source_name": "Space",
-      "title": "SpaceX launches 24 Starlink satellites to orbit in wake of Starship test flight (video) - Space",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONFYybGFZOGp4cy1INnpiSFFDZVRhMW9abHptaldWRmo1bzM1YUxuMEV6em14RG9CQmVQWkZCeldyMDFhTTVOemhHdTE1ZjdjMkVOSEh6Y1BlMXp3NmFpV29MVGpWeGI0SFU2Y3NIVVdsMEF6cDJsdEU0TE1jVWo1clJ4cmdLNG9IODBJaUo2cWRPZVRXVFhuQnRKc2VMMFYx?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "3c42e12495eeaa10",
-      "published_at": "2026-07-28T08:24:08Z",
+      "item_id": "a56b046c64f3cd87",
+      "published_at": "2026-07-28T16:03:02Z",
       "source_name": "bing.com",
       "title": "SpaceX to launch Starship flight 13 with first Starlink payload",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a68fc754d80466b9f6497c8ada9be57&url=https%3A%2F%2Fwww.msn.com%2Fen-au%2Fnews%2Fother%2Fspacex-to-launch-starship-flight-13-with-first-starlink-payload%2Fvi-AA28S0oY&c=6689294937930531164&mkt=en-us"
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a69b60c11f9464fa0dbee5cfc284d8f&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Fspacex-to-launch-starship-flight-13-with-first-starlink-payload%2Fvi-AA28TSgt&c=13265426710033444811&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "54e788201ac6c952",
-      "published_at": "2026-07-27T22:00:00Z",
-      "source_name": "space.com",
-      "title": "Starship in space! See highlights of SpaceX megarocket's epic Flight 13 test launch (video)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/starship-in-space-see-highlights-of-spacex-megarockets-epic-flight-13-test-launch-video"
+      "item_id": "810028d9a9d09122",
+      "published_at": "2026-07-28T16:03:02Z",
+      "source_name": "bing.com",
+      "title": "SpaceX to launch Starship flight 13 with first Starlink payload",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6a4a7d4e6144039a32454bd7475cd5&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-to-launch-starship-flight-13-with-first-starlink-payload%2Fvi-AA28TSgt&c=17086362926286163469&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "dd3df56a6567295f",
-      "published_at": "2026-07-27T20:30:51Z",
-      "source_name": "Broadband Breakfast",
-      "title": "SpaceX Logs Thirteenth Starship Launch, First Starlink V3 Test - Broadband Breakfast",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGFJMEo1VUJqMVltVFF4M0hKUkVNVV80Q3NMNXVCekR3NlZyZ09TX0ZmUkI3dkc4enMtOHBtVl9ISzJ5U1lIRXRkemYtcHZFclp3amJmN0FVUmxTRWVKUGc3UDFILUpGTnBTVC1KN2ZDekNNU1lLMUkyR3FWTXJFMF9GTmJkbG95ekg4MXQwWlZ6cFBKb2JVTA?oc=5"
+      "item_id": "c6874649b5ca3d64",
+      "published_at": "2026-07-28T16:00:12Z",
+      "source_name": "bing.com",
+      "title": "SpaceX Falcon 9 launches Starlink satellites in timelapse",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a69546c057a4ecb8d25b49026567856&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fmoney%2Ftechnology%2Fspacex-falcon-9-launches-starlink-satellites-in-timelapse%2Fvi-AA28Uq6G&c=16336212298691833218&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "63d4bce889825ef7",
+      "published_at": "2026-07-28T16:00:12Z",
+      "source_name": "bing.com",
+      "title": "SpaceX Falcon 9 launches Starlink satellites in timelapse",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a69b60d9b3445ed9961f315b2dc93e5&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fmoney%2Ftechnology%2Fspacex-falcon-9-launches-starlink-satellites-in-timelapse%2Fvi-AA28Uq6G&c=16336212298691833218&mkt=en-us"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "efc3ffecaa59c8b8",
-      "published_at": "2026-07-27T16:02:27Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin's massive New Glenn rocket on move to launch pad",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a69547420d04122a17fdd4d3b255d10&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Fblue-origins-massive-new-glenn-rocket-on-move-to-launch-pad%2Fvi-AA28NOnQ&c=2314704325542477665&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "97cf5eb8ef96064a",
-      "published_at": "2026-07-27T16:02:27Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin's massive New Glenn rocket on move to launch pad",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a68ad642e4c431d87fff3682d384202&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-massive-new-glenn-rocket-on-move-to-launch-pad%2Fvi-AA28NOnQ&c=4781712943041614953&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "7f0b976574f9d221",
-      "published_at": "2026-07-27T16:02:27Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin's massive New Glenn rocket on move to launch pad",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a68fc7dc8da44c89a11a782a8c0e985&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-massive-new-glenn-rocket-on-move-to-launch-pad%2Fvi-AA28NOnQ&c=4781712943041614953&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "15e0505f451aebfc",
-      "published_at": "2026-07-27T16:02:27Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin's massive New Glenn rocket on move to launch pad",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6863968fdf4f4c867022f5da4d47cc&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-massive-new-glenn-rocket-on-move-to-launch-pad%2Fvi-AA28NOnQ&c=4781712943041614953&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "08ec3a6470c8b7ef",
-      "published_at": "2026-07-27T16:02:27Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin's massive New Glenn rocket on move to launch pad",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a68022bfdd14f2c97fd7b6df1efe285&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Fblue-origins-massive-new-glenn-rocket-on-move-to-launch-pad%2Fvi-AA28NOnQ&c=2314704325542477665&mkt=en-us"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "d5ba98e184ffae4b",
-      "published_at": "2026-07-28T08:30:00Z",
-      "source_name": "新浪财经",
-      "title": "中科宇航全面攻坚可复用运载器研发：力鸿二号年内完成回收首飞 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15TXMzUEszRENNNnlreXRFSDRqczJYSFNCUGFhMW1uTjNsOWdnUjVScGNNektYOE9aaFlVMmpfbEtuVE1VWWY4MGRsWWFVQ0ZQNW52T013T1BqYnVwWlAwMUFBS0QtdklpNFJBY2pSREQ3ZVVpYXp0RTZMSjlqMVE?oc=5"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "555812c593cfa7a3",
-      "published_at": "2026-07-28T03:05:00Z",
-      "source_name": "新浪财经",
-      "title": "中科宇航力鸿二号计划今年完成首飞及百公里级回收验证，将搭载太空旅游可穿戴监测设备 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqMFpBcWJlRDJMS0VCOUdaS2laUUtTUW1pamVpV3RqR0ZxVkhwejZ2eWwxMEF3dC03OE1UMVFiWTB3ZTZoUUY0eXFPdU9YaWU1ZUpSaG94T2xicUZ3ZXN4TnFsYXpnS0ctVnJVRml1cld6ejNSSE9DQU1heTh3RUU?oc=5"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "7b668231690e792c",
-      "published_at": "2026-07-28T00:40:00Z",
-      "source_name": "新浪财经",
-      "title": "中科宇航全面攻坚可复用运载器研发：力鸿二号年内完成回收首飞 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVDE1YXEtNGJUZFRxSEZCQ2RpV2phS0x1dmNKUzB3QlY5YkxWc1o3UDkzRnJVWmJRYmFidVJyTVh3VE1hTlZCSEhqVUw2bjA2Yy14NzNOdkJWV0tqS0lIYzVLWVo5OWxSTXUwVjN3VDNacU5hQTVEaEd6M0FjdVdiN2FDS1R6Zw?oc=5"
-    },
-    {
-      "company_id": "yushi_space",
-      "company_name": "宇石空间",
       "event_type": "other",
-      "item_id": "f222b722c8e2e495",
-      "published_at": "2026-07-27T23:36:12Z",
-      "source_name": "东方财富",
-      "title": "极擎动力获宇石空间天使轮投资 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CYjRXY2JyZTBSM0VHVXU2U0R1ckFBSnVURU0tTGdwbHhzMzRVczdCd1BrbnJtSmRJOGMzcmJnSGdQQmF3NHBFQ21KQnBYZHVjRU1KZGNtR0wxa2lXVmx2T29EamI?oc=5"
+      "item_id": "c39cbfab5c08ef66",
+      "published_at": "2026-07-28T20:59:45Z",
+      "source_name": "bing.com",
+      "title": "NASA readies historic stand for New Glenn’s 400,000-pound upper-stage test",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a69b61866614365825ccec80823b621&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fnasa-readies-historic-stand-for-new-glenn-s-400-000-pound-upper-stage-test%2Far-AA28VFGQ&c=17327929988476767327&mkt=en-us"
     }
   ],
-  "total_items": 17
+  "total_items": 8
 }
