@@ -1,126 +1,206 @@
 {
-  "as_of_date": "2026-07-30",
+  "as_of_date": "2026-07-31",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 4,
-        "other": 2
+        "launch": 9,
+        "market": 2,
+        "other": 4
       },
-      "item_count": 6,
-      "latest_title": "SpaceX deploys first Starlink V3 satellites on Starship Flight 13 - eciks.org"
+      "item_count": 15,
+      "latest_title": "Live coverage: SpaceX to launch classified payload for National Reconnaissance Office"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_types": {
+        "launch": 1,
         "other": 1
       },
-      "item_count": 1,
-      "latest_title": "NASA readies historic stand for New Glenn’s 400,000-pound upper-stage test"
+      "item_count": 2,
+      "latest_title": "New Glenn's Maiden Flight Plan Put Blue Origin's Reusability to the Test"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_types": {
+        "market": 1,
+        "product": 1
+      },
+      "item_count": 2,
+      "latest_title": "“朱雀三号”亮相火箭大街 - 新浪财经"
     },
     {
       "company_id": "hongqing_technology",
       "company_name": "蓝箭鸿擎",
       "event_types": {
-        "funding": 1
+        "other": 2
+      },
+      "item_count": 2,
+      "latest_title": "乾照光电联合发起产业基金投资鸿擎科技，深化卫星互联网产业链布局 - 新浪财经"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_types": {
+        "launch": 1
       },
       "item_count": 1,
-      "latest_title": "乾照光电：旗下商业航天基金参与鸿擎科技Pre-B轮融资 - 中证网"
+      "latest_title": "一箭五星升空！力箭一号突破百星大关，太空算力组网迎来火箭 “班车时代” - Sohu"
     }
   ],
-  "company_count": 3,
+  "company_count": 5,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "funding": 1,
-    "launch": 4,
-    "other": 3
+    "launch": 11,
+    "market": 3,
+    "other": 7,
+    "product": 1
   },
-  "generated_at": "2026-07-30T04:21:02.836122Z",
-  "period_end": "2026-07-29",
-  "period_start": "2026-07-29",
-  "report_date": "2026-07-29",
+  "generated_at": "2026-07-31T04:39:32.959230Z",
+  "period_end": "2026-07-30",
+  "period_start": "2026-07-30",
+  "report_date": "2026-07-30",
   "schema_version": "daily_document.v1",
-  "source_count": 4,
+  "source_count": 12,
   "source_counts": {
-    "bing.com": 5,
-    "eciks.org": 1,
-    "space.com": 1,
-    "中证网": 1
+    "425business.com": 1,
+    "Aviation Week": 1,
+    "Sohu": 1,
+    "SpaceNews": 1,
+    "Spaceflight Now": 1,
+    "The Desert Sun": 1,
+    "bing.com": 9,
+    "satellitetoday.com": 1,
+    "space.com": 2,
+    "投影时代": 1,
+    "新浪财经": 2,
+    "雪球": 1
   },
-  "summary": "2026-07-29 共归档 8 条新闻，覆盖 3 家公司、4 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、蓝箭鸿擎。",
+  "summary": "2026-07-30 共归档 22 条新闻，覆盖 5 家公司、12 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、蓝箭航天、蓝箭鸿擎。",
   "top_items": [
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "6e3164865feaa1f7",
+      "published_at": "2026-07-29T23:15:30Z",
+      "source_name": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch classified payload for National Reconnaissance Office",
+      "url": "https://spaceflightnow.com/2026/07/29/live-coverage-spacex-to-launch-classified-payload-for-national-reconnaissance-office"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "5c87d7d8d6fdf16d",
+      "published_at": "2026-07-29T20:43:51Z",
+      "source_name": "SpaceNews",
+      "title": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
+      "url": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "market",
+      "item_id": "7b5a07e00ea31b17",
+      "published_at": "2026-07-30T10:40:00Z",
+      "source_name": "bing.com",
+      "title": "What a $1,000 Investment in SpaceX at IPO Would Be Worth Today and What Comes Next",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6bf8ac29854b73849d3f71b3822335&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fother%2Fwhat-a-1-000-investment-in-spacex-at-ipo-would-be-worth-today-and-what-comes-next%2Far-AA294tbi&c=5113347870246437624&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "market",
+      "item_id": "6c9b74bcf8881fef",
+      "published_at": "2026-07-30T10:40:00Z",
+      "source_name": "bing.com",
+      "title": "What a $1,000 Investment in SpaceX at IPO Would Be Worth Today and What Comes Next",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6ba058651745bb930ca26f35b97396&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fother%2Fwhat-a-1-000-investment-in-spacex-at-ipo-would-be-worth-today-and-what-comes-next%2Far-AA294tbi&c=5113347870246437624&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "23d35949cafd78c0",
+      "published_at": "2026-07-30T06:39:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX stock gives up early gains on Thursday: will earnings drive a rebound?",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6ba058651745bb930ca26f35b97396&url=https%3A%2F%2Finvezz.com%2Fnews%2F2026%2F07%2F30%2Fspacex-stock-gives-up-early-gains-on-thursday-will-earnings-drive-a-rebound%2F&c=3072340027355799407&mkt=en-us"
+    },
     {
       "company_id": "hongqing_technology",
       "company_name": "蓝箭鸿擎",
-      "event_type": "funding",
-      "item_id": "d35ce3e5eec84bcb",
-      "published_at": "2026-07-29T12:01:00Z",
-      "source_name": "中证网",
-      "title": "乾照光电：旗下商业航天基金参与鸿擎科技Pre-B轮融资 - 中证网",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yb3Z5d2hxRll5VnlKUXFQOWxwcVQ5Tkw2bnlheWJyNEZReXY3Z1RaQjdDVXNGV3lyd2F2TmxIYkh3UThweGdmWWtsT0NVaEhiQWRQdmpzMmplV244UzNiTTZTRlZIM0xnX3FxcFd2dEdxVWZxNlRjTg?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "5876e97046d35200",
-      "published_at": "2026-07-28T23:18:46Z",
-      "source_name": "eciks.org",
-      "title": "SpaceX deploys first Starlink V3 satellites on Starship Flight 13 - eciks.org",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sUzFYc2VXN0xoWFVuWTc1LVM3cWFReEhRT0tKRTVVcTRCT3FQNmNPTnkzLXZhbjF0alJhSDRrNDd3eDRSZTNfSzVPeUdKMlhzM3lXZVUxSFFkMC1zLVBYeUJmU04zZXhFSWJQenVR?oc=5"
+      "item_id": "ac6b16ac8536a93a",
+      "published_at": "2026-07-30T03:32:00Z",
+      "source_name": "新浪财经",
+      "title": "乾照光电联合发起产业基金投资鸿擎科技，深化卫星互联网产业链布局 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Zb1Uwb2JSeFNaR3lVVWlkVnVfbXZHOEt0OHQzaHpmOEZsRjRzNXNaR1MybjRxWlhCTFBMcUZWX3h4bF84N19uSkt5aVd3TmxvbUZDeUVpQ0kzTUYwbmFzekZiaFpxaVRTOTF5SUpKTnlhMFo1TWFJOEg5MFFEbm8?oc=5"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "a56b046c64f3cd87",
-      "published_at": "2026-07-28T16:03:02Z",
-      "source_name": "bing.com",
-      "title": "SpaceX to launch Starship flight 13 with first Starlink payload",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a69b60c11f9464fa0dbee5cfc284d8f&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Fspacex-to-launch-starship-flight-13-with-first-starlink-payload%2Fvi-AA28TSgt&c=13265426710033444811&mkt=en-us"
+      "company_id": "hongqing_technology",
+      "company_name": "蓝箭鸿擎",
+      "event_type": "other",
+      "item_id": "e53f8145682776b6",
+      "published_at": "2026-07-30T03:21:35Z",
+      "source_name": "投影时代",
+      "title": "【乾照光电联合发起产业基金投资鸿擎科技，深化卫星互联网产业链布局】PjTime.COM 财经新闻 - 投影时代",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4Q0JyaWQ5RzJfTEhNZmk4LXlycWo2WFZ4RXVBTExweWNER3Q3RjRZbFpydWh4aDAyNUZkSEU4X1NDeElhLWl2R2tyOVJ3QWNxanRSNUFaekotMzg?oc=5"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "810028d9a9d09122",
-      "published_at": "2026-07-28T16:03:02Z",
+      "item_id": "e0e6983238f10bb5",
+      "published_at": "2026-07-30T07:02:04Z",
       "source_name": "bing.com",
-      "title": "SpaceX to launch Starship flight 13 with first Starlink payload",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6a4a7d4e6144039a32454bd7475cd5&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-to-launch-starship-flight-13-with-first-starlink-payload%2Fvi-AA28TSgt&c=17086362926286163469&mkt=en-us"
+      "title": "New Glenn's Maiden Flight Plan Put Blue Origin's Reusability to the Test",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6ba06132d84eaf80bcc51850e9908b&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fnew-glenn-s-maiden-flight-plan-put-blue-origin-s-reusability-to-the-test%2Fvi-AA294wHv&c=16195776951840344603&mkt=en-us"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "c6874649b5ca3d64",
-      "published_at": "2026-07-28T16:00:12Z",
-      "source_name": "bing.com",
-      "title": "SpaceX Falcon 9 launches Starlink satellites in timelapse",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a69546c057a4ecb8d25b49026567856&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fmoney%2Ftechnology%2Fspacex-falcon-9-launches-starlink-satellites-in-timelapse%2Fvi-AA28Uq6G&c=16336212298691833218&mkt=en-us"
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "product",
+      "item_id": "0cad0aa2a2d20a59",
+      "published_at": "2026-07-29T16:55:41Z",
+      "source_name": "新浪财经",
+      "title": "“朱雀三号”亮相火箭大街 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14R0pPeTRGSmE5T2ZVREdBTkFscUxrYWV6Z1ZwR1BNT29SNVNCSDdrT2pwN0U4S0NfQ3pGQk55OTBpck0yLVNPOGg2QW4yTUg1QVdGZ05RR0poVkpvMjdkWnNvcWxRMWhCSS1NWUpPc1NnZWFZUjlXaFFqZHI?oc=5"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
       "event_type": "launch",
-      "item_id": "63d4bce889825ef7",
-      "published_at": "2026-07-28T16:00:12Z",
-      "source_name": "bing.com",
-      "title": "SpaceX Falcon 9 launches Starlink satellites in timelapse",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a69b60d9b3445ed9961f315b2dc93e5&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fmoney%2Ftechnology%2Fspacex-falcon-9-launches-starlink-satellites-in-timelapse%2Fvi-AA28Uq6G&c=16336212298691833218&mkt=en-us"
+      "item_id": "5dfcb977b4cc0851",
+      "published_at": "2026-07-29T16:35:29Z",
+      "source_name": "Sohu",
+      "title": "一箭五星升空！力箭一号突破百星大关，太空算力组网迎来火箭 “班车时代” - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX0JncWxXWk1nTjM5RE9DMG5CbXVwcVVscHpyQ2dtNGF2Uk5RQmFfdlc4UHM5RHdsVGdDRXhBSGdPYzIxU0ZxaHBZRFRHbF9vTnJKSFNXYmxPV1FzUzVlOFBwZkI2WTJ6eFpreWtGeEFPaWJwb1FtRm5JSG92amhqNnJPal9ka2NNbnpaVA?oc=5"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "market",
+      "item_id": "ba92b44da14197a3",
+      "published_at": "2026-07-30T11:29:26Z",
+      "source_name": "雪球",
+      "title": "蓝箭航天(A07001)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9LY1lPRWZKN0JyNDdOc1RCZG95WGJHWUNKelVGNlRBSGR6cTY2cWhpS0ZEdXRZQ0xTNWhvb1A3WGg?oc=5"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "other",
-      "item_id": "c39cbfab5c08ef66",
-      "published_at": "2026-07-28T20:59:45Z",
-      "source_name": "bing.com",
-      "title": "NASA readies historic stand for New Glenn’s 400,000-pound upper-stage test",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a69b61866614365825ccec80823b621&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fnasa-readies-historic-stand-for-new-glenn-s-400-000-pound-upper-stage-test%2Far-AA28VFGQ&c=17327929988476767327&mkt=en-us"
+      "item_id": "942ac59cf698de05",
+      "published_at": "2026-07-29T21:52:00Z",
+      "source_name": "425business.com",
+      "title": "Blue Origin, NASA Partner to Test New Glenn's Upper Stage at Mississippi Site - 425business.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQzdicjVwa1hvSUlQMUVjS1RGVEUzTVpSYWdVZV9NUjlldUxDUXZneU1KRUttLUdmd1dZV182YmlBaFdQZHhIMTRyaC13ZEZYZ2Y4c2pnWGhHNVBXUWtBUk5fQzlrbTBER3RrTkUyRmI1U01WSngxU3NJX3Bsei03MW9LcVlUVlBpaExNd2hDaTJPQmhXQTFlM0pGSEJ4ZllKTFlOSHBObnVtN2xVaXJwQTQ4RUFfWmFoWlJ2YTF3S1l0dFZKN3NicEpWOUlsZw?oc=5"
     }
   ],
-  "total_items": 8
+  "total_items": 22
 }
