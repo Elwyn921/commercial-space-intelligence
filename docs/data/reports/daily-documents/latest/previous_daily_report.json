@@ -1,199 +1,207 @@
 {
-  "as_of_date": "2026-08-01",
+  "as_of_date": "2026-08-02",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 3,
-        "other": 6
+        "launch": 11,
+        "market": 1,
+        "other": 10
       },
-      "item_count": 9,
-      "latest_title": "SpaceX plans late-night California rocket launch. Here's where to watch - vcstar.com"
+      "item_count": 22,
+      "latest_title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket"
     },
     {
       "company_id": "cas_space",
       "company_name": "中科宇航",
       "event_types": {
-        "launch": 9
+        "launch": 2
       },
-      "item_count": 9,
-      "latest_title": "中科宇航与星际数链签署高轨发射意向合同 力箭二号运载火箭高轨发射任务启动 - 证券时报"
+      "item_count": 2,
+      "latest_title": "中科宇航与星际数链达成合作，力箭二号运载火箭高轨发射任务启动_手机新浪网 - 新浪财经"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_types": {
+        "product": 2
+      },
+      "item_count": 2,
+      "latest_title": "“千帆星座”卫星终端产品首次亮相，飞机乘客能看直播，手机能直连卫星通话 - 东方财富"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_types": {
+        "market": 2
+      },
+      "item_count": 2,
+      "latest_title": "中国版“Space X”！蓝箭航天冲刺IPO，核心参股+合作方一文梳理 - 凤凰网"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_types": {
-        "launch": 1,
-        "market": 1,
-        "other": 1
+        "launch": 1
       },
-      "item_count": 3,
-      "latest_title": "Blue Origin continues rebuilding LC-36, prepares testing alternatives for New Glenn second stage"
+      "item_count": 1,
+      "latest_title": "Rebuild after explosion: When we could see a Blue Origin launch from Florida's Space Coast - WESH"
     }
   ],
-  "company_count": 3,
+  "company_count": 5,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 13,
-    "market": 1,
-    "other": 7
+    "launch": 14,
+    "market": 3,
+    "other": 10,
+    "product": 2
   },
-  "generated_at": "2026-08-01T04:35:08.482139Z",
-  "period_end": "2026-07-31",
-  "period_start": "2026-07-31",
-  "report_date": "2026-07-31",
+  "generated_at": "2026-08-02T04:37:48.694995Z",
+  "period_end": "2026-08-01",
+  "period_start": "2026-08-01",
+  "report_date": "2026-08-01",
   "schema_version": "daily_document.v1",
   "source_count": 15,
   "source_counts": {
-    "DoNews": 1,
-    "International Business Times UK": 1,
-    "Jalopnik": 1,
-    "NASASpaceflight": 1,
-    "SOHU": 1,
-    "arstechnica.com": 1,
-    "bing.com": 5,
-    "edhat": 1,
-    "finance.sina.cn": 1,
-    "space.com": 1,
-    "vcstar.com": 1,
+    "Breakingthenews.net": 1,
+    "Fox Business": 1,
+    "Investor's Business Daily": 1,
+    "Jiemian.com": 1,
+    "Latest news from Azerbaijan": 1,
+    "NASA": 1,
+    "Spaceflight Now": 2,
+    "WESH": 1,
+    "bing.com": 10,
+    "eciks.org": 1,
+    "space.com": 4,
+    "东方财富": 2,
     "凤凰网": 1,
-    "凤凰网科技": 1,
-    "观点网": 2,
-    "证券时报": 2
+    "新浪财经": 1,
+    "雪球": 1
   },
-  "summary": "2026-07-31 共归档 21 条新闻，覆盖 3 家公司、15 个信息来源。 新闻量较多的公司包括 SpaceX、中科宇航、Blue Origin。",
+  "summary": "2026-08-01 共归档 29 条新闻，覆盖 5 家公司、15 个信息来源。 新闻量较多的公司包括 SpaceX、中科宇航、垣信卫星、蓝箭航天。",
   "top_items": [
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "other",
-      "item_id": "9a1720c357e4e81c",
-      "published_at": "2026-07-31T12:14:27Z",
-      "source_name": "NASASpaceflight",
-      "title": "Blue Origin continues rebuilding LC-36, prepares testing alternatives for New Glenn second stage",
-      "url": "https://www.nasaspaceflight.com/2026/07/blue-origin-update-july26"
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "a79cac4ab9cd7ad2",
+      "published_at": "2026-07-31T18:39:47Z",
+      "source_name": "NASA",
+      "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket"
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "5b1f1b73457ad74e",
+      "published_at": "2026-07-31T18:07:54Z",
+      "source_name": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+      "url": "https://spaceflightnow.com/2026/07/31/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-12"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
       "event_type": "market",
-      "item_id": "979a81063b8df3ce",
-      "published_at": "2026-07-31T13:39:09Z",
-      "source_name": "International Business Times UK",
-      "title": "SpaceX vs Blue Origin: Why Musk's Record IPO Gave Bezos a $130B Valuation Rather Than Denting It - International Business Times UK",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QYmVwQllHck5rSlotTHlxa1hhSkhHS2RGelpBZFhxYWNHUGIzc1c4bEdwNWJMTWp1WENXSngyRDhjYm5EV0QwbVVSVk9LbTNPeUlZNFBpYXl2V2czaFJadmRnQVZjZ25FY2p4cnF5VVNDcmdaZ2dUZG5TU1VKUQ?oc=5"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "b7ceb13e2fd485f6",
-      "published_at": "2026-07-31T09:49:00Z",
-      "source_name": "证券时报",
-      "title": "中科宇航与星际数链签署高轨发射意向合同 力箭二号运载火箭高轨发射任务启动 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oOTA4ZjlzUXd0YVBFNm5yZlJtOXVUYWJucmExa292NURBYUZnMUpxb19NWVpKMUt2X1dUOHlQVlBrcXNNenhzOTkxWWRjVll2RzU4REdHLVBpanVr?oc=5"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "8ddbad55d9fc49ba",
-      "published_at": "2026-07-31T09:46:00Z",
-      "source_name": "证券时报",
-      "title": "力箭一号遥十八运载火箭顺利出厂 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpOElfODdxd1diOWsxZnFzTGpvSGNtMFdFRzI2N2NkN2pZQXg5Rk1aUEJsR3NzamIzLUlJZVJrY2ZTRklONEw4M0haQVNLUGdRZ2VvTWtISld5eFc4?oc=5"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "7eb269ffb912736a",
-      "published_at": "2026-07-31T14:03:45Z",
-      "source_name": "finance.sina.cn",
-      "title": "中科宇航与星际数链达成合作，力箭二号运载火箭高轨发射任务启动_手机新浪网 - finance.sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObUhpMlVSc3FfZ19xUm5lN3ZhRU5Ya1ZHekwwSURfb2htakFFM05UZ0N0NW4xSFA3Y0hZM3lJakRKZXppeTg3RE43MndXcXUtU2h3NTE3c0RBREJLaTdDbDh5RUlIM0Jhc1loeGM4UWVKWGFybXI4cDZUTGp6RGFWX3F4VXFvUy1hQ0dSQnhMR19tYWtZNmZXYXZZdkI3Q2xHYkZqNXBQTQ?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "cfbebc6278d11af6",
-      "published_at": "2026-07-31T13:00:00Z",
-      "source_name": "vcstar.com",
-      "title": "SpaceX plans late-night California rocket launch. Here's where to watch - vcstar.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHVVMHRXdnpHZW9iQUpTeUNtVm9YWW82WEcwNWh3dloxdTczYzZpZlE1Si1YRG9DUXhhaTJCZ284WkI3ajRjOEQ1cE0zVnV0Z2REdUkySHhfQnV2VVJpeHBlYmpEZTFLek0taGlWdEhXVVVYY29lcTdWRk1aTnVSMk5XVFJXdUhFTnlFSmpERnMxQlJSUnZhaHZMQm8wWGdRNXN4X1BFa3Q?oc=5"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "feaebb8e2cd8bb04",
-      "published_at": "2026-07-31T12:12:03Z",
-      "source_name": "观点网",
-      "title": "中科宇航力箭一号遥十八出厂 拟近期执行“一箭9星”发射 - 观点网",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zSXJ0cWlKQkZEcmVGRF9xZTdGTGY0OGhrU2NGbDJzNlBvNnByTy1HQmtiRHFUYlFQcDYya1lOM01GMFZnTl9KR1FqZDJvUQ?oc=5"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "876d55bcbff500c5",
-      "published_at": "2026-07-31T12:12:03Z",
-      "source_name": "观点网",
-      "title": "中科宇航力箭一号遥十八出厂 拟近期执行“一箭9星”发射 - 观点网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzQk9QSV9yMDdQbmJJakl4V0daYnlqc2lDZHdlc3hUYm02aTJDYVhhdjVoTF9seWtEamt2T3hENVFGVzVNRko4cndNOTd2STJZOUc2WnVFZEZkcnFpbERUaC13?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "b29fe0750c7faf03",
-      "published_at": "2026-07-31T10:30:24Z",
-      "source_name": "arstechnica.com",
-      "title": "Rocket Report: New launch rule may limit environmental regulations, Falcon 9 to hit Moon",
-      "url": "https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "df677e710e684cd1",
-      "published_at": "2026-07-31T03:51:18Z",
+      "item_id": "628805a738086bdd",
+      "published_at": "2026-08-01T02:36:00Z",
       "source_name": "bing.com",
-      "title": "First pictures of Starlink V3 satellites deployed during SpaceX Starship flight 13 have been released",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6cf11387194faa9ea47bea0ff3d7d4&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Ffirst-pictures-of-starlink-v3-satellites-deployed-during-spacex-starship-flight-13-have-been-released%2Far-AA298grj&c=15063374714750510585&mkt=es-mx"
+      "title": "SpaceX's first earnings call draws questions on starship, AI and pink rockets",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6e3f072436436e8a1610a18bb98b9b&url=https%3A%2F%2Fjang.com.pk%2Fen%2F70208-spacexs-first-earnings-call-draws-questions-on-starship-ai-and-pink-rockets-news&c=15858484023558742937&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "22c8784c8ce02cba",
-      "published_at": "2026-07-31T03:51:18Z",
+      "event_type": "launch",
+      "item_id": "451323429745f31d",
+      "published_at": "2026-08-01T10:00:00Z",
+      "source_name": "space.com",
+      "title": "SpaceX launches 24 Starlink satellites to orbit from California (photos) - space.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFowRlV4TmhXbFViM21rVmotTVpfWFllX195MGxQTEo0TGxTbHRhWEJUdm1sUS0yUHdWOFQ1RXpYRjlUNUdiWURCMUQtWm9mSFJLUmRPQy1iTjRJVzhCZWdQcHdvcTFNRHRTcUZadnVtclFBOHBBelVDZUxzeklnaXBiT21uY0NCSWVLbkdmWjFRMWxPVzQ5ZFpvd1VzbUJNak5XNTk1QUxBT0dUbW1pSnZhb3FseXZiZTdjekdB?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "a461842fe81c57e4",
+      "published_at": "2026-08-01T08:45:00Z",
       "source_name": "bing.com",
-      "title": "First pictures of Starlink V3 satellites deployed during SpaceX Starship flight 13 have been released",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6d4a793d994d818532cad4238dacb1&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Ffirst-pictures-of-starlink-v3-satellites-deployed-during-spacex-starship-flight-13-have-been-released%2Far-AA298grj&c=5738520485249748784&mkt=en-us"
+      "title": "SpaceX launches 24 Starlink satellites from Vandenberg, fleet exceeds 10,800",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6e9bda7ba34d4bb0a3756db94eb3d6&url=https%3A%2F%2Fwww.newsbytesapp.com%2Fnews%2Fscience%2Fspacex-launches-24-starlink-satellites-from-vandenberg-fleet-exceeds-10800%2Ftldr&c=13172202224944991244&mkt=en-us"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "aa2a67f5d64da34d",
+      "published_at": "2026-08-01T05:48:45Z",
+      "source_name": "新浪财经",
+      "title": "中科宇航与星际数链达成合作，力箭二号运载火箭高轨发射任务启动_手机新浪网 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU0JwOFJSYV9WMXJLeXVFUUpoVVQxLTVUbk85ZFpXX09oM2FQNEJmMnpaTzloS2FWZW5MamRyT2NjXzE5V1hSbGNCeEs2UGVmdkZvaXI3M3otY1JSMVI5Yk5SX2k5YWxyU1Jzanc2TDBobEJPV0FHVmhmeVJXV3NYTnkyNTZmRzA?oc=5"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "772d81a63a3fd95e",
+      "published_at": "2026-08-01T01:14:07Z",
+      "source_name": "Jiemian.com",
+      "title": "中科宇航与星际数链签署高轨发射意向合同 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyd3hseG5kU1BBREdDSmpzYzNRVWRLUTJxTzB1Yk5RTE9sdkV3OG9lZkE2aWdvZW9USjc4MFZXb0JtbUxvZUc1OWh4emV2d0hGSDBiWmVTcDQ?oc=5"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_type": "product",
+      "item_id": "43aede74688ac8cd",
+      "published_at": "2026-08-01T00:05:33Z",
+      "source_name": "东方财富",
+      "title": "“千帆星座”卫星终端产品首次亮相，飞机乘客能看直播，手机能直连卫星通话 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFaGxwVGVnUHAwbjBLSm9WNkxPOTdnTXVfZHNlaGpnYmZESExxdVd1bVUtV0lkZV9VbzM3cm9HZ2M4V1hhdVdiUEZ5Mk9DRlJLaUJOdVdidGhmM3pabk5uXw?oc=5"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "bdc973ce4c9ddc61",
-      "published_at": "2026-07-30T23:39:24Z",
-      "source_name": "Jalopnik",
-      "title": "Blue Origin Blew Up Its Launch Pad, So NASA Will Invite Its Rockets Over For Testing - Jalopnik",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOXy1sNG16WFFRbm9UXzFmOXcwZjJXbDQ2STFVb3RvRTlaSU8wZDFOT0RrUEgyRUlDcE9TeG9jbGl4c21Na3A4TTRNVzJBdzlXN1UyWjlPckN2ejJDcjdtTGUtZU5Yc1QwamdhVmNvSVpZT1ZxNWVpN2hkbmpVWml3QzhvYk1TSTQzYTJ2VTNTa241QVdt?oc=5"
+      "item_id": "31e3c9ecb7e23dda",
+      "published_at": "2026-07-31T21:20:00Z",
+      "source_name": "WESH",
+      "title": "Rebuild after explosion: When we could see a Blue Origin launch from Florida's Space Coast - WESH",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFd5MlJRVExjNlVDYm5kN1lqYzZlQVhRZ0RkMFRVYUt2NGxza1dzbko3MnJ1YkdRUVYxY0IxaXp6aHBaNE9jRUdsSUxSdkFOeHJVM3lKM3RxcFRBWTNLNVNwSHl0emd5Q1N0WUNURVlNQ0ZYRmxLSXNvVGd4YmpWZDNHUUFpaUs0WXVVYmpER1BSYjRPN1hPTg?oc=5"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "e8739094d4135117",
-      "published_at": "2026-07-30T22:30:00Z",
-      "source_name": "bing.com",
-      "title": "Billionaire Bill Ackman called SpaceX's Starlink a \"near monopoly\" in global satellite internet, but said he won't buy the stock",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a6c5c1cba3a4022a88f90bc121bf8bd&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fsavingandinvesting%2Fbillionaire-bill-ackman-called-spacex-s-starlink-a-near-monopoly-in-global-satellite-internet-but-said-he-won-t-buy-the-stock%2Far-AA296EqD&c=18385430381188173686&mkt=en-us"
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_type": "product",
+      "item_id": "a12f109fe8911210",
+      "published_at": "2026-07-31T21:13:29Z",
+      "source_name": "东方财富",
+      "title": "“千帆星座”卫星终端产品首次亮相，飞机乘客能看直播，手机能直连卫星通话 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hUVBNaWRMNUwtcFE5UThNRjZNbWN5TFVPNktSeUhLaTdkVXNQYzVobTZOZktLUmd5QWwtMnR5eWI5YXhERm1YdlpvSkVaZjFUSnNQQ2drb0ljaXFBM1d3TmtkMDMzZw?oc=5"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "market",
+      "item_id": "a33f99116ae6d543",
+      "published_at": "2026-08-01T11:41:52Z",
+      "source_name": "凤凰网",
+      "title": "中国版“Space X”！蓝箭航天冲刺IPO，核心参股+合作方一文梳理 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Gc2p4dk91bnhkczl1QUdUclZVUVVBa1JvVDIyaUtnTWlVY2JWQWEzT2NLVEVYVVR4dnd1UXBtY253TDJJWGxnSTA2dWZoUVRa?oc=5"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "market",
+      "item_id": "ba92b44da14197a3",
+      "published_at": "2026-07-31T16:54:28Z",
+      "source_name": "雪球",
+      "title": "蓝箭航天(A07001)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9LY1lPRWZKN0JyNDdOc1RCZG95WGJHWUNKelVGNlRBSGR6cTY2cWhpS0ZEdXRZQ0xTNWhvb1A3WGg?oc=5"
     }
   ],
-  "total_items": 21
+  "total_items": 29
 }
