@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-08-04
 
-- Report ID: daily-2026-08-04-2f846285
-- Source run: 59bbf5de-3d37-42b7-83a4-5de34ab3e289
+- Report ID: daily-2026-08-05-e9e66685
+- Source run: 09f09ee0-a215-43ae-a733-c4fe155b9517
 - Generation status: skipped_no_secret
-- Companies covered: 4
-- Total items: 26
+- Companies covered: 2
+- Total items: 5
 
 ## Executive Summary
 
-2026-08-04 共收录 26 条新闻，覆盖 4 家公司。新闻量靠前的公司包括 SpaceX、星际荣耀、蓝箭航天。
+2026-08-05 共收录 5 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
 
 ## Industry Chain Sections
 
@@ -21,35 +21,27 @@ No LLM summary.
 
 No LLM summary.
 
-- [星际荣耀完成E轮近10亿元首批交割 - Jiemian.com](https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zaEZ5VTRYOU1qajVMaVdnZmlJQkpMVFhtTnV4dDJ4d0NnMGJCSDlleWx1X0thUXRZUlZrM29ST0ZQMU9IY2xZaGlPSy0taElsdkc4endvdlg?oc=5) 星际荣耀
-- [独家|星际荣耀完成E轮近10亿元首批交割 多家银行系AIC集中布局商业火箭 - 搜狐网](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2RsTFl4eVFvWkpOOERGdUY5RUhHUUpkMmZBUDlJQkIzVURIRWJ2RXZ2ZUoxTy1BN0lybXBsSkIyNUItVGQ5VVhmNGF4OGdWUndWSS1DZ1NYM3o5REVjR05iaUtqRTk1bHg2SnJiYjRIUDBybV9xWnR1Y2RISEdGNEJXOEUzRnUw?oc=5) 星际荣耀
-- [星际荣耀完成 E 轮融资近 10 亿元首批交割，加速双曲线三号可回收火箭首飞 - 新浪财经](https://news.google.com/rss/articles/CBMif0FVX3lxTE01NVZjeVJ6NU85OUp2YzZZR2JCcDF6M242eFZjWUFQTU9jV2Jkb3JHdVF5elhsNzFjQkp2QmtFaU5weF9fUG9WM2RiZEI0QUpYTEJvR3U4b0VOd29wRWtSSWdlR0lsZVprQnBlVDM2azFnSWVnVk5OT2dEU0Jzc28?oc=5) 星际荣耀
-- [商业航天迎来重要事件催化，蓝箭航天朱雀三号遥二发射窗口锁定 - 股吧](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QaTd1bVBXVnJuaWJHQzVLcUNHUGdGb0YxSjIzMHp2amRvOG5tN2xZNW1VVG84Zl9YSWEtY2ZrazQ1aUZNVF80Z24zR0RsVjJEOXF3UW8xNjhSa2pQenFOMmZrVTQ?oc=5) 蓝箭航天
 
 ### 卫星互联网服务
 
 No LLM summary.
 
-- [“国家队”入局，商业航天资本化再添“硬核”大将！银河航天参股及合作公司曝光 - 新浪财经](https://news.google.com/rss/articles/CBMiswJBVV95cUxNZ3piRGFmcUx3WkZMNDdvVzg3dDM5aXZvT1Q1d1B3TFhwQ0QyT0VzcXZzLUtSZDJOVEtfM0c0T2NmdzhWUDh4b3JSeE5MRkk1RERuclNUcS1sWktSTklDZWFIZEZpMWtGemwydEtEbUotcUF4Z0ZZb3ZrekdXRzgzZ2REMUZSVHFyZWo2d2EyTkZycGU1S3hQU1ZJaEd4RWVnRGxLTl9nYVpPYzNaVWZHV09Fak1FMGxYVjI3ajNuSDgwcGpDR2stMWMzeFBaSWFhcXJvVnNINlVFbnZzLXQ1M0d5dWdNZzF5X2d1dVc2Z2dJV1UtMTBOX1lmaU44d0cxYkhvWWphVXpyVXB0SVpodDRuX19ZR25YeHI1VmFhaTNybDJLNWJwRnRwU3VPeXc1bTM0?oc=5) 银河航天
 
 ### 国外大厂
 
 No LLM summary.
 
-- [Future of Crew Dragon weighs on commercial spaceflight industry](https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry) SpaceX
-- [SpaceX’s new Starfall program offers validation and competition for reentry startups](https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups) SpaceX
-- [SpaceX is crowding rivals off the rockets they depend on - The Next Web](https://news.google.com/rss/articles/CBMidEFVX3lxTE44Xy14VzQ0bHp2RDJfMDZoSXpCZW1fbExXeFcwdVlHQVc2ZjBHd255QVZBSExPZ1oxRVNDZTdJczhJdEtDeUdJVnBwWkpxVWNtV045M2s2YWFVbERSZGtQUHUxV0xyRXl1VzZDejlhT3d1dUZT?oc=5) SpaceX
+- [Fraud Advisory Related to Company Funding Activities - Blue Origin](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YUl9vSzgzajhzUXk0TVJwbjB0ckpCb2tDVDFiS3ZMX1ZSbVlhUy1sOTZ3NDdPTXU1MndYQ3AwdDNSYjlmVFRTaG9XWnAtblFRaWdZ?oc=5) Blue Origin
+- [SpaceX launches Starlink satellites on 90th Falcon 9 flight of the year (video) - Space](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWXJzYmhqWnNYMTFYUnl4MkNpekN1MHZiSlFxUklMS0xhQ0V6aHVELVpzU05FRDBJRzY2Q1UwR2RWeXBqeVA5NWY0TTljTjhFOFNwRGRYZGM2bVM5Ykl2dGR0S3dEcGpMaDBqU090NDJTNEt1NkJiYldzN2RBQ08wOTd3VU51aDlWM1NNal9zTFIxSlMyVXFiQXpBek0wZHhyOU9SdUlKSEl2Wmw3UV9J?oc=5) SpaceX
+- ['A very busy mission': SpaceX on track to launch 4 astronauts to the ISS on Sept. 12](https://www.space.com/space-exploration/international-space-station/a-very-busy-mission-spacex-on-track-to-launch-4-astronauts-to-the-iss-on-sept-12) SpaceX
+- [Rocket Lab Outlines Commercial Innovation Strategy to Challenge SpaceX Market Dominance](https://satnews.com/2026/08/04/rocket-lab-outlines-commercial-innovation-strategy-to-challenge-spacex-market-dominance) SpaceX
 
 ## Top News
 
-- [Future of Crew Dragon weighs on commercial spaceflight industry](https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry) SpaceX
-- [SpaceX’s new Starfall program offers validation and competition for reentry startups](https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups) SpaceX
-- [SpaceX is crowding rivals off the rockets they depend on - The Next Web](https://news.google.com/rss/articles/CBMidEFVX3lxTE44Xy14VzQ0bHp2RDJfMDZoSXpCZW1fbExXeFcwdVlHQVc2ZjBHd255QVZBSExPZ1oxRVNDZTdJczhJdEtDeUdJVnBwWkpxVWNtV045M2s2YWFVbERSZGtQUHUxV0xyRXl1VzZDejlhT3d1dUZT?oc=5) SpaceX
-- [星际荣耀完成E轮近10亿元首批交割 - Jiemian.com](https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zaEZ5VTRYOU1qajVMaVdnZmlJQkpMVFhtTnV4dDJ4d0NnMGJCSDlleWx1X0thUXRZUlZrM29ST0ZQMU9IY2xZaGlPSy0taElsdkc4endvdlg?oc=5) 星际荣耀
-- [独家|星际荣耀完成E轮近10亿元首批交割 多家银行系AIC集中布局商业火箭 - 搜狐网](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2RsTFl4eVFvWkpOOERGdUY5RUhHUUpkMmZBUDlJQkIzVURIRWJ2RXZ2ZUoxTy1BN0lybXBsSkIyNUItVGQ5VVhmNGF4OGdWUndWSS1DZ1NYM3o5REVjR05iaUtqRTk1bHg2SnJiYjRIUDBybV9xWnR1Y2RISEdGNEJXOEUzRnUw?oc=5) 星际荣耀
-- [星际荣耀完成 E 轮融资近 10 亿元首批交割，加速双曲线三号可回收火箭首飞 - 新浪财经](https://news.google.com/rss/articles/CBMif0FVX3lxTE01NVZjeVJ6NU85OUp2YzZZR2JCcDF6M242eFZjWUFQTU9jV2Jkb3JHdVF5elhsNzFjQkp2QmtFaU5weF9fUG9WM2RiZEI0QUpYTEJvR3U4b0VOd29wRWtSSWdlR0lsZVprQnBlVDM2azFnSWVnVk5OT2dEU0Jzc28?oc=5) 星际荣耀
-- [“国家队”入局，商业航天资本化再添“硬核”大将！银河航天参股及合作公司曝光 - 新浪财经](https://news.google.com/rss/articles/CBMiswJBVV95cUxNZ3piRGFmcUx3WkZMNDdvVzg3dDM5aXZvT1Q1d1B3TFhwQ0QyT0VzcXZzLUtSZDJOVEtfM0c0T2NmdzhWUDh4b3JSeE5MRkk1RERuclNUcS1sWktSTklDZWFIZEZpMWtGemwydEtEbUotcUF4Z0ZZb3ZrekdXRzgzZ2REMUZSVHFyZWo2d2EyTkZycGU1S3hQU1ZJaEd4RWVnRGxLTl9nYVpPYzNaVWZHV09Fak1FMGxYVjI3ajNuSDgwcGpDR2stMWMzeFBaSWFhcXJvVnNINlVFbnZzLXQ1M0d5dWdNZzF5X2d1dVc2Z2dJV1UtMTBOX1lmaU44d0cxYkhvWWphVXpyVXB0SVpodDRuX19ZR25YeHI1VmFhaTNybDJLNWJwRnRwU3VPeXc1bTM0?oc=5) 银河航天
-- [商业航天迎来重要事件催化，蓝箭航天朱雀三号遥二发射窗口锁定 - 股吧](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QaTd1bVBXVnJuaWJHQzVLcUNHUGdGb0YxSjIzMHp2amRvOG5tN2xZNW1VVG84Zl9YSWEtY2ZrazQ1aUZNVF80Z24zR0RsVjJEOXF3UW8xNjhSa2pQenFOMmZrVTQ?oc=5) 蓝箭航天
+- [Fraud Advisory Related to Company Funding Activities - Blue Origin](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YUl9vSzgzajhzUXk0TVJwbjB0ckpCb2tDVDFiS3ZMX1ZSbVlhUy1sOTZ3NDdPTXU1MndYQ3AwdDNSYjlmVFRTaG9XWnAtblFRaWdZ?oc=5) Blue Origin
+- [SpaceX launches Starlink satellites on 90th Falcon 9 flight of the year (video) - Space](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWXJzYmhqWnNYMTFYUnl4MkNpekN1MHZiSlFxUklMS0xhQ0V6aHVELVpzU05FRDBJRzY2Q1UwR2RWeXBqeVA5NWY0TTljTjhFOFNwRGRYZGM2bVM5Ykl2dGR0S3dEcGpMaDBqU090NDJTNEt1NkJiYldzN2RBQ08wOTd3VU51aDlWM1NNal9zTFIxSlMyVXFiQXpBek0wZHhyOU9SdUlKSEl2Wmw3UV9J?oc=5) SpaceX
+- ['A very busy mission': SpaceX on track to launch 4 astronauts to the ISS on Sept. 12](https://www.space.com/space-exploration/international-space-station/a-very-busy-mission-spacex-on-track-to-launch-4-astronauts-to-the-iss-on-sept-12) SpaceX
+- [Rocket Lab Outlines Commercial Innovation Strategy to Challenge SpaceX Market Dominance](https://satnews.com/2026/08/04/rocket-lab-outlines-commercial-innovation-strategy-to-challenge-spacex-market-dominance) SpaceX
 
 ## Risks And Watchpoints
 
