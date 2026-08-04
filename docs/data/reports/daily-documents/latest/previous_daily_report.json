@@ -1,33 +1,53 @@
 {
-  "as_of_date": "2026-08-03",
+  "as_of_date": "2026-08-04",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 1,
-        "market": 1
+        "funding": 2,
+        "launch": 5,
+        "market": 3,
+        "other": 3
       },
-      "item_count": 2,
-      "latest_title": "SpaceX Demonstrates Starfall Capsule as Liquidity Event Accelerates In-Space Manufacturing Ventures"
+      "item_count": 13,
+      "latest_title": "Starship Soars as SpaceX Looks to AI"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_types": {
+        "launch": 7
+      },
+      "item_count": 7,
+      "latest_title": "可重复使用火箭新进展！星河动力航天将择机发射智神星一号 - 证券时报"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_types": {
-        "order": 1
+        "order": 2
       },
-      "item_count": 1,
-      "latest_title": "U.S. Air Force expands Blue Origin rocket cargo contract"
+      "item_count": 2,
+      "latest_title": "US Air Force Expands Cargo Contract with Blue Origin - zamin.uz"
     },
     {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
+      "company_id": "china_satnet",
+      "company_name": "中国星网",
       "event_types": {
         "launch": 1
       },
       "item_count": 1,
-      "latest_title": "中科宇航签署高轨卫星发射意向合同 采用力箭二号与力巡一号组合 - 新浪财经"
+      "latest_title": "China Piles Dual-Use GuoWang Satellites Into Orbit Ahead of ITU Deadline - Tech Times"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_types": {
+        "market": 1
+      },
+      "item_count": 1,
+      "latest_title": "影响市场重大事件：中科宇航与星际数链签署高轨发射意向合同，力箭二号运载火箭高轨发射任务启动；央行继续实施好适度宽松的货币政策；7月股票ETF净流入4778亿元创历史峰值 - 21财经"
     },
     {
       "company_id": "landspace",
@@ -36,80 +56,191 @@
         "market": 1
       },
       "item_count": 1,
-      "latest_title": "蛰伏三个月后冲刺IPO，谁在蓝箭航天身后站台？ - 新浪财经"
+      "latest_title": "蓝箭航天(A07001)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球"
     }
   ],
-  "company_count": 4,
+  "company_count": 6,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 2,
-    "market": 2,
-    "order": 1
+    "funding": 2,
+    "launch": 13,
+    "market": 5,
+    "order": 2,
+    "other": 3
   },
-  "generated_at": "2026-08-03T04:47:11.189260Z",
-  "period_end": "2026-08-02",
-  "period_start": "2026-08-02",
-  "report_date": "2026-08-02",
+  "generated_at": "2026-08-04T04:30:47.017205Z",
+  "period_end": "2026-08-03",
+  "period_start": "2026-08-03",
+  "report_date": "2026-08-03",
   "schema_version": "daily_document.v1",
-  "source_count": 4,
+  "source_count": 13,
   "source_counts": {
-    "SpaceNews": 1,
-    "eciks.org": 1,
-    "satnews.com": 1,
-    "新浪财经": 2
+    "21财经": 1,
+    "DoNews": 1,
+    "ITP.net": 1,
+    "Payload Space": 1,
+    "Space Scout": 1,
+    "Tech Times": 1,
+    "arstechnica.com": 1,
+    "bing.com": 10,
+    "zamin.uz": 1,
+    "搜狐网": 2,
+    "新浪财经": 2,
+    "证券时报": 2,
+    "雪球": 1
   },
-  "summary": "2026-08-02 共归档 5 条新闻，覆盖 4 家公司、4 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、中科宇航、蓝箭航天。",
+  "summary": "2026-08-03 共归档 25 条新闻，覆盖 6 家公司、13 个信息来源。 新闻量较多的公司包括 SpaceX、星河动力、Blue Origin、中国星网。",
   "top_items": [
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "order",
-      "item_id": "7b6ba72867844be5",
-      "published_at": "2026-08-02T12:03:27Z",
-      "source_name": "SpaceNews",
-      "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
-      "url": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract"
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "867fcc457078c2e8",
+      "published_at": "2026-08-03T15:37:50Z",
+      "source_name": "Space Scout",
+      "title": "Starship Soars as SpaceX Looks to AI",
+      "url": "https://www.spacescout.info/2026/08/starship-soars-as-spacex-looks-to-ai"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "launch",
+      "item_id": "be46964acbca40f7",
+      "published_at": "2026-08-03T10:49:00Z",
+      "source_name": "证券时报",
+      "title": "可重复使用火箭新进展！星河动力航天将择机发射智神星一号 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KcDFWNGdJN0VUQi04NElGNE4tTVN2XzRLUGJ6MnlTVFViR2g0dFJud1dVTFlEVXdNSS1abnNybV9nYkh4cTRfdDF5VGxnUERSOUhWdm1UVXNObHpx?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "launch",
+      "item_id": "becd5f9addd93bc2",
+      "published_at": "2026-08-03T08:40:00Z",
+      "source_name": "证券时报",
+      "title": "星河动力近期将择机发射智神星一号火箭 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40SWxXOEpHVFY3X0UzVXVQRy0wZ1hvTTZZS0tGWW9ndjlZbUdrOHF3ZlZBbHFlQ1VIelNYUjhOZkpnRWw4RWdfbk9Ja3pGRkVrem51S1cyZ1ktSUJ4?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "market",
-      "item_id": "168568397a2d773e",
-      "published_at": "2026-08-02T00:11:00Z",
-      "source_name": "satnews.com",
-      "title": "SpaceX Demonstrates Starfall Capsule as Liquidity Event Accelerates In-Space Manufacturing Ventures",
-      "url": "https://satnews.com/2026/08/01/spacex-demonstrates-starfall-capsule-as-liquidity-event-accelerates-in-space-manufacturing-ventures"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "f35be3d959fc6f8c",
-      "published_at": "2026-08-02T10:08:00Z",
-      "source_name": "新浪财经",
-      "title": "中科宇航签署高轨卫星发射意向合同 采用力箭二号与力巡一号组合 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUXQ0Rk1JQ2ZuZEpodnRWN0U3NW01R19WNHFLbVVxVExJTDAzX3N5azEwUzYzMGtLeVhsRkRXcml3bkpNeGJKNFR1STIwUWtTNDFkcndoa0RTeWw4OFdCQkdoMTZCN0E2Q1Bac1JfMEFBblRYRlJkdkRSa0lqa0hYQTYybzhVb3ctSFpvWm1iUndWMG9oWWpXMmtoVFU1Vk40MXc?oc=5"
+      "item_id": "2f4c8be771caa261",
+      "published_at": "2026-08-03T08:05:00Z",
+      "source_name": "bing.com",
+      "title": "Forget Rockets. This Is The Real Reason Wall Street Can't Stop Buying SpaceX.",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a713cb7581a453196661abb2a9d7d8d&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Ftopstocks%2Fforget-rockets-this-is-the-real-reason-wall-street-cant-stop-buying-spacex%2Far-AA29jwj5&c=1053670626279691202&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
+      "event_type": "market",
+      "item_id": "ab93016af98abdc5",
+      "published_at": "2026-08-03T03:12:04Z",
+      "source_name": "bing.com",
+      "title": "SpaceX's first results put Musk's AI spending under Wall Street microscope",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a70a0c564e84a0882a3b5f4e92d1283&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fcompanies%2Fspacexs-first-results-put-musks-ai-spending-under-wall-street-microscope%2Far-AA29i46w&c=5202823182794828102&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "market",
+      "item_id": "ae549923911742c5",
+      "published_at": "2026-08-03T03:12:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX's first results put Musk's AI spending under Wall Street microscope",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a70e85950194fa1a86a5f64eaf6d92a&url=https%3A%2F%2Fwww.aol.com%2Farticles%2Fspacexs-first-results-put-musks-101204000.html&c=1188963463344118134&mkt=en-us"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "market",
+      "item_id": "44b01415b17d7195",
+      "published_at": "2026-08-02T23:16:00Z",
+      "source_name": "21财经",
+      "title": "影响市场重大事件：中科宇航与星际数链签署高轨发射意向合同，力箭二号运载火箭高轨发射任务启动；央行继续实施好适度宽松的货币政策；7月股票ETF净流入4778亿元创历史峰值 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHZxTXFwSVk4T0lMVWpGcGVLaVJ1ZnhDUXgtSnFxaGpacVZELVpEQXQtMUZ5UWlRYm80UGxHd01jdFRrWnhTWUc0MGZMQjRKRUVMeWVNZDdHcllUQlVrbHhwWk0tYTFRNnVKQTVQMUM1MFFETnBvb3JYNDkyam5admlqQzByM1VkQl84Nw?oc=5"
+    },
+    {
+      "company_id": "china_satnet",
+      "company_name": "中国星网",
       "event_type": "launch",
-      "item_id": "22f622f093f7d56c",
-      "published_at": "2026-08-02T03:15:43Z",
-      "source_name": "eciks.org",
-      "title": "SpaceX launches 24 Starlink satellites from California - eciks.org",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtdW5ORGd3TFcwWmZxd2VjZFB0MHYwSXBwdkpDVXFmX1g3d2pEYWNxYTlCUmZhM29wNlR6QnRHREl2Ynhva3lWZUF3OW5CaklsVTRwVGYzLVowUkwya1hyVXkzdGNhZVFX?oc=5"
+      "item_id": "d1a264134bb8d1b7",
+      "published_at": "2026-08-03T15:15:01Z",
+      "source_name": "Tech Times",
+      "title": "China Piles Dual-Use GuoWang Satellites Into Orbit Ahead of ITU Deadline - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd25aWFhWS3BUYjhZTVhJM0U0OXhVM3FrOWs3dkZwMFgzWG1BdXMxSzQwZ1FROGhXX21IVHh4amJ3ZjZlRVFaN1NqTWp4Q3lFOFgybllrNHFUOHdndkR3R2NqcE13SDIyQmhPbzJKaVpiRC1vTjVIYnh5cG1GdEd0aHdUT054UXRDaTd2TDlHYkJjMkR3Q0FlbTN3b1FiaHpUcHdMR1k5eGdkS25IWVFxVWVwUHRROHNRS05B?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "b47d17e98e991e59",
+      "published_at": "2026-08-03T15:07:00Z",
+      "source_name": "bing.com",
+      "title": "Hughesnet Files for Bankruptcy After Bleeding Customers to Starlink",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a713cb7581a453196661abb2a9d7d8d&url=https%3A%2F%2Fwww.cnet.com%2Fhome%2Finternet%2Fhughesnet-files-for-bankruptcy-after-bleeding-customers-to-starlink%2F&c=3148712941935750570&mkt=en-us"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "launch",
+      "item_id": "09cccf85cb2cd96c",
+      "published_at": "2026-08-03T12:55:00Z",
+      "source_name": "新浪财经",
+      "title": "星河动力智神星一号将择机发射 设计复用25次 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX1JsVEZBV0pMZzNmTnZhRVJrY1UycmJYcEpIYW1KSnp0amxpUjhXT3dJLTJtcC1zR2plcW9xUzVKUWt2LWVPTWxyRVBtLW5xWUNVaDlPN2F4SEk5bUFZdjVOdGRQYkc3M0gwXzRLUkxJUTNCLVpKckhwWksyWjYxUXI0OVlsWkwtTld1Um0yYzF4OWs?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "launch",
+      "item_id": "014af4c3b829775b",
+      "published_at": "2026-08-03T06:45:59Z",
+      "source_name": "搜狐网",
+      "title": "星河动力宣布其可复用火箭“近期择机发射”，此前称首飞将不会回收 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRi10ZmVTUnh5ZWVsemJRd2x1WC1NUU9rOFg3S21VWnBpOEZjY1dadU1XOW03eXRNV1RsVHJBZDZIQktLTTdnYzZrUWxnUXdpemNmbHpKd2FUR2ZVUjRRcEp3TlJ3NDM5QkpzVzZZSTVSUzZnc2I4OEk1M2FQMmk3Q0U5MXlJOUV6ekhZbw?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "order",
+      "item_id": "ae62bfc6621c59c1",
+      "published_at": "2026-08-03T01:51:54Z",
+      "source_name": "zamin.uz",
+      "title": "US Air Force Expands Cargo Contract with Blue Origin - zamin.uz",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2F2a0htcXIwRFRsSDlWU2lUTVNfZGlSb1BDbXdFenY4S19pbFFNbUZ5WjljYzgyRnZUbzFFV25pX1V1dHkwRExRbGJNZjJuTUpYVHNWRlFHU0pvTWgzVUJiUFFGM3hWN3RsTFV5c2NSTlRTdlZTUHdEdWZ1am9mbzBwcHRublM4bVdkaklSTXVjN1U1NnpNbnp0UQ?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "order",
+      "item_id": "b7811a9cdf4860c0",
+      "published_at": "2026-08-03T00:46:16Z",
+      "source_name": "Payload Space",
+      "title": "AFRL Adds $11.7M to Blue Origin’s Point-to-Point Cargo Contract - Payload Space",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFExalRZSEhpOHFiR3ZnbVhQLWxIMGJzYVg1ZjZHb1JYcTlNbWc3czJiTXZzSTMyOTEwTGNZNWU1QzZHRElUb1FlbEVlaVZmb2NzNWI5NVlua002d21vVWRkSDNieUlXRURBQ0ZGX2JlV3R0c3lzbENrQVFsV0VZWXQxVTRQb2NUc2dZcTAtcWM?oc=5"
     },
     {
       "company_id": "landspace",
       "company_name": "蓝箭航天",
       "event_type": "market",
-      "item_id": "56cac39ad4c59813",
-      "published_at": "2026-08-01T17:49:59Z",
+      "item_id": "ba92b44da14197a3",
+      "published_at": "2026-08-02T21:02:24Z",
+      "source_name": "雪球",
+      "title": "蓝箭航天(A07001)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9LY1lPRWZKN0JyNDdOc1RCZG95WGJHWUNKelVGNlRBSGR6cTY2cWhpS0ZEdXRZQ0xTNWhvb1A3WGg?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "launch",
+      "item_id": "455aca74b97bda6f",
+      "published_at": "2026-08-03T04:53:00Z",
       "source_name": "新浪财经",
-      "title": "蛰伏三个月后冲刺IPO，谁在蓝箭航天身后站台？ - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPTi1ZckZFdHNJbks3UVVwRm40WUVLRG43TUEzX0Y4UDdndmtwVC0zSjM5TkZPdm8zd2FVbWYtMVJzT3V5VHg5c0YyQjQ2VlNzWjhwajNwYkFaS2ZlQ3FpbXJyamFfdFRVR1hVRktpcW9UQ0tiTzNYcHEwZ1dqdTNWY3NfMDNzMDRFU3dDSlMwclgxcmtmc1I0WWhYeDZLZHREelV5UGpOUElyUkNPSXZ5cWpLQmRvZS1fNWZwbzFybEVLS2RSaDBlZHhTSFVDM3ZkWXI5ZXVkelpINXJIdGhlU3JCUzFHNFZTUDladkhjN0NneXdsQ1dDbWIyc1FNWHJUXzEtWTVSNG52Y2pQVVo4SUhNVHpScjA1ZlVIVjVacWd2SDJ1aHJBU2NLNVBlNE5tZmZR?oc=5"
+      "title": "星河动力智神星一号本月首飞！任务名：驾青虬兮泛星河 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83ZEhpRVQwbmtNNTgzZ09XMVllZkVZRjJlUlJOSkhRbWZJOUYxdm5kU3AwRlZOWmZEejFxeEhDSjlXRGRDMzUtX0JlYjdlRmFxU3lMSVBWZ1pjYTZUSGRpYUc1TGVEb3lORXJMYXg0RnZRZ2VkOWl5TTdMRXpEVEk?oc=5"
     }
   ],
-  "total_items": 5
+  "total_items": 25
 }
