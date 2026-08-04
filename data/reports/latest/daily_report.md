@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-08-04
 
-- Report ID: daily-2026-08-04-e7bf10ae
-- Source run: 040bb6c4-19a9-4fd9-a139-94f4108acec1
+- Report ID: daily-2026-08-04-4d674486
+- Source run: 25ffab89-1e3b-4285-8255-428bcf79cc67
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 6
+- Total items: 8
 
 ## Executive Summary
 
-2026-08-04 共收录 6 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-08-04 共收录 8 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,15 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
-- [Is there a rocket launch today? When to see 1st SpaceX mission of August - The Desert Sun](https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUJSSnd4andYRnp6cHpBS1REVHRUSGFRbDBvbUtaTmpzdDB6MkZaSVZrV1ZadG9JLVc4c2hrZGNPSnFnQVJmTHVudkVXSDVucGRRZWlsU2txY25sNDRlRktvckR0bzBYeE1jSmdZZzlvUXUta0hnYnhXNUNDOWgzbmNDbjlzOHliM0J3RkJrR3VpUWR1dHhNZG10SnJiRHFCMFAzSkxhTm5qS3pVWXNGM21RNy1LQQ?oc=5) SpaceX
+- [SpaceX Replacing MRAPs with Cybertrucks Beginning with Crew-13](https://spacepolicyonline.com/news/spacex-replacing-mraps-with-cybertrucks-beginning-with-crew-13) SpaceX
+- [Is there a rocket launch today? When to see 1st SpaceX mission of August - desertsun.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUJSSnd4andYRnp6cHpBS1REVHRUSGFRbDBvbUtaTmpzdDB6MkZaSVZrV1ZadG9JLVc4c2hrZGNPSnFnQVJmTHVudkVXSDVucGRRZWlsU2txY25sNDRlRktvckR0bzBYeE1jSmdZZzlvUXUta0hnYnhXNUNDOWgzbmNDbjlzOHliM0J3RkJrR3VpUWR1dHhNZG10SnJiRHFCMFAzSkxhTm5qS3pVWXNGM21RNy1LQQ?oc=5) SpaceX
 - [A SpaceX rocket will crash into the moon this week. Why is it on a collision course?](https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-this-week-why-is-it-on-a-collision-course) SpaceX
-- [A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap - Investor's Business Daily](https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzJvOG9rWTZhMHg2YmpxLU1WRW1wYUYyNGtIYU9yWFNZenZSamJMa3VhVGNsdmxjMGFhWVR3ZVg2Y2xDbU5ITDhzTHN6ZlhfSTVacjJ4ZmNsRVg5ZFdNT0V1SlgtRjU2V29ONFpPQWlSTHFYa0FVLXNmTW01aDBXZ0liR3RudGptNk41YzRFMV9LWkIxMFV3b192Yi1KeV9aeVU4bV9lSlF3eGVqWWQ1cQ?oc=5) SpaceX
 
 ## Top News
 
-- [Is there a rocket launch today? When to see 1st SpaceX mission of August - The Desert Sun](https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUJSSnd4andYRnp6cHpBS1REVHRUSGFRbDBvbUtaTmpzdDB6MkZaSVZrV1ZadG9JLVc4c2hrZGNPSnFnQVJmTHVudkVXSDVucGRRZWlsU2txY25sNDRlRktvckR0bzBYeE1jSmdZZzlvUXUta0hnYnhXNUNDOWgzbmNDbjlzOHliM0J3RkJrR3VpUWR1dHhNZG10SnJiRHFCMFAzSkxhTm5qS3pVWXNGM21RNy1LQQ?oc=5) SpaceX
+- [SpaceX Replacing MRAPs with Cybertrucks Beginning with Crew-13](https://spacepolicyonline.com/news/spacex-replacing-mraps-with-cybertrucks-beginning-with-crew-13) SpaceX
+- [Is there a rocket launch today? When to see 1st SpaceX mission of August - desertsun.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUJSSnd4andYRnp6cHpBS1REVHRUSGFRbDBvbUtaTmpzdDB6MkZaSVZrV1ZadG9JLVc4c2hrZGNPSnFnQVJmTHVudkVXSDVucGRRZWlsU2txY25sNDRlRktvckR0bzBYeE1jSmdZZzlvUXUta0hnYnhXNUNDOWgzbmNDbjlzOHliM0J3RkJrR3VpUWR1dHhNZG10SnJiRHFCMFAzSkxhTm5qS3pVWXNGM21RNy1LQQ?oc=5) SpaceX
 - [A SpaceX rocket will crash into the moon this week. Why is it on a collision course?](https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-this-week-why-is-it-on-a-collision-course) SpaceX
-- [A SpaceX Earnings Preview: Starlink Growth, AI Costs, Starship Roadmap - Investor's Business Daily](https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzJvOG9rWTZhMHg2YmpxLU1WRW1wYUYyNGtIYU9yWFNZenZSamJMa3VhVGNsdmxjMGFhWVR3ZVg2Y2xDbU5ITDhzTHN6ZlhfSTVacjJ4ZmNsRVg5ZFdNT0V1SlgtRjU2V29ONFpPQWlSTHFYa0FVLXNmTW01aDBXZ0liR3RudGptNk41YzRFMV9LWkIxMFV3b192Yi1KeV9aeVU4bV9lSlF3eGVqWWQ1cQ?oc=5) SpaceX
 
 ## Risks And Watchpoints
 
