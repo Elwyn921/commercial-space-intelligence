@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-08-04
+# 每日新闻情报日报 - 2026-08-05
 
-- Report ID: daily-2026-08-05-e9e66685
-- Source run: 09f09ee0-a215-43ae-a733-c4fe155b9517
+- Report ID: daily-2026-08-05-058f547a
+- Source run: b3406bc6-faaf-4ff1-bbd2-2c1b962b8f7c
 - Generation status: skipped_no_secret
 - Companies covered: 2
-- Total items: 5
+- Total items: 15
 
 ## Executive Summary
 
-2026-08-05 共收录 5 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
+2026-08-05 共收录 15 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
 
 ## Industry Chain Sections
 
@@ -31,17 +31,19 @@ No LLM summary.
 
 No LLM summary.
 
+- [Next Starship Will Deliver Operational V3 Starlinks to Orbit, Maybe Catch Ship](https://spacepolicyonline.com/news/next-starship-will-deliver-operational-v3-starlinks-to-orbit-maybe-catch-ship) SpaceX
+- [SpaceX wants to launch next Starship this month (and catch it, too), Elon Musk says in 1st earnings call since historic IPO](https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-next-starship-this-month-and-catch-it-too-elon-musk-says-in-1st-earnings-call-since-historic-ipo) SpaceX
+- [SpaceX to begin Starship orbital flights](https://spacenews.com/spacex-to-begin-starship-orbital-flights) SpaceX
 - [Fraud Advisory Related to Company Funding Activities - Blue Origin](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YUl9vSzgzajhzUXk0TVJwbjB0ckpCb2tDVDFiS3ZMX1ZSbVlhUy1sOTZ3NDdPTXU1MndYQ3AwdDNSYjlmVFRTaG9XWnAtblFRaWdZ?oc=5) Blue Origin
-- [SpaceX launches Starlink satellites on 90th Falcon 9 flight of the year (video) - Space](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWXJzYmhqWnNYMTFYUnl4MkNpekN1MHZiSlFxUklMS0xhQ0V6aHVELVpzU05FRDBJRzY2Q1UwR2RWeXBqeVA5NWY0TTljTjhFOFNwRGRYZGM2bVM5Ykl2dGR0S3dEcGpMaDBqU090NDJTNEt1NkJiYldzN2RBQ08wOTd3VU51aDlWM1NNal9zTFIxSlMyVXFiQXpBek0wZHhyOU9SdUlKSEl2Wmw3UV9J?oc=5) SpaceX
-- ['A very busy mission': SpaceX on track to launch 4 astronauts to the ISS on Sept. 12](https://www.space.com/space-exploration/international-space-station/a-very-busy-mission-spacex-on-track-to-launch-4-astronauts-to-the-iss-on-sept-12) SpaceX
-- [Rocket Lab Outlines Commercial Innovation Strategy to Challenge SpaceX Market Dominance](https://satnews.com/2026/08/04/rocket-lab-outlines-commercial-innovation-strategy-to-challenge-spacex-market-dominance) SpaceX
+- [Blue Origin New Glenn rocket's fairing cams capture re-entry and splashdown footage](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a728e8b365049169e1e045dfd63f38a&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fnews%2Fworld%2Fblue-origin-new-glenn-rockets-fairing-cams-capture-re-entry-and-splashdown-footage%2Fvi-AA29p9wc&c=4344112858226569566&mkt=en-us) Blue Origin
 
 ## Top News
 
+- [Next Starship Will Deliver Operational V3 Starlinks to Orbit, Maybe Catch Ship](https://spacepolicyonline.com/news/next-starship-will-deliver-operational-v3-starlinks-to-orbit-maybe-catch-ship) SpaceX
+- [SpaceX wants to launch next Starship this month (and catch it, too), Elon Musk says in 1st earnings call since historic IPO](https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-next-starship-this-month-and-catch-it-too-elon-musk-says-in-1st-earnings-call-since-historic-ipo) SpaceX
+- [SpaceX to begin Starship orbital flights](https://spacenews.com/spacex-to-begin-starship-orbital-flights) SpaceX
 - [Fraud Advisory Related to Company Funding Activities - Blue Origin](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YUl9vSzgzajhzUXk0TVJwbjB0ckpCb2tDVDFiS3ZMX1ZSbVlhUy1sOTZ3NDdPTXU1MndYQ3AwdDNSYjlmVFRTaG9XWnAtblFRaWdZ?oc=5) Blue Origin
-- [SpaceX launches Starlink satellites on 90th Falcon 9 flight of the year (video) - Space](https://news.google.com/rss/articles/CBMirwFBVV95cUxPWXJzYmhqWnNYMTFYUnl4MkNpekN1MHZiSlFxUklMS0xhQ0V6aHVELVpzU05FRDBJRzY2Q1UwR2RWeXBqeVA5NWY0TTljTjhFOFNwRGRYZGM2bVM5Ykl2dGR0S3dEcGpMaDBqU090NDJTNEt1NkJiYldzN2RBQ08wOTd3VU51aDlWM1NNal9zTFIxSlMyVXFiQXpBek0wZHhyOU9SdUlKSEl2Wmw3UV9J?oc=5) SpaceX
-- ['A very busy mission': SpaceX on track to launch 4 astronauts to the ISS on Sept. 12](https://www.space.com/space-exploration/international-space-station/a-very-busy-mission-spacex-on-track-to-launch-4-astronauts-to-the-iss-on-sept-12) SpaceX
-- [Rocket Lab Outlines Commercial Innovation Strategy to Challenge SpaceX Market Dominance](https://satnews.com/2026/08/04/rocket-lab-outlines-commercial-innovation-strategy-to-challenge-spacex-market-dominance) SpaceX
+- [Blue Origin New Glenn rocket's fairing cams capture re-entry and splashdown footage](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a728e8b365049169e1e045dfd63f38a&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fnews%2Fworld%2Fblue-origin-new-glenn-rockets-fairing-cams-capture-re-entry-and-splashdown-footage%2Fvi-AA29p9wc&c=4344112858226569566&mkt=en-us) Blue Origin
 
 ## Risks And Watchpoints
 
