@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-08-05
 
-- Report ID: daily-2026-08-05-058f547a
-- Source run: b3406bc6-faaf-4ff1-bbd2-2c1b962b8f7c
+- Report ID: daily-2026-08-05-7bafae86
+- Source run: 34f4bb62-dc52-48a7-ac9c-9dbf5ad35b1b
 - Generation status: skipped_no_secret
 - Companies covered: 2
-- Total items: 15
+- Total items: 18
 
 ## Executive Summary
 
-2026-08-05 共收录 15 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
+2026-08-05 共收录 18 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、星际荣耀。
 
 ## Industry Chain Sections
 
@@ -21,6 +21,9 @@ No LLM summary.
 
 No LLM summary.
 
+- [星际荣耀获 E 轮近 10 亿元首批融资 银行系产业资本加码商业航天赛道 - 品玩](https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzMjE1Q3ROdGdyZC11TTEweUJkd3pGTFRoVnlyVEdOOXkwWXZoOHhZUlZhRHl4R1FOX1FhZ3FwNUttUUtkVWFfUg?oc=5) 星际荣耀
+- [商业火箭独角兽星际荣耀完成近10亿元E轮融资首批资金交割 - 搜狐网](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2ZEd3FIRlRvZVlPZ0ZFdHR1OWxQZEQzSEdCM0FJUUdMV0FEbHM0ZmJ1OE9fU05NSE5CdlEtQzdqWmJWUzBjLTZzRFIxMzNFUFo5dnU4VnQ2Tk0zNlJMa1VFYVRaalV4QlVReXg3VjQta01DZjZ5UG9DeUxGWEs2b21HLVg1N3Jk?oc=5) 星际荣耀
+- [独家|星际荣耀完成E轮近10亿元首批交割 多家银行系AIC集中布局商业火箭 - 东方财富](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tOEtrWkYwOWc5RWRMQVIzNzFLVGdPZlZRNl81cUlrVkVrcUtFRkVwU1FsQmFmZ2xGeGhHNEVRN0FmRFpOVkg0NmFOeHpERjF0SnlXOXBDTVNsVXFSZF9Pb2NpZTk?oc=5) 星际荣耀
 
 ### 卫星互联网服务
 
@@ -31,19 +34,18 @@ No LLM summary.
 
 No LLM summary.
 
+- [Live coverage: SpaceX to launch 3 AST SpaceMobile BlueBird satellites on Falcon 9 rocket from Cape Canaveral](https://spaceflightnow.com/2026/08/05/live-coverage-spacex-to-launch-3-ast-spacemobile-bluebird-satellites-on-falcon-9-rocket-from-cape-canaveral) SpaceX
+- [SpaceX revenue surges in debut results, with strong growth in Starlink business - thenationalnews.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNDhhMmZBZWp6ZXlKUDU3TFl4ZXUwdklHYWw2b2lVRmlZcHFwZ1NBZkN4d0Y0SXduZ1l5b05wZ3YtWnQwX2dWek9zSDVVRktvT0diN2Uwd1hGa0VDUmg4cUNfakhMVlQ1ZE41VUhMVkZnYzBsSENqV3VsbnJfbzhYOEcwZDZ2eGduank0UERRdy1ESXdWckdFc29rZk5jaEduY1VnZjZrSl9fa3daM1BXOXJCYkloUEhyX3FMYUxhMUNIcmlLMGp0dUl6OU5kYjI0Q3V3Nm5hUQ?oc=5) SpaceX
 - [Next Starship Will Deliver Operational V3 Starlinks to Orbit, Maybe Catch Ship](https://spacepolicyonline.com/news/next-starship-will-deliver-operational-v3-starlinks-to-orbit-maybe-catch-ship) SpaceX
-- [SpaceX wants to launch next Starship this month (and catch it, too), Elon Musk says in 1st earnings call since historic IPO](https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-next-starship-this-month-and-catch-it-too-elon-musk-says-in-1st-earnings-call-since-historic-ipo) SpaceX
-- [SpaceX to begin Starship orbital flights](https://spacenews.com/spacex-to-begin-starship-orbital-flights) SpaceX
-- [Fraud Advisory Related to Company Funding Activities - Blue Origin](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YUl9vSzgzajhzUXk0TVJwbjB0ckpCb2tDVDFiS3ZMX1ZSbVlhUy1sOTZ3NDdPTXU1MndYQ3AwdDNSYjlmVFRTaG9XWnAtblFRaWdZ?oc=5) Blue Origin
-- [Blue Origin New Glenn rocket's fairing cams capture re-entry and splashdown footage](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a728e8b365049169e1e045dfd63f38a&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fnews%2Fworld%2Fblue-origin-new-glenn-rockets-fairing-cams-capture-re-entry-and-splashdown-footage%2Fvi-AA29p9wc&c=4344112858226569566&mkt=en-us) Blue Origin
 
 ## Top News
 
+- [Live coverage: SpaceX to launch 3 AST SpaceMobile BlueBird satellites on Falcon 9 rocket from Cape Canaveral](https://spaceflightnow.com/2026/08/05/live-coverage-spacex-to-launch-3-ast-spacemobile-bluebird-satellites-on-falcon-9-rocket-from-cape-canaveral) SpaceX
+- [星际荣耀获 E 轮近 10 亿元首批融资 银行系产业资本加码商业航天赛道 - 品玩](https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzMjE1Q3ROdGdyZC11TTEweUJkd3pGTFRoVnlyVEdOOXkwWXZoOHhZUlZhRHl4R1FOX1FhZ3FwNUttUUtkVWFfUg?oc=5) 星际荣耀
+- [商业火箭独角兽星际荣耀完成近10亿元E轮融资首批资金交割 - 搜狐网](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY2ZEd3FIRlRvZVlPZ0ZFdHR1OWxQZEQzSEdCM0FJUUdMV0FEbHM0ZmJ1OE9fU05NSE5CdlEtQzdqWmJWUzBjLTZzRFIxMzNFUFo5dnU4VnQ2Tk0zNlJMa1VFYVRaalV4QlVReXg3VjQta01DZjZ5UG9DeUxGWEs2b21HLVg1N3Jk?oc=5) 星际荣耀
+- [SpaceX revenue surges in debut results, with strong growth in Starlink business - thenationalnews.com](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNDhhMmZBZWp6ZXlKUDU3TFl4ZXUwdklHYWw2b2lVRmlZcHFwZ1NBZkN4d0Y0SXduZ1l5b05wZ3YtWnQwX2dWek9zSDVVRktvT0diN2Uwd1hGa0VDUmg4cUNfakhMVlQ1ZE41VUhMVkZnYzBsSENqV3VsbnJfbzhYOEcwZDZ2eGduank0UERRdy1ESXdWckdFc29rZk5jaEduY1VnZjZrSl9fa3daM1BXOXJCYkloUEhyX3FMYUxhMUNIcmlLMGp0dUl6OU5kYjI0Q3V3Nm5hUQ?oc=5) SpaceX
 - [Next Starship Will Deliver Operational V3 Starlinks to Orbit, Maybe Catch Ship](https://spacepolicyonline.com/news/next-starship-will-deliver-operational-v3-starlinks-to-orbit-maybe-catch-ship) SpaceX
-- [SpaceX wants to launch next Starship this month (and catch it, too), Elon Musk says in 1st earnings call since historic IPO](https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-next-starship-this-month-and-catch-it-too-elon-musk-says-in-1st-earnings-call-since-historic-ipo) SpaceX
-- [SpaceX to begin Starship orbital flights](https://spacenews.com/spacex-to-begin-starship-orbital-flights) SpaceX
-- [Fraud Advisory Related to Company Funding Activities - Blue Origin](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YUl9vSzgzajhzUXk0TVJwbjB0ckpCb2tDVDFiS3ZMX1ZSbVlhUy1sOTZ3NDdPTXU1MndYQ3AwdDNSYjlmVFRTaG9XWnAtblFRaWdZ?oc=5) Blue Origin
-- [Blue Origin New Glenn rocket's fairing cams capture re-entry and splashdown footage](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a728e8b365049169e1e045dfd63f38a&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fnews%2Fworld%2Fblue-origin-new-glenn-rockets-fairing-cams-capture-re-entry-and-splashdown-footage%2Fvi-AA29p9wc&c=4344112858226569566&mkt=en-us) Blue Origin
+- [独家|星际荣耀完成E轮近10亿元首批交割 多家银行系AIC集中布局商业火箭 - 东方财富](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tOEtrWkYwOWc5RWRMQVIzNzFLVGdPZlZRNl81cUlrVkVrcUtFRkVwU1FsQmFmZ2xGeGhHNEVRN0FmRFpOVkg0NmFOeHpERjF0SnlXOXBDTVNsVXFSZF9Pb2NpZTk?oc=5) 星际荣耀
 
 ## Risks And Watchpoints
 
