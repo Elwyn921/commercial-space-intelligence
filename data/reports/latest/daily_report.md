@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-08-07
 
-- Report ID: daily-2026-08-07-c2c7a4f1
-- Source run: 74b057c1-8089-4d6c-9c38-026a5397f6eb
+- Report ID: daily-2026-08-07-4b346103
+- Source run: a85c7f54-ea88-4385-a9c0-f4316fa38a8d
 - Generation status: skipped_no_secret
 - Companies covered: 2
-- Total items: 8
+- Total items: 11
 
 ## Executive Summary
 
-2026-08-07 共收录 8 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 Blue Origin、SpaceX。
+2026-08-07 共收录 11 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 Blue Origin、SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,21 +31,21 @@ No LLM summary.
 
 No LLM summary.
 
+- [New Glenn explosion: Blue Origin finally identifies what destroyed the rocket - Yahoo](https://news.google.com/rss/articles/CBMimgFBVV95cUxQYWszQTZiN2wwQlBSXzFWQUFsZXlZb3Z5UTBKR1NXeENCenlvWGdkOVc3d2s1WFZNdFBtdU96cDRGcHpDSTRjQ1U3WW9mOF9wVFR0ZzhBWWhuMWFScVVGbS1oWXFjZ3laa0lEZnFWYnF6ODMxQWxvV21IZHhKbmxtekl6Uks2Z3cwTlRLY09qaWFFR0l1cXFXRGln?oc=5) Blue Origin
+- [Starlink is back: SpaceX rocket launch from Cape Canaveral set for Monday - Florida Today](https://news.google.com/rss/articles/CBMijgJBVV95cUxPZnZmTnlCcHlLeE5pRF9ob3U4OHlsQndLdTItQ3VMR2xWMkM2NENuTG9jWWdTQVlmSHQwQ1A3elhSNVcwTGdIcmJla2lkQmRqVnJpcWZEWnhIZGptSEdrdm5Ha3JFeHljTy11S2U1MzJEWjdmVUVadmI5cXVHNWljcTJEQzNwc0pEOW5aTWJ2c1R1UktETHd6YjhQZ2dMWnloa19NUE5Ta29kT1g5Tmk3cG5RSTBRODh1OWNNcEpSOEFCZk5MUFFRRnNaMlFuWmVOOHVSTHhUM0hWbFRyTjJZUGtfUU5NR0tfQml5NDlmSGIxR01CQ1Fsd1o4aGZac3JLa0ZoVmlIMGlXbFI4T1E?oc=5) SpaceX
+- [Blue Origin Traces Cause of New Glenn’s Explosion, as the Company Targets a Return-to-Flight this Year](https://spacewatch.global/2026/08/blue-origin-traces-cause-of-new-glenns-explosion-as-the-company-targets-a-return-to-flight-this-year) Blue Origin
+- [SpaceX Shares Fail to Launch Despite Soaring Revenue. Is the Stock a Buy on the Dip?](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a75d0a6405446ffbf6e7c13f18840d7&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Ftech-companies%2Fspacex-shares-fail-to-launch-despite-soaring-revenue-is-the-stock-a-buy-on-the-dip%2Far-AA29AytD&c=14259427581201327285&mkt=en-us) SpaceX
 - [SpaceX’s rideshare freeze: What it means for the SmallSat market and Canada](https://spaceq.ca/spacexs-rideshare-freeze-what-it-means-for-the-smallsat-market-and-canada) SpaceX
 - [Blue Origin identifies engine issue behind New Glenn explosion](https://spaceflightnow.com/2026/08/06/blue-origin-identifies-engine-issue-behind-new-glenn-explosion) Blue Origin
-- [How many rockets will SpaceX launch this month? - FOX Weather](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0xLX2tJUUtTSUNnSUt6UE9qRUZYRERheEVneHREZ1B1dnF1ekViVnktbjEzdEdDRFpvYzFMWmNXeEc1QWVOWnN2NlRveUpaQU5tN0Q4SFhMSlkwdnBZYTFha3E1Z2ZET2ptbHZtdjM1RXBqNHJxRGczRzRmc3FoQV81NXhSUGloajFJ0gGQAUFVX3lxTE02QjFrY1NUM2JPV0diUEZaTTluZ1dBLVJSQ09SamxzWllteU9CczBFMTI5MTdmb2R3Y0VNX0JPVXNBQjVNbEpGN2duVWtiTkFjYU12bVRwd01Oem14Q053R1NBem1DTmctNVNtTjdWd01ydkJPblZjbnJmOW9mcFFIeVF4SG94clU1ZTFWT25Ucw?oc=5) SpaceX
-- [Blue Origin Reveals What Caused Rocket to Explode into Fireball on Launchpad - People.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDlxa0V2YmxiZU5yRVh3R0E3d3FlVGFvX1ZnN1JsVnV4VGUxNFl6elhDTEVjR3c3SERaUjEyZU1ncUlHdjl1SnYyVG5LZ2Z1czRUb1JnTXY3NzRycUNYNkhrckl3aFhkWXlZT0JZYnRQU0hGRThhLU12YjRjd1Y0eDVGV2hlOXJ6M0hzcVJaQThfWXJQUTdtSkFTNkp1VkE?oc=5) Blue Origin
-- [SpaceX Launches NROL-95 Mission as NRO Executes Dual-Track Architecture for 2026 Fleet Operations](https://satnews.com/2026/08/06/spacex-launches-nrol-95-mission-as-nro-executes-dual-track-architecture-for-2026-fleet-operations) SpaceX
-- [Blue Origin blames faulty oxygen valve for rocket explosion - upi.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVFBsaVRuZXVRMXdjbmJETDJDMk5MSV93djJUMEVRZWFvQ3dZY09DTG9YQk42VGJhNjQzNlIxYUxEeU16WHBDS3FuMjRvME5WbE93Tm1BaElCaGprZ3drUFc3Z3B5MWxCWHhvNXFfWDJuX0w1WkhKVy00RkZGbHEwNTZZWWxmVVNqbGcxeHdtNNIBlAFBVV95cUxQbVVRSmpaeEZPeW9MRzJObURPRVM3c3lzUmlJTWN0Q0Q1ZjdURnRXSTdjc0hKRTRvX184ZFktbkpLVzNrV1dsdFZ4MWNONGdDd1pEd0dFSGF6b3o2OWpuOVRKMTVIN1Nta3RSdi03SHJQUlU5V2dEU0hpR1hiY1dQSzNEcjh1ai1WN213OW9LclpESVBU?oc=5) Blue Origin
 
 ## Top News
 
+- [New Glenn explosion: Blue Origin finally identifies what destroyed the rocket - Yahoo](https://news.google.com/rss/articles/CBMimgFBVV95cUxQYWszQTZiN2wwQlBSXzFWQUFsZXlZb3Z5UTBKR1NXeENCenlvWGdkOVc3d2s1WFZNdFBtdU96cDRGcHpDSTRjQ1U3WW9mOF9wVFR0ZzhBWWhuMWFScVVGbS1oWXFjZ3laa0lEZnFWYnF6ODMxQWxvV21IZHhKbmxtekl6Uks2Z3cwTlRLY09qaWFFR0l1cXFXRGln?oc=5) Blue Origin
+- [Starlink is back: SpaceX rocket launch from Cape Canaveral set for Monday - Florida Today](https://news.google.com/rss/articles/CBMijgJBVV95cUxPZnZmTnlCcHlLeE5pRF9ob3U4OHlsQndLdTItQ3VMR2xWMkM2NENuTG9jWWdTQVlmSHQwQ1A3elhSNVcwTGdIcmJla2lkQmRqVnJpcWZEWnhIZGptSEdrdm5Ha3JFeHljTy11S2U1MzJEWjdmVUVadmI5cXVHNWljcTJEQzNwc0pEOW5aTWJ2c1R1UktETHd6YjhQZ2dMWnloa19NUE5Ta29kT1g5Tmk3cG5RSTBRODh1OWNNcEpSOEFCZk5MUFFRRnNaMlFuWmVOOHVSTHhUM0hWbFRyTjJZUGtfUU5NR0tfQml5NDlmSGIxR01CQ1Fsd1o4aGZac3JLa0ZoVmlIMGlXbFI4T1E?oc=5) SpaceX
+- [Blue Origin Traces Cause of New Glenn’s Explosion, as the Company Targets a Return-to-Flight this Year](https://spacewatch.global/2026/08/blue-origin-traces-cause-of-new-glenns-explosion-as-the-company-targets-a-return-to-flight-this-year) Blue Origin
+- [SpaceX Shares Fail to Launch Despite Soaring Revenue. Is the Stock a Buy on the Dip?](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a75d0a6405446ffbf6e7c13f18840d7&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Ftech-companies%2Fspacex-shares-fail-to-launch-despite-soaring-revenue-is-the-stock-a-buy-on-the-dip%2Far-AA29AytD&c=14259427581201327285&mkt=en-us) SpaceX
 - [SpaceX’s rideshare freeze: What it means for the SmallSat market and Canada](https://spaceq.ca/spacexs-rideshare-freeze-what-it-means-for-the-smallsat-market-and-canada) SpaceX
 - [Blue Origin identifies engine issue behind New Glenn explosion](https://spaceflightnow.com/2026/08/06/blue-origin-identifies-engine-issue-behind-new-glenn-explosion) Blue Origin
-- [How many rockets will SpaceX launch this month? - FOX Weather](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0xLX2tJUUtTSUNnSUt6UE9qRUZYRERheEVneHREZ1B1dnF1ekViVnktbjEzdEdDRFpvYzFMWmNXeEc1QWVOWnN2NlRveUpaQU5tN0Q4SFhMSlkwdnBZYTFha3E1Z2ZET2ptbHZtdjM1RXBqNHJxRGczRzRmc3FoQV81NXhSUGloajFJ0gGQAUFVX3lxTE02QjFrY1NUM2JPV0diUEZaTTluZ1dBLVJSQ09SamxzWllteU9CczBFMTI5MTdmb2R3Y0VNX0JPVXNBQjVNbEpGN2duVWtiTkFjYU12bVRwd01Oem14Q053R1NBem1DTmctNVNtTjdWd01ydkJPblZjbnJmOW9mcFFIeVF4SG94clU1ZTFWT25Ucw?oc=5) SpaceX
-- [Blue Origin Reveals What Caused Rocket to Explode into Fireball on Launchpad - People.com](https://news.google.com/rss/articles/CBMinwFBVV95cUxNcDlxa0V2YmxiZU5yRVh3R0E3d3FlVGFvX1ZnN1JsVnV4VGUxNFl6elhDTEVjR3c3SERaUjEyZU1ncUlHdjl1SnYyVG5LZ2Z1czRUb1JnTXY3NzRycUNYNkhrckl3aFhkWXlZT0JZYnRQU0hGRThhLU12YjRjd1Y0eDVGV2hlOXJ6M0hzcVJaQThfWXJQUTdtSkFTNkp1VkE?oc=5) Blue Origin
-- [SpaceX Launches NROL-95 Mission as NRO Executes Dual-Track Architecture for 2026 Fleet Operations](https://satnews.com/2026/08/06/spacex-launches-nrol-95-mission-as-nro-executes-dual-track-architecture-for-2026-fleet-operations) SpaceX
-- [Blue Origin blames faulty oxygen valve for rocket explosion - upi.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVFBsaVRuZXVRMXdjbmJETDJDMk5MSV93djJUMEVRZWFvQ3dZY09DTG9YQk42VGJhNjQzNlIxYUxEeU16WHBDS3FuMjRvME5WbE93Tm1BaElCaGprZ3drUFc3Z3B5MWxCWHhvNXFfWDJuX0w1WkhKVy00RkZGbHEwNTZZWWxmVVNqbGcxeHdtNNIBlAFBVV95cUxQbVVRSmpaeEZPeW9MRzJObURPRVM3c3lzUmlJTWN0Q0Q1ZjdURnRXSTdjc0hKRTRvX184ZFktbkpLVzNrV1dsdFZ4MWNONGdDd1pEd0dFSGF6b3o2OWpuOVRKMTVIN1Nta3RSdi03SHJQUlU5V2dEU0hpR1hiY1dQSzNEcjh1ai1WN213OW9LclpESVBU?oc=5) Blue Origin
 
 ## Risks And Watchpoints
 

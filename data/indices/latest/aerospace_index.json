@@ -1,6 +1,6 @@
 {
   "as_of_date": "2026-08-07",
-  "generated_at": "2026-08-07T06:57:41.599355Z",
+  "generated_at": "2026-08-07T12:35:30.313613Z",
   "market_data_source": {
     "delay_notice": "中国航天航空指数来自东方财富；美国板块为等权篮子。行情可能延迟，不构成投资建议。",
     "expected_instruments": 21,
@@ -27,44 +27,44 @@
   "markets": {
     "china": {
       "advancers": 6,
-      "basket_change_pct": 0.985,
+      "basket_change_pct": 0.966,
       "basket_name": "中国航空航天板块等权篮子",
-      "change_pct": 0.985,
+      "change_pct": 0.966,
       "currency": "CNY",
       "decliners": 4,
       "display_name": "中国航空航天板块",
       "expected_instrument_count": 11,
-      "index_change_amount": 212.25,
-      "index_change_pct": 0.41,
+      "index_change_amount": 195.71,
+      "index_change_pct": 0.38,
       "index_code": "BK0480",
       "index_name": "航天航空指数",
       "index_previous_close": 51505.45,
       "index_source_name": "东方财富",
-      "index_source_timestamp": "2026-08-07 14:57:39",
+      "index_source_timestamp": "2026-08-07 15:39:32",
       "index_source_url": "https://quote.eastmoney.com/bk/90.BK0480.html",
       "index_status": "current",
-      "index_value": 51717.7,
+      "index_value": 51701.16,
       "industry_index": {
-        "change_amount": 212.25,
-        "change_pct": 0.41,
+        "change_amount": 195.71,
+        "change_pct": 0.38,
         "high": 51739.42,
         "instrument_type": "industry_index",
         "low": 50516.15,
         "name": "航天航空指数",
         "open": 51374.19,
         "previous_close": 51505.45,
-        "price": 51717.7,
+        "price": 51701.16,
         "provider_id": "eastmoney",
         "provider_name": "东方财富",
         "secid": "90.BK0480",
         "source_name": "航天航空",
-        "source_timestamp": "2026-08-07 14:57:39",
+        "source_timestamp": "2026-08-07 15:39:32",
         "source_url": "https://quote.eastmoney.com/bk/90.BK0480.html",
         "status": "current",
         "symbol": "BK0480",
         "ticker": "BK0480",
-        "turnover": 18909993673.0,
-        "volume": 7458198.0
+        "turnover": 19129615787.0,
+        "volume": 7541865.0
       },
       "member_count": 10,
       "members": [
@@ -78,11 +78,11 @@
           "previous_close": 65.33,
           "price": 68.68,
           "source_name": "中国卫星",
-          "source_timestamp": "2026-08-07 14:57:37",
+          "source_timestamp": "2026-08-07 15:34:59",
           "status": "current",
           "symbol": "sh600118",
           "ticker": "600118.SH",
-          "volume": 52006322.0
+          "volume": 52734422.0
         },
         {
           "change_amount": -0.09,
@@ -94,27 +94,27 @@
           "previous_close": 20.83,
           "price": 20.74,
           "source_name": "中航西飞",
-          "source_timestamp": "2026-08-07 14:57:36",
+          "source_timestamp": "2026-08-07 16:30:00",
           "status": "current",
           "symbol": "sz000768",
           "ticker": "000768.SZ",
-          "volume": 16485171.0
+          "volume": 16639171.0
         },
         {
-          "change_amount": -0.05,
-          "change_pct": -0.117,
+          "change_amount": -0.09,
+          "change_pct": -0.211,
           "high": 43.0,
           "low": 42.03,
           "name": "中航沈飞",
           "open": 42.5,
           "previous_close": 42.65,
-          "price": 42.6,
+          "price": 42.56,
           "source_name": "中航沈飞",
-          "source_timestamp": "2026-08-07 14:57:36",
+          "source_timestamp": "2026-08-07 15:34:59",
           "status": "current",
           "symbol": "sh600760",
           "ticker": "600760.SH",
-          "volume": 12500167.0
+          "volume": 12620467.0
         },
         {
           "change_amount": 0.06,
@@ -126,11 +126,11 @@
           "previous_close": 35.91,
           "price": 35.97,
           "source_name": "航发动力",
-          "source_timestamp": "2026-08-07 14:57:34",
+          "source_timestamp": "2026-08-07 15:34:59",
           "status": "current",
           "symbol": "sh600893",
           "ticker": "600893.SH",
-          "volume": 25464533.0
+          "volume": 25865333.0
         },
         {
           "change_amount": -0.09,
@@ -142,27 +142,27 @@
           "previous_close": 11.4,
           "price": 11.31,
           "source_name": "中航机载",
-          "source_timestamp": "2026-08-07 14:57:36",
+          "source_timestamp": "2026-08-07 15:34:59",
           "status": "current",
           "symbol": "sh600372",
           "ticker": "600372.SH",
-          "volume": 23710455.0
+          "volume": 24024055.0
         },
         {
-          "change_amount": 0.36,
-          "change_pct": 2.243,
+          "change_amount": 0.35,
+          "change_pct": 2.181,
           "high": 16.55,
           "low": 15.72,
           "name": "航天电子",
           "open": 16.12,
           "previous_close": 16.05,
-          "price": 16.41,
+          "price": 16.4,
           "source_name": "航天电子",
-          "source_timestamp": "2026-08-07 14:57:36",
+          "source_timestamp": "2026-08-07 15:34:59",
           "status": "current",
           "symbol": "sh600879",
           "ticker": "600879.SH",
-          "volume": 107562860.0
+          "volume": 108660760.0
         },
         {
           "change_amount": 0.32,
@@ -174,59 +174,59 @@
           "previous_close": 15.66,
           "price": 15.98,
           "source_name": "航天发展",
-          "source_timestamp": "2026-08-07 14:57:36",
+          "source_timestamp": "2026-08-07 16:30:00",
           "status": "current",
           "symbol": "sz000547",
           "ticker": "000547.SZ",
-          "volume": 71144514.0
+          "volume": 72175814.0
         },
         {
-          "change_amount": -0.47,
-          "change_pct": -2.48,
+          "change_amount": -0.48,
+          "change_pct": -2.533,
           "high": 18.8,
           "low": 18.2,
           "name": "航天彩虹",
           "open": 18.67,
           "previous_close": 18.95,
-          "price": 18.48,
+          "price": 18.47,
           "source_name": "航天彩虹",
-          "source_timestamp": "2026-08-07 14:57:36",
+          "source_timestamp": "2026-08-07 16:29:45",
           "status": "current",
           "symbol": "sz002389",
           "ticker": "002389.SZ",
-          "volume": 31443150.0
+          "volume": 31718850.0
         },
         {
-          "change_amount": 0.87,
-          "change_pct": 3.598,
+          "change_amount": 0.88,
+          "change_pct": 3.639,
           "high": 25.08,
           "low": 23.7,
           "name": "广联航空",
           "open": 24.3,
           "previous_close": 24.18,
-          "price": 25.05,
+          "price": 25.06,
           "source_name": "广联航空",
-          "source_timestamp": "2026-08-07 14:57:36",
+          "source_timestamp": "2026-08-07 16:29:00",
           "status": "current",
           "symbol": "sz300900",
           "ticker": "300900.SZ",
-          "volume": 19234962.0
+          "volume": 19431762.0
         },
         {
-          "change_amount": 0.2,
-          "change_pct": 0.492,
+          "change_amount": 0.19,
+          "change_pct": 0.467,
           "high": 40.99,
           "low": 39.91,
           "name": "中无人机",
           "open": 40.48,
           "previous_close": 40.69,
-          "price": 40.89,
+          "price": 40.88,
           "source_name": "中无人机",
-          "source_timestamp": "2026-08-07 14:57:34",
+          "source_timestamp": "2026-08-07 15:34:59",
           "status": "current",
           "symbol": "sh688297",
           "ticker": "688297.SH",
-          "volume": 7799704.0
+          "volume": 7885137.0
         }
       ],
       "quoted_instrument_count": 11,
@@ -267,7 +267,7 @@
           "previous_close": 240.19,
           "price": 232.19,
           "source_name": "波音",
-          "source_timestamp": "2026-08-07 09:37:56",
+          "source_timestamp": "2026-08-07 20:35:07",
           "status": "current",
           "symbol": "gb_ba",
           "ticker": "BA",
@@ -283,11 +283,11 @@
           "previous_close": 577.6,
           "price": 582.85,
           "source_name": "洛克希德马丁",
-          "source_timestamp": "2026-08-07 09:44:55",
+          "source_timestamp": "2026-08-07 20:34:28",
           "status": "current",
           "symbol": "gb_lmt",
           "ticker": "LMT",
-          "volume": 738799.0
+          "volume": 738715.0
         },
         {
           "change_amount": 0.94,
@@ -299,7 +299,7 @@
           "previous_close": 222.31,
           "price": 223.25,
           "source_name": "RTX",
-          "source_timestamp": "2026-08-07 09:48:18",
+          "source_timestamp": "2026-08-07 20:35:21",
           "status": "current",
           "symbol": "gb_rtx",
           "ticker": "RTX",
@@ -315,11 +315,11 @@
           "previous_close": 557.47,
           "price": 567.74,
           "source_name": "诺斯洛普",
-          "source_timestamp": "2026-08-07 09:46:11",
+          "source_timestamp": "2026-08-07 20:34:43",
           "status": "current",
           "symbol": "gb_noc",
           "ticker": "NOC",
-          "volume": 604025.0
+          "volume": 603908.0
         },
         {
           "change_amount": 2.84,
@@ -331,11 +331,11 @@
           "previous_close": 384.08,
           "price": 386.92,
           "source_name": "通用动力",
-          "source_timestamp": "2026-08-07 09:42:20",
+          "source_timestamp": "2026-08-07 20:31:44",
           "status": "current",
           "symbol": "gb_gd",
           "ticker": "GD",
-          "volume": 650399.0
+          "volume": 650371.0
         },
         {
           "change_amount": 3.41,
@@ -347,11 +347,11 @@
           "previous_close": 286.12,
           "price": 289.53,
           "source_name": "L3 HARRIS TECHNOLOGIES INC",
-          "source_timestamp": "2026-08-07 09:44:53",
+          "source_timestamp": "2026-08-07 20:35:01",
           "status": "current",
           "symbol": "gb_lhx",
           "ticker": "LHX",
-          "volume": 1018113.0
+          "volume": 1018000.0
         },
         {
           "change_amount": -1.7,
@@ -363,11 +363,11 @@
           "previous_close": 291.42,
           "price": 289.72,
           "source_name": "HWM",
-          "source_timestamp": "2026-08-07 09:43:19",
+          "source_timestamp": "2026-08-07 20:34:30",
           "status": "current",
           "symbol": "gb_hwm",
           "ticker": "HWM",
-          "volume": 3376502.0
+          "volume": 3376385.0
         },
         {
           "change_amount": 7.36,
@@ -379,7 +379,7 @@
           "previous_close": 1254.71,
           "price": 1262.07,
           "source_name": "TransDigm",
-          "source_timestamp": "2026-08-07 09:49:41",
+          "source_timestamp": "2026-08-07 20:30:06",
           "status": "current",
           "symbol": "gb_tdg",
           "ticker": "TDG",
@@ -395,7 +395,7 @@
           "previous_close": 74.82,
           "price": 75.67,
           "source_name": "RKLB",
-          "source_timestamp": "2026-08-07 09:48:22",
+          "source_timestamp": "2026-08-07 20:35:16",
           "status": "current",
           "symbol": "gb_rklb",
           "ticker": "RKLB",
@@ -411,11 +411,11 @@
           "previous_close": 68.38,
           "price": 67.36,
           "source_name": "ASTS",
-          "source_timestamp": "2026-08-07 08:11:42",
+          "source_timestamp": "2026-08-07 20:35:19",
           "status": "current",
           "symbol": "gb_asts",
           "ticker": "ASTS",
-          "volume": 13024547.0
+          "volume": 13024220.0
         }
       ],
       "quoted_instrument_count": 10,
@@ -435,7 +435,7 @@
   "news_activity": {
     "as_of_date": "2026-08-07",
     "base_value": 100,
-    "baseline_average": 50.5,
+    "baseline_average": 51.23,
     "baseline_days": 30,
     "heat_label": "低热",
     "history": [
@@ -541,330 +541,330 @@
         "baseline_average": 10.1,
         "date": "2026-06-23",
         "heat_label": "高热",
-        "index_value": 772.3,
-        "news_count": 78
-      },
-      {
-        "baseline_average": 12.67,
-        "date": "2026-06-24",
-        "heat_label": "高热",
-        "index_value": 331.6,
-        "news_count": 42
-      },
-      {
-        "baseline_average": 14.03,
-        "date": "2026-06-25",
-        "heat_label": "高热",
-        "index_value": 299.3,
-        "news_count": 42
-      },
-      {
-        "baseline_average": 15.33,
-        "date": "2026-06-26",
-        "heat_label": "高热",
-        "index_value": 358.7,
-        "news_count": 55
-      },
-      {
-        "baseline_average": 17.1,
-        "date": "2026-06-27",
-        "heat_label": "常态",
-        "index_value": 87.7,
-        "news_count": 15
-      },
-      {
-        "baseline_average": 17.53,
-        "date": "2026-06-28",
-        "heat_label": "高热",
-        "index_value": 342.2,
-        "news_count": 60
-      },
-      {
-        "baseline_average": 19.23,
-        "date": "2026-06-29",
-        "heat_label": "高热",
-        "index_value": 592.7,
-        "news_count": 114
-      },
-      {
-        "baseline_average": 22.83,
-        "date": "2026-06-30",
-        "heat_label": "高热",
-        "index_value": 560.6,
-        "news_count": 128
-      },
-      {
-        "baseline_average": 27.03,
-        "date": "2026-07-01",
-        "heat_label": "高热",
-        "index_value": 358.8,
-        "news_count": 97
-      },
-      {
-        "baseline_average": 30.17,
-        "date": "2026-07-02",
-        "heat_label": "常态",
-        "index_value": 116.0,
-        "news_count": 35
-      },
-      {
-        "baseline_average": 31.07,
-        "date": "2026-07-03",
-        "heat_label": "高热",
-        "index_value": 254.3,
+        "index_value": 782.2,
         "news_count": 79
       },
       {
-        "baseline_average": 33.43,
-        "date": "2026-07-04",
-        "heat_label": "偏低",
-        "index_value": 56.8,
-        "news_count": 19
-      },
-      {
-        "baseline_average": 34.0,
-        "date": "2026-07-05",
-        "heat_label": "低热",
-        "index_value": 47.1,
-        "news_count": 16
-      },
-      {
-        "baseline_average": 34.23,
-        "date": "2026-07-06",
-        "heat_label": "偏低",
-        "index_value": 70.1,
-        "news_count": 24
-      },
-      {
-        "baseline_average": 34.9,
-        "date": "2026-07-07",
-        "heat_label": "偏低",
-        "index_value": 77.4,
-        "news_count": 27
-      },
-      {
-        "baseline_average": 35.73,
-        "date": "2026-07-08",
+        "baseline_average": 12.7,
+        "date": "2026-06-24",
         "heat_label": "高热",
-        "index_value": 237.9,
-        "news_count": 85
+        "index_value": 330.7,
+        "news_count": 42
       },
       {
-        "baseline_average": 38.53,
-        "date": "2026-07-09",
-        "heat_label": "活跃",
-        "index_value": 150.5,
-        "news_count": 58
-      },
-      {
-        "baseline_average": 39.53,
-        "date": "2026-07-10",
-        "heat_label": "常态",
-        "index_value": 83.5,
-        "news_count": 33
-      },
-      {
-        "baseline_average": 39.53,
-        "date": "2026-07-11",
-        "heat_label": "活跃",
-        "index_value": 141.7,
-        "news_count": 56
-      },
-      {
-        "baseline_average": 40.93,
-        "date": "2026-07-12",
-        "heat_label": "低热",
-        "index_value": 26.9,
-        "news_count": 11
-      },
-      {
-        "baseline_average": 40.93,
-        "date": "2026-07-13",
+        "baseline_average": 14.07,
+        "date": "2026-06-25",
         "heat_label": "高热",
-        "index_value": 259.0,
-        "news_count": 106
+        "index_value": 305.7,
+        "news_count": 43
       },
       {
-        "baseline_average": 44.33,
-        "date": "2026-07-14",
+        "baseline_average": 15.4,
+        "date": "2026-06-26",
+        "heat_label": "高热",
+        "index_value": 357.1,
+        "news_count": 55
+      },
+      {
+        "baseline_average": 17.17,
+        "date": "2026-06-27",
         "heat_label": "常态",
-        "index_value": 88.0,
-        "news_count": 39
-      },
-      {
-        "baseline_average": 45.3,
-        "date": "2026-07-15",
-        "heat_label": "偏低",
-        "index_value": 68.4,
-        "news_count": 31
-      },
-      {
-        "baseline_average": 45.07,
-        "date": "2026-07-16",
-        "heat_label": "低热",
-        "index_value": 22.2,
-        "news_count": 10
-      },
-      {
-        "baseline_average": 44.9,
-        "date": "2026-07-17",
-        "heat_label": "低热",
-        "index_value": 33.4,
+        "index_value": 87.4,
         "news_count": 15
       },
       {
-        "baseline_average": 44.63,
+        "baseline_average": 17.6,
+        "date": "2026-06-28",
+        "heat_label": "高热",
+        "index_value": 340.9,
+        "news_count": 60
+      },
+      {
+        "baseline_average": 19.3,
+        "date": "2026-06-29",
+        "heat_label": "高热",
+        "index_value": 595.9,
+        "news_count": 115
+      },
+      {
+        "baseline_average": 22.93,
+        "date": "2026-06-30",
+        "heat_label": "高热",
+        "index_value": 562.5,
+        "news_count": 129
+      },
+      {
+        "baseline_average": 27.17,
+        "date": "2026-07-01",
+        "heat_label": "高热",
+        "index_value": 357.1,
+        "news_count": 97
+      },
+      {
+        "baseline_average": 30.3,
+        "date": "2026-07-02",
+        "heat_label": "常态",
+        "index_value": 115.5,
+        "news_count": 35
+      },
+      {
+        "baseline_average": 31.2,
+        "date": "2026-07-03",
+        "heat_label": "高热",
+        "index_value": 256.4,
+        "news_count": 80
+      },
+      {
+        "baseline_average": 33.6,
+        "date": "2026-07-04",
+        "heat_label": "偏低",
+        "index_value": 56.5,
+        "news_count": 19
+      },
+      {
+        "baseline_average": 34.17,
+        "date": "2026-07-05",
+        "heat_label": "低热",
+        "index_value": 46.8,
+        "news_count": 16
+      },
+      {
+        "baseline_average": 34.4,
+        "date": "2026-07-06",
+        "heat_label": "偏低",
+        "index_value": 69.8,
+        "news_count": 24
+      },
+      {
+        "baseline_average": 35.07,
+        "date": "2026-07-07",
+        "heat_label": "偏低",
+        "index_value": 77.0,
+        "news_count": 27
+      },
+      {
+        "baseline_average": 35.9,
+        "date": "2026-07-08",
+        "heat_label": "高热",
+        "index_value": 236.8,
+        "news_count": 85
+      },
+      {
+        "baseline_average": 38.7,
+        "date": "2026-07-09",
+        "heat_label": "活跃",
+        "index_value": 149.9,
+        "news_count": 58
+      },
+      {
+        "baseline_average": 39.7,
+        "date": "2026-07-10",
+        "heat_label": "常态",
+        "index_value": 83.1,
+        "news_count": 33
+      },
+      {
+        "baseline_average": 39.7,
+        "date": "2026-07-11",
+        "heat_label": "活跃",
+        "index_value": 141.1,
+        "news_count": 56
+      },
+      {
+        "baseline_average": 41.1,
+        "date": "2026-07-12",
+        "heat_label": "低热",
+        "index_value": 26.8,
+        "news_count": 11
+      },
+      {
+        "baseline_average": 41.1,
+        "date": "2026-07-13",
+        "heat_label": "高热",
+        "index_value": 260.3,
+        "news_count": 107
+      },
+      {
+        "baseline_average": 44.53,
+        "date": "2026-07-14",
+        "heat_label": "常态",
+        "index_value": 87.6,
+        "news_count": 39
+      },
+      {
+        "baseline_average": 45.5,
+        "date": "2026-07-15",
+        "heat_label": "偏低",
+        "index_value": 68.1,
+        "news_count": 31
+      },
+      {
+        "baseline_average": 45.27,
+        "date": "2026-07-16",
+        "heat_label": "低热",
+        "index_value": 22.1,
+        "news_count": 10
+      },
+      {
+        "baseline_average": 45.1,
+        "date": "2026-07-17",
+        "heat_label": "低热",
+        "index_value": 33.3,
+        "news_count": 15
+      },
+      {
+        "baseline_average": 44.83,
         "date": "2026-07-18",
         "heat_label": "低热",
-        "index_value": 15.7,
+        "index_value": 15.6,
         "news_count": 7
       },
       {
-        "baseline_average": 44.77,
+        "baseline_average": 44.97,
         "date": "2026-07-19",
         "heat_label": "低热",
         "index_value": 2.2,
         "news_count": 1
       },
       {
-        "baseline_average": 44.37,
+        "baseline_average": 44.57,
         "date": "2026-07-20",
         "heat_label": "偏低",
-        "index_value": 72.1,
+        "index_value": 71.8,
         "news_count": 32
       },
       {
-        "baseline_average": 45.2,
+        "baseline_average": 45.4,
         "date": "2026-07-21",
         "heat_label": "高热",
-        "index_value": 205.8,
-        "news_count": 93
-      },
-      {
-        "baseline_average": 47.83,
-        "date": "2026-07-22",
-        "heat_label": "偏低",
-        "index_value": 71.1,
-        "news_count": 34
+        "index_value": 207.0,
+        "news_count": 94
       },
       {
         "baseline_average": 48.07,
+        "date": "2026-07-22",
+        "heat_label": "偏低",
+        "index_value": 70.7,
+        "news_count": 34
+      },
+      {
+        "baseline_average": 48.3,
         "date": "2026-07-23",
         "heat_label": "低热",
-        "index_value": 39.5,
+        "index_value": 39.3,
         "news_count": 19
       },
       {
-        "baseline_average": 46.1,
+        "baseline_average": 46.3,
         "date": "2026-07-24",
         "heat_label": "高热",
-        "index_value": 705.0,
-        "news_count": 325
+        "index_value": 712.7,
+        "news_count": 330
       },
       {
-        "baseline_average": 55.53,
+        "baseline_average": 55.9,
         "date": "2026-07-25",
         "heat_label": "活跃",
-        "index_value": 145.9,
-        "news_count": 81
+        "index_value": 143.1,
+        "news_count": 80
       },
       {
-        "baseline_average": 56.83,
+        "baseline_average": 57.13,
         "date": "2026-07-26",
         "heat_label": "低热",
         "index_value": 15.8,
         "news_count": 9
       },
       {
-        "baseline_average": 55.3,
+        "baseline_average": 55.6,
         "date": "2026-07-27",
-        "heat_label": "常态",
-        "index_value": 119.3,
-        "news_count": 66
+        "heat_label": "活跃",
+        "index_value": 120.5,
+        "news_count": 67
       },
       {
-        "baseline_average": 57.0,
+        "baseline_average": 57.33,
         "date": "2026-07-28",
         "heat_label": "常态",
-        "index_value": 103.5,
+        "index_value": 102.9,
         "news_count": 59
       },
       {
-        "baseline_average": 56.97,
+        "baseline_average": 57.3,
         "date": "2026-07-29",
         "heat_label": "低热",
-        "index_value": 24.6,
+        "index_value": 24.4,
         "news_count": 14
       },
       {
-        "baseline_average": 53.63,
+        "baseline_average": 53.93,
         "date": "2026-07-30",
         "heat_label": "偏低",
-        "index_value": 55.9,
+        "index_value": 55.6,
         "news_count": 30
       },
       {
-        "baseline_average": 50.37,
+        "baseline_average": 50.63,
         "date": "2026-07-31",
         "heat_label": "偏低",
-        "index_value": 55.6,
-        "news_count": 28
+        "index_value": 57.3,
+        "news_count": 29
       },
       {
-        "baseline_average": 48.07,
+        "baseline_average": 48.37,
         "date": "2026-08-01",
         "heat_label": "偏低",
-        "index_value": 79.1,
+        "index_value": 78.6,
         "news_count": 38
       },
       {
-        "baseline_average": 48.17,
+        "baseline_average": 48.47,
         "date": "2026-08-02",
         "heat_label": "低热",
-        "index_value": 14.5,
+        "index_value": 14.4,
         "news_count": 7
       },
       {
-        "baseline_average": 45.77,
+        "baseline_average": 46.03,
         "date": "2026-08-03",
         "heat_label": "常态",
-        "index_value": 96.1,
-        "news_count": 44
+        "index_value": 97.8,
+        "news_count": 45
       },
       {
-        "baseline_average": 46.6,
+        "baseline_average": 46.9,
         "date": "2026-08-04",
         "heat_label": "活跃",
-        "index_value": 154.5,
-        "news_count": 72
+        "index_value": 157.8,
+        "news_count": 74
       },
       {
-        "baseline_average": 48.47,
+        "baseline_average": 48.83,
         "date": "2026-08-05",
         "heat_label": "活跃",
-        "index_value": 150.6,
-        "news_count": 73
+        "index_value": 157.7,
+        "news_count": 77
       },
       {
-        "baseline_average": 50.1,
+        "baseline_average": 50.6,
         "date": "2026-08-06",
-        "heat_label": "偏低",
-        "index_value": 77.8,
-        "news_count": 39
+        "heat_label": "常态",
+        "index_value": 90.9,
+        "news_count": 46
       },
       {
-        "baseline_average": 50.5,
+        "baseline_average": 51.23,
         "date": "2026-08-07",
         "heat_label": "低热",
-        "index_value": 19.8,
-        "news_count": 10
+        "index_value": 27.3,
+        "news_count": 14
       }
     ],
     "index_name": "SDATA 新闻活跃度指数",
-    "index_value": 19.8,
+    "index_value": 27.3,
     "is_partial_day": true,
     "methodology": "当日去重新闻数 ÷ 前 30 个自然日日均新闻数 × 100",
-    "news_count": 10
+    "news_count": 14
   },
   "schema_version": "aerospace_index_snapshot.v4"
 }
