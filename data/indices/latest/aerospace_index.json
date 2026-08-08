@@ -1,10 +1,13 @@
 {
   "as_of_date": "2026-08-08",
-  "generated_at": "2026-08-08T00:40:12.796229Z",
+  "generated_at": "2026-08-08T03:01:32.618346Z",
   "market_data_source": {
     "delay_notice": "中国航天航空指数来自东方财富；美国板块为等权篮子。行情可能延迟，不构成投资建议。",
+    "errors": {
+      "industry_index": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+    },
     "expected_instruments": 21,
-    "quoted_instruments": 21,
+    "quoted_instruments": 20,
     "request_count": 2,
     "source_id": "multi_source_market_data",
     "source_name": "新浪财经 + 东方财富",
@@ -17,12 +20,12 @@
       },
       {
         "expected_instruments": 1,
-        "quoted_instruments": 1,
+        "quoted_instruments": 0,
         "source_id": "eastmoney",
         "source_name": "东方财富行情"
       }
     ],
-    "status": "current"
+    "status": "partial"
   },
   "markets": {
     "china": {
@@ -42,7 +45,7 @@
       "index_source_name": "东方财富",
       "index_source_timestamp": "2026-08-07 15:39:32",
       "index_source_url": "https://quote.eastmoney.com/bk/90.BK0480.html",
-      "index_status": "current",
+      "index_status": "stale_previous",
       "index_value": 51701.16,
       "industry_index": {
         "change_amount": 195.71,
@@ -60,7 +63,7 @@
         "source_name": "航天航空",
         "source_timestamp": "2026-08-07 15:39:32",
         "source_url": "https://quote.eastmoney.com/bk/90.BK0480.html",
-        "status": "current",
+        "status": "stale_previous",
         "symbol": "BK0480",
         "ticker": "BK0480",
         "turnover": 19129615787.0,
@@ -229,10 +232,10 @@
           "volume": 7885137.0
         }
       ],
-      "quoted_instrument_count": 11,
+      "quoted_instrument_count": 10,
       "quoted_member_count": 10,
       "sector_id": "china",
-      "status": "current",
+      "status": "partial",
       "unchanged": 0
     },
     "united_states": {
@@ -267,7 +270,7 @@
           "previous_close": 232.19,
           "price": 234.42,
           "source_name": "波音",
-          "source_timestamp": "2026-08-08 08:39:28",
+          "source_timestamp": "2026-08-08 09:41:32",
           "status": "current",
           "symbol": "gb_ba",
           "ticker": "BA",
@@ -283,7 +286,7 @@
           "previous_close": 582.85,
           "price": 587.95,
           "source_name": "洛克希德马丁",
-          "source_timestamp": "2026-08-08 08:33:28",
+          "source_timestamp": "2026-08-08 09:48:28",
           "status": "current",
           "symbol": "gb_lmt",
           "ticker": "LMT",
@@ -299,7 +302,7 @@
           "previous_close": 223.25,
           "price": 223.03,
           "source_name": "RTX",
-          "source_timestamp": "2026-08-08 08:36:51",
+          "source_timestamp": "2026-08-08 09:49:48",
           "status": "current",
           "symbol": "gb_rtx",
           "ticker": "RTX",
@@ -315,7 +318,7 @@
           "previous_close": 567.74,
           "price": 571.58,
           "source_name": "诺斯洛普",
-          "source_timestamp": "2026-08-08 08:34:44",
+          "source_timestamp": "2026-08-08 09:49:44",
           "status": "current",
           "symbol": "gb_noc",
           "ticker": "NOC",
@@ -331,7 +334,7 @@
           "previous_close": 386.92,
           "price": 392.05,
           "source_name": "通用动力",
-          "source_timestamp": "2026-08-08 08:28:48",
+          "source_timestamp": "2026-08-08 09:43:48",
           "status": "current",
           "symbol": "gb_gd",
           "ticker": "GD",
@@ -347,7 +350,7 @@
           "previous_close": 289.53,
           "price": 286.67,
           "source_name": "L3 HARRIS TECHNOLOGIES INC",
-          "source_timestamp": "2026-08-08 08:33:25",
+          "source_timestamp": "2026-08-08 09:48:26",
           "status": "current",
           "symbol": "gb_lhx",
           "ticker": "LHX",
@@ -363,7 +366,7 @@
           "previous_close": 289.58,
           "price": 281.88,
           "source_name": "HWM",
-          "source_timestamp": "2026-08-08 08:31:48",
+          "source_timestamp": "2026-08-08 09:46:48",
           "status": "current",
           "symbol": "gb_hwm",
           "ticker": "HWM",
@@ -379,7 +382,7 @@
           "previous_close": 1262.07,
           "price": 1225.25,
           "source_name": "TransDigm",
-          "source_timestamp": "2026-08-08 08:38:14",
+          "source_timestamp": "2026-08-08 09:38:14",
           "status": "current",
           "symbol": "gb_tdg",
           "ticker": "TDG",
@@ -395,7 +398,7 @@
           "previous_close": 75.67,
           "price": 82.83,
           "source_name": "RKLB",
-          "source_timestamp": "2026-08-08 08:36:55",
+          "source_timestamp": "2026-08-08 09:42:10",
           "status": "current",
           "symbol": "gb_rklb",
           "ticker": "RKLB",
@@ -411,7 +414,7 @@
           "previous_close": 67.36,
           "price": 71.94,
           "source_name": "ASTS",
-          "source_timestamp": "2026-08-08 08:31:52",
+          "source_timestamp": "2026-08-08 09:46:52",
           "status": "current",
           "symbol": "gb_asts",
           "ticker": "ASTS",
