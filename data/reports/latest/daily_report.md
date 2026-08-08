@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-08-08
 
-- Report ID: daily-2026-08-08-356a3811
-- Source run: e1e05f1c-627a-47c1-9d97-98705646c9db
+- Report ID: daily-2026-08-08-b870e2a5
+- Source run: 8f209e06-2c62-4a91-983b-f43d152a8bfc
 - Generation status: skipped_no_secret
 - Companies covered: 2
-- Total items: 7
+- Total items: 8
 
 ## Executive Summary
 
-2026-08-08 共收录 7 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
+2026-08-08 共收录 8 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
 
 ## Industry Chain Sections
 
@@ -31,17 +31,19 @@ No LLM summary.
 
 No LLM summary.
 
+- [Blue Origin: what Jeff Bezos' rocket company does and how it works - qz.com](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YOFVHalVxNWNGTGlNMldNSy1DNGVWbFhTeUFvS3BacEpId2FVT1hYRmJ0WGo5YVB0QTF4VXlzalZpcUhoQXRNOFRB?oc=5) Blue Origin
+- [Live: SpaceX Falcon 9 Rocket Launches 29 Starlink Satellites From Cape Canaveral, Florida Wordle May 14 (BDTeA1N8Rj) - Mshale](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MMDE2VmVvbHhHMEhZYndzM2pjMTVEZEpRT1JyS2ZBTXBTQlN6TmMwSzZjZjd6aXpTb2NaQ0JqN0VCYnRuS2MzTUN6S0h2VjNZbmdpX0Z5Vl81NXM?oc=5) SpaceX
+- [ULA working toward Vulcan return to flight as Blue Origin modifies the Rocket’s BE-4 engines - WFTV](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZVJYeGlTbkRZeUNacDZoYW9iYWtPVTNIazV5MUxsWHFyb01EOGRJV2ZOeVd2MkRSQUFuUENZQ1plNHlPQVZQcWxOMjB6VnJoZmZBTTVFa3ItYk00eGxnY0xsbEJWZ3RGa3huWTdtZ2JybGhWOVJIaXpNTkR0LTBFRVZjSGJSYVo4Q2ItYnVZdE1WdU00SzRIUzVOeGd3Z2ZLRHZzck5Qa0dPWjVBUHIyYmlTSnVvd3NoUDctdVJIc0RZeDlKd1AzbWQ5MVdJNk9RLXNBakpwdnfSAewBQVVfeXFMT1RwX1M3SmR1R3Z3VWNLSEdoQy1FU3BLQnR6VHJIdlJ1cWRKRUhhV21LcW1QQVZPR3BSVlJrc2FCVXY4a1JJTnQ1NmVrSWZ3dG1DeU41V3h1TFNfNUI1dFhKa1lkR3g4YzlsazdVbHpJR0JuNlctSXFTYWNOVFZfZjdvNXgxc253ZnRIdDFOVkZBZS0wWXZNczEtTkRmS3Z4MTlCSG9naHNwYzBxOUxfLVdLVVFCY3A1QWVCSG50Z2pGZXhoTkw0d0VJWldRMzhMM0VhU0FiT3lkcnBucXpfRW1NU0NtbDRZcmZRUGs?oc=5) Blue Origin
 - ['Not looking good right now': Starship likely to be lost at sea 2 weeks after epic 13th test flight, Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/not-looking-good-right-now-starship-likely-to-be-lost-at-sea-2-weeks-after-epic-13th-test-flight-elon-musk-says) SpaceX
-- [SpaceX launches 50th Falcon 9 mission of 2026 with Starlink satellites](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a767a7f623245e5b22c2e4d40e06041&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Ftechnology%2Fspace-exploration%2Fspacex-launches-50th-falcon-9-mission-of-2026-with-starlink-satellites%2Fvi-AA29D0iy&c=12935892612341587337&mkt=en-us) SpaceX
-- [Why cities could complicate Starlink's plan to take on the Big Three wireless carriers - Business Insider](https://news.google.com/rss/articles/CBMioAFBVV95cUxQN21UTXJlTXc3c1Rwd3RMRHhweWcwMUZRaTFqMXNCWkNPREtnOGVlQ3VCOWRLamhoZFZZWjN4MWpXTTgwSm1XdlRERkhVUEhITzBTZ0d1bC14dER0TnJZbURYcWdQQWg3U3BKNkR0VWVMV1U4RXRBcFZyajdVX3BnTXRaVWJFN3lGSktxdU5sMUFxU1FxODFFZDdoaDRjbVlX?oc=5) SpaceX
-- [ULA working toward Vulcan return to flight as Blue Origin modifies the Rocket’s BE-4 engines](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a767a88630f457a94b881beba088d5d&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fula-working-toward-vulcan-return-230541964.html&c=2369874059786319294&mkt=en-us) Blue Origin
+- [T-Mobile CEO Gopalan says SpaceX/Starlink is not a real threat to T-Mobile](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a76cc8c89494302998a837d7c3cafb3&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fgeneral%2Ft-mobile-ceo-gopalan-says-spacex-starlink-is-not-a-real-threat-to-t-mobile%2Far-AA29E1jH&c=15601072956904211321&mkt=en-us) SpaceX
 
 ## Top News
 
+- [Blue Origin: what Jeff Bezos' rocket company does and how it works - qz.com](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YOFVHalVxNWNGTGlNMldNSy1DNGVWbFhTeUFvS3BacEpId2FVT1hYRmJ0WGo5YVB0QTF4VXlzalZpcUhoQXRNOFRB?oc=5) Blue Origin
+- [Live: SpaceX Falcon 9 Rocket Launches 29 Starlink Satellites From Cape Canaveral, Florida Wordle May 14 (BDTeA1N8Rj) - Mshale](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MMDE2VmVvbHhHMEhZYndzM2pjMTVEZEpRT1JyS2ZBTXBTQlN6TmMwSzZjZjd6aXpTb2NaQ0JqN0VCYnRuS2MzTUN6S0h2VjNZbmdpX0Z5Vl81NXM?oc=5) SpaceX
+- [ULA working toward Vulcan return to flight as Blue Origin modifies the Rocket’s BE-4 engines - WFTV](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZVJYeGlTbkRZeUNacDZoYW9iYWtPVTNIazV5MUxsWHFyb01EOGRJV2ZOeVd2MkRSQUFuUENZQ1plNHlPQVZQcWxOMjB6VnJoZmZBTTVFa3ItYk00eGxnY0xsbEJWZ3RGa3huWTdtZ2JybGhWOVJIaXpNTkR0LTBFRVZjSGJSYVo4Q2ItYnVZdE1WdU00SzRIUzVOeGd3Z2ZLRHZzck5Qa0dPWjVBUHIyYmlTSnVvd3NoUDctdVJIc0RZeDlKd1AzbWQ5MVdJNk9RLXNBakpwdnfSAewBQVVfeXFMT1RwX1M3SmR1R3Z3VWNLSEdoQy1FU3BLQnR6VHJIdlJ1cWRKRUhhV21LcW1QQVZPR3BSVlJrc2FCVXY4a1JJTnQ1NmVrSWZ3dG1DeU41V3h1TFNfNUI1dFhKa1lkR3g4YzlsazdVbHpJR0JuNlctSXFTYWNOVFZfZjdvNXgxc253ZnRIdDFOVkZBZS0wWXZNczEtTkRmS3Z4MTlCSG9naHNwYzBxOUxfLVdLVVFCY3A1QWVCSG50Z2pGZXhoTkw0d0VJWldRMzhMM0VhU0FiT3lkcnBucXpfRW1NU0NtbDRZcmZRUGs?oc=5) Blue Origin
 - ['Not looking good right now': Starship likely to be lost at sea 2 weeks after epic 13th test flight, Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/not-looking-good-right-now-starship-likely-to-be-lost-at-sea-2-weeks-after-epic-13th-test-flight-elon-musk-says) SpaceX
-- [SpaceX launches 50th Falcon 9 mission of 2026 with Starlink satellites](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a767a7f623245e5b22c2e4d40e06041&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Ftechnology%2Fspace-exploration%2Fspacex-launches-50th-falcon-9-mission-of-2026-with-starlink-satellites%2Fvi-AA29D0iy&c=12935892612341587337&mkt=en-us) SpaceX
-- [Why cities could complicate Starlink's plan to take on the Big Three wireless carriers - Business Insider](https://news.google.com/rss/articles/CBMioAFBVV95cUxQN21UTXJlTXc3c1Rwd3RMRHhweWcwMUZRaTFqMXNCWkNPREtnOGVlQ3VCOWRLamhoZFZZWjN4MWpXTTgwSm1XdlRERkhVUEhITzBTZ0d1bC14dER0TnJZbURYcWdQQWg3U3BKNkR0VWVMV1U4RXRBcFZyajdVX3BnTXRaVWJFN3lGSktxdU5sMUFxU1FxODFFZDdoaDRjbVlX?oc=5) SpaceX
-- [ULA working toward Vulcan return to flight as Blue Origin modifies the Rocket’s BE-4 engines](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a767a88630f457a94b881beba088d5d&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fula-working-toward-vulcan-return-230541964.html&c=2369874059786319294&mkt=en-us) Blue Origin
+- [T-Mobile CEO Gopalan says SpaceX/Starlink is not a real threat to T-Mobile](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a76cc8c89494302998a837d7c3cafb3&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fgeneral%2Ft-mobile-ceo-gopalan-says-spacex-starlink-is-not-a-real-threat-to-t-mobile%2Far-AA29E1jH&c=15601072956904211321&mkt=en-us) SpaceX
 
 ## Risks And Watchpoints
 
