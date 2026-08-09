@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-08-08
+# 每日新闻情报日报 - 2026-08-09
 
-- Report ID: daily-2026-08-08-5b858b2f
-- Source run: 406d85a6-82a1-4272-aa35-f85f23ee891a
+- Report ID: daily-2026-08-09-fc8fa292
+- Source run: 33734bb0-0bbd-4066-80fa-2cf67648f99a
 - Generation status: skipped_no_secret
-- Companies covered: 2
-- Total items: 9
+- Companies covered: 1
+- Total items: 2
 
 ## Executive Summary
 
-2026-08-08 共收录 9 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
+2026-08-09 共收录 2 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,19 +31,13 @@ No LLM summary.
 
 No LLM summary.
 
-- [Live Coverage: SpaceX West Coast launch surge continues with Starlink mission](https://spaceflightnow.com/2026/08/08/live-coverage-spacex-west-coast-launch-surge-continues-with-starlink-mission) SpaceX
-- [SpaceX now launches so often that Starlink alone crowds the night sky](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7772d9140e4f69a3c940c954bd493b&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fgeneral%2Fspacex-now-launches-so-often-that-starlink-alone-crowds-the-night-sky%2Far-AA29FsFJ&c=4870320949473934573&mkt=en-us) SpaceX
-- [Elon Musk’s Starlink swagger, SpaceX vs. the cloud giants, and Seattle’s tech universe revisited](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7772d9140e4f69a3c940c954bd493b&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Felon-musk-s-starlink-swagger-spacex-vs-the-cloud-giants-and-seattle-s-tech-universe-revisited%2Far-AA29FCqK&c=14535156914031241279&mkt=en-us) SpaceX
-- [Blue Origin: what Jeff Bezos' rocket company does and how it works - qz.com](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YOFVHalVxNWNGTGlNMldNSy1DNGVWbFhTeUFvS3BacEpId2FVT1hYRmJ0WGo5YVB0QTF4VXlzalZpcUhoQXRNOFRB?oc=5) Blue Origin
-- [ULA working toward Vulcan return to flight as Blue Origin modifies the Rocket’s BE-4 engines](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7772e3215b449ca0ce683e65d1acd2&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fula-working-toward-vulcan-return-230541964.html&c=2369874059786319294&mkt=en-us) Blue Origin
+- [SpaceX launched 24 Starlink satellites into orbit from California - UA.NEWS](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkQ2NUlyYXVRRkU2bmNsMjREMmd5VnJ4djF2cmlHMVhDSkNZbE92ZWI4Z01pektwdDRJbEtBSkk4NmstZ0JMd00xcXFBQXUwQlVPTFNpSzhMSVZ2MDlDY3AzZnZ4bWRhdGlXQWFndlkyX3RQOWZQMTZfUFFLOW03aFZGbFFIcmFGQmNNSFRNVFpGSHV4RTlj?oc=5) SpaceX
+- [SpaceX West Coast launch surge continues with Starlink mission - Spaceflight Now](https://news.google.com/rss/articles/CBMitgFBVV95cUxQRU1DVjRzOUFZSXl4UlZkVU53V2NIN1g1bGxJaGk1ZHVpYXlzUVlWYlNmREN2YWtLWkgxY2NpRzlxZjZGNnZmaTJnRE05SktRSVQ2TVZxbGpJS0thUlBvWTMtTmhVb05CRGVhdWtOMlNOd3pmZnhTRVJkS3ppY3JRVHpTMl9ZZS1UbmpGVmI3SU81aW5Id2I3VEN6cWFpYnRQb0o0TmZCTnU4NWtKV0QycWwwMmpBQQ?oc=5) SpaceX
 
 ## Top News
 
-- [Live Coverage: SpaceX West Coast launch surge continues with Starlink mission](https://spaceflightnow.com/2026/08/08/live-coverage-spacex-west-coast-launch-surge-continues-with-starlink-mission) SpaceX
-- [SpaceX now launches so often that Starlink alone crowds the night sky](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7772d9140e4f69a3c940c954bd493b&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fgeneral%2Fspacex-now-launches-so-often-that-starlink-alone-crowds-the-night-sky%2Far-AA29FsFJ&c=4870320949473934573&mkt=en-us) SpaceX
-- [Elon Musk’s Starlink swagger, SpaceX vs. the cloud giants, and Seattle’s tech universe revisited](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7772d9140e4f69a3c940c954bd493b&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Felon-musk-s-starlink-swagger-spacex-vs-the-cloud-giants-and-seattle-s-tech-universe-revisited%2Far-AA29FCqK&c=14535156914031241279&mkt=en-us) SpaceX
-- [Blue Origin: what Jeff Bezos' rocket company does and how it works - qz.com](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YOFVHalVxNWNGTGlNMldNSy1DNGVWbFhTeUFvS3BacEpId2FVT1hYRmJ0WGo5YVB0QTF4VXlzalZpcUhoQXRNOFRB?oc=5) Blue Origin
-- [ULA working toward Vulcan return to flight as Blue Origin modifies the Rocket’s BE-4 engines](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7772e3215b449ca0ce683e65d1acd2&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fula-working-toward-vulcan-return-230541964.html&c=2369874059786319294&mkt=en-us) Blue Origin
+- [SpaceX launched 24 Starlink satellites into orbit from California - UA.NEWS](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkQ2NUlyYXVRRkU2bmNsMjREMmd5VnJ4djF2cmlHMVhDSkNZbE92ZWI4Z01pektwdDRJbEtBSkk4NmstZ0JMd00xcXFBQXUwQlVPTFNpSzhMSVZ2MDlDY3AzZnZ4bWRhdGlXQWFndlkyX3RQOWZQMTZfUFFLOW03aFZGbFFIcmFGQmNNSFRNVFpGSHV4RTlj?oc=5) SpaceX
+- [SpaceX West Coast launch surge continues with Starlink mission - Spaceflight Now](https://news.google.com/rss/articles/CBMitgFBVV95cUxQRU1DVjRzOUFZSXl4UlZkVU53V2NIN1g1bGxJaGk1ZHVpYXlzUVlWYlNmREN2YWtLWkgxY2NpRzlxZjZGNnZmaTJnRE05SktRSVQ2TVZxbGpJS0thUlBvWTMtTmhVb05CRGVhdWtOMlNOd3pmZnhTRVJkS3ppY3JRVHpTMl9ZZS1UbmpGVmI3SU81aW5Id2I3VEN6cWFpYnRQb0o0TmZCTnU4NWtKV0QycWwwMmpBQQ?oc=5) SpaceX
 
 ## Risks And Watchpoints
 
