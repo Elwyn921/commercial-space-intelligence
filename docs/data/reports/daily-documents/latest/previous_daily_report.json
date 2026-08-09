@@ -1,201 +1,152 @@
 {
-  "as_of_date": "2026-08-08",
+  "as_of_date": "2026-08-09",
   "companies": [
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_types": {
+        "launch": 9,
+        "other": 7
+      },
+      "item_count": 16,
+      "latest_title": "Live Coverage: SpaceX West Coast launch surge continues with Starlink mission"
+    },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_types": {
         "launch": 3,
-        "other": 11
-      },
-      "item_count": 14,
-      "latest_title": "New Glenn explosion: Blue Origin finally identifies what destroyed the rocket - yahoo.com"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_types": {
-        "launch": 6,
         "other": 2
       },
-      "item_count": 8,
-      "latest_title": "SpaceX Shares Fail to Launch Despite Soaring Revenue. Is the Stock a Buy on the Dip?"
-    },
-    {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
-      "event_types": {
-        "launch": 1
-      },
-      "item_count": 1,
-      "latest_title": "一箭18星！“千帆星座”第九批组网卫星成功发射_手机新浪网 - 新浪财经"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_types": {
-        "launch": 1
-      },
-      "item_count": 1,
-      "latest_title": "Chinese company Landspace targets Aug. 10 for historic rocket launch and landing attempt"
+      "item_count": 5,
+      "latest_title": "Blue Origin: what Jeff Bezos' rocket company does and how it works - qz.com"
     }
   ],
-  "company_count": 4,
+  "company_count": 2,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 11,
-    "other": 13
+    "launch": 12,
+    "other": 9
   },
-  "generated_at": "2026-08-08T03:01:09.532576Z",
-  "period_end": "2026-08-07",
-  "period_start": "2026-08-07",
-  "report_date": "2026-08-07",
+  "generated_at": "2026-08-09T03:08:30.819006Z",
+  "period_end": "2026-08-08",
+  "period_start": "2026-08-08",
+  "report_date": "2026-08-08",
   "schema_version": "daily_document.v1",
-  "source_count": 20,
+  "source_count": 9,
   "source_counts": {
-    "Aviation Week": 1,
-    "Central Florida Public Media": 1,
-    "FOX Weather": 1,
-    "Florida Today": 1,
-    "Gizmodo": 1,
-    "Jefferson City News Tribune": 1,
-    "People.com": 1,
-    "Spaceflight Now": 2,
-    "Universe Space Tech": 1,
-    "Ventura County Star": 1,
-    "arstechnica.com": 1,
-    "bing.com": 4,
-    "gasworld.com": 1,
-    "satnews.com": 1,
-    "space.com": 1,
-    "spaceq.ca": 1,
-    "spacewatch.global": 1,
-    "upi.com": 1,
-    "yahoo.com": 1,
-    "新浪财经": 1
+    "Business Insider": 1,
+    "Mshale": 1,
+    "Spaceflight Now": 1,
+    "The Desert Sun": 1,
+    "WFTV": 1,
+    "bing.com": 13,
+    "qz.com": 1,
+    "satellitetoday.com": 1,
+    "space.com": 1
   },
-  "summary": "2026-08-07 共归档 24 条新闻，覆盖 4 家公司、20 个信息来源。 新闻量较多的公司包括 Blue Origin、SpaceX、垣信卫星、蓝箭航天。",
+  "summary": "2026-08-08 共归档 21 条新闻，覆盖 2 家公司、9 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "8a3d9a1c5eed1f5a",
-      "published_at": "2026-08-07T01:05:00Z",
+      "item_id": "82cd5a1f8c901f60",
+      "published_at": "2026-08-08T14:08:54Z",
+      "source_name": "Spaceflight Now",
+      "title": "Live Coverage: SpaceX West Coast launch surge continues with Starlink mission",
+      "url": "https://spaceflightnow.com/2026/08/08/live-coverage-spacex-west-coast-launch-surge-continues-with-starlink-mission"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "4b220c89886b1790",
+      "published_at": "2026-08-08T13:44:10Z",
       "source_name": "bing.com",
-      "title": "SpaceX Shares Fail to Launch Despite Soaring Revenue. Is the Stock a Buy on the Dip?",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a75d0a6405446ffbf6e7c13f18840d7&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Ftech-companies%2Fspacex-shares-fail-to-launch-despite-soaring-revenue-is-the-stock-a-buy-on-the-dip%2Far-AA29AytD&c=14259427581201327285&mkt=en-us"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "launch",
-      "item_id": "1a3b8303f605ccae",
-      "published_at": "2026-08-07T15:00:00Z",
-      "source_name": "space.com",
-      "title": "Chinese company Landspace targets Aug. 10 for historic rocket launch and landing attempt",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/chinese-company-landspace-targets-aug-10-for-historic-rocket-launch-and-landing-attempt"
-    },
-    {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
-      "event_type": "launch",
-      "item_id": "f15a8df1864c57b7",
-      "published_at": "2026-08-07T14:39:50Z",
-      "source_name": "新浪财经",
-      "title": "一箭18星！“千帆星座”第九批组网卫星成功发射_手机新浪网 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNbTF2Rm9wSG5NSWNFbFlqYlJkOVh1V3hjRmxKWEphQnUxOGU1YmlMLVdJSlJiLXVYdy10X2d1N2VlSkFYdk5HQ0ZaUG1aNjNDNDVuVlJvZ2h1dlRMY2JTelo1T01hejdvZkJvUkFSeDc1c1hTb29PZ2p3UjNhNDNDZkpiVkZiNlZkcGtyUkl3akowZHZOaHR6LWpwSXJ3T2pZRWVCRWV6d0pqNEsxMFYwNHlnTzJPT3lsVnIzMFktZ3NPYW1QRldYOUdPcko1Vm0xZUdXN283T2V6TDhSUnVWMHBmX2plU2xmLVVMZmZ0UFNVZmdSWFN6UU1HQmp0ckdvYmZFdXhsbVRXZDRVRGFrNjdFS01aaS12NUxnRTVxckFzMVRBam12d2tlVHdqNkJENjRB?oc=5"
+      "title": "SpaceX launches 50th rocket from West Coast this year",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a77cc72958b469c85126d401e3331bc&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-launches-50th-rocket-from-west-coast-this-year%2Far-AA29FR0s&c=1424504065060340464&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "efe8c4f9b47d3d02",
-      "published_at": "2026-08-07T13:01:00Z",
-      "source_name": "Ventura County Star",
-      "title": "Next SpaceX rocket launch at Vandenberg coming up this weekend - Ventura County Star",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQVhSS2NmeV8tMmMyOHRfTnpJV0hYWGZIa2d2NVhwd1l6WXd4dEctTHlURkJTT1VHb1I2OUFTV1otTFFOd3FhRGtraTVyZEQ0NzB3ZGc2WnJBejBGdjJiQzRlbmtBWElrVHR5NkdWcWllX3VybTh2RERrRmtmRldURzVBMXV3VUVQdmVMLUZEdTZ6djl0MzkwVXRKSmt1a1ktaVJNc3lqeGwxT2ZGVjFKanVB?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
       "event_type": "other",
-      "item_id": "3d255ac75910485f",
-      "published_at": "2026-08-07T10:30:04Z",
-      "source_name": "yahoo.com",
-      "title": "New Glenn explosion: Blue Origin finally identifies what destroyed the rocket - yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYWszQTZiN2wwQlBSXzFWQUFsZXlZb3Z5UTBKR1NXeENCenlvWGdkOVc3d2s1WFZNdFBtdU96cDRGcHpDSTRjQ1U3WW9mOF9wVFR0ZzhBWWhuMWFScVVGbS1oWXFjZ3laa0lEZnFWYnF6ODMxQWxvV21IZHhKbmxtekl6Uks2Z3cwTlRLY09qaWFFR0l1cXFXRGln?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "8e9674c3f94f6ef9",
-      "published_at": "2026-08-07T09:06:00Z",
-      "source_name": "Florida Today",
-      "title": "Starlink is back: SpaceX rocket launch from Cape Canaveral set for Monday - Florida Today",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZnZmTnlCcHlLeE5pRF9ob3U4OHlsQndLdTItQ3VMR2xWMkM2NENuTG9jWWdTQVlmSHQwQ1A3elhSNVcwTGdIcmJla2lkQmRqVnJpcWZEWnhIZGptSEdrdm5Ha3JFeHljTy11S2U1MzJEWjdmVUVadmI5cXVHNWljcTJEQzNwc0pEOW5aTWJ2c1R1UktETHd6YjhQZ2dMWnloa19NUE5Ta29kT1g5Tmk3cG5RSTBRODh1OWNNcEpSOEFCZk5MUFFRRnNaMlFuWmVOOHVSTHhUM0hWbFRyTjJZUGtfUU5NR0tfQml5NDlmSGIxR01CQ1Fsd1o4aGZac3JLa0ZoVmlIMGlXbFI4T1E?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "other",
-      "item_id": "2b0c480a25836ca5",
-      "published_at": "2026-08-07T09:00:00Z",
-      "source_name": "Jefferson City News Tribune",
-      "title": "Rocket engine valve cited as culprit for Blue Origin’s massive pad explosion - Jefferson City News Tribune",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnc0OUZOTnRGV1htYW5BdzVwWVNJY2Jiak40b0pTNHk0VlhTRVpuVHp5Tnd2R0JZTzJPRTcwSEFacGRkdnJja3hLT19PQXVaejlEMFBXUjRzTTVxUlBWVExSMUxaQzd4YVdEZjlDcWlmZWhPcl9BQWtCbFVIZHBPQXhRMG9oSVdLSk1uOGVsMUN5d0RRZUE?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "other",
-      "item_id": "605c0ce0ade70d41",
-      "published_at": "2026-08-07T06:44:05Z",
-      "source_name": "Universe Space Tech",
-      "title": "A defective part caused the New Glenn rocket to explode - Universe Space Tech",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdEw5dGxaeEdHU200N3hnRG96QUJHMGpMLVBDbGZyX3hGeTdQZnpBbEh4b0xlWUhUa1lzVVpaYnZrN241M2FvMHFDZmw2dmJtMFBGZlFJbDN0WUVDYlRJWENXTDJIQmxqekJNdWdib1gtemVOdXlDWFE3QkRvSTUyREIyT29ud1QxRVByUEFFX2VleGlxelJKcGV1Ym80RzBoTnREcXJn?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "040adbcb8abda532",
-      "published_at": "2026-08-07T06:00:00Z",
-      "source_name": "spacewatch.global",
-      "title": "Blue Origin Traces Cause of New Glenn’s Explosion, as the Company Targets a Return-to-Flight this Year",
-      "url": "https://spacewatch.global/2026/08/blue-origin-traces-cause-of-new-glenns-explosion-as-the-company-targets-a-return-to-flight-this-year"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "other",
-      "item_id": "16ac0923c220b824",
-      "published_at": "2026-08-07T03:30:00Z",
+      "item_id": "36374421d6f5d3c2",
+      "published_at": "2026-08-08T13:02:09Z",
       "source_name": "bing.com",
-      "title": "New Glenn explosion: Blue Origin finally identifies what destroyed the rocket",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a767a88630f457a94b881beba088d5d&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fglenn-explosion-blue-origin-finally-103000791.html&c=13641828088555157871&mkt=en-us"
+      "title": "SpaceX Starlink satellites deployed in stunning view from space",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a77cc7219ae4bcd8599a21ebb97cd45&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Fspacex-starlink-satellites-deployed-in-stunning-view-from-space%2Fvi-AA29G8Bu&c=11948774840734246320&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "509d7099805b5904",
-      "published_at": "2026-08-07T00:42:36Z",
-      "source_name": "spaceq.ca",
-      "title": "SpaceX’s rideshare freeze: What it means for the SmallSat market and Canada",
-      "url": "https://spaceq.ca/spacexs-rideshare-freeze-what-it-means-for-the-smallsat-market-and-canada"
+      "item_id": "451acdf142766034",
+      "published_at": "2026-08-08T10:40:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX now launches so often that Starlink alone crowds the night sky",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7772d9140e4f69a3c940c954bd493b&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fgeneral%2Fspacex-now-launches-so-often-that-starlink-alone-crowds-the-night-sky%2Far-AA29FsFJ&c=4870320949473934573&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "other",
+      "item_id": "dd99230aef43f4ce",
+      "published_at": "2026-08-08T03:07:38Z",
+      "source_name": "qz.com",
+      "title": "Blue Origin: what Jeff Bezos' rocket company does and how it works - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YOFVHalVxNWNGTGlNMldNSy1DNGVWbFhTeUFvS3BacEpId2FVT1hYRmJ0WGo5YVB0QTF4VXlzalZpcUhoQXRNOFRB?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "aa038bde665b8909",
-      "published_at": "2026-08-06T22:08:00Z",
-      "source_name": "FOX Weather",
-      "title": "How many rockets will SpaceX launch this month? - FOX Weather",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0xLX2tJUUtTSUNnSUt6UE9qRUZYRERheEVneHREZ1B1dnF1ekViVnktbjEzdEdDRFpvYzFMWmNXeEc1QWVOWnN2NlRveUpaQU5tN0Q4SFhMSlkwdnBZYTFha3E1Z2ZET2ptbHZtdjM1RXBqNHJxRGczRzRmc3FoQV81NXhSUGloajFJ0gGQAUFVX3lxTE02QjFrY1NUM2JPV0diUEZaTTluZ1dBLVJSQ09SamxzWllteU9CczBFMTI5MTdmb2R3Y0VNX0JPVXNBQjVNbEpGN2duVWtiTkFjYU12bVRwd01Oem14Q053R1NBem1DTmctNVNtTjdWd01ydkJPblZjbnJmOW9mcFFIeVF4SG94clU1ZTFWT25Ucw?oc=5"
+      "item_id": "c4a4f133bd48f468",
+      "published_at": "2026-08-08T02:46:41Z",
+      "source_name": "Mshale",
+      "title": "Live: SpaceX Falcon 9 Rocket Launches 29 Starlink Satellites From Cape Canaveral, Florida Wordle May 14 (BDTeA1N8Rj) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MMDE2VmVvbHhHMEhZYndzM2pjMTVEZEpRT1JyS2ZBTXBTQlN6TmMwSzZjZjd6aXpTb2NaQ0JqN0VCYnRuS2MzTUN6S0h2VjNZbmdpX0Z5Vl81NXM?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "other",
+      "item_id": "b9f2c8999f62178d",
+      "published_at": "2026-08-07T23:05:41Z",
+      "source_name": "WFTV",
+      "title": "ULA working toward Vulcan return to flight as Blue Origin modifies the Rocket’s BE-4 engines - WFTV",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZVJYeGlTbkRZeUNacDZoYW9iYWtPVTNIazV5MUxsWHFyb01EOGRJV2ZOeVd2MkRSQUFuUENZQ1plNHlPQVZQcWxOMjB6VnJoZmZBTTVFa3ItYk00eGxnY0xsbEJWZ3RGa3huWTdtZ2JybGhWOVJIaXpNTkR0LTBFRVZjSGJSYVo4Q2ItYnVZdE1WdU00SzRIUzVOeGd3Z2ZLRHZzck5Qa0dPWjVBUHIyYmlTSnVvd3NoUDctdVJIc0RZeDlKd1AzbWQ5MVdJNk9RLXNBakpwdnfSAewBQVVfeXFMT1RwX1M3SmR1R3Z3VWNLSEdoQy1FU3BLQnR6VHJIdlJ1cWRKRUhhV21LcW1QQVZPR3BSVlJrc2FCVXY4a1JJTnQ1NmVrSWZ3dG1DeU41V3h1TFNfNUI1dFhKa1lkR3g4YzlsazdVbHpJR0JuNlctSXFTYWNOVFZfZjdvNXgxc253ZnRIdDFOVkZBZS0wWXZNczEtTkRmS3Z4MTlCSG9naHNwYzBxOUxfLVdLVVFCY3A1QWVCSG50Z2pGZXhoTkw0d0VJWldRMzhMM0VhU0FiT3lkcnBucXpfRW1NU0NtbDRZcmZRUGs?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "d7879044bd5a7db7",
+      "published_at": "2026-08-07T16:05:00Z",
+      "source_name": "bing.com",
+      "title": "ULA working toward Vulcan return to flight as Blue Origin modifies the Rocket’s BE-4 engines",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a77cc7af2574eb495b17f3bcf2a75f1&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fula-working-toward-vulcan-return-230541964.html&c=2369874059786319294&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "c36bab9f2f70eab8",
+      "published_at": "2026-08-07T16:05:00Z",
+      "source_name": "bing.com",
+      "title": "ULA working toward Vulcan return to flight as Blue Origin modifies the Rocket’s BE-4 engines",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7772e3215b449ca0ce683e65d1acd2&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fula-working-toward-vulcan-return-230541964.html&c=2369874059786319294&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "664891b2e7ac486e",
+      "published_at": "2026-08-07T16:05:00Z",
+      "source_name": "bing.com",
+      "title": "ULA working toward Vulcan return to flight as Blue Origin modifies the Rocket’s BE-4 engines",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a767a88630f457a94b881beba088d5d&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fula-working-toward-vulcan-return-230541964.html&c=2369874059786319294&mkt=en-us"
     }
   ],
-  "total_items": 24
+  "total_items": 21
 }
