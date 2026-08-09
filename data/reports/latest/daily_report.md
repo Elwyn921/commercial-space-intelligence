@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-08-09
 
-- Report ID: daily-2026-08-09-fc8fa292
-- Source run: 33734bb0-0bbd-4066-80fa-2cf67648f99a
+- Report ID: daily-2026-08-09-5b7d4885
+- Source run: 29dbb409-f06b-4ef3-b6f7-846b92b77fa5
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 2
+- Total items: 3
 
 ## Executive Summary
 
-2026-08-09 共收录 2 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-08-09 共收录 3 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -33,11 +33,13 @@ No LLM summary.
 
 - [SpaceX launched 24 Starlink satellites into orbit from California - UA.NEWS](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkQ2NUlyYXVRRkU2bmNsMjREMmd5VnJ4djF2cmlHMVhDSkNZbE92ZWI4Z01pektwdDRJbEtBSkk4NmstZ0JMd00xcXFBQXUwQlVPTFNpSzhMSVZ2MDlDY3AzZnZ4bWRhdGlXQWFndlkyX3RQOWZQMTZfUFFLOW03aFZGbFFIcmFGQmNNSFRNVFpGSHV4RTlj?oc=5) SpaceX
 - [SpaceX West Coast launch surge continues with Starlink mission - Spaceflight Now](https://news.google.com/rss/articles/CBMitgFBVV95cUxQRU1DVjRzOUFZSXl4UlZkVU53V2NIN1g1bGxJaGk1ZHVpYXlzUVlWYlNmREN2YWtLWkgxY2NpRzlxZjZGNnZmaTJnRE05SktRSVQ2TVZxbGpJS0thUlBvWTMtTmhVb05CRGVhdWtOMlNOd3pmZnhTRVJkS3ppY3JRVHpTMl9ZZS1UbmpGVmI3SU81aW5Id2I3VEN6cWFpYnRQb0o0TmZCTnU4NWtKV0QycWwwMmpBQQ?oc=5) SpaceX
+- [SpaceX rocket launch in Florida. What time does the Falcon 9 lift off?](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a781f3ca80449f99bf95a16a6953e5e&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fspacex-rocket-launch-florida-time-024855923.html&c=9221724018170693448&mkt=en-us) SpaceX
 
 ## Top News
 
 - [SpaceX launched 24 Starlink satellites into orbit from California - UA.NEWS](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkQ2NUlyYXVRRkU2bmNsMjREMmd5VnJ4djF2cmlHMVhDSkNZbE92ZWI4Z01pektwdDRJbEtBSkk4NmstZ0JMd00xcXFBQXUwQlVPTFNpSzhMSVZ2MDlDY3AzZnZ4bWRhdGlXQWFndlkyX3RQOWZQMTZfUFFLOW03aFZGbFFIcmFGQmNNSFRNVFpGSHV4RTlj?oc=5) SpaceX
 - [SpaceX West Coast launch surge continues with Starlink mission - Spaceflight Now](https://news.google.com/rss/articles/CBMitgFBVV95cUxQRU1DVjRzOUFZSXl4UlZkVU53V2NIN1g1bGxJaGk1ZHVpYXlzUVlWYlNmREN2YWtLWkgxY2NpRzlxZjZGNnZmaTJnRE05SktRSVQ2TVZxbGpJS0thUlBvWTMtTmhVb05CRGVhdWtOMlNOd3pmZnhTRVJkS3ppY3JRVHpTMl9ZZS1UbmpGVmI3SU81aW5Id2I3VEN6cWFpYnRQb0o0TmZCTnU4NWtKV0QycWwwMmpBQQ?oc=5) SpaceX
+- [SpaceX rocket launch in Florida. What time does the Falcon 9 lift off?](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a781f3ca80449f99bf95a16a6953e5e&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fspacex-rocket-launch-florida-time-024855923.html&c=9221724018170693448&mkt=en-us) SpaceX
 
 ## Risks And Watchpoints
 
