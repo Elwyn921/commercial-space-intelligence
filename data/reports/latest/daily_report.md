@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-08-10
 
-- Report ID: daily-2026-08-09-ca7e805d
-- Source run: 26e0762a-c86c-426d-b742-52b84452db86
+- Report ID: daily-2026-08-10-384c7439
+- Source run: 954b03a4-2774-41f0-9720-21d9a2f12dc9
 - Generation status: skipped_no_secret
 - Companies covered: 2
-- Total items: 7
+- Total items: 3
 
 ## Executive Summary
 
-2026-08-09 共收录 7 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、星河动力。
+2026-08-10 共收录 3 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
 
 ## Industry Chain Sections
 
@@ -21,7 +21,6 @@ No LLM summary.
 
 No LLM summary.
 
-- [星河动力：飞行失利原因查明 - 上海证券报](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEUm8weTlaZ2ZSX0FrZ0hwa184VVQ4Rk9nWVdYdjBlc1U2UVprMmh5NVl0SVY2SmdWaHpTUjNvNW4wWFZPLTlvN01KcjgzU2lGczgxT1NR?oc=5) 星河动力
 
 ### 卫星互联网服务
 
@@ -32,16 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
-- [Elon Musk envisions massive growth for SpaceX’s Starlink amid AI and robotics surge: 'It’s not out of the question that'](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a791e62329047f0ac34664793852682&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Ftech-companies%2Felon-musk-envisions-massive-growth-for-spacex-s-starlink-amid-ai-and-robotics-surge-it-s-not-out-of-the-question-that%2Far-AA29IxPc&c=14723733682756748600&mkt=en-us) SpaceX
-- [Starlink targets US mobile market, challenging AT&T and Verizon](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a791e62329047f0ac34664793852682&url=https%3A%2F%2Famericanbazaaronline.com%2F2026%2F08%2F09%2Fstarlink-targets-us-mobile-market-challenging-att-and-verizon%2F&c=17519459760008127584&mkt=en-us) SpaceX
-- [SpaceX Florida rocket launch: What time is Cape Canaveral liftoff? - Florida Today](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkw2bU1WVlczVzJseVR0U3BkdTZYdERlN05GWXFmZHRyaXFvVXF2RWJjb0E5QU5zLWRpMEQtS2NwQVdkOURWWlFzeGRiUXdkNWkyenZ4R1lNMnFpbDhrYkctVzhMbWM0SHdScEl3Y2ZTTVJ2dFBjaDl1V1pveDV6djR4a3lseHFnTEJXM2phS2tYTThVVmtFbzFoQnNpQVA4UExsWjBEUmYyYlBPN0l1Y04ybXFQNnBFZ1lqZ215dk9rRHlNdGJuc0R0aWIzMktWV21DekJB?oc=5) SpaceX
+- [Blue Origin traces New Glenn's pad explosion to a BE-4 oxygen valve - Yahoo](https://news.google.com/rss/articles/CBMikgFBVV95cUxNak14SVBoaXdTZ3k0OEt3YjBOUnNaWGpOVXNPb21ZUW1ObVRWa0tPR1c1b2NuWDV6ekFIU3haTFBPdkRKcExnTU1mY3FOUEpPMnZILWJKeWpvaUdhZldMYWd6MXJEOHFhLVotZUtTSnRrZ01EMGRpZFpKSjhERGgxLTZWSFpMTkRWRmR5Q04ta19OUQ?oc=5) Blue Origin
+- [SpaceX to launch 29 Starlink satellites from Florida on Monday - WFTV](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSkI5UW9RMU5IRzV6bGtDRGw1SWkzeWhEYTNKVG5oYkZqcHRTak1QaXc4b3dmMTY0MEhleEZQczRrb2ttNUs5ZVBhcmhKejVuZTZ4Q0ZLU3NIbU9JQVFUMnQzNmc5MVZTQVFvd3ExRXdvTlMxcFFTSTNQQ1FxcUJ6a2x5ZVhSQUFBX2lXZzAwdjF5YUxJOXREMk5mOV9FVUZJd2NLTUFpd2Jid190TERfdtIBxAFBVV95cUxPRnhocnE4c0JIeklzV2h6bVJmdWpBNjQ4MS1OLTlUTnViLUNEbWFPblp6UWVfY3A0Skw3ZkJaUmoyNHhiWFBNZjhLU3A3eUlUalUzSmRQNFpuaFExcWJhaEVrOXVLTm1rWF9XZWJRNG1tWkFQSFBtMG9EeGR2elBCWVlFTUJ0Tk9DaEwzd0pNNFhDa0c4NFNZbTR6UGxhekhuTzhYM2JjTDFSRWhtc0k4UDdQUE5FRFYwdGwzN2JaTzk2VE9q?oc=5) SpaceX
+- [SpaceX’s Starlink V3 Could Mean $200B In Revenue, Says Elon Musk: ARK’s Cathie Wood Calls 100X Bandwidth ‘Astonishing’ - TradingView](https://news.google.com/rss/articles/CBMihAJBVV95cUxPOGpYVzNoTG9RZ3ZxY3lpZmZFZTVBSTJmQ3lXVEtqVklpWVpWdHVjUGRveXRfcXFXcVlOSnAwWkF5TVRTUFc1b2ZFRVpIOUNzZGpvYmxkYV8wYU0zSU5kVm1udEZicGhld2w5REpoYzB3MlZxZHplSmNtaWRXalBUT1FLYW8yMVBmaUNRbHlxWFdJR0xUallNQlJGa1BUQTdiVV91UmRrNEJaQmp1MURURWZER2JkRWZsSHliSjhka2pSYlJsN2lyODVHaVRBbzVRQUVjOVBVT1g3cGZsa1F4YkctT2dhTHNEUDc4OG11WkJGWnM1Mk84bWIyeFp3UTRyRWViVw?oc=5) SpaceX
 
 ## Top News
 
-- [Elon Musk envisions massive growth for SpaceX’s Starlink amid AI and robotics surge: 'It’s not out of the question that'](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a791e62329047f0ac34664793852682&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Ftech-companies%2Felon-musk-envisions-massive-growth-for-spacex-s-starlink-amid-ai-and-robotics-surge-it-s-not-out-of-the-question-that%2Far-AA29IxPc&c=14723733682756748600&mkt=en-us) SpaceX
-- [Starlink targets US mobile market, challenging AT&T and Verizon](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a791e62329047f0ac34664793852682&url=https%3A%2F%2Famericanbazaaronline.com%2F2026%2F08%2F09%2Fstarlink-targets-us-mobile-market-challenging-att-and-verizon%2F&c=17519459760008127584&mkt=en-us) SpaceX
-- [SpaceX Florida rocket launch: What time is Cape Canaveral liftoff? - Florida Today](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkw2bU1WVlczVzJseVR0U3BkdTZYdERlN05GWXFmZHRyaXFvVXF2RWJjb0E5QU5zLWRpMEQtS2NwQVdkOURWWlFzeGRiUXdkNWkyenZ4R1lNMnFpbDhrYkctVzhMbWM0SHdScEl3Y2ZTTVJ2dFBjaDl1V1pveDV6djR4a3lseHFnTEJXM2phS2tYTThVVmtFbzFoQnNpQVA4UExsWjBEUmYyYlBPN0l1Y04ybXFQNnBFZ1lqZ215dk9rRHlNdGJuc0R0aWIzMktWV21DekJB?oc=5) SpaceX
-- [星河动力：飞行失利原因查明 - 上海证券报](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEUm8weTlaZ2ZSX0FrZ0hwa184VVQ4Rk9nWVdYdjBlc1U2UVprMmh5NVl0SVY2SmdWaHpTUjNvNW4wWFZPLTlvN01KcjgzU2lGczgxT1NR?oc=5) 星河动力
+- [Blue Origin traces New Glenn's pad explosion to a BE-4 oxygen valve - Yahoo](https://news.google.com/rss/articles/CBMikgFBVV95cUxNak14SVBoaXdTZ3k0OEt3YjBOUnNaWGpOVXNPb21ZUW1ObVRWa0tPR1c1b2NuWDV6ekFIU3haTFBPdkRKcExnTU1mY3FOUEpPMnZILWJKeWpvaUdhZldMYWd6MXJEOHFhLVotZUtTSnRrZ01EMGRpZFpKSjhERGgxLTZWSFpMTkRWRmR5Q04ta19OUQ?oc=5) Blue Origin
+- [SpaceX to launch 29 Starlink satellites from Florida on Monday - WFTV](https://news.google.com/rss/articles/CBMisAFBVV95cUxOSkI5UW9RMU5IRzV6bGtDRGw1SWkzeWhEYTNKVG5oYkZqcHRTak1QaXc4b3dmMTY0MEhleEZQczRrb2ttNUs5ZVBhcmhKejVuZTZ4Q0ZLU3NIbU9JQVFUMnQzNmc5MVZTQVFvd3ExRXdvTlMxcFFTSTNQQ1FxcUJ6a2x5ZVhSQUFBX2lXZzAwdjF5YUxJOXREMk5mOV9FVUZJd2NLTUFpd2Jid190TERfdtIBxAFBVV95cUxPRnhocnE4c0JIeklzV2h6bVJmdWpBNjQ4MS1OLTlUTnViLUNEbWFPblp6UWVfY3A0Skw3ZkJaUmoyNHhiWFBNZjhLU3A3eUlUalUzSmRQNFpuaFExcWJhaEVrOXVLTm1rWF9XZWJRNG1tWkFQSFBtMG9EeGR2elBCWVlFTUJ0Tk9DaEwzd0pNNFhDa0c4NFNZbTR6UGxhekhuTzhYM2JjTDFSRWhtc0k4UDdQUE5FRFYwdGwzN2JaTzk2VE9q?oc=5) SpaceX
+- [SpaceX’s Starlink V3 Could Mean $200B In Revenue, Says Elon Musk: ARK’s Cathie Wood Calls 100X Bandwidth ‘Astonishing’ - TradingView](https://news.google.com/rss/articles/CBMihAJBVV95cUxPOGpYVzNoTG9RZ3ZxY3lpZmZFZTVBSTJmQ3lXVEtqVklpWVpWdHVjUGRveXRfcXFXcVlOSnAwWkF5TVRTUFc1b2ZFRVpIOUNzZGpvYmxkYV8wYU0zSU5kVm1udEZicGhld2w5REpoYzB3MlZxZHplSmNtaWRXalBUT1FLYW8yMVBmaUNRbHlxWFdJR0xUallNQlJGa1BUQTdiVV91UmRrNEJaQmp1MURURWZER2JkRWZsSHliSjhka2pSYlJsN2lyODVHaVRBbzVRQUVjOVBVT1g3cGZsa1F4YkctT2dhTHNEUDc4OG11WkJGWnM1Mk84bWIyeFp3UTRyRWViVw?oc=5) SpaceX
 
 ## Risks And Watchpoints
 
@@ -51,4 +49,4 @@ No LLM summary.
 
 ## Source Health
 
-degraded: 0/37 sources succeeded.
+degraded: 15/26 sources succeeded.
