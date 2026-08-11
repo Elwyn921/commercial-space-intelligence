@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-08-11
 
-- Report ID: daily-2026-08-11-8ad8d122
-- Source run: b95a2335-b950-40f2-8b0e-da5263195dcb
+- Report ID: daily-2026-08-11-dd991b05
+- Source run: 11469cbf-4fc4-48f1-abac-75463d320d00
 - Generation status: skipped_no_secret
-- Companies covered: 1
-- Total items: 6
+- Companies covered: 2
+- Total items: 16
 
 ## Executive Summary
 
-2026-08-11 共收录 6 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-08-11 共收录 16 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 蓝箭航天、SpaceX。
 
 ## Industry Chain Sections
 
@@ -21,6 +21,9 @@ No LLM summary.
 
 No LLM summary.
 
+- [长征火箭升空失利 蓝箭航天“朱雀三号遥二”火箭发射推迟 - 国际 - 即时国际 - Sin Chew Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZYVJ4ZmJSVndzTDc5M21XbVhRRnVibmFSMmYxcHFPcWZNaDg4YkVUNXc3a1R0S2lGQmF0UjBERjBoU2kybjNuX3dmVFVhb2ZFWVh1MWNNR01Pc25VOE01bDRleUZjWElOOEdqbEE0aw?oc=5) 蓝箭航天
+- [朱雀三号“爽约” - finance.eastmoney.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTE16d215WEp1NlhZLXFqdm1Qd19hVmk4X1JUcjJTS2MySGlFT2t6TVp5ZW9qaXktS0VvTk5pOS1HeHZYcjVMV1E3cFF2Tk5uSWhFemFVcnpNVE8yWm9XWWJNQnh0dE5Edw?oc=5) 蓝箭航天
+- [疑受长征七号改发射失利影响 蓝箭航天朱雀三号遥二火箭发射推迟 - 香港01](https://news.google.com/rss/articles/CBMi1wNBVV95cUxQanNIZ1RvMnk3U2V4ZmUtcXVEU1Y3dXZOSE44YjJISWNkdU5jQmd0amF2bFM3bGZsTmdRTnNlMUdFUTdkbUgwYzN6bEJMSF9EN2pXNHVwSlRMYWJsTm85UWFwd1Flc3FydjJzN3VwX3dKQjlaV01VZGRYczJjV1FqelBGbDVvY2psc2EtSXRHajVXR0x3LUo2YWE1d2VMMU9EYmc1eUFRRjlTbk1oaF9qZ1VRQWFjMGxLdHVNSzc2WHNjQUY2cTJlUGlHZkM0aDFFWmlvYUxUU3lBVFRfUGdORGFsd1hpbVRYQVBWNWpMTVk4ODU4bzcwSU52VlVwYVpBQk1NN3p4Y3ZSY0YwZE5NT3p1bE9aWnpIbDRzY0RfOWxseHpaaXdGX1ktRTY3aHR3WGxnZ0M4OVJBdENVemtsRHN1Q2wyUXRsb3hoMVgxdmV2VW1nUGh4eHR0dE5oRWZEWDBuanl4U2RVUFdnWkUteHB6WjlTdm9sRGNYODV2bXVpSHBDMXVuYnFFY1VwdTdfN1paWlVZcGpZdE9iVHExSThjcTMzWDVyTUMya3hTZ0t4WFdlVFVaVkdlU2lVT1NKNmEzSUpGbEcycG1HYWRMS0hlZ0thX2s?oc=5) 蓝箭航天
 
 ### 卫星互联网服务
 
@@ -37,6 +40,9 @@ No LLM summary.
 
 ## Top News
 
+- [长征火箭升空失利 蓝箭航天“朱雀三号遥二”火箭发射推迟 - 国际 - 即时国际 - Sin Chew Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZYVJ4ZmJSVndzTDc5M21XbVhRRnVibmFSMmYxcHFPcWZNaDg4YkVUNXc3a1R0S2lGQmF0UjBERjBoU2kybjNuX3dmVFVhb2ZFWVh1MWNNR01Pc25VOE01bDRleUZjWElOOEdqbEE0aw?oc=5) 蓝箭航天
+- [朱雀三号“爽约” - finance.eastmoney.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTE16d215WEp1NlhZLXFqdm1Qd19hVmk4X1JUcjJTS2MySGlFT2t6TVp5ZW9qaXktS0VvTk5pOS1HeHZYcjVMV1E3cFF2Tk5uSWhFemFVcnpNVE8yWm9XWWJNQnh0dE5Edw?oc=5) 蓝箭航天
+- [疑受长征七号改发射失利影响 蓝箭航天朱雀三号遥二火箭发射推迟 - 香港01](https://news.google.com/rss/articles/CBMi1wNBVV95cUxQanNIZ1RvMnk3U2V4ZmUtcXVEU1Y3dXZOSE44YjJISWNkdU5jQmd0amF2bFM3bGZsTmdRTnNlMUdFUTdkbUgwYzN6bEJMSF9EN2pXNHVwSlRMYWJsTm85UWFwd1Flc3FydjJzN3VwX3dKQjlaV01VZGRYczJjV1FqelBGbDVvY2psc2EtSXRHajVXR0x3LUo2YWE1d2VMMU9EYmc1eUFRRjlTbk1oaF9qZ1VRQWFjMGxLdHVNSzc2WHNjQUY2cTJlUGlHZkM0aDFFWmlvYUxUU3lBVFRfUGdORGFsd1hpbVRYQVBWNWpMTVk4ODU4bzcwSU52VlVwYVpBQk1NN3p4Y3ZSY0YwZE5NT3p1bE9aWnpIbDRzY0RfOWxseHpaaXdGX1ktRTY3aHR3WGxnZ0M4OVJBdENVemtsRHN1Q2wyUXRsb3hoMVgxdmV2VW1nUGh4eHR0dE5oRWZEWDBuanl4U2RVUFdnWkUteHB6WjlTdm9sRGNYODV2bXVpSHBDMXVuYnFFY1VwdTdfN1paWlVZcGpZdE9iVHExSThjcTMzWDVyTUMya3hTZ0t4WFdlVFVaVkdlU2lVT1NKNmEzSUpGbEcycG1HYWRMS0hlZ0thX2s?oc=5) 蓝箭航天
 - [A Long March 7A failure opens a week of Starlink launches - Astronomy Magazine](https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWM4TFdxQkpXVXdmdHVWWndpODItbFR5X2hvWkFsRERBX2ltTllQWWZyRjB2QnB0ZHhrSEs2YjNEeEIxWEZmYWNWUmYzdXRwMnZtVWZNY1hjRFVwWVNEQW9BZk84VkFGTkFLS0ozWnVRYlZwd01qeDJJcEN3dS1jTE9ZRkpzYWhEVlp5MTBqUDdMZXAwbEFyQ2JhWTdkUTA2MW5WVTZob1ZhQ2xDMFpF?oc=5) SpaceX
 - [SpaceX Lowers 4,400 Starlink Satellites as Declining Solar Activity Raises Debris Risk - Tech Times](https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUDdGOEFEZWRWdlJfS0k3MFNjZ2ROeU9qdGctVl81Nm9xNDd4Tm9pXzZsYXBxTm92bloycUszSV9wQllqMFVxMTF1NUpnT2JYYm55QzRmYkRZLUFua25LZ05SRl94aTFmcWhhUHFseXlKZnZLQVNqNm5TeENnSjV2VG5ab29tZGJwVWF5OFVWX2g5Uzh2eDI5cFI0M0x5VWtGM3V3UmF1SEtXWHlDTGx2VmJPdHY5aW4ycnN3MXFKVjR6MnFBeDg1UWp1ZENuOVZOMEhJ?oc=5) SpaceX
 - [SpaceX scrubs planned Monday launch of its Falcon 9 rocket; targets Tuesday morning - Spaceflight Now](https://news.google.com/rss/articles/CBMizwFBVV95cUxPZDdBbjVmcFVmQ3dkN0hlWk9RZ0hYTFZEREVFeHdqRjlQNjBjV1dqbVIzTWk1NlRLU1FVM181SDBWR0xNUEd5cmNmMU9XZmU4NVhscnRPMWZQM19MVjJEQll2OE54akwwMmxrVWIzZ1VYZGk1NmNiUGV3UE1rR0gzeUdGanhfYXJvY1Z6c09tdEMyb282ck81blhJT0lINzZhb3lxbnJhVmVRTXNfQ2dNV0x6cS1UbUkweWR4MEdsT19yQ01DVmFYV2hzNjg5ejA?oc=5) SpaceX
