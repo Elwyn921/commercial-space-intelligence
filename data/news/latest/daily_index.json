@@ -1,19 +1,33 @@
 {
   "artifact_version": 1,
-  "day_count": 471,
+  "day_count": 472,
   "days": [
     {
-      "company_count": 3,
+      "company_count": 1,
       "company_ids": [
+        "spacex"
+      ],
+      "count": 2,
+      "date": "2026-08-12",
+      "inferred_date_count": 0,
+      "source_types": [
+        "rss"
+      ]
+    },
+    {
+      "company_count": 4,
+      "company_ids": [
+        "blue_origin",
         "galactic_energy",
         "landspace",
         "spacex"
       ],
-      "count": 25,
+      "count": 39,
       "date": "2026-08-11",
       "inferred_date_count": 0,
       "source_types": [
-        "rss"
+        "rss",
+        "search_api"
       ]
     },
     {
@@ -23,7 +37,7 @@
         "landspace",
         "spacex"
       ],
-      "count": 30,
+      "count": 35,
       "date": "2026-08-10",
       "inferred_date_count": 0,
       "source_types": [
@@ -50,7 +64,7 @@
         "blue_origin",
         "spacex"
       ],
-      "count": 46,
+      "count": 47,
       "date": "2026-08-08",
       "inferred_date_count": 0,
       "source_types": [
@@ -66,7 +80,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 57,
+      "count": 60,
       "date": "2026-08-07",
       "inferred_date_count": 0,
       "source_types": [
@@ -102,7 +116,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 127,
+      "count": 131,
       "date": "2026-08-05",
       "inferred_date_count": 0,
       "source_types": [
@@ -307,7 +321,7 @@
         "landspace",
         "spacex"
       ],
-      "count": 372,
+      "count": 373,
       "date": "2026-07-24",
       "inferred_date_count": 0,
       "source_types": [
@@ -570,7 +584,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 93,
+      "count": 94,
       "date": "2026-07-08",
       "inferred_date_count": 0,
       "source_types": [
@@ -658,7 +672,7 @@
         "spacex",
         "yushi_space"
       ],
-      "count": 96,
+      "count": 97,
       "date": "2026-07-03",
       "inferred_date_count": 0,
       "source_types": [
@@ -717,7 +731,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 142,
+      "count": 143,
       "date": "2026-06-30",
       "inferred_date_count": 0,
       "source_types": [
@@ -735,7 +749,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 129,
+      "count": 130,
       "date": "2026-06-29",
       "inferred_date_count": 0,
       "source_types": [
@@ -6106,10 +6120,10 @@
       ]
     }
   ],
-  "generated_at": "2026-08-11T12:35:39.218257Z",
+  "generated_at": "2026-08-11T18:43:06.432739Z",
   "inferred_date_count": 1,
-  "run_id": "caef8f87-fe4a-4307-9d37-8f3a00503fe1",
+  "run_id": "ad41e5e1-b22d-47a4-b96c-9ebe6ae48c7b",
   "schema_version": "daily_news_index.v1",
   "timezone": "Asia/Shanghai",
-  "total_items": 3910
+  "total_items": 3944
 }
