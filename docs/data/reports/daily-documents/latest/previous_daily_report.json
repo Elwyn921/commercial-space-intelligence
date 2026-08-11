@@ -1,108 +1,188 @@
 {
-  "as_of_date": "2026-08-10",
+  "as_of_date": "2026-08-11",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
         "launch": 9,
-        "other": 3
+        "order": 2,
+        "other": 2
       },
-      "item_count": 12,
-      "latest_title": "Elon Musk envisions massive growth for SpaceX’s Starlink amid AI and robotics surge: 'It’s not out of the question that'"
+      "item_count": 13,
+      "latest_title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral"
     },
     {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_types": {
+        "launch": 3,
         "other": 1
       },
-      "item_count": 1,
-      "latest_title": "星河动力：飞行失利原因查明 - 上海证券报"
+      "item_count": 4,
+      "latest_title": "Blue Origin traces New Glenn's pad explosion to a BE-4 oxygen valve"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_types": {
+        "market": 2,
+        "other": 1
+      },
+      "item_count": 3,
+      "latest_title": "商业航天概念午后异动！朱雀三号发射在即，A股这些公司有合作 - 21财经"
     }
   ],
-  "company_count": 2,
+  "company_count": 3,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 9,
+    "launch": 12,
+    "market": 2,
+    "order": 2,
     "other": 4
   },
-  "generated_at": "2026-08-10T03:19:19.166510Z",
-  "period_end": "2026-08-09",
-  "period_start": "2026-08-09",
-  "report_date": "2026-08-09",
+  "generated_at": "2026-08-11T03:11:45.518432Z",
+  "period_end": "2026-08-10",
+  "period_start": "2026-08-10",
+  "report_date": "2026-08-10",
   "schema_version": "daily_document.v1",
-  "source_count": 6,
+  "source_count": 12,
   "source_counts": {
-    "Florida Today": 1,
+    "21财经": 1,
+    "36 Kr": 1,
+    "FOX 35 Orlando": 1,
+    "Jiemian.com": 1,
     "Spaceflight Now": 1,
-    "UA.NEWS": 1,
-    "bing.com": 8,
-    "space.com": 1,
-    "上海证券报": 1
+    "TradingView": 1,
+    "WFTV": 1,
+    "WKMG": 1,
+    "Yahoo": 1,
+    "bing.com": 9,
+    "deeparrival.com": 1,
+    "spacewatch.global": 1
   },
-  "summary": "2026-08-09 共归档 13 条新闻，覆盖 2 家公司、6 个信息来源。 新闻量较多的公司包括 SpaceX、星河动力。",
+  "summary": "2026-08-10 共归档 20 条新闻，覆盖 3 家公司、12 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、蓝箭航天。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "8f33592ff4cb71ea",
-      "published_at": "2026-08-09T12:02:20Z",
-      "source_name": "bing.com",
-      "title": "Elon Musk envisions massive growth for SpaceX’s Starlink amid AI and robotics surge: 'It’s not out of the question that'",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a791e62329047f0ac34664793852682&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Ftech-companies%2Felon-musk-envisions-massive-growth-for-spacex-s-starlink-amid-ai-and-robotics-surge-it-s-not-out-of-the-question-that%2Far-AA29IxPc&c=14723733682756748600&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "36b08032e1536c81",
-      "published_at": "2026-08-09T10:03:00Z",
-      "source_name": "Florida Today",
-      "title": "SpaceX Florida rocket launch: What time is Cape Canaveral liftoff? - Florida Today",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkw2bU1WVlczVzJseVR0U3BkdTZYdERlN05GWXFmZHRyaXFvVXF2RWJjb0E5QU5zLWRpMEQtS2NwQVdkOURWWlFzeGRiUXdkNWkyenZ4R1lNMnFpbDhrYkctVzhMbWM0SHdScEl3Y2ZTTVJ2dFBjaDl1V1pveDV6djR4a3lseHFnTEJXM2phS2tYTThVVmtFbzFoQnNpQVA4UExsWjBEUmYyYlBPN0l1Y04ybXFQNnBFZ1lqZ215dk9rRHlNdGJuc0R0aWIzMktWV21DekJB?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "68cf6d61a70a818a",
-      "published_at": "2026-08-09T02:00:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX rocket launch from Florida on first day of school. What to know.",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7870a2baeb4e9fb69f9523ff167b05&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fspacex-rocket-launch-florida-first-090053555.html&c=6800171239964568500&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "660e695a1fb6887e",
-      "published_at": "2026-08-08T21:14:10Z",
-      "source_name": "UA.NEWS",
-      "title": "SpaceX launched 24 Starlink satellites into orbit from California - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkQ2NUlyYXVRRkU2bmNsMjREMmd5VnJ4djF2cmlHMVhDSkNZbE92ZWI4Z01pektwdDRJbEtBSkk4NmstZ0JMd00xcXFBQXUwQlVPTFNpSzhMSVZ2MDlDY3AzZnZ4bWRhdGlXQWFndlkyX3RQOWZQMTZfUFFLOW03aFZGbFFIcmFGQmNNSFRNVFpGSHV4RTlj?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "c2b9be84ff5c29f0",
-      "published_at": "2026-08-08T20:00:48Z",
+      "item_id": "2c3a8f9d890b2c7d",
+      "published_at": "2026-08-10T13:40:12Z",
       "source_name": "Spaceflight Now",
-      "title": "SpaceX West Coast launch surge continues with Starlink mission - Spaceflight Now",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRU1DVjRzOUFZSXl4UlZkVU53V2NIN1g1bGxJaGk1ZHVpYXlzUVlWYlNmREN2YWtLWkgxY2NpRzlxZjZGNnZmaTJnRE05SktRSVQ2TVZxbGpJS0thUlBvWTMtTmhVb05CRGVhdWtOMlNOd3pmZnhTRVJkS3ppY3JRVHpTMl9ZZS1UbmpGVmI3SU81aW5Id2I3VEN6cWFpYnRQb0o0TmZCTnU4NWtKV0QycWwwMmpBQQ?oc=5"
+      "title": "Live coverage: SpaceX to launch 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral",
+      "url": "https://spaceflightnow.com/2026/08/10/live-coverage-spacex-to-launch-29-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-16"
     },
     {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "market",
+      "item_id": "a798591ffcde9224",
+      "published_at": "2026-08-10T12:57:00Z",
+      "source_name": "21财经",
+      "title": "商业航天概念午后异动！朱雀三号发射在即，A股这些公司有合作 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMTdLNXhPbUN5UUZZTmNNMUtUa20xN2dpVFVJcVlTcnZCcld2b1k4VWZaR2FBaVpkVTBSLWVJNTh6U1k2VFdYbFZQU0RTTjdoZXVGZDFUS3BwQkIxSU1DdkJEZFZzMDJJR045T3hmQ3ROYmtKdkl6RG5rS0pGM0NPWmxCdjVNazdZazZIbQ?oc=5"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "market",
+      "item_id": "2b30017a07125335",
+      "published_at": "2026-08-10T08:39:22Z",
+      "source_name": "Jiemian.com",
+      "title": "商业航天密集发射窗口开启,朱雀三号复飞在即！可回收火箭从技术验证迈向产业化，洪都航空涨停，航空ETF汇添富(159257)涨近2%，强势两连阳 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Pa2ZleS12T0t0MEI0MFhDUEF4VjgwTFR4MlRIWkowbzk3UVAyRkRUQ1pCcWlRNC1mMnVRRXk0Ni1xSjFyNDRsS1R0RzFwWGc3a1NPaHl0alI?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "bac959e742718222",
+      "published_at": "2026-08-10T12:47:17Z",
+      "source_name": "WKMG",
+      "title": "SpaceX Starlink launch from Florida pushed back to Tuesday - WKMG",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVUNyVjJ6ZUwzVWdMU0dqMmw4cm5QVXlrOUg4a2gyYllsYTVGaEtRbXJVZWRVRzdzUTdtVXV2alFwbkZsalg3Tmt5SDF5akVZUHViQUVpazRKMVdydFBYYWliWE1zQ1Z3d1JGWHlhVlkwVlhTWHJmLVp3RzBmWHc5MkFVQWFyS0lmUFZNY2VscWxMUlVIcF8tSE55Rkdyb0dnVU9QQQ?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "c04cf12d9a24c230",
+      "published_at": "2026-08-10T10:21:24Z",
+      "source_name": "FOX 35 Orlando",
+      "title": "SpaceX scrubs Starlink satellite launch from Florida - FOX 35 Orlando",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzktcDhjeGpOMTBoWXB6aDlNcnNQbGdXcExUaFFHVTJVSnFqOW1SNXR3bkFzdmRncC0zTEVIQXpPVFIwNWJZem9fbEhrN3I5NW5CQnFIYmZQOTVnWDZOS0NLcnRQZDBCaDI0Q2JrMDY4c1ljT2I1V2p5UTc3NTlpbnJuX0xfX3Q5VUI1c2M1NjY5UjFiUE1zMmtB?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "eaca97f791df1685",
+      "published_at": "2026-08-10T06:39:08Z",
+      "source_name": "bing.com",
+      "title": "SpaceX Will Fly the Same Falcon 9 Booster for an 18th Time Monday: Why Reusability Is Its Biggest Advantage",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7a1a982494457d90bff99dcd60a5ce&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fnews%2Fspacex-will-fly-the-same-falcon-9-booster-for-an-18th-time-monday-why-reusability-is-its-biggest-advantage%2Far-AA29LYuy&c=310988309463661443&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "56729eb218c77ca4",
+      "published_at": "2026-08-10T06:39:08Z",
+      "source_name": "bing.com",
+      "title": "SpaceX Will Fly the Same Falcon 9 Booster for an 18th Time Monday: Why Reusability Is Its Biggest Advantage",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7a6fe0a63b45bd8477bcbf05c558c9&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fnews%2Fspacex-will-fly-the-same-falcon-9-booster-for-an-18th-time-monday-why-reusability-is-its-biggest-advantage%2Far-AA29LYuy&c=310988309463661443&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "25fa5d1285eec5c1",
+      "published_at": "2026-08-09T22:18:00Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin traces New Glenn's pad explosion to a BE-4 oxygen valve",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a79c60ad57a47a7ae59a83c64a7b967&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fblue-origin-traces-glenns-pad-051800901.html&c=10670518583878528832&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "1f06cac657e717c1",
+      "published_at": "2026-08-09T22:18:00Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin traces New Glenn's pad explosion to a BE-4 oxygen valve",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7a6fe82f564d6997d2fc1b382c5ce7&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fblue-origin-traces-glenns-pad-051800901.html&c=10670518583878528832&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "1d1de2d25c29c50c",
+      "published_at": "2026-08-09T22:18:00Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin traces New Glenn's pad explosion to a BE-4 oxygen valve",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7a1aa06982471386e09fb3a4bb15c4&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fblue-origin-traces-glenns-pad-051800901.html&c=10670518583878528832&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_type": "other",
-      "item_id": "510ba523116d340c",
-      "published_at": "2026-08-09T07:36:44Z",
-      "source_name": "上海证券报",
-      "title": "星河动力：飞行失利原因查明 - 上海证券报",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEUm8weTlaZ2ZSX0FrZ0hwa184VVQ4Rk9nWVdYdjBlc1U2UVprMmh5NVl0SVY2SmdWaHpTUjNvNW4wWFZPLTlvN01KcjgzU2lGczgxT1NR?oc=5"
+      "item_id": "f2eb790c50381ef1",
+      "published_at": "2026-08-10T05:18:00Z",
+      "source_name": "Yahoo",
+      "title": "Blue Origin traces New Glenn's pad explosion to a BE-4 oxygen valve - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNak14SVBoaXdTZ3k0OEt3YjBOUnNaWGpOVXNPb21ZUW1ObVRWa0tPR1c1b2NuWDV6ekFIU3haTFBPdkRKcExnTU1mY3FOUEpPMnZILWJKeWpvaUdhZldMYWd6MXJEOHFhLVotZUtTSnRrZ01EMGRpZFpKSjhERGgxLTZWSFpMTkRWRmR5Q04ta19OUQ?oc=5"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "other",
+      "item_id": "7bedd717765400d9",
+      "published_at": "2026-08-09T21:24:00Z",
+      "source_name": "36 Kr",
+      "title": "朱雀三号若8月11日复飞成功，蓝箭航天将加速冲刺中国商业航天第一股 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fSDI0Rk5NRUtSaXpfWFdkNWRNTkJqVHNrVUVaWGludkZ1SXJ1T1NfZ0tub3h2bjB0ZkctSmpUSHNNVUZUZ0J4MGlVM1oyZw?oc=5"
     }
   ],
-  "total_items": 13
+  "total_items": 20
 }
