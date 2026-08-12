@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-08-11
+# 每日新闻情报日报 - 2026-08-12
 
-- Report ID: daily-2026-08-12-f3ca1316
-- Source run: ad41e5e1-b22d-47a4-b96c-9ebe6ae48c7b
+- Report ID: daily-2026-08-12-d47856cc
+- Source run: be8c4fcf-621e-4341-8798-bf095779d61c
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 2
+- Total items: 7
 
 ## Executive Summary
 
-2026-08-12 共收录 2 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-08-12 共收录 7 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,13 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
-- [SpaceX launches 29 Starlink satellites to orbit from Florida (photos) - Space](https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFBrNUF6Q1hMYnFJRTlzSHZFTFZkN1hkMWhSeWNzOEFDejVZYkFUUHdQWmE4dkd4c2ZhOGtiSkdmbmVHS2xrZlJ6MzZocGZSZWJNV3NOMlJaWmQtNndWdkZRb21IYTVlQmlVLWE1WVZ0WHM0UWQ2cFJycGNtQnhKeDE4VTAxazhsdkRtbWNfWi1lZGtVYVB6TWUtdklQaGVP?oc=5) SpaceX
-- [SpaceX to livestream next Vandenberg rocket launch. How to watch - The Desert Sun](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjUtNjVBOElHbnZkR0o0a1pNM0hzVkFheTBia3RsSXJWMURwQmN3bmF4RDJtMXdHV1luLVBtTnBtZFpKVHY4dnNQLTNjbmIwMy1XUmpILTNUaWdFZkZTRjNTQkd6NlFQM0pta0R4VFZpT1M5bjY1cG9vWWdNSjdkYjZpcnVFcGNQUWRsbDNqRnNfeWdFUkRyX016d0FwOFNLNDNENjZkRjJ0V3FndUtHZmd6NmZHUHlGaEdTM3V3?oc=5) SpaceX
+- [SpaceX could make $500 billion in 2028, Elon Musk says](https://www.space.com/space-exploration/spacex-could-make-usd500-billion-in-2027-elon-musk-says) SpaceX
+- [SpaceX Falcon 9 rocket launch, Starlink satellites from Vandenberg, CA Space Force Base - cbs8.com](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTWxsV0RyV0lzQ090eGxoQjdlVS1rel90cGpFQVZuUzFYdHptN0ZoRENzVURwWTU1RUZFTmY3WXNVOXNPQlQwRG1WTzd6MzZ5b1Bfd1JubnEzTFRHdmplZjB6ck13MmIzd0FyMXg2bnV2TVlYTS04Q3RfOHliYkJCMnIyeE9vN2ZPZmtaMkFTVHpoeDdXYTJybkc5cnpyOTJMN2thd2hESjItZjZ1V2YzRGxvc0FsSkRPczlBSjVraGhvM2ljZWRQRWc0cVlHM0pmemZhSGl1aVM1RUxpOWQ5X3BtU3hOOUpUUjA5aGl3emRiU185aGRpRWJB?oc=5) SpaceX
+- [Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB](https://spaceflightnow.com/2026/08/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-14) SpaceX
 
 ## Top News
 
-- [SpaceX launches 29 Starlink satellites to orbit from Florida (photos) - Space](https://news.google.com/rss/articles/CBMioAFBVV95cUxPdFBrNUF6Q1hMYnFJRTlzSHZFTFZkN1hkMWhSeWNzOEFDejVZYkFUUHdQWmE4dkd4c2ZhOGtiSkdmbmVHS2xrZlJ6MzZocGZSZWJNV3NOMlJaWmQtNndWdkZRb21IYTVlQmlVLWE1WVZ0WHM0UWQ2cFJycGNtQnhKeDE4VTAxazhsdkRtbWNfWi1lZGtVYVB6TWUtdklQaGVP?oc=5) SpaceX
-- [SpaceX to livestream next Vandenberg rocket launch. How to watch - The Desert Sun](https://news.google.com/rss/articles/CBMivgFBVV95cUxPMjUtNjVBOElHbnZkR0o0a1pNM0hzVkFheTBia3RsSXJWMURwQmN3bmF4RDJtMXdHV1luLVBtTnBtZFpKVHY4dnNQLTNjbmIwMy1XUmpILTNUaWdFZkZTRjNTQkd6NlFQM0pta0R4VFZpT1M5bjY1cG9vWWdNSjdkYjZpcnVFcGNQUWRsbDNqRnNfeWdFUkRyX016d0FwOFNLNDNENjZkRjJ0V3FndUtHZmd6NmZHUHlGaEdTM3V3?oc=5) SpaceX
+- [SpaceX could make $500 billion in 2028, Elon Musk says](https://www.space.com/space-exploration/spacex-could-make-usd500-billion-in-2027-elon-musk-says) SpaceX
+- [SpaceX Falcon 9 rocket launch, Starlink satellites from Vandenberg, CA Space Force Base - cbs8.com](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTWxsV0RyV0lzQ090eGxoQjdlVS1rel90cGpFQVZuUzFYdHptN0ZoRENzVURwWTU1RUZFTmY3WXNVOXNPQlQwRG1WTzd6MzZ5b1Bfd1JubnEzTFRHdmplZjB6ck13MmIzd0FyMXg2bnV2TVlYTS04Q3RfOHliYkJCMnIyeE9vN2ZPZmtaMkFTVHpoeDdXYTJybkc5cnpyOTJMN2thd2hESjItZjZ1V2YzRGxvc0FsSkRPczlBSjVraGhvM2ljZWRQRWc0cVlHM0pmemZhSGl1aVM1RUxpOWQ5X3BtU3hOOUpUUjA5aGl3emRiU185aGRpRWJB?oc=5) SpaceX
+- [Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB](https://spaceflightnow.com/2026/08/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-14) SpaceX
 
 ## Risks And Watchpoints
 
