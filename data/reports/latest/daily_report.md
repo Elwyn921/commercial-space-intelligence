@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-08-14
 
-- Report ID: daily-2026-08-14-379f3abd
-- Source run: b8543cd5-3fe2-4771-9839-9190ee6c7944
+- Report ID: daily-2026-08-14-2dbdb8c5
+- Source run: 79a3d6cb-2c58-466c-94d5-e812a9df40be
 - Generation status: skipped_no_secret
-- Companies covered: 1
-- Total items: 1
+- Companies covered: 3
+- Total items: 6
 
 ## Executive Summary
 
-2026-08-14 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 Blue Origin。
+2026-08-14 共收录 6 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 Blue Origin、SpaceX、宇石空间。
 
 ## Industry Chain Sections
 
@@ -21,6 +21,7 @@ No LLM summary.
 
 No LLM summary.
 
+- [江苏：拟突破大运力和可重复使用火箭关键技术 强化发射回收验证能力建设 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pMkJJTmM0Y2I2WlEwQTU5clNGWVdZZ09RbEllVXNkcjlOU3BmNEhKSkpmOGVWVXozVGlQd3RSMEs0bTFSLUtzMWdYS1BIQzRwMGVTX2NHX2pOZXBF?oc=5) 宇石空间
 
 ### 卫星互联网服务
 
@@ -31,11 +32,18 @@ No LLM summary.
 
 No LLM summary.
 
-- [Blue Origin doubling launch pads at LC 36 following New Glenn explosion: 'Picking up the speed'](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7ebd87cbd34f5b8184917ae786c613&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Fblue-origin-doubling-launch-pads-at-lc-36-following-new-glenn-explosion-picking-up-the-speed%2Far-AA2a3U3i&c=12740583370789853839&mkt=en-us) Blue Origin
+- [Blue Origin outlines plans for second Cape Canaveral launch pad](https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad) Blue Origin
+- [Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan](https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan) Blue Origin
+- [SpaceX rocket's moon crash highlights 'a tangible operational risk' of lunar settlement](https://www.space.com/astronomy/moon/spacex-rockets-moon-crash-highlights-a-tangible-operational-risk-of-lunar-settlement) SpaceX
+- [Blue Origin pushes ahead with second launch pad, new facilities after rocket explosion - The Business Journals](https://news.google.com/rss/articles/CBMipwFBVV95cUxQeWVMS0NGQUdHc054T2hCTGtISVl4TlhmQkdjNW9rMW5qUmNBRDNqTE1jOEZkOTJEX1c2cmc3NUtRdTRnM0g4ZjMxSEVvc0Y2WHJULWRXZDB3WHMxa1VfY0RRUGRuSjFka25ZdkEtdklPNC1wdC1ZN1ZjTEF3cEpkSmhCZVFLQ21nNlJOX2FMWWktZm5fcDV5cnV5ZHlBZ1I3UzJYWjJSRQ?oc=5) Blue Origin
 
 ## Top News
 
-- [Blue Origin doubling launch pads at LC 36 following New Glenn explosion: 'Picking up the speed'](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7ebd87cbd34f5b8184917ae786c613&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Fblue-origin-doubling-launch-pads-at-lc-36-following-new-glenn-explosion-picking-up-the-speed%2Far-AA2a3U3i&c=12740583370789853839&mkt=en-us) Blue Origin
+- [Blue Origin outlines plans for second Cape Canaveral launch pad](https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad) Blue Origin
+- [Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan](https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan) Blue Origin
+- [SpaceX rocket's moon crash highlights 'a tangible operational risk' of lunar settlement](https://www.space.com/astronomy/moon/spacex-rockets-moon-crash-highlights-a-tangible-operational-risk-of-lunar-settlement) SpaceX
+- [Blue Origin pushes ahead with second launch pad, new facilities after rocket explosion - The Business Journals](https://news.google.com/rss/articles/CBMipwFBVV95cUxQeWVMS0NGQUdHc054T2hCTGtISVl4TlhmQkdjNW9rMW5qUmNBRDNqTE1jOEZkOTJEX1c2cmc3NUtRdTRnM0g4ZjMxSEVvc0Y2WHJULWRXZDB3WHMxa1VfY0RRUGRuSjFka25ZdkEtdklPNC1wdC1ZN1ZjTEF3cEpkSmhCZVFLQ21nNlJOX2FMWWktZm5fcDV5cnV5ZHlBZ1I3UzJYWjJSRQ?oc=5) Blue Origin
+- [江苏：拟突破大运力和可重复使用火箭关键技术 强化发射回收验证能力建设 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pMkJJTmM0Y2I2WlEwQTU5clNGWVdZZ09RbEllVXNkcjlOU3BmNEhKSkpmOGVWVXozVGlQd3RSMEs0bTFSLUtzMWdYS1BIQzRwMGVTX2NHX2pOZXBF?oc=5) 宇石空间
 
 ## Risks And Watchpoints
 
