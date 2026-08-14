@@ -1,246 +1,240 @@
 {
-  "as_of_date": "2026-08-13",
+  "as_of_date": "2026-08-14",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 24,
-        "other": 1
+        "launch": 4,
+        "order": 2,
+        "other": 2,
+        "regulation": 2
       },
-      "item_count": 25,
-      "latest_title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB"
+      "item_count": 10,
+      "latest_title": "SpaceX Finalizes Regulatory Procedures to Close $60 Billion Acquisition of AI Platform Cursor"
     },
     {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
       "event_types": {
-        "launch": 4,
-        "other": 3
+        "launch": 9
+      },
+      "item_count": 9,
+      "latest_title": "中科宇航力箭一号拟进行首次海上发射 - 证券时报"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_types": {
+        "launch": 5,
+        "other": 2
       },
       "item_count": 7,
-      "latest_title": "总投资15亿元 星河动力液体火箭基地在池州开工 - 证券时报"
+      "latest_title": "Blue Origin to build second launch pad at Cape Canaveral following New Glenn rocket explosion - Yahoo"
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
       "event_types": {
-        "launch": 1,
         "other": 1
       },
-      "item_count": 2,
-      "latest_title": "In 2014, Blue Origin patented the idea of landing a rocket vertically at sea, before it had launched a single orbital rocket, then used the patent to try to block SpaceX from doing exactly what SpaceX was already attempting to do - Space Daily"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_types": {
-        "launch": 1,
-        "market": 1
-      },
-      "item_count": 2,
-      "latest_title": "LandSpace Zhuque-3 attempts land-based booster recovery, $1B IPO at stake"
-    },
-    {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
-      "event_types": {
-        "launch": 1
-      },
       "item_count": 1,
-      "latest_title": "China’s iSpace raises first batch of series E funding for reusable rocketry"
+      "latest_title": "星河动力年产24发可重复用液体火箭产业化基地项目在池州正式开工 - Sohu"
     }
   ],
-  "company_count": 5,
+  "company_count": 4,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 31,
-    "market": 1,
-    "other": 5
+    "launch": 18,
+    "order": 2,
+    "other": 5,
+    "regulation": 2
   },
-  "generated_at": "2026-08-13T03:33:14.682556Z",
-  "period_end": "2026-08-12",
-  "period_start": "2026-08-12",
-  "report_date": "2026-08-12",
+  "generated_at": "2026-08-14T03:30:27.205948Z",
+  "period_end": "2026-08-13",
+  "period_start": "2026-08-13",
+  "report_date": "2026-08-13",
   "schema_version": "daily_document.v1",
-  "source_count": 23,
+  "source_count": 15,
   "source_counts": {
-    "4?ds=true&seed=1786577675": 1,
+    "Aviation Week": 1,
     "Barron's": 1,
-    "Florida Today": 3,
-    "Jiemian.com": 1,
-    "Space": 2,
-    "Space Daily": 1,
-    "Spaceflight Now": 2,
-    "Tech Times": 1,
-    "The Desert Sun": 1,
-    "WESH": 1,
+    "Blue Origin": 1,
+    "DoNews": 1,
+    "Sohu": 3,
+    "WFTV": 1,
     "Yahoo": 1,
-    "bing.com": 8,
-    "cbs8.com": 1,
-    "eciks.org": 1,
-    "finance.biggo.com": 1,
-    "solarzoom.com": 1,
-    "space.com": 3,
-    "spacewatch.global": 1,
-    "东方财富": 1,
-    "维度网": 1,
+    "bing.com": 9,
+    "keeptrack.space": 1,
+    "satnews.com": 2,
+    "新浪财经": 2,
     "观点网": 1,
-    "证券时报": 2,
-    "财联社": 1
+    "证券时报": 1,
+    "财联社": 1,
+    "驱动之家": 1
   },
-  "summary": "2026-08-12 共归档 37 条新闻，覆盖 5 家公司、23 个信息来源。 新闻量较多的公司包括 SpaceX、星河动力、Blue Origin、蓝箭航天。",
+  "summary": "2026-08-13 共归档 27 条新闻，覆盖 4 家公司、15 个信息来源。 新闻量较多的公司包括 SpaceX、中科宇航、Blue Origin、星河动力。",
   "top_items": [
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
       "event_type": "launch",
-      "item_id": "7cce302cbd964b71",
-      "published_at": "2026-08-11T20:05:15Z",
-      "source_name": "Spaceflight Now",
-      "title": "Live coverage: SpaceX to launch 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-      "url": "https://spaceflightnow.com/2026/08/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-14"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "market",
-      "item_id": "631bf620701f2521",
-      "published_at": "2026-08-12T11:59:34Z",
-      "source_name": "bing.com",
-      "title": "LandSpace Zhuque-3 attempts land-based booster recovery, $1B IPO at stake",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7d16e2c6d642728dc0a7f29cee8911&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Feconomy%2Flandspace-zhuque-3-attempts-land-based-booster-recovery-1b-ipo-at-stake%2Far-AA29Xw4B&c=13402115962028479789&mkt=en-us"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "other",
-      "item_id": "428d75f18ffb8558",
-      "published_at": "2026-08-12T11:14:00Z",
+      "item_id": "83940b7ac93fb4f8",
+      "published_at": "2026-08-13T10:20:00Z",
       "source_name": "证券时报",
-      "title": "总投资15亿元 星河动力液体火箭基地在池州开工 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tVlhka2xJakhibXpRTllRZ2t5Rjc4U0xWdWR3NWNTOHYydUNnclFyUlZnRk5PRTFOQjlrdFdaOTZnLV9lRXM4NUlWNk9kS0Y2Vmswb204NGtiVXB6?oc=5"
+      "title": "中科宇航力箭一号拟进行首次海上发射 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81cFhSdjZ2am4ybDVETDR1NXpudFQxZ2c4M0xadE1tREdaclZ0eGNxRmRYLW9JV1lGWnJiMG9CM3hOVWlxMWhTYjZteFVPSDRYOG9jOUxsaXpBLS1a?oc=5"
     },
     {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "other",
-      "item_id": "91c392de8464d6d5",
-      "published_at": "2026-08-12T09:22:00Z",
-      "source_name": "证券时报",
-      "title": "星河动力液体火箭基地在池州开工 总投资15亿元 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JSVl3TXgzXzZLR2NNbDBIQVc2WlhpVF9KNkJSR3VCSkd2NTVYZjgySndaeFk3RkR6VTByU2NlWnhfdG44Z2ViZDhCNGtVMW1sNUhnZTlMTFNfR2Fx?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
       "event_type": "launch",
-      "item_id": "ba24e853a4afa31d",
-      "published_at": "2026-08-12T15:19:26Z",
-      "source_name": "Tech Times",
-      "title": "SpaceX Dual-Coast Launch Adds 53 Starlink Satellites: Vandenberg Halfway Through Annual Cap - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSk9TYjZDb1FaOVhjM2c1eDdEWWdudGp4aVVCYW9lbXdlcjZscE5GUGdrbEo3NExmMV9mNEQtc2t4bDBnZ2xfTDUxMU9pWEtuOVdEQmphT3hXZGpUSkdyeFdLVlFtUUQ4Zm1vVHFrekI0d1cxNmZhTW5hQWt5dXFDR01WMXlfWGFqX3dlbUVVQVFYNUo0TUxTNy1nRTFjanVFU09pUlVla2Y3R3R2amhxYU5Yc19RUXBBQktiLTFabHFwdXJWVmJyTm83THotM2Q5Z1AzNWo2ODNqTWl5UUE?oc=5"
+      "item_id": "0b3d1689ee3c73e6",
+      "published_at": "2026-08-13T14:52:00Z",
+      "source_name": "新浪财经",
+      "title": "力箭一号遥十七运载火箭顺利出厂，拟于近期执行海上发射任务 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90bWZxcHozZTZWVVI3cThrN0Jkak41b1pnbzBhVVdDbFJIYzBxUUNPdTZ1cnpmWkdsSGZJZjg1QTZMclBVLS1KbE9wY1JiU3hHZGlTS1Z0anl0ZXE0RGFURWJBYi1PdXM1SEVNWl9CQzIzdGx0ZndTbw?oc=5"
     },
     {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
       "event_type": "launch",
-      "item_id": "31e826f6dc02aadb",
-      "published_at": "2026-08-12T12:48:16Z",
-      "source_name": "4?ds=true&seed=1786577675",
-      "title": "China’s iSpace raises first batch of series E funding for reusable rocketry",
-      "url": "https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "dcff5773a89a8e60",
-      "published_at": "2026-08-12T11:48:03Z",
-      "source_name": "Space",
-      "title": "SpaceX wraps Starlink double header day with the launch of 24 Starlink satellites from California - Space",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORWQ2OTJaVFhacTUyVGYwX1BDdi1OWU5qX0c5Z040a2FUclJzRE1qNEgyYUZ3OEVNTmhncXE1ejFoRmk2c3ZXaWVHVUJuUUF1MkFtYnlTeWs5a0JobFgybVlSZTlHckRVVk5fNkRTM1pKeDVvVUpaSmJ3clhJdEhoZ0RkdjVKdFhIalBGekVGWktwbDR1bHAzSFM3NE05U2M?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "cf9bae47487607ce",
-      "published_at": "2026-08-12T11:48:03Z",
-      "source_name": "space.com",
-      "title": "SpaceX wraps Starlink double header day with the launch of 24 Starlink satellites from California",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-group-17-49-b1103-asog"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "2a8ef78dfce933c2",
-      "published_at": "2026-08-12T10:24:46Z",
-      "source_name": "Yahoo",
-      "title": "SpaceX launches Starlink satellites from California to complete doubleheader, sticks landing - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNUowcUYzcVFIcjFjUDBDUG9FTkZybm9CQjljQnhlc3lZcWw5MktpZEFWZzg2UjNlQWlTU3JHMXpyTnRBY0lnNnp4LTRxcnRlS09uV0Z3TjhRMEU2TXB6bmNfQ01zV3VfWENmN2FSUGZ4VlFrVFdsTjdyWVBpY3RQOTZuVVZJYllnVHZfUTBjamI4b0I5RDItMmM3QQ?oc=5"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "launch",
-      "item_id": "4273f44737a5ccb5",
-      "published_at": "2026-08-12T09:54:43Z",
-      "source_name": "solarzoom.com",
-      "title": "总投资15亿元！星河动力年产24发重复使用液体运载火箭产业化基地项目开工 - solarzoom.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ROGc2elZqaXBEYzBtV3ZhNnZHWEk2d3l1Z2FRNDNFQzBzemJ2MUx2ZEJWR0t6OXlUN0NuVVBjbUlNYldmWE1PRkFWdzY2TWQ1bzRIWGRxdWQtMzQ?oc=5"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "launch",
-      "item_id": "a7fdab71e286923b",
-      "published_at": "2026-08-12T04:07:23Z",
+      "item_id": "646c77f086527610",
+      "published_at": "2026-08-13T13:06:41Z",
       "source_name": "观点网",
-      "title": "星河动力年产24发重复使用液体运载火箭产业化基地开工 总投资15亿元 - 观点网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82cS16Y0prVFZ5NUlrMFZ2V2VCR1BGanBBXzJiQzVwSzRiYVpUNUxQLVdYLXNQRmt3TGpLV3N0YnU4R2lzQ05PNy1oZkdZZDJ6Qk96bTRKT2ZyX1A2ZnZYRWhB?oc=5"
+      "title": "中科宇航力箭一号完成总装测试 拟近期海上发射“一箭3星” - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85d0t1NUNYUlRMdkFQVVJ2U1FNRVhpUFk2MGNhUU9fTVloamVJRDhiTHJ3enFrU0kzWklwTExlU3ZqVjJJRllEaGFZSW1jZw?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "98f672362b9ce352",
+      "published_at": "2026-08-13T12:36:34Z",
+      "source_name": "Yahoo",
+      "title": "Blue Origin to build second launch pad at Cape Canaveral following New Glenn rocket explosion - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZXhZWnVlUG5oRUhfdHZHUmVhamlpMmx5TzV0R0tSaWVPRUkzbUpGZ29VZWhuODZiRDN2Mk5hWklFTTZhU0I0NGY2Ml95VzJCdE53ZGtJRzhMTG11UVFNalZZQ0JiX2Q4OFkwQUVMcDNrbFU2bVFZUk90NWVDaFhBR2lIZGI1c1RybzVCRmhRelhHbV9a?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "5a2c001d6019f55c",
+      "published_at": "2026-08-13T12:36:34Z",
+      "source_name": "WFTV",
+      "title": "Blue Origin to build second launch pad at Cape Canaveral following New Glenn rocket explosion - WFTV",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdUhpTGlLVDJaY0NsOHMyNThhTWV3aGhJMGY0cVM3YXNSZGNMSjFyNk5sbEFJX2dFOWhIdkRUS0lRek1yY2JESm1oNWlnZVI0b1JBMkRfLW1LNTZvVVdMRTBUYTVrckN0ek9SVTBVOEEwRTJTRkRjdDl1TFB6TkN1OG9xQXNxSUN5WDczaTllYzJQYTRadGlZdlQ3UDNOWU5raXBWblhEUDAxTlVBNno1UzNWODFZNmxnWjgzZi1MS0JCX0RGM1JFQ3hFZ0VvX0h6YVdqcHFnWTFGMU9hbUhoQtIB9AFBVV95cUxOY2RPRWFLd3R3LXpzWUFlcVJyX2FuUUJiNVVmMWdCLXBzSWRKSVdrT3Y3Q2JURmlRWFNjSTVjSkhueTVMNTZRZXZBQWpZQ1U3anlDV3RsRnQ3YVJGdEpqRVJ4Uk1xbnhJd1JieXBlMlhXNFg0bEd4MGtoa0VKUkQ3TkR3YlJJZ1prT1lqN0U0b1ZTTG9CbzdVV296TVdod29HQzQ3MmN2bTRkU2FxdHlYYUN6TnAwTXJ0MTRwUlNQcHROMmhIbEx5Umoxa2d0eGZJaXhjUFVSdTU5VEhCb3l6Wk1lWWJPMXdjRGh2YXNRaXZIY0pq?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "regulation",
+      "item_id": "f42cf9cd431cbccc",
+      "published_at": "2026-08-13T12:00:00Z",
+      "source_name": "satnews.com",
+      "title": "SpaceX Finalizes Regulatory Procedures to Close $60 Billion Acquisition of AI Platform Cursor",
+      "url": "https://satnews.com/2026/08/13/spacex-finalizes-regulatory-procedures-to-close-60-billion-acquisition-of-ai-platform-cursor"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "65913d4c5e4e4fa6",
+      "published_at": "2026-08-13T10:49:03Z",
+      "source_name": "DoNews",
+      "title": "力箭一号遥十七完成总装测试 将首次海上发射 - DoNews",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41cEZJWkxFd1dPaUdscUd3RXpHSEh4eW9faFVwT3pxZkctUWIxS0FTS3JmX3EyR0RfQVlfWXRYLWZhLVc0elF3X0hZWWU3NXRWekNQY2h1aDR6azRhMHc?oc=5"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "bb3178731e1be0ea",
+      "published_at": "2026-08-13T10:40:09Z",
+      "source_name": "Sohu",
+      "title": "力箭一号将首次执行海上发射：遥十七火箭拟近期在广东海域发射 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1lYZWdfMHFTeVR4N3JMblMwTllFOXhuVnIwNDFKM0JaemJCcW81M29uV3FIejVPMkYtN2NlenVjdGs1VDM5UnBNQjhjdGwxWU5CSkFVZm50VkJPaHpnVjNWZ2ZIM25WdXVNNnd6VW5DWGZHTXk1U00wenhyM3ljYXdpQU1FQnpj?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "other",
+      "item_id": "a855636ed5d7814b",
+      "published_at": "2026-08-13T09:54:00Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin lays out Canaveral expansion amid post-explosion rebuild",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7e6635c16f451bafeaafe3302e0e75&url=https%3A%2F%2Fwww.orlandosentinel.com%2F2026%2F08%2F13%2Fblue-origin-lays-out-canaveral-expansion-amid-post-explosion-rebuild%2F&c=12658456375385354469&mkt=en-us"
     },
     {
       "company_id": "galactic_energy",
       "company_name": "星河动力",
       "event_type": "other",
-      "item_id": "f7b0ffc5660a5850",
-      "published_at": "2026-08-12T03:39:00Z",
-      "source_name": "维度网",
-      "title": "中国星河动力年产24发可重复使用液体火箭基地开工 - 维度网",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XajgtZnJrcHlGc0I1SFRFVzJ1TU1mWWJncy1QeV9HcVF1RjhsdDZZcGVpMG9tXzVSQVdYeGFDYlB6TGVwcjlEZjgwMGlpbUhEQTdza0Qtdng?oc=5"
+      "item_id": "18236246466aa085",
+      "published_at": "2026-08-13T09:32:20Z",
+      "source_name": "Sohu",
+      "title": "星河动力年产24发可重复用液体火箭产业化基地项目在池州正式开工 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlJoY0gxeTJPTWpqTERocEVsTFlfZnRZZXQzMGo2cDh2OGxKU3g1b0JwQklQcUp1Ql9fTVR3c0xHSUU1VUJMRDhacXYyTWtIckZ5cGZjYXF0cW1iTFZwLXBEUnRwb0RGU25ucUQwTTZBeDF5MnpzdUFOVU03S3ozM0RjQnRtREMzNlE2cg?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "4986902cd324cfe9",
+      "published_at": "2026-08-13T09:03:31Z",
+      "source_name": "keeptrack.space",
+      "title": "Starlink Hits 10,971 Active After Double Launch, X Report 13 Aug 2026 - keeptrack.space",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZTm1JbFgydlFEVWlTWGRobkRjN1Y1VWFNSVVIMXpxdi1lS0VpcHVkbWVybjlZNWdBWmpmNEx6aGM0eEJWS0wtb3hWQmNGT1lSWFpMRVNBVl9yWnBFNmZzNzBaQTM4LTg?oc=5"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "b5a248c7c85d3974",
-      "published_at": "2026-08-12T00:59:36Z",
-      "source_name": "Space Daily",
-      "title": "In 2014, Blue Origin patented the idea of landing a rocket vertically at sea, before it had launched a single orbital rocket, then used the patent to try to block SpaceX from doing exactly what SpaceX was already attempting to do - Space Daily",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdUtPSGdRdkNfN0NyTUVlbjY0am44TlZOa1Y3M3pmeFVWVjYyU29UaGwwRmQ1Z1h1UnpWd2JaRmRQeFZaMThNeDlvUEYzcnhBM2drRDBRNV93SFBvYXZVY2lwYm44RFNUU3VITmZVWXdlX05iWlF0cTk4VW5sMTJOUVRLVk8yOG45SVJScjktbXl6Rl9nTUZjd3lDVWVzZjZMMGlJWFJkZ3JCb1FPYkJKLU5DdnNHb0NPZUZ6VHREZUR0THZmczhSX05LOWI3a3hfem5xLXRBQ1N2N2FnVDR2aGRaMTBVaXdQMjl2NEJxSFJtOUVUN051azR6cGRoSEJVcUpZWG9ManhvaVMwbUtyeFV0Q1BhWEpDbGRIcTRZcDIzMklnQUE3MnY0alNiRXZYSkRLdXd3cHg1ekI1ZnY2V1ZzYldhZw?oc=5"
+      "item_id": "8c95f61262b601ba",
+      "published_at": "2026-08-13T08:50:00Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin lays out Canaveral expansion amid post-explosion rebuild",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7e1064fba34cf2a8abd44d369976f2&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fblue-origin-lays-canaveral-expansion-155000521.html&c=13328099747799989014&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "e2bdb3d84606f217",
+      "published_at": "2026-08-13T03:25:00Z",
+      "source_name": "bing.com",
+      "title": "Starlink launches in Vietnam: SpaceX starts taking orders for satellite internet starting at $43 a month",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7e662e727744f2937658a0a011480b&url=https%3A%2F%2Fwww.thenews.com.pk%2Flatest%2F1412148-starlink-launches-in-vietnam-spacex-starts-taking-orders-for-satellite-internet-starting-at-43-a-month&c=16439445667203919958&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "a2402e67d9c1e760",
+      "published_at": "2026-08-13T03:25:00Z",
+      "source_name": "bing.com",
+      "title": "Starlink launches in Vietnam: SpaceX starts taking orders for satellite internet starting at $43 a month",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7dba8d008745749216ae0aa53b42e3&url=https%3A%2F%2Fwww.thenews.com.pk%2Flatest%2F1412148-starlink-launches-in-vietnam-spacex-starts-taking-orders-for-satellite-internet-starting-at-43-a-month&c=16439445667203919958&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "15cc1aa10ab18fbf",
+      "published_at": "2026-08-13T03:25:00Z",
+      "source_name": "bing.com",
+      "title": "Starlink launches in Vietnam: SpaceX starts taking orders for satellite internet starting at $43 a month",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7e105c03074d96ae6a34f3c3b1645e&url=https%3A%2F%2Fwww.thenews.com.pk%2Flatest%2F1412148-starlink-launches-in-vietnam-spacex-starts-taking-orders-for-satellite-internet-starting-at-43-a-month&c=16439445667203919958&mkt=en-us"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
-      "event_type": "other",
-      "item_id": "38f384af5c512cfa",
-      "published_at": "2026-08-11T18:44:00Z",
-      "source_name": "finance.biggo.com",
-      "title": "AST SpaceMobile Sticks to $1 Billion Revenue Target, Eyes 45 Satellites by Early 2027 Without Relying on Blue Origin - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90T3hCcEVOR05YY2J5MS1ab1l3bzlIUXFwcXJwYTNDWVNtRzQyRkhCd3dNbVdhQmtvN0NobUtpdHptSDk3M0NDdjdFS285dVVTekJRME9DRjVMMVZUckdtUVpJUHdsRk1xOTE1Y0lhYWpLaEc3SWc?oc=5"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
       "event_type": "launch",
-      "item_id": "9ee1cdeea97ef989",
-      "published_at": "2026-08-11T17:24:58Z",
-      "source_name": "Jiemian.com",
-      "title": "蓝箭航天朱雀三号遥二运载火箭发射推迟 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wZm1wTjFpYko4VWdiemhVYVJmLUZ6eVg2NElqeXFacjVGZUptT3U1OHpnTTBvdXdFYTNESUVYSTlMQmF1MWd2V05tX3NOdktWeTRhM1RkTkE?oc=5"
+      "item_id": "d1db1c549126922c",
+      "published_at": "2026-08-13T02:07:00Z",
+      "source_name": "bing.com",
+      "title": "Kent-Based Blue Origin Returning Florida Launch Complex 36 to 2 Pads",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a7e1064fba34cf2a8abd44d369976f2&url=https%3A%2F%2Fmynorthwest.com%2Flifestyle%2Fsouth-sound-business%2Fkent-based-blue-origin-returning-florida-launch-complex-36-to-2-pads%2F4265745&c=8248120450444733244&mkt=en-us"
     }
   ],
-  "total_items": 37
+  "total_items": 27
 }
