@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-08-15
 
-- Report ID: daily-2026-08-15-4e4c0929
-- Source run: 32ae59cd-e60d-4f58-957b-f74b24657039
+- Report ID: daily-2026-08-15-87e743ca
+- Source run: 9bc48792-a614-4c26-897b-6a0eb2f15300
 - Generation status: skipped_no_secret
-- Companies covered: 1
-- Total items: 1
+- Companies covered: 2
+- Total items: 5
 
 ## Executive Summary
 
-2026-08-15 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-08-15 共收录 5 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 星际荣耀、SpaceX。
 
 ## Industry Chain Sections
 
@@ -21,6 +21,9 @@ No LLM summary.
 
 No LLM summary.
 
+- [星际荣耀SQX-3运载火箭整流罩静力试验取得成功星际荣耀SQX-3运载火箭整流罩静力试验取得成功 - 36氪](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KY0dMNXUwWGJ6WGtMc2pFRENUS1hmMlowN0N3ZzlVZ2dmU1RraHBoeDhueDQwMmJLejZuUW9YbVRLY3BzbkluUVdycjAtc0ZfT1BXaldjbEhKa2F0cVE?oc=5) 星际荣耀
+- [距首飞更近一步，星际荣耀 SQX-3 运载火箭整流罩静力试验取得成功 - 新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTE9DTGtERjYtRnk1bEdLc1hGb1FfMS1uZV9iVVlscmJmODVzdlNJYUhaNUZENmduS2NoWm0zaWxBT0FoWWhnTktfY285eVZyLVhjZmZISnBBV05XR0F2U0RVY2NCbkhCRFNJdE1kVzFwM2theVViUkVUQmpxYmhQSXM?oc=5) 星际荣耀
+- [14:46:53【星际荣耀SQX-3运载火箭整流罩静力试验取得成功】 - 财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtVHpVS2huQlJjTUg3ckNDdEdqRjNkVUtESzFfT3QwU2NQSnhrclcxS2VXTWJEQjNwNlpndVBXQmMyeC00TUc1Yw?oc=5) 星际荣耀
 
 ### 卫星互联网服务
 
@@ -35,6 +38,9 @@ No LLM summary.
 
 ## Top News
 
+- [星际荣耀SQX-3运载火箭整流罩静力试验取得成功星际荣耀SQX-3运载火箭整流罩静力试验取得成功 - 36氪](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KY0dMNXUwWGJ6WGtMc2pFRENUS1hmMlowN0N3ZzlVZ2dmU1RraHBoeDhueDQwMmJLejZuUW9YbVRLY3BzbkluUVdycjAtc0ZfT1BXaldjbEhKa2F0cVE?oc=5) 星际荣耀
+- [距首飞更近一步，星际荣耀 SQX-3 运载火箭整流罩静力试验取得成功 - 新浪网](https://news.google.com/rss/articles/CBMif0FVX3lxTE9DTGtERjYtRnk1bEdLc1hGb1FfMS1uZV9iVVlscmJmODVzdlNJYUhaNUZENmduS2NoWm0zaWxBT0FoWWhnTktfY285eVZyLVhjZmZISnBBV05XR0F2U0RVY2NCbkhCRFNJdE1kVzFwM2theVViUkVUQmpxYmhQSXM?oc=5) 星际荣耀
+- [14:46:53【星际荣耀SQX-3运载火箭整流罩静力试验取得成功】 - 财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBtVHpVS2huQlJjTUg3ckNDdEdqRjNkVUtESzFfT3QwU2NQSnhrclcxS2VXTWJEQjNwNlpndVBXQmMyeC00TUc1Yw?oc=5) 星际荣耀
 - [Norway’s Sovereign Wealth Fund Expands AST SpaceMobile Stake and Discloses $1.22 Billion SpaceX Holding](https://satnews.com/2026/08/14/norways-sovereign-wealth-fund-expands-ast-spacemobile-stake-and-discloses-1-22-billion-spacex-holding) SpaceX
 
 ## Risks And Watchpoints
