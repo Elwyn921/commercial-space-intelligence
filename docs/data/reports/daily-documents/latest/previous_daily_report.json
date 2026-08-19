@@ -1,290 +1,324 @@
 {
-  "as_of_date": "2026-08-18",
+  "as_of_date": "2026-08-19",
   "companies": [
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_types": {
-        "launch": 7,
-        "market": 1,
-        "other": 3
-      },
-      "item_count": 11,
-      "latest_title": "港股异动| 金风科技(02208)反弹近4% 朱雀三号遥二火箭发射窗口敲定公司风机盈利能力有望修复 - 新浪财经"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_types": {
-        "launch": 4,
-        "other": 5
-      },
-      "item_count": 9,
-      "latest_title": "Blue Origin adding second pad to Cape Canaveral launch complex amid rocket explosion repairs"
-    },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 4,
-        "other": 5
-      },
-      "item_count": 9,
-      "latest_title": "SpaceX rocket launches, NASA's MAX POWER lead Florida space newsletter - Florida Today"
-    },
-    {
-      "company_id": "minospace",
-      "company_name": "微纳星空",
-      "event_types": {
+        "launch": 9,
+        "market": 1,
         "other": 2
       },
-      "item_count": 2,
-      "latest_title": "和而泰：回应参股微纳星空投资金额、核算方式等问题 - finance.sina.com.cn"
+      "item_count": 12,
+      "latest_title": "Live coverage: SpaceX to send Starlink satellites to orbit with Tuesday night launch from California"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_types": {
+        "funding": 11
+      },
+      "item_count": 11,
+      "latest_title": "垣信卫星完成69.76亿元融资，估值达500亿元！ - 搜狐网"
     },
     {
       "company_id": "cas_space",
       "company_name": "中科宇航",
       "event_types": {
-        "order": 1
+        "launch": 6,
+        "other": 1
       },
-      "item_count": 1,
-      "latest_title": "中科宇航与飞书达成合作 - finance.sina.com.cn"
+      "item_count": 7,
+      "latest_title": "明年首飞！中科宇航力巡一号太空“摆渡车”完成重要试验 - 新浪财经"
     },
     {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_types": {
+        "market": 3
+      },
+      "item_count": 3,
+      "latest_title": "智神星一号，能帮星河动力抢到IPO第三席吗？ - 新浪财经"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_types": {
+        "launch": 1,
+        "other": 2
+      },
+      "item_count": 3,
+      "latest_title": "朱雀三号蓄势待发，卫星ETF招商(159218)涨超1% - jiemian.com"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_types": {
         "launch": 1
       },
       "item_count": 1,
-      "latest_title": "星际荣耀SQX3整流罩试验圆满收官，火箭首飞进程持续推进，聚焦商业航天全产业链的航天ETF（159267）上涨0.46% - finance.eastmoney.com"
+      "latest_title": "Blue Origin Is Deploying Strange White Bulbs Around the World, They’re Meant to Support Orbital Ops - autoevolution"
     }
   ],
   "company_count": 6,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 16,
-    "market": 1,
-    "order": 1,
-    "other": 15
+    "funding": 11,
+    "launch": 17,
+    "market": 4,
+    "other": 5
   },
-  "generated_at": "2026-08-18T02:21:59.143651Z",
-  "period_end": "2026-08-17",
-  "period_start": "2026-08-17",
-  "report_date": "2026-08-17",
+  "generated_at": "2026-08-19T02:32:51.037123Z",
+  "period_end": "2026-08-18",
+  "period_start": "2026-08-18",
+  "report_date": "2026-08-18",
   "schema_version": "daily_document.v1",
-  "source_count": 17,
+  "source_count": 21,
   "source_counts": {
-    "Florida Today": 1,
-    "Sin Chew Daily": 1,
-    "Space Daily": 1,
+    "Astronomy Magazine": 1,
+    "KeepTrack": 1,
+    "Phoenix New Times": 1,
+    "Spaceflight Now": 1,
+    "Yahoo": 1,
+    "api3.cls.cn": 1,
     "autoevolution": 1,
-    "bing.com": 10,
-    "caiwennews.com": 1,
-    "finance.eastmoney.com": 1,
-    "finance.sina.com.cn": 5,
+    "bing.com": 6,
+    "europeanspaceflight.com": 1,
+    "guandian.cn": 1,
     "jiemian.com": 2,
-    "satnews.com": 2,
-    "space.com": 2,
-    "starlust.org": 1,
-    "zaobao.com.sg": 1,
-    "东方财富": 1,
+    "news.mydrivers.com": 1,
+    "spacewatch.global": 1,
     "手机新浪网": 1,
-    "新浪财经": 1,
-    "早晨报": 1
+    "搜狐网": 3,
+    "新浪财经": 8,
+    "泰伯网": 1,
+    "虎嗅": 1,
+    "观点网": 2,
+    "证券时报": 1,
+    "财联社": 1
   },
-  "summary": "2026-08-17 共归档 33 条新闻，覆盖 6 家公司、17 个信息来源。 新闻量较多的公司包括 蓝箭航天、Blue Origin、SpaceX、微纳星空。",
+  "summary": "2026-08-18 共归档 37 条新闻，覆盖 6 家公司、21 个信息来源。 新闻量较多的公司包括 SpaceX、垣信卫星、中科宇航、星河动力。",
   "top_items": [
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "811fbf065caf90fa",
+      "published_at": "2026-08-18T13:13:09Z",
+      "source_name": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to send Starlink satellites to orbit with Tuesday night launch from California",
+      "url": "https://spaceflightnow.com/2026/08/18/live-coverage-spacex-to-send-starlink-satellites-to-orbit-with-tuesday-night-launch-from-california"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_type": "funding",
+      "item_id": "c93b5977e221cb51",
+      "published_at": "2026-08-18T11:12:49Z",
+      "source_name": "搜狐网",
+      "title": "垣信卫星完成69.76亿元融资，估值达500亿元！ - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSVlHUVFfMkFBTUJSVk9sTTN6VzZEMWNGenNXZm41bWx4SFV3QnJYTl9KUzEwMEsyTmFKbnp5OFF5NU05NGQ2YkFvQmU5aTByWG1URUUzLWFqLXREN2ZHRG9oeFJfRzQwcThMQ0ZUTGNhOHhiU3FTWTkwa3daUkJsczNKRXN6TzRk?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "market",
+      "item_id": "26dfc9601fc5c519",
+      "published_at": "2026-08-18T08:24:11Z",
+      "source_name": "新浪财经",
+      "title": "智神星一号，能帮星河动力抢到IPO第三席吗？ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYVlDVkdzUE1VNTI3WHp2NHdJMnBsd3NkVFVHUUJQaWdFN3B0YXV6TUhpMTlmbG96bVpXbndGOHN6YXN2TUhRNWltcW05a0NDQXA0Z2Z1TVZqcnQ3dHkzNjBfLUFwWkJaTDV2RWNqam9mMDVhaGtiUDg5Mlh6T0p6eml3dUYyTThhWjBaUE1DakVqMGtZR1hBOG03ajhUSnRaQmhnLTAzRQ?oc=5"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_type": "funding",
+      "item_id": "01dc58eb355738d8",
+      "published_at": "2026-08-18T05:29:20Z",
+      "source_name": "手机新浪网",
+      "title": "垣信卫星完成新一轮融资：金额69.76亿元，估值500亿 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaGFNY2VnaEZqRmRfZ2I0MTZwTnBHLVpodW9WZW5nUFUtenFUaWRuSlV5d0lIVnJOZWV1NkxaajVzamJBRXJENEtEcHEtVmhSYUpNajltQlBZaTRvX1dta1hHVmw5Um9qSDRGelNEM0NUeTBfN3dkOVpkdGNRWFp4Q1daXzJmaFU4Z1E?oc=5"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_type": "funding",
+      "item_id": "95535e16cd3e0925",
+      "published_at": "2026-08-18T05:24:09Z",
+      "source_name": "guandian.cn",
+      "title": "垣信卫星完成近70亿元增资 估值达500亿元 - guandian.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01TWVSVmtVc2RKNDRiNnhLamg2M041VkVlOU5aSnRDRG5TeUhlTllpNC1JV1pQdlNFd292NVJWVlNqUHFtY2FCdXpJXzNVdDlqX016SVN6dl9mNFBIWk9Eamp3?oc=5"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_type": "funding",
+      "item_id": "1bab439d300d956d",
+      "published_at": "2026-08-18T05:24:09Z",
+      "source_name": "观点网",
+      "title": "垣信卫星完成近70亿元增资 估值达500亿元 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB6RF9sbXJnZmpYU1FQQk9SSnc3Y3hVemtndmdNNGI3Z21vb0d0ZXh0QmxLVFFBcjJCZkRZdmtka21FQnI1azJCS0lHTWJHQQ?oc=5"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_type": "funding",
+      "item_id": "0821c2c2569abb25",
+      "published_at": "2026-08-18T05:13:00Z",
+      "source_name": "搜狐网",
+      "title": "垣信卫星完成近70亿元增资、18家投资方参与，估值达500亿元 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORWdWaExybDNyTWZQYVpYbTZCYjhubnZxVXlPa1NlVVRBbFJpakYyY1dYTlltN0VlYkxRRGtEWkwxQ29OTVJsWXZwME5TOWRHNGVPZ0kwaUhhWGJOTHBqLURzZVdTN1RzSmhBTlBXRktIWnY0MlVkRlAxMHdnaHZFNUVUWVp6MnZRV1FtNQ?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "market",
+      "item_id": "91c8c906d05c8b65",
+      "published_at": "2026-08-18T02:48:00Z",
+      "source_name": "新浪财经",
+      "title": "智神星一号，能帮星河动力抢到IPO第三席吗？ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PazdSeVNLQVJIQWFGb0dOc180cXhtSHc0Y1ZXXzNGMnM4Qnd5MGxBX29UeERwOTR0bERnZFJHTE12dW45ODhoVVNwVFpDa2o5MzFRaERTSGphSjdiZ3VaMHlTSXl1X1Y3TXFoc2pIV05aSXRzTDZySg?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "market",
+      "item_id": "4276e79286884a28",
+      "published_at": "2026-08-18T00:08:10Z",
+      "source_name": "虎嗅",
+      "title": "智神星一号8月下旬首飞在即，星河动力争夺商业火箭IPO第三席 - 虎嗅",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9waG0zZmtxMjNsVmRHb2lQZHlvR3BVWVdyTnkzWldUMjR3allFVW4xRU5DWEZnVnNvQ2tNMUQzd3hzX2Fsbjh2SGpENDEwa012VnY5aA?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "market",
+      "item_id": "8a7f40affddcc82d",
+      "published_at": "2026-08-17T21:25:00Z",
+      "source_name": "bing.com",
+      "title": "How can SpaceX reach $1 trillion in annual revenue?",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a84a1c67c0d4453b8b1ed3cf1dc96a5&url=https%3A%2F%2Fwww.fool.com%2Finvesting%2F2026%2F08%2F18%2Felon-musk-says-spacex-will-hit-1-trillion-in-reven%2F&c=9358953434089205585&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "2762269cb20bf8b8",
+      "published_at": "2026-08-18T14:45:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX set for 100th launch tonight, adding 24 Starlink satellites",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a84f83e586f40aebba1bce2caa50e10&url=https%3A%2F%2Fwww.newsbytesapp.com%2Fnews%2Fscience%2Fspacex-set-for-100th-launch-tonight-adding-24-starlink-satellites%2Ftldr&c=11528968340446646583&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "b901536651a8674a",
+      "published_at": "2026-08-18T10:01:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX plans Vandenberg rocket launch tonight. How to watch live",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a84f83e4d5840eb950fa174f59aac9d&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Flocal%2F2026%2F08%2F18%2Fwatch-livestream-spacex-rocket-launch-today-california%2F91334200007%2F&c=8531204601302783162&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "f962d36cd9a42969",
+      "published_at": "2026-08-18T09:17:27Z",
+      "source_name": "Phoenix New Times",
+      "title": "SpaceX rocket launch could be visible in Phoenix this week - Phoenix New Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSDh5UTg3RGduOWcxZkpMZmhHdXMwX3JYME14cXNRT012clNYR0oyMWdZVDJ3RTYzcUNLc2pwNS1DQ1BkbHl1QXpYY3c0TXl6elhLZ2JTRnU4R2lsSENWMGpoNndfR3RjRUZadWgyV0R2YWdpVFJpVFN3Xzk1ZERLM0dUZ1FvUlFJaGVLc2ZndUIyVDlTQVJxd1BSUVJWcWRMWXVIeVZHZTYxUQ?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "10ad7b78b2d12530",
+      "published_at": "2026-08-18T08:38:48Z",
+      "source_name": "autoevolution",
+      "title": "Blue Origin Is Deploying Strange White Bulbs Around the World, They’re Meant to Support Orbital Ops - autoevolution",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdVVMVEhvc1ZZM2JRRXVtWndGLTVPckZ2cmpyUUM0SGpyeE1SYUhTbkVwc1dlZ3dTbHduelBHbVh1d3FOMnlySTVEeWRaZms4VUhlcktJamhXY2RPRlltRkxNMlF6X2ZjRlRfMFJ1TmFBd2xka3BwWnBnc0lLcmVjNVExd1B3VmpFbXNORldlcEJaSk00Y3FiQnNlYUdaa2xHODFzMUdZaTc5QzBxNlhWdThiRVVrS2tfdVkzcTBQTGYzZ2Rzc3RLUHlJMWxZYlFnVlQyUmtScnBZTV8t?oc=5"
+    },
     {
       "company_id": "landspace",
       "company_name": "蓝箭航天",
-      "event_type": "market",
-      "item_id": "a5807b499b22f214",
-      "published_at": "2026-08-17T03:40:00Z",
+      "event_type": "other",
+      "item_id": "25bfea1e71c612d1",
+      "published_at": "2026-08-18T07:37:16Z",
+      "source_name": "jiemian.com",
+      "title": "朱雀三号蓄势待发，卫星ETF招商(159218)涨超1% - jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hbDZLWkJaRmpZYURwMkdMbXR4a1dkd1JJaHhORVh2SjFqbWVzVzNMRFYwcFFRSU5pQWN6VlZkNDNwWXBaYk5GaldjV3VlUURhME01SlZR?oc=5"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "launch",
+      "item_id": "a9ee56f66b2a02da",
+      "published_at": "2026-08-18T04:02:00Z",
+      "source_name": "jiemian.com",
+      "title": "朱雀三号明日发射，机构：着陆腿回收方案开创民营商业航天历史，航空航天ETF华夏（159227）规模居同指数第一 - jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tSmFKN2N2RjQ1M1Ficl9WY1dsb0RvZkRiS0F5LUtPMWRranhKNlhvQ19xdi13TE9uQjVjZjVTVHEyWFpIeEdmTThqcHRuRTlmYjUtTmxQSTc?oc=5"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "other",
+      "item_id": "794c1a2f70134ac0",
+      "published_at": "2026-08-18T07:38:00Z",
       "source_name": "新浪财经",
-      "title": "港股异动| 金风科技(02208)反弹近4% 朱雀三号遥二火箭发射窗口敲定公司风机盈利能力有望修复 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZU1xVC00VEFUczZRSHdyRXY2OVJPbTVHblNVdVlIZmpLMjVEbEdiWFBkM09RZjJiTGtmTnNjNmZvYl9QUWNwRmJqYVQ3OWZBM0E0b0sxOFl5S0wtMGx2MEc3eGljWG5BOS1jazZTUzdJRUNBQjZkV0VHM1pHMk9fcVg1eV9BNktQR0VDSjJCMjdBeXhiSkE?oc=5"
-    },
-    {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
-      "event_type": "launch",
-      "item_id": "4a7a9203b934a0f7",
-      "published_at": "2026-08-17T02:21:00Z",
-      "source_name": "finance.eastmoney.com",
-      "title": "星际荣耀SQX3整流罩试验圆满收官，火箭首飞进程持续推进，聚焦商业航天全产业链的航天ETF（159267）上涨0.46% - finance.eastmoney.com",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aRm1NMzBvMnJ1UUMxak1UTUpjLTg2MUNpN2RobEtpS3l2X1JfVGlwTjVVV0owMlBha1JyU1p1RnJjY25KckhlZFkyRG43N0FFS29KUXVjeXFid0ttSzFSSnVYN0xUUQ?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "9e394100fe557a96",
-      "published_at": "2026-08-17T11:58:42Z",
-      "source_name": "Florida Today",
-      "title": "SpaceX rocket launches, NASA's MAX POWER lead Florida space newsletter - Florida Today",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOY1M4WFlOMk85cEQ0bm9Pc0ZkNlQ5M2N2QThiYS11bUdtOEVUaUdoYWdBUDFuUFE3Zy0xOUxuY2JHdHlyajhxTmJ4REtnb1hmSE1mX1ZINFRaTGwyeGpuYi1IaUp0d1ZHRlNibUlQcGJSaGs4aTA5YXJFaXZNUmc5cjV5LXZKSnBuM094WVNnbUVWZ3ZuR2xkMUppdVZvQ3ZRQmFITHcyLWg2U2dBc1AwT01ZUnNsMVE2T2VyOWFpY2xtUkRZLUVLaHowQk1Xc2tnUXpUbTRiMjVvNTBWSFVrN2ZoN0tEdmlCZ2NuckVEMGdfWXNwWklSQUtrbVJGZjBGd01nYVFHcVYtdw?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "3af37dc9bfb3a87d",
-      "published_at": "2026-08-17T10:53:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX seen on cusp of Starlink growth surge as UBS highlights V3 satellite opportunity",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a83a6bb03574551b8325cf44a1939fe&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fspacex-seen-cusp-starlink-growth-175300820.html&c=11547917696480484902&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "935662829ea6137e",
-      "published_at": "2026-08-17T10:00:00Z",
-      "source_name": "space.com",
-      "title": "Blue Origin adding second pad to Cape Canaveral launch complex amid rocket explosion repairs",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-adding-second-pad-to-cape-canaveral-launch-complex-amid-rocket-explosion-repairs"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "374b66e21a2502dc",
-      "published_at": "2026-08-17T10:00:00Z",
-      "source_name": "space.com",
-      "title": "Blue Origin adding second pad to Cape Canaveral launch complex amid rocket explosion repairs - space.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTWl2YlJMWmZveXI3OGZaTGlPOFBIMWVYaFo0dzh2X3p2eG9BbGt3Z0lueWRsN0ZaY2RwZFF5M2draWprdUdnQU9tZmticEx0S2ZrTHBaNzVqM0t3S0MxbWE3RFcwbmtlS0Q5QVZyd2pEU3ZkZDNwM1JSS0lKek44UkJGTkhCMjF2bzR5QVVoeTZRUXdIRl9jcl9KcXRuUzVzMnBOX3pYS2FzR3M1WTNibHNwaGRvM2p2cjljX3R2bVYyOUF3V1lBYnpUY0ZtekdlTkJ4Y1dfTmp0LS05YzRiRjAyRmpEeFk?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "c23ba300a343de77",
-      "published_at": "2026-08-17T09:28:42Z",
-      "source_name": "autoevolution",
-      "title": "Blue Origin Upgrades Launch Complex 36 to Be Able to Launch the Upcoming New Glenn 9x4 - autoevolution",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQkRadV93RXp0S01Cd2hNU0hfbG9ZRXltc2VpTlM1b2FtTzNaQlpucng4SVFDaUVsTTV1TmpYaFREbnlUaTBBaXh2WGVXQi1tdExNRGgzbzJ1WkR6eTJsd1g4VWFhbWJ1RXpDOTFOanF3QUNVM21vSHNwZTB3Z29PcklzOEdIQUx0QjZsbHNteXM5VTlQX3hkRjQtVE11NTVTc0dqcmNTN0RkdjBMUmdrT2JyTXdvN29lQk9DcUx3czM1OUZSS1lIRnVMQ050dw?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "other",
-      "item_id": "fa048ac3e78b1442",
-      "published_at": "2026-08-17T08:50:00Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin adds LC-36B at Cape Canaveral for New Glenn",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a8350d479004dd38908235a03af9576&url=https%3A%2F%2Fwww.newsbytesapp.com%2Fnews%2Fscience%2Fblue-origin-adds-lc-36b-at-cape-canaveral-for-new-glenn%2Ftldr&c=7554626345348246891&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "other",
-      "item_id": "5dee649bfdc3b3a2",
-      "published_at": "2026-08-17T08:50:00Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin adds LC-36B at Cape Canaveral for New Glenn",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a83a6c29a014cce8f11708e58e62439&url=https%3A%2F%2Fwww.newsbytesapp.com%2Fnews%2Fscience%2Fblue-origin-adds-lc-36b-at-cape-canaveral-for-new-glenn%2Ftldr&c=7554626345348246891&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "c9967f196e7f0cae",
-      "published_at": "2026-08-17T08:39:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX's Starlink Poised for Growth Inflection With V3 Satellites, UBS Securities Says",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a83a6bb03574551b8325cf44a1939fe&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fspacex-apos-starlink-poised-growth-153948195.html&c=6189202795446653777&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "60da98dd6a5404f3",
-      "published_at": "2026-08-17T08:39:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX's Starlink Poised for Growth Inflection With V3 Satellites, UBS Securities Says",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a83509c615847f7b0011d52e8dcb226&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fspacex-apos-starlink-poised-growth-153948195.html&c=6189202795446653777&mkt=en-us"
+      "title": "朱雀三号又又又要出发了，一组快问快答解开你的疑惑丨空天侦探社 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hbkNNUDdjTGExOUljR2VLazJxdWxrZlp3eHBiM0REWWVsblJIclRLLXUxWmVZbkdxdlZ0OTNFUmdENHo1MG9pOHVQY28yMnpfT25BZ1o2dXY3WFhVYnZQT3pfbmdTOVJUQW1GTUxPeXFHNm1NLWZ5bw?oc=5"
     },
     {
       "company_id": "cas_space",
       "company_name": "中科宇航",
-      "event_type": "order",
-      "item_id": "bcecae88818bac32",
-      "published_at": "2026-08-17T07:34:00Z",
-      "source_name": "finance.sina.com.cn",
-      "title": "中科宇航与飞书达成合作 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3cktScGdBMkdoN1Brczc0UndlUnBGY2tOeDJFbnAxR2RGSUQ2b1NxZnNJeGw0LWU4SDR4XzhEdWxPWFNGOVJmYjBiWUl5MVVoMnp0V2NpOS1NX19KTzE5NDhNcDYxc3lCY1kwYmYxTFVBMFU5S2lWVw?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "f9e3814822fe1949",
-      "published_at": "2026-08-17T07:23:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX: New record as two Falcon 9 rockets launch 38 minutes apart",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a83509d44df45af8266c5b6b1a3cd0d&url=https%3A%2F%2Fwww.primetimer.com%2Ffeatures%2Fspacex-new-record-as-two-falcon-9-rockets-launch-38-minutes-apart&c=9531111106233338550&mkt=en-us"
+      "item_id": "ce85811ea868c3af",
+      "published_at": "2026-08-18T06:55:00Z",
+      "source_name": "新浪财经",
+      "title": "明年首飞！中科宇航力巡一号太空“摆渡车”完成重要试验 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50VVJnaUN4YkFVSkRpcjFOcHExUEk1Q1VpV2M0eXQteHNDcW5OaExoNTktdWZzOFBfVVllMDhZamxoYXJQT1hiRXFydlpzdFh2dW9VMWJQV0ZnaGNzNHBSMHZDODhsenlFaUhVczl5dEMySFI0bmR3MGFlalRsZmc?oc=5"
     },
     {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
       "event_type": "launch",
-      "item_id": "5b6f606384dd3367",
-      "published_at": "2026-08-17T06:44:02Z",
-      "source_name": "jiemian.com",
-      "title": "朱雀三号即将复飞，机构：民营火箭有望从“成功入轨”跨越至“回收复用”闭环 - jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIZGMtU3R2eFVPWk1OOHZ4b05ZVnEyS0xaZGVHOG1VWUtpcnJRVTdYcXJWUW9sQ2l2OFhwTlVQZVFmRTlSaG5rcTJRbG9LTUFPZ0JyR3lsOC0?oc=5"
+      "item_id": "965ec9bc319dfc21",
+      "published_at": "2026-08-18T06:55:00Z",
+      "source_name": "news.mydrivers.com",
+      "title": "明年首飞！中科宇航力巡一号太空“摆渡车”完成重要试验 - news.mydrivers.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10SUpJVDRWbXhBYUFrTWpCZUJKMHRxdHNubHBBYUsxLUF5RXNSc29NR3FlRE1raUlIdmItZDZRQVhuUEhwaG0taXhiSUpLei1qOHc2cjBZUC0?oc=5"
     },
     {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "other",
-      "item_id": "129d936330a6b0bc",
-      "published_at": "2026-08-17T03:03:00Z",
-      "source_name": "finance.sina.com.cn",
-      "title": "“朱雀三号遥二”或即将出征，卫星ETF易方达涨1.04% - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzaGc1aHNGUmFyQjRzWEl2bFFGU0ozT1JwU3JMTW02OF9ubFVmUjE2b1VQc3hXWnV5SzlSRWJtXzFIeS14REtVMldIU3RvclB4ckVkalZyWTlTYm5VTWp5SnZla0NpNTdyM0hrZzg4MmtQQWVXNkRVNw?oc=5"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "other",
-      "item_id": "7c7fb88a08094f65",
-      "published_at": "2026-08-17T03:02:00Z",
-      "source_name": "jiemian.com",
-      "title": "朱雀三号复飞在即！长十二再发低轨卫星，英伟达170亿入股Space X！洪都航空涨2%，航空ETF汇添富(159257)涨超1%，冲击两连阳！ - jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBteXNGUEVOQXM3Zy0xVDI2M2gtd2p4LWNyVGpnbWdsalZJbUZLTGZRV1k4dWRDOXJtbmxLTDFvSlpkd0dfQVAwbVFaVWhaNUVZbXRlTklIakI?oc=5"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
       "event_type": "launch",
-      "item_id": "3b39ef88fc53340c",
-      "published_at": "2026-08-17T02:59:00Z",
-      "source_name": "finance.sina.com.cn",
-      "title": "朱雀三号遥二火箭发射窗口敲定：8月19日酒泉发射 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XMWVtWndFdHFPUUhBV2J4UG02dUlMMXQ4SHlNeEpWenFpQV9kcmMwNkdpMXdpWExaekhtMzVhZVZjbTVRNUpEaWxxckxHeDE5YzV2NDFsanNxRzFaTy1vbDVJbFFPNGxZZjhrRVh6aVhvVEtkSEpNNzhwSUtQZGM?oc=5"
+      "item_id": "dd42482a126faacb",
+      "published_at": "2026-08-18T05:59:37Z",
+      "source_name": "观点网",
+      "title": "中科宇航力巡一号上面级完成动力试验 计划2027年一季度首飞 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfQVhVNllra1NXUjNOSmFOQ1ZtVEROSW1pYy00dTlCc1pqRjUyWnBReE1pck96S3lHMl9iaEk0TndVSF9SX1NvbDRfa0FUUGZZLU5iRl9nQkNPNndlTkFpNFpR?oc=5"
     },
     {
-      "company_id": "minospace",
-      "company_name": "微纳星空",
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
       "event_type": "other",
-      "item_id": "d56317352331271d",
-      "published_at": "2026-08-17T00:41:00Z",
-      "source_name": "finance.sina.com.cn",
-      "title": "和而泰：回应参股微纳星空投资金额、核算方式等问题 - finance.sina.com.cn",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUxMX2lpckZwaFBTV2U2RE9zMVd1cHFrOWFOSk9oUDRXOEl4UGMwaE1uMlBQaV9nOWVQdWpsQnA3RExhQ3JhTDdld2pCdW5YeVFnSnViTmN5ckUtcFR6TGt3cVo2LXlwNXFrcEQtN05SOURwQk5qbXF1cnZwMXJSN1BIM1E0dFUyZ0hfTlNCX1o?oc=5"
+      "item_id": "638388135c214d1b",
+      "published_at": "2026-08-18T05:27:00Z",
+      "source_name": "新浪财经",
+      "title": "中科宇航力巡一号上面级动力试验全部收官，转入飞行试验阶段 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mTGo3UmpZMDd2U2w0UXo0dVdRVUItX2JwRDV1RllrbHpseGxDdXR2ZWREODF1Tm5UaGJVUV83bUl4dGJUWGYwODZiYkNzU09ZMkE5bzd6UzhRZGplY182ckxlQ0I2NEZaTTRCak9MMTBkRUVXUFJObEYtR3I?oc=5"
     },
     {
-      "company_id": "minospace",
-      "company_name": "微纳星空",
-      "event_type": "other",
-      "item_id": "788588f1138d6f85",
-      "published_at": "2026-08-17T10:29:49Z",
-      "source_name": "东方财富",
-      "title": "和而泰：公司对微纳星空的投资金额为5000万元 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15Y3J2R1pHck9CMmxfUzJmR2hBOUNJOVpWQUxWNEY0R2N1dlU0ellOS2FyTWJ2bEpmR3RfNW5ZTzE0SUVRaGxPU293UW1ZQlQ1SUh6R0pHRG1IR1ItbmlZ?oc=5"
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "5350c6d0657d18e1",
+      "published_at": "2026-08-18T04:32:58Z",
+      "source_name": "财联社",
+      "title": "12:30:26【中科宇航力巡一号动力试验收官 拟2027年一季度首飞】 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE11clBxWWZBdGFKNHZTNnROVWFOVUkwODNnTVJQT0lqRDgwYkNCWFhKUjFhMk1EaEtwajFGdVJvOWJkZUZIWS12cQ?oc=5"
     }
   ],
-  "total_items": 33
+  "total_items": 37
 }
