@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-08-21
+# 每日新闻情报日报 - 2026-08-22
 
-- Report ID: daily-2026-08-22-7f48493b
-- Source run: 9034cb23-5bc5-427c-b2ed-1fe83c73da50
+- Report ID: daily-2026-08-22-70254db7
+- Source run: c616fda9-9efd-4b8f-9dac-6e80648b675a
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 1
+- Total items: 2
 
 ## Executive Summary
 
-2026-08-22 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-08-22 共收录 2 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,10 +31,12 @@ No LLM summary.
 
 No LLM summary.
 
+- [Live coverage: SpaceX to launch 100th orbital mission of 2026](https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026) SpaceX
 - [SpaceX fires up Starship ahead of megarocket’s 1st orbital flight (video)](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-ahead-of-megarockets-1st-orbital-flight-video) SpaceX
 
 ## Top News
 
+- [Live coverage: SpaceX to launch 100th orbital mission of 2026](https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026) SpaceX
 - [SpaceX fires up Starship ahead of megarocket’s 1st orbital flight (video)](https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-ahead-of-megarockets-1st-orbital-flight-video) SpaceX
 
 ## Risks And Watchpoints
