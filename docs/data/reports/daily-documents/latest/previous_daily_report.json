@@ -1,199 +1,182 @@
 {
-  "as_of_date": "2026-08-22",
+  "as_of_date": "2026-08-23",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 17,
-        "other": 4
+        "launch": 10
       },
-      "item_count": 21,
-      "latest_title": "SpaceX launches 29 Starlink satellites, lands rocket on ship at sea (video, photos) - Space"
+      "item_count": 10,
+      "latest_title": "Live coverage: SpaceX to launch 100th orbital mission of 2026"
     },
     {
       "company_id": "landspace",
       "company_name": "蓝箭航天",
       "event_types": {
-        "launch": 4,
-        "order": 1,
-        "other": 8
+        "other": 3
       },
-      "item_count": 13,
-      "latest_title": "Landspace aims to refly recovered Zhuque-3 booster within six months"
+      "item_count": 3,
+      "latest_title": "中国版\"猎鹰9\"成了！朱雀三号成功落地，这次是真回收 - 搜狐网"
     },
     {
       "company_id": "yuanxin_satellite",
       "company_name": "垣信卫星",
       "event_types": {
-        "funding": 1
+        "market": 1,
+        "other": 1
       },
-      "item_count": 1,
-      "latest_title": "垣信卫星增资近70亿 低轨星座企业加速融资 - 新浪财经"
+      "item_count": 2,
+      "latest_title": "垣信卫星完成69.75亿元B轮融资；宇树科技登陆科创板，最新市值为2719.66亿元丨全球投融资周报08.15-08.21 - 创业邦"
     },
     {
-      "company_id": "hongqing_technology",
-      "company_name": "蓝箭鸿擎",
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
       "event_types": {
-        "launch": 1
+        "other": 1
       },
       "item_count": 1,
-      "latest_title": "火箭回收、卫星入轨，蓝箭航天首次展示星箭协同能力 - 财富号"
+      "latest_title": "浙江省委书记王浩调研中科宇航 - 新浪财经"
     }
   ],
   "company_count": 4,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "funding": 1,
-    "launch": 22,
-    "order": 1,
-    "other": 12
+    "launch": 10,
+    "market": 1,
+    "other": 5
   },
-  "generated_at": "2026-08-22T02:21:06.791327Z",
-  "period_end": "2026-08-21",
-  "period_start": "2026-08-21",
-  "report_date": "2026-08-21",
+  "generated_at": "2026-08-23T02:37:33.183480Z",
+  "period_end": "2026-08-22",
+  "period_start": "2026-08-22",
+  "report_date": "2026-08-22",
   "schema_version": "daily_document.v1",
-  "source_count": 15,
+  "source_count": 11,
   "source_counts": {
-    "1?ds=true&seed=1787335214": 1,
-    "KeepTrack": 1,
+    "KSBY News": 1,
     "Space": 1,
-    "The Lufkin Daily News": 1,
-    "WESH": 2,
-    "arstechnica.com": 1,
-    "bing.com": 16,
-    "eciks.org": 1,
+    "Space Coast Daily": 1,
+    "Spaceflight Now": 2,
+    "bing.com": 5,
     "space.com": 1,
-    "thepaper.cn": 1,
+    "创业邦": 1,
     "搜狐网": 1,
-    "新浪财经": 5,
-    "观点网": 2,
+    "新浪财经": 1,
     "财富号": 1,
-    "财经号": 1
+    "디지털투데이": 1
   },
-  "summary": "2026-08-21 共归档 36 条新闻，覆盖 4 家公司、15 个信息来源。 新闻量较多的公司包括 SpaceX、蓝箭航天、垣信卫星、蓝箭鸿擎。",
+  "summary": "2026-08-22 共归档 16 条新闻，覆盖 4 家公司、11 个信息来源。 新闻量较多的公司包括 SpaceX、蓝箭航天、垣信卫星、中科宇航。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "270ca5a68563ffb9",
-      "published_at": "2026-08-21T15:28:24Z",
+      "item_id": "f463fb0b821d5cbf",
+      "published_at": "2026-08-21T18:53:18Z",
+      "source_name": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 100th orbital mission of 2026",
+      "url": "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_type": "market",
+      "item_id": "4d05229c42b7372a",
+      "published_at": "2026-08-22T04:21:25Z",
+      "source_name": "创业邦",
+      "title": "垣信卫星完成69.75亿元B轮融资；宇树科技登陆科创板，最新市值为2719.66亿元丨全球投融资周报08.15-08.21 - 创业邦",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uT2lHM2xHNmVPRUtKcUd3R3U3bHZGeWNoX0J5WU9mMGRPSmpKTC1WUks2d3VaOVZpQ1YyR0xYeEtBNnQ3cTdfMHQwLXFZS3BU?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "376f564f40877a26",
+      "published_at": "2026-08-22T12:31:06Z",
+      "source_name": "Space Coast Daily",
+      "title": "SpaceX Falcon 9 Set to Launch 29 Starlink Satellites August 25 From Cape Canaveral - Space Coast Daily",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNHN3eTM0UlRUaGQ4c3VLTU1Lekk2NGVUMDJWMDUwV2hScXg5YVVwdXN4NzJrbzIydDdZeXMtWDVCSWpaQUdRendWWGRVeE9MQWY3ODg5RnA1M1g5ODRpZ2VLSWc3WVNDa0RvVEphOW14eUpyYjJDemFacXZEdWdPbWtZTTNnX3AzbWpjUlpKMHd6WXV1cnhIZTU2MTdRYlp4SDJtM3RvbmtfYWZRNENCZ2VzeU5tMk43U01R?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "f762fa6619f6ac32",
+      "published_at": "2026-08-22T12:23:59Z",
       "source_name": "Space",
-      "title": "SpaceX launches 29 Starlink satellites, lands rocket on ship at sea (video, photos) - Space",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOVRzdHFsbG5GaDAzcW5XU1BncG5XX0NIT1I3U1R3MWdpUTJ1bDlqdGNaWUdydUkzdmtOQ2tXOHgxTEc5OHRjb0lydDRKMm5SVzR3RDNRYUFRYlROQ2RCTDhLeDVTdDNVNUFRWHFCMFZRU09BdFB5bVZRYjhreHhOdy1zRjhpZ3JCbkJsMEg5dkpXcFlMbzRuZ3NaTWVyZEI1cmFzMGtrUm5GcjZB?oc=5"
+      "title": "SpaceX sends 27 Starlink satellites to orbit on 100th Falcon rocket launch of the year (video, photos) - Space",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSlJKU1JUbmloZnFIY1hJYjduQjNCUUh0SGtPQTRGemFIbzBvQV9ORWdUbjBORUw4NjY0bF9BTjhIQ25XbmRXOGt6eUpjbXJwVlNacERkNm1YRTRobThWNUI1TVoxWHVQbmdmNTJwR01Vb1I0V09fcjdvLWFhVVRaSm16Tlc3VThnOVhCekhOMVNZX0lpRlo2SlNyMUtONlg0Ylg4eHFvTQ?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "d055d1e871aa2f02",
-      "published_at": "2026-08-21T15:19:00Z",
-      "source_name": "WESH",
-      "title": "Watch: SpaceX launches Starlink satellites from Florida's Space Coast on Friday - WESH",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeHNhYm5na3N5Tk5SRkFYZkx1V3FkMG16REhfMURUcXo0c0xSRHFjMzNrcWFZUnZYaDdnOTVoLUZJbEFPZ212VGtpTUZDWldhYzRVZUsxMktYTU9ZZzRSUndqS1BROWFDU09WckNBdVlaUnRibU9NbXhCUXFNWFFiby1NMVA3c0o0elNLNVQ4VmVaVUs4?oc=5"
+      "item_id": "24cc4c96a6c2b23d",
+      "published_at": "2026-08-22T08:47:35Z",
+      "source_name": "Spaceflight Now",
+      "title": "SpaceX launches 100th orbital mission of 2026 - Spaceflight Now",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMXhFWTdORDB3YWNJTl9lNUZrdVBWU0pmRUFad21SUl9FOFAxV3AwU3ZqdVllZEctVmYxalpRc0JWaEhCSkRmZE5HRV9EejNnN0FFR2ZleG84MzZHX2pkdFRnRjU0dXdDcXZYN0x2dzRISTlHTjJPaVdNUFF1VG9rTGhLNjJ6MkdnTGRmSnVDci15OS1NOExXamlMUUlqMWVw?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "88e37b866f107e5c",
-      "published_at": "2026-08-21T14:14:00Z",
+      "item_id": "e57597119e5aa394",
+      "published_at": "2026-08-22T01:36:12Z",
       "source_name": "bing.com",
-      "title": "SpaceX launches 29 Starlink satellites from Florida, B1078's 30th return",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a88ecb833fb423aa4787d854d296561&url=https%3A%2F%2Fwww.newsbytesapp.com%2Fnews%2Fscience%2Fspacex-launches-29-starlink-satellites-from-florida-b1078s-30th-return%2Ftldr&c=3486788344069761988&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "b15048371b2b836d",
-      "published_at": "2026-08-21T11:00:36Z",
-      "source_name": "arstechnica.com",
-      "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
-      "url": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "85537c9bdfab94a9",
-      "published_at": "2026-08-21T10:45:22Z",
-      "source_name": "bing.com",
-      "title": "SpaceX targets overnight Falcon 9 rocket launch flying near Arizona",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a889668196d4282ae67538ffae47e0f&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Fspacex-targets-overnight-falcon-9-rocket-launch-flying-near-arizona%2Far-AA2aE9dt&c=11719427069055133898&mkt=en-us"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "launch",
-      "item_id": "2f77157ae376c939",
-      "published_at": "2026-08-21T08:54:11Z",
-      "source_name": "1?ds=true&seed=1787335214",
-      "title": "Landspace aims to refly recovered Zhuque-3 booster within six months",
-      "url": "https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months"
-    },
-    {
-      "company_id": "hongqing_technology",
-      "company_name": "蓝箭鸿擎",
-      "event_type": "launch",
-      "item_id": "a8ee68b4c23702d7",
-      "published_at": "2026-08-21T05:36:00Z",
-      "source_name": "财富号",
-      "title": "火箭回收、卫星入轨，蓝箭航天首次展示星箭协同能力 - 财富号",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xdUktT2RqbDRZcnBxZG5mTDFrbllJNTdCNjB3dVJrR3VfVmZYUVIzUWg2U3lPc0dHUF9leV9US0dKQkZadnFHMHQ2Nm05WnBBaXhzZU5DNU1ucUNRRDNOM0x6aHcwcW9hcXZn?oc=5"
+      "title": "SpaceX launches 27 Starlink satellites from California, marking 99th Falcon 9 flight of 2026",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a89923e941c4da89604e0a2d582e5aa&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Fspacex-launches-27-starlink-satellites-from-california-marking-99th-falcon-9-flight-of-2026%2Fvi-AA2aHs7K&c=3123718129971755429&mkt=en-us"
     },
     {
       "company_id": "landspace",
       "company_name": "蓝箭航天",
       "event_type": "other",
-      "item_id": "f642e21ca3515971",
-      "published_at": "2026-08-21T03:43:00Z",
-      "source_name": "thepaper.cn",
-      "title": "朱雀三号火箭任务顺利收官，定制航天“影像盒子”完成全程拍摄记录 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LQUNGdEJ0RkxZWF9COWxVUWtPdE4wc2NhYU0yakVOdkpSbXYxYnJhSlM2X3dET3AwTVdqOW5CbG1wZUNaZnhQdGQzMzVyMFEzWWZzd2FNaW5aVmQ2SkE?oc=5"
+      "item_id": "603217b51e6398f7",
+      "published_at": "2026-08-22T11:13:38Z",
+      "source_name": "搜狐网",
+      "title": "中国版\"猎鹰9\"成了！朱雀三号成功落地，这次是真回收 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFR5SEFTX0lWOE9lUmh1SXVvdDEzS1QyNUVWOWJuU3VIYzd4RHJTanNtM2dvNEc5ejhnWENiRE5GLWd6dkI0N0VkVHBNdmQ4UEEyWDVCbEVENmxhVnB1aWN5d0N0ekJhQ0hRWEpGc09kYndzVmZXcGRBVW5kNHVveERlTTJYOG5wNEFmdw?oc=5"
     },
     {
       "company_id": "landspace",
       "company_name": "蓝箭航天",
-      "event_type": "launch",
-      "item_id": "f4e2727be9e9a190",
-      "published_at": "2026-08-21T03:11:11Z",
+      "event_type": "other",
+      "item_id": "e8520f3b7d1aff26",
+      "published_at": "2026-08-22T00:58:50Z",
       "source_name": "bing.com",
-      "title": "LandSpace lands ZhuQue-3 booster after failure, delivers satellite to orbit",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a88424bdcb743a38a0bb2cbf06635d6&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fgeneral%2Fgeneral%2Flandspace-lands-zhuque-3-booster-after-failure-delivers-satellite-to-orbit%2Far-AA2aD8VE&c=11442235773959606466&mkt=en-us"
+      "title": "Zhuque-3 : la fusée chinoise a finalement basculé dans le désert",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a899267de164275b64ebe03d6bc4146&url=https%3A%2F%2Fwww.msn.com%2Ffr-fr%2Fscience%2Fa%25C3%25A9ronautique%2Fzhuque-3-la-fus%25C3%25A9e-chinoise-a-finalement-bascul%25C3%25A9-dans-le-d%25C3%25A9sert%2Far-AA2aHrQx&c=11971715423726888248&mkt=en-us"
     },
     {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "launch",
-      "item_id": "e2c3a54b5a6d4cc2",
-      "published_at": "2026-08-21T03:11:11Z",
-      "source_name": "bing.com",
-      "title": "LandSpace lands ZhuQue-3 booster after failure, delivers satellite to orbit",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a88ece10b5c4716be3a2253e7953fba&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Ftechnology%2Flandspace-lands-zhuque-3-booster-after-failure-delivers-satellite-to-orbit%2Far-AA2aD8VE&c=2830404405478805160&mkt=en-us"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "launch",
-      "item_id": "3344076f557189cc",
-      "published_at": "2026-08-21T03:11:11Z",
-      "source_name": "bing.com",
-      "title": "LandSpace lands ZhuQue-3 booster after failure, delivers satellite to orbit",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a88968c2e7941338d0c142581977277&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Flandspace-lands-zhuque-3-booster-after-failure-delivers-satellite-to-orbit%2Far-AA2aD8VE&c=17706199900844192702&mkt=en-us"
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "other",
+      "item_id": "9513698c98ef7ee1",
+      "published_at": "2026-08-22T00:34:00Z",
+      "source_name": "新浪财经",
+      "title": "浙江省委书记王浩调研中科宇航 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqaF85bXljV2l5Y2dwdEk1RThDa1MxN0tvRGhhMmxNZ1R6YU96c0ZaQTlqT0JFS2hPZEZoMTlzeWJFSTBvc3ZFWU9iRWJUNWk0cXg2Z3p2UWRpNWZrY2xDcUtzVFc3dXd5NWdUdVpMbTBSbkx1LTRuTA?oc=5"
     },
     {
       "company_id": "yuanxin_satellite",
       "company_name": "垣信卫星",
-      "event_type": "funding",
-      "item_id": "c28472fafb841b7e",
-      "published_at": "2026-08-20T23:12:00Z",
-      "source_name": "新浪财经",
-      "title": "垣信卫星增资近70亿 低轨星座企业加速融资 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TLUlmdG1HRVVqRGdSbUtGdlNmdTNSbXJBYXNaM2RIQXNWQVRaNmxsd3p5YkNyLTVvUHdKSVNlN2RCc3h0akthcHRvVzdab1l6VmhiUmVKMEJRS3J3QzB0SzAzUG9FV29ZRVNLcHZNLXAtUU5Xcjk4SA?oc=5"
+      "event_type": "other",
+      "item_id": "0202f27c77d191f6",
+      "published_at": "2026-08-21T23:51:05Z",
+      "source_name": "디지털투데이",
+      "title": "China's SpaceSail raises 1.4 trillion won to speed up race to catch up with Starlink - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdS11OHZvYkgzdFM5b2VtSEdSQkdMQUJoZXNDWkYzbnVhSE13VkdsSGJuRklIZXVrTFNNSGh1VWpNSzdZcjhsSWFZd3FyRVctSEN2SEpRZHp2ZVlPazVFU1o0T3ZkUWEtdnpjTGdsYmZvNmVxc19sZVAzTkx2a2Y4T2Y2alhIUlNQX3dFYmZWT1dmMmR6bUVYcUl3WnR0X1BSRnViMnV2emo2ZG1VOWdiSXFsQ1JxOGhwZDhoUU9JelkyRVdoa1E?oc=5"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "other",
+      "item_id": "f41d4d6e5a10cfc1",
+      "published_at": "2026-08-22T02:36:00Z",
+      "source_name": "财富号",
+      "title": "蓝箭航天，10家核心配套企业 - 财富号",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JWUZtRGdJR2hLbnM3R0NfbmRIRi1QUW5sSmhPeF8wckFWNEV4MzdFbXotQnMtSnNYRDh0Rm1RakxYcWl1MVRxZThhMjFnenlRY3JHZWQ4Rk9jekd3bzVqaWtwOGpPNm9YTVVj?oc=5"
     }
   ],
-  "total_items": 36
+  "total_items": 16
 }
