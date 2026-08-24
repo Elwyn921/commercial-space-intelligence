@@ -1,7 +1,7 @@
 # 每日新闻情报日报 - 2026-08-24
 
-- Report ID: daily-2026-08-24-31cc798a
-- Source run: e50e1565-045c-467e-a5cd-1821cb9e8f80
+- Report ID: daily-2026-08-24-2829024f
+- Source run: 86a503c6-62bd-4284-8d90-81bb94612ddd
 - Generation status: skipped_no_secret
 - Companies covered: 1
 - Total items: 1
@@ -45,4 +45,4 @@ No LLM summary.
 
 ## Source Health
 
-degraded: 15/26 sources succeeded.
+degraded: 0/37 sources succeeded.
