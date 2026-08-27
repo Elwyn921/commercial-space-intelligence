@@ -1,16 +1,29 @@
 {
   "artifact_version": 1,
-  "day_count": 487,
+  "day_count": 488,
   "days": [
     {
-      "company_count": 4,
+      "company_count": 1,
+      "company_ids": [
+        "spacex"
+      ],
+      "count": 1,
+      "date": "2026-08-28",
+      "inferred_date_count": 0,
+      "source_types": [
+        "rss"
+      ]
+    },
+    {
+      "company_count": 5,
       "company_ids": [
         "blue_origin",
         "cas_space",
+        "galactic_energy",
         "landspace",
         "spacex"
       ],
-      "count": 4,
+      "count": 7,
       "date": "2026-08-27",
       "inferred_date_count": 0,
       "source_types": [
@@ -29,7 +42,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 60,
+      "count": 71,
       "date": "2026-08-26",
       "inferred_date_count": 0,
       "source_types": [
@@ -46,7 +59,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 81,
+      "count": 89,
       "date": "2026-08-25",
       "inferred_date_count": 0,
       "source_types": [
@@ -64,7 +77,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 37,
+      "count": 40,
       "date": "2026-08-24",
       "inferred_date_count": 0,
       "source_types": [
@@ -93,7 +106,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 23,
+      "count": 24,
       "date": "2026-08-22",
       "inferred_date_count": 0,
       "source_types": [
@@ -112,7 +125,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 124,
+      "count": 130,
       "date": "2026-08-21",
       "inferred_date_count": 0,
       "source_types": [
@@ -129,7 +142,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 162,
+      "count": 167,
       "date": "2026-08-20",
       "inferred_date_count": 0,
       "source_types": [
@@ -150,7 +163,7 @@
         "yuanxin_satellite",
         "yushi_space"
       ],
-      "count": 239,
+      "count": 246,
       "date": "2026-08-19",
       "inferred_date_count": 0,
       "source_types": [
@@ -168,7 +181,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 89,
+      "count": 92,
       "date": "2026-08-18",
       "inferred_date_count": 0,
       "source_types": [
@@ -186,7 +199,7 @@
         "minospace",
         "spacex"
       ],
-      "count": 97,
+      "count": 98,
       "date": "2026-08-17",
       "inferred_date_count": 0,
       "source_types": [
@@ -298,7 +311,7 @@
         "landspace",
         "spacex"
       ],
-      "count": 106,
+      "count": 107,
       "date": "2026-08-10",
       "inferred_date_count": 0,
       "source_types": [
@@ -328,7 +341,7 @@
         "landspace",
         "spacex"
       ],
-      "count": 113,
+      "count": 114,
       "date": "2026-08-08",
       "inferred_date_count": 0,
       "source_types": [
@@ -344,7 +357,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 155,
+      "count": 156,
       "date": "2026-08-07",
       "inferred_date_count": 0,
       "source_types": [
@@ -363,7 +376,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 217,
+      "count": 219,
       "date": "2026-08-06",
       "inferred_date_count": 0,
       "source_types": [
@@ -587,7 +600,7 @@
         "landspace",
         "spacex"
       ],
-      "count": 496,
+      "count": 499,
       "date": "2026-07-24",
       "inferred_date_count": 0,
       "source_types": [
@@ -736,7 +749,7 @@
         "space_pioneer",
         "spacex"
       ],
-      "count": 47,
+      "count": 48,
       "date": "2026-07-15",
       "inferred_date_count": 0,
       "source_types": [
@@ -6390,10 +6403,10 @@
       ]
     }
   ],
-  "generated_at": "2026-08-27T05:14:46.902004Z",
+  "generated_at": "2026-08-27T16:55:49.289523Z",
   "inferred_date_count": 1,
-  "run_id": "c0ceffdd-c813-4853-9ce5-6647b17836dc",
+  "run_id": "bad90cdd-b3b7-4dae-a85f-c9ad6996a1c9",
   "schema_version": "daily_news_index.v1",
   "timezone": "Asia/Shanghai",
-  "total_items": 5988
+  "total_items": 6046
 }
