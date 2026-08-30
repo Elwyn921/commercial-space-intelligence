@@ -1,176 +1,107 @@
 {
-  "as_of_date": "2026-08-29",
+  "as_of_date": "2026-08-30",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
         "launch": 4,
-        "other": 1
+        "regulation": 4
       },
-      "item_count": 5,
-      "latest_title": "SpaceX Falcon Heavy rocket launching NASA's Roman Space Telescope on Aug. 30: How to watch it live"
+      "item_count": 8,
+      "latest_title": "SpaceX test-fires Starship Super Heavy booster ahead of critical Flight 14 (video)"
     },
     {
       "company_id": "minospace",
       "company_name": "微纳星空",
       "event_types": {
-        "other": 2
-      },
-      "item_count": 2,
-      "latest_title": "吉隆口岸灾情应急：微纳星空联合环天智慧共享多景卫星影像支援救灾研判 - 新浪财经"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_types": {
-        "launch": 1
-      },
-      "item_count": 1,
-      "latest_title": "Space Force plans new launch complex at Cape Canaveral following Blue Origin explosion - The Business Journals"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_types": {
-        "launch": 1
-      },
-      "item_count": 1,
-      "latest_title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_types": {
         "other": 1
       },
       "item_count": 1,
-      "latest_title": "诺瓦星云：直接及间接持有蓝箭航天少量股权 - 新浪财经"
+      "latest_title": "【企业风采】吉隆口岸灾情应急：微纳星空联合环天智慧共享多景卫星影像支援救灾研判 - 新浪财经"
     }
   ],
-  "company_count": 5,
+  "company_count": 2,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 6,
-    "other": 4
+    "launch": 4,
+    "other": 1,
+    "regulation": 4
   },
-  "generated_at": "2026-08-29T07:53:30.960382Z",
-  "period_end": "2026-08-28",
-  "period_start": "2026-08-28",
-  "report_date": "2026-08-28",
+  "generated_at": "2026-08-30T06:40:15.573839Z",
+  "period_end": "2026-08-29",
+  "period_start": "2026-08-29",
+  "report_date": "2026-08-29",
   "schema_version": "daily_document.v1",
-  "source_count": 7,
+  "source_count": 4,
   "source_counts": {
-    "Florida Today": 1,
-    "The Business Journals": 1,
-    "arstechnica.com": 1,
-    "satnews.com": 1,
+    "bing.com": 5,
+    "satellitetoday.com": 1,
     "space.com": 2,
-    "spacewatch.global": 1,
-    "新浪财经": 3
+    "新浪财经": 1
   },
-  "summary": "2026-08-28 共归档 10 条新闻，覆盖 5 家公司、7 个信息来源。 新闻量较多的公司包括 SpaceX、微纳星空、Blue Origin、星河动力。",
+  "summary": "2026-08-29 共归档 9 条新闻，覆盖 2 家公司、4 个信息来源。 新闻量较多的公司包括 SpaceX、微纳星空。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "da9b45195b124cbe",
-      "published_at": "2026-08-28T15:00:00Z",
+      "item_id": "da87d55caea081d3",
+      "published_at": "2026-08-29T14:00:00Z",
       "source_name": "space.com",
-      "title": "SpaceX Falcon Heavy rocket launching NASA's Roman Space Telescope on Aug. 30: How to watch it live",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-rocket-launching-nasas-roman-space-telescope-on-aug-30-how-to-watch-it-live"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "launch",
-      "item_id": "76a0f09e4684448b",
-      "published_at": "2026-08-28T11:00:39Z",
-      "source_name": "arstechnica.com",
-      "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
-      "url": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "15e7a90f2832dd0d",
-      "published_at": "2026-08-28T10:00:00Z",
-      "source_name": "The Business Journals",
-      "title": "Space Force plans new launch complex at Cape Canaveral following Blue Origin explosion - The Business Journals",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVlJ1TnptQ2hHOVpFaDRHVDNHMlM5S1ZIZmpVUEdjMGQ4aHphV0NEX1FJRy1ZUHhqMUdYRXkydTh2X2EzTV9nZFp4Rkp2RUdWRmJPUVNTYnFDUUhLSGFwckRENnBkSU5XLVJDRkZqNExkMllFSzVyb0xvWWRkOWdYNENSVDdqQnl3bjg0Vy1velkxazJkY3hhdUNxWTVZUEZ2QktVel9SMA?oc=5"
+      "title": "SpaceX test-fires Starship Super Heavy booster ahead of critical Flight 14 (video)",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-super-heavy-booster-ahead-of-key-test-flight"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "46910ddbe08f08bb",
-      "published_at": "2026-08-28T06:00:00Z",
-      "source_name": "spacewatch.global",
-      "title": "Exolaunch to Deploy 68 Payloads Across SpaceX’s Transporter-18 and Bandwagon-5 Missions",
-      "url": "https://spacewatch.global/2026/08/exolaunch-to-deploy-68-payloads-across-spacexs-transporter-18-and-bandwagon-5-missions"
+      "item_id": "2702a6f93c186a88",
+      "published_at": "2026-08-29T11:06:25Z",
+      "source_name": "bing.com",
+      "title": "SpaceX is trying something Starlink wasn’t built for",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a933aeed7944c73806b179152fdc5ee&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-is-trying-something-starlink-wasn-t-built-for%2Fvi-AA2bbEkm&c=5812167130927707924&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "regulation",
+      "item_id": "731698a674e3cb5f",
+      "published_at": "2026-08-29T06:14:08Z",
+      "source_name": "bing.com",
+      "title": "SpaceX petitions FCC to block Viasat satellite over Starlink interference risk",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a938cad3dec4b3389346239258d672a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-petitions-fcc-to-block-viasat-satellite-over-starlink-interference-risk%2Far-AA2bamEd&c=17130170861064634238&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "890b44ef96aa98ad",
-      "published_at": "2026-08-27T18:57:00Z",
-      "source_name": "Florida Today",
-      "title": "SpaceX Falcon 9 booster returns to Port Canaveral after final Florida Starlink launch - Florida Today",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcG5SeXhrUExncWE0dHBQRWdJcGhzZ0F1VWZfQzltUGdXcVhvTjZFem9oMzlZbVlYZWltTUNLVkN2d1dZb0EwemJqeVUteXYwSHktRjZvSTBYLWZOTlI0VWwxb1RYdnYtWXRqZDcya1h2dDdUcHNVYk5WVTM0SThoWHl0VzREaUttT3E2VGhSdmNLT2taVmF4NXlScWVvUlZWSnBjUWFYN3pCRGVxb0J3Wno0eDJiRzZDWUN1WkpGY3phRDRYQy1rc1pjT3ZYQjJJRXJLTGZzbkIwZG1FTVZ5Y295U1BXUzNMb084cFdGXzhpRVltSktpbFFNdw?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "f1772c4c5751cfa8",
-      "published_at": "2026-08-27T18:56:00Z",
-      "source_name": "satnews.com",
-      "title": "Financial Modeling Validates SpaceX Falcon 9 Booster Economics and Margins",
-      "url": "https://satnews.com/2026/08/27/financial-modeling-validates-spacex-falcon-9-booster-economics-and-margins"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "537a77c001a277d5",
-      "published_at": "2026-08-27T16:45:12Z",
+      "item_id": "94d8552dcdaf7646",
+      "published_at": "2026-08-28T22:31:45Z",
       "source_name": "space.com",
-      "title": "Starship is coming home! SpaceX loads floating spacecraft onto huge ship in the Indian Ocean (photos)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/starship-is-coming-home-spacex-loads-floating-spacecraft-onto-huge-ship-in-the-indian-ocean-photos"
+      "title": "What time will SpaceX launch NASA's Roman Space Telscope on Aug. 30? (Full mission timeline)",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-roman-space-telescope-falcon-heavy-launch-what-time"
     },
     {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "other",
-      "item_id": "59fba6b17d2856fb",
-      "published_at": "2026-08-28T07:44:00Z",
-      "source_name": "新浪财经",
-      "title": "诺瓦星云：直接及间接持有蓝箭航天少量股权 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUG1HMWFvX05JNzk0aHFyUTN4bWJXWTJpNElvX2UyTnh1NFZMOGEtRlNYRFVKTFBSVjlFV1hHajhyb0lLOWVOMVZiVHlxcjdNOEdUMHJOSjBHa2dyWWxsTEhMaXBNV1dmNldTQkl6UmwxNkZFLWUwMWtCSE1adVZHdk1Lcl9LOEczMHI5RF9HVUY?oc=5"
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "ce559c4b02eb6b96",
+      "published_at": "2026-08-28T17:59:36Z",
+      "source_name": "satellitetoday.com",
+      "title": "NASA’s Nancy Grace Roman Telescope Set for Falcon Heavy Launch on Sunday",
+      "url": "https://www.satellitetoday.com/launch/2026/08/28/nasas-nancy-grace-roman-telescope-set-for-falcon-heavy-launch-on-sunday"
     },
     {
       "company_id": "minospace",
       "company_name": "微纳星空",
       "event_type": "other",
-      "item_id": "ee6911b12372fbcc",
-      "published_at": "2026-08-28T02:44:00Z",
+      "item_id": "bcf654cb580a3b45",
+      "published_at": "2026-08-28T23:00:00Z",
       "source_name": "新浪财经",
-      "title": "吉隆口岸灾情应急：微纳星空联合环天智慧共享多景卫星影像支援救灾研判 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMWdfZ29fbnIwQW9iU1hZZTBfeDdnaE5HTld3bFlnTURZWlZ6VkZNMmRKdHBJZTF4bm90V2pTUmJSY2czdTVpWHg3SVhCY2Y1emduQVN1Y1NFZWs5MXoxY2xnSnFpSGJxVG93Ukc0WmFzNXc4T0U4QnFMX2FqYWMwek5PSzNRM0d4alpXRVd4SXljWUgyY0hXZXN0c1hGb0dsX1o0RmFoTWszbUViY2MxaTBzbTNGM2RXanFIdG4xYktfZlc2cU5remhQWnpaQ2lW?oc=5"
-    },
-    {
-      "company_id": "minospace",
-      "company_name": "微纳星空",
-      "event_type": "other",
-      "item_id": "0e04eb8b15e20bb8",
-      "published_at": "2026-08-28T02:44:00Z",
-      "source_name": "新浪财经",
-      "title": "吉隆口岸灾情应急：微纳星空联合环天智慧共享多景卫星影像支援救灾研判 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTzJMbkl4MVJxSUgtQVVOWUZLa2hxVGtwX3BLUDIxVU9xdkVjaENjZ0xqWXRmLWl4RFVrbzIzXzEtXzFmZjBLc3lTLTJTdG5vOFpFb1hrcU5LeHlQSDRDSHhuUWRpQ0hZN1p6NUVMYTBJU09BalVMa2pqRHRiVTc0ZXEwcURHX2oyUGhCbk5YWlo1WG1CdE8weWxKTjJGZjdoSHJXY3h3Vm83T0xFaG8yQTNYcEEycm9DeUNtMmlNMG1CY083U0JZMWMyZmRuZTJw?oc=5"
+      "title": "【企业风采】吉隆口岸灾情应急：微纳星空联合环天智慧共享多景卫星影像支援救灾研判 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHdxd3Y0YnJlOEJrbllSVmtFQlVTT3JZSENPdnVESnBiQ041eVZ6SnU1R1g1WVhiUWpZS1RmMW1mclhPaV9xdUNfbjRHRjZwSjdvSXo2U2NQRm9mV1BUdjdFeXBXcE5CLVVTbHFLTzV2eVJ1VFgwXzE3VVE3NTdwa0dCMms?oc=5"
     }
   ],
-  "total_items": 10
+  "total_items": 9
 }
