@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-08-30
 
-- Report ID: daily-2026-08-30-52396040
-- Source run: 6a7927d9-7d92-4c2d-9906-a4538b60f6eb
+- Report ID: daily-2026-08-30-0d95ecf6
+- Source run: 2db5618d-073d-49e3-87ed-e754bacfaf67
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 2
+- Total items: 4
 
 ## Executive Summary
 
-2026-08-30 共收录 2 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-08-30 共收录 4 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,13 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
+- [Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)](https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video) SpaceX
+- [Elon Musk Says SpaceX Will Offer Starlink at Half Price for People Living Near Starbase Louisiana](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a944ceb734a4e2c8eb546296805b224&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-says-spacex-offer-133109598.html&c=8480650367598719464&mkt=en-us) SpaceX
 - [NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket](https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket) SpaceX
-- [NASA, SpaceX set to launch the Nancy Grace Roman Space Telescope from Florida on Sunday](https://www.nasaspaceflight.com/2026/08/roman-telescope-launch) SpaceX
 
 ## Top News
 
+- [Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)](https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video) SpaceX
+- [Elon Musk Says SpaceX Will Offer Starlink at Half Price for People Living Near Starbase Louisiana](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a944ceb734a4e2c8eb546296805b224&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-says-spacex-offer-133109598.html&c=8480650367598719464&mkt=en-us) SpaceX
 - [NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket](https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket) SpaceX
-- [NASA, SpaceX set to launch the Nancy Grace Roman Space Telescope from Florida on Sunday](https://www.nasaspaceflight.com/2026/08/roman-telescope-launch) SpaceX
 
 ## Risks And Watchpoints
 
