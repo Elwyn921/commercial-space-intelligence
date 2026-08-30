@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-08-30
 
-- Report ID: daily-2026-08-30-0d95ecf6
-- Source run: 2db5618d-073d-49e3-87ed-e754bacfaf67
+- Report ID: daily-2026-08-30-953bf131
+- Source run: a8e28cd2-5d6e-4248-8998-3ce1b5f7ef82
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 4
+- Total items: 5
 
 ## Executive Summary
 
-2026-08-30 共收录 4 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-08-30 共收录 5 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -32,14 +32,14 @@ No LLM summary.
 No LLM summary.
 
 - [Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)](https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video) SpaceX
-- [Elon Musk Says SpaceX Will Offer Starlink at Half Price for People Living Near Starbase Louisiana](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a944ceb734a4e2c8eb546296805b224&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-says-spacex-offer-133109598.html&c=8480650367598719464&mkt=en-us) SpaceX
-- [NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket](https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket) SpaceX
+- [Is SpaceX Stock a Buy After Its First Earnings Report?](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a948dd7057d41a5ad7b752339db06be&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fis-spacex-stock-a-buy-after-its-first-earnings-report%2Far-AA2bdJ8B&c=16400073505776668018&mkt=en-us) SpaceX
+- [Elon Musk Says SpaceX Will Offer Starlink at Half Price for People Living Near Starbase Louisiana](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a948dd7057d41a5ad7b752339db06be&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-says-spacex-offer-133109598.html&c=8480650367598719464&mkt=en-us) SpaceX
 
 ## Top News
 
 - [Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)](https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video) SpaceX
-- [Elon Musk Says SpaceX Will Offer Starlink at Half Price for People Living Near Starbase Louisiana](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a944ceb734a4e2c8eb546296805b224&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-says-spacex-offer-133109598.html&c=8480650367598719464&mkt=en-us) SpaceX
-- [NASA's Roman Space Telescope is ready for launch aboard SpaceX Falcon Heavy rocket](https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-is-ready-for-launch-aboard-spacex-falcon-heavy-rocket) SpaceX
+- [Is SpaceX Stock a Buy After Its First Earnings Report?](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a948dd7057d41a5ad7b752339db06be&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fis-spacex-stock-a-buy-after-its-first-earnings-report%2Far-AA2bdJ8B&c=16400073505776668018&mkt=en-us) SpaceX
+- [Elon Musk Says SpaceX Will Offer Starlink at Half Price for People Living Near Starbase Louisiana](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a948dd7057d41a5ad7b752339db06be&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-says-spacex-offer-133109598.html&c=8480650367598719464&mkt=en-us) SpaceX
 
 ## Risks And Watchpoints
 
