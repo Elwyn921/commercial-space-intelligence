@@ -1,6 +1,8 @@
 {
   "artifact_version": 1,
-  "count": 37,
+  "company_id": null,
+  "dry_run": false,
+  "exports": [],
   "fetch_statuses": [
     {
       "article_count": 0,
@@ -1771,7 +1773,29 @@
       "warnings": []
     }
   ],
+  "finished_at": "2026-08-31T08:51:13.893429Z",
   "generated_at": "2026-08-31T08:51:13.893429Z",
+  "items": [],
+  "max_gdelt_queries": null,
+  "merge_policy": "A5_stale_latest_merge",
+  "metadata": {
+    "quality_gate": {
+      "china_relaxed_published_count": 0,
+      "duplicate_count": 0,
+      "input_count": 0,
+      "published_count": 0,
+      "rejected_count": 0,
+      "rejected_samples": [],
+      "schema_version": "news_quality_gate.v1",
+      "watchlist_count": 0
+    }
+  },
+  "partial_run": true,
+  "provider_id": "serpapi_provider,brave_news_provider,newsapi_provider",
   "run_id": "9f9417b5-e89a-424a-a2ab-97fbfe5b6192",
-  "schema_version": "satellite_news.v1"
+  "scheduled_slot": "premium-search-2026-08-31",
+  "schema_version": "satellite_news.v1",
+  "started_at": "2026-08-31T08:51:02.682961Z",
+  "summaries": [],
+  "warnings": []
 }
