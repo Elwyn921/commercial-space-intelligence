@@ -1,107 +1,107 @@
 {
-  "as_of_date": "2026-08-30",
+  "as_of_date": "2026-08-31",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 4,
-        "regulation": 4
-      },
-      "item_count": 8,
-      "latest_title": "SpaceX test-fires Starship Super Heavy booster ahead of critical Flight 14 (video)"
-    },
-    {
-      "company_id": "minospace",
-      "company_name": "微纳星空",
-      "event_types": {
+        "launch": 6,
         "other": 1
       },
+      "item_count": 7,
+      "latest_title": "NASA, SpaceX set to launch the Nancy Grace Roman Space Telescope from Florida on Sunday"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_types": {
+        "funding": 1
+      },
       "item_count": 1,
-      "latest_title": "【企业风采】吉隆口岸灾情应急：微纳星空联合环天智慧共享多景卫星影像支援救灾研判 - 新浪财经"
+      "latest_title": "亿元战略投资垣信卫星！温州国投出资布局国家级“千帆星座” - 温州新闻网"
     }
   ],
   "company_count": 2,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 4,
-    "other": 1,
-    "regulation": 4
+    "funding": 1,
+    "launch": 6,
+    "other": 1
   },
-  "generated_at": "2026-08-30T06:40:15.573839Z",
-  "period_end": "2026-08-29",
-  "period_start": "2026-08-29",
-  "report_date": "2026-08-29",
+  "generated_at": "2026-08-31T07:02:33.619598Z",
+  "period_end": "2026-08-30",
+  "period_start": "2026-08-30",
+  "report_date": "2026-08-30",
   "schema_version": "daily_document.v1",
   "source_count": 4,
   "source_counts": {
-    "bing.com": 5,
-    "satellitetoday.com": 1,
+    "NASASpaceflight": 1,
+    "bing.com": 4,
     "space.com": 2,
-    "新浪财经": 1
+    "温州新闻网": 1
   },
-  "summary": "2026-08-29 共归档 9 条新闻，覆盖 2 家公司、4 个信息来源。 新闻量较多的公司包括 SpaceX、微纳星空。",
+  "summary": "2026-08-30 共归档 8 条新闻，覆盖 2 家公司、4 个信息来源。 新闻量较多的公司包括 SpaceX、垣信卫星。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "da87d55caea081d3",
-      "published_at": "2026-08-29T14:00:00Z",
+      "item_id": "12334d0d70cf7b89",
+      "published_at": "2026-08-29T20:20:42Z",
+      "source_name": "NASASpaceflight",
+      "title": "NASA, SpaceX set to launch the Nancy Grace Roman Space Telescope from Florida on Sunday",
+      "url": "https://www.nasaspaceflight.com/2026/08/roman-telescope-launch"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "c4ed50256cf4108c",
+      "published_at": "2026-08-30T12:56:57Z",
       "source_name": "space.com",
-      "title": "SpaceX test-fires Starship Super Heavy booster ahead of critical Flight 14 (video)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-test-fires-starship-super-heavy-booster-ahead-of-key-test-flight"
+      "title": "Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "2702a6f93c186a88",
-      "published_at": "2026-08-29T11:06:25Z",
-      "source_name": "bing.com",
-      "title": "SpaceX is trying something Starlink wasn’t built for",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a933aeed7944c73806b179152fdc5ee&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-is-trying-something-starlink-wasn-t-built-for%2Fvi-AA2bbEkm&c=5812167130927707924&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "regulation",
-      "item_id": "731698a674e3cb5f",
-      "published_at": "2026-08-29T06:14:08Z",
-      "source_name": "bing.com",
-      "title": "SpaceX petitions FCC to block Viasat satellite over Starlink interference risk",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a938cad3dec4b3389346239258d672a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-petitions-fcc-to-block-viasat-satellite-over-starlink-interference-risk%2Far-AA2bamEd&c=17130170861064634238&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "94d8552dcdaf7646",
-      "published_at": "2026-08-28T22:31:45Z",
-      "source_name": "space.com",
-      "title": "What time will SpaceX launch NASA's Roman Space Telscope on Aug. 30? (Full mission timeline)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-roman-space-telescope-falcon-heavy-launch-what-time"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "ce559c4b02eb6b96",
-      "published_at": "2026-08-28T17:59:36Z",
-      "source_name": "satellitetoday.com",
-      "title": "NASA’s Nancy Grace Roman Telescope Set for Falcon Heavy Launch on Sunday",
-      "url": "https://www.satellitetoday.com/launch/2026/08/28/nasas-nancy-grace-roman-telescope-set-for-falcon-heavy-launch-on-sunday"
-    },
-    {
-      "company_id": "minospace",
-      "company_name": "微纳星空",
       "event_type": "other",
-      "item_id": "bcf654cb580a3b45",
-      "published_at": "2026-08-28T23:00:00Z",
-      "source_name": "新浪财经",
-      "title": "【企业风采】吉隆口岸灾情应急：微纳星空联合环天智慧共享多景卫星影像支援救灾研判 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdHdxd3Y0YnJlOEJrbllSVmtFQlVTT3JZSENPdnVESnBiQ041eVZ6SnU1R1g1WVhiUWpZS1RmMW1mclhPaV9xdUNfbjRHRjZwSjdvSXo2U2NQRm9mV1BUdjdFeXBXcE5CLVVTbHFLTzV2eVJ1VFgwXzE3VVE3NTdwa0dCMms?oc=5"
+      "item_id": "aa8bfd406c8335da",
+      "published_at": "2026-08-30T10:05:00Z",
+      "source_name": "bing.com",
+      "title": "Is SpaceX Stock a Buy After Its First Earnings Report?",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a948dd7057d41a5ad7b752339db06be&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fis-spacex-stock-a-buy-after-its-first-earnings-report%2Far-AA2bdJ8B&c=16400073505776668018&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "fd437e5743877090",
+      "published_at": "2026-08-30T06:30:00Z",
+      "source_name": "bing.com",
+      "title": "Elon Musk Says SpaceX Will Offer Starlink at Half Price for People Living Near Starbase Louisiana",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a944ceb734a4e2c8eb546296805b224&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-says-spacex-offer-133109598.html&c=8480650367598719464&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "9c5aa1dd75ba32bf",
+      "published_at": "2026-08-30T06:30:00Z",
+      "source_name": "bing.com",
+      "title": "Elon Musk Says SpaceX Will Offer Starlink at Half Price for People Living Near Starbase Louisiana",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a948dd7057d41a5ad7b752339db06be&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-says-spacex-offer-133109598.html&c=8480650367598719464&mkt=en-us"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_type": "funding",
+      "item_id": "72a201478e045ede",
+      "published_at": "2026-08-30T01:37:00Z",
+      "source_name": "温州新闻网",
+      "title": "亿元战略投资垣信卫星！温州国投出资布局国家级“千帆星座” - 温州新闻网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcWtsWXZyU3h4Z1daZ1RaWTd6OENvdTJwcEloVTh0NFZjbVhWU0RSYTh5a1Z3R09EMjQxNEZNR216RlplQjl1YW8wQm5HWnVHcW5QcC1pZDd0UjFRaEdNM0xtMmxtS1hDcTJyNg?oc=5"
     }
   ],
-  "total_items": 9
+  "total_items": 8
 }
