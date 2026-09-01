@@ -1,107 +1,178 @@
 {
-  "as_of_date": "2026-08-31",
+  "as_of_date": "2026-09-01",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 6,
-        "other": 1
+        "launch": 3,
+        "other": 2
       },
-      "item_count": 7,
-      "latest_title": "NASA, SpaceX set to launch the Nancy Grace Roman Space Telescope from Florida on Sunday"
+      "item_count": 5,
+      "latest_title": "SpaceX, NASA delay next astronaut launch to ISS due to leak on Dragon spacecraft"
     },
     {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
       "event_types": {
-        "funding": 1
+        "launch": 4
       },
-      "item_count": 1,
-      "latest_title": "亿元战略投资垣信卫星！温州国投出资布局国家级“千帆星座” - 温州新闻网"
+      "item_count": 4,
+      "latest_title": "星河动力智神星一号锁定9月1日首飞 正式迈入液体火箭领域 - 观点网"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_types": {
+        "launch": 3
+      },
+      "item_count": 3,
+      "latest_title": "NASA telescope, Blue Origin and Relativity Space growth top space newsletter"
     }
   ],
-  "company_count": 2,
+  "company_count": 3,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "funding": 1,
-    "launch": 6,
-    "other": 1
+    "launch": 10,
+    "other": 2
   },
-  "generated_at": "2026-08-31T07:02:33.619598Z",
-  "period_end": "2026-08-30",
-  "period_start": "2026-08-30",
-  "report_date": "2026-08-30",
+  "generated_at": "2026-09-01T06:15:25.989718Z",
+  "period_end": "2026-08-31",
+  "period_start": "2026-08-31",
+  "report_date": "2026-08-31",
   "schema_version": "daily_document.v1",
-  "source_count": 4,
+  "source_count": 7,
   "source_counts": {
-    "NASASpaceflight": 1,
-    "bing.com": 4,
-    "space.com": 2,
-    "温州新闻网": 1
+    "Jiemian.com": 1,
+    "Ventura County Star": 1,
+    "bing.com": 6,
+    "news.17173.com": 1,
+    "space.com": 1,
+    "新浪财经": 1,
+    "观点网": 1
   },
-  "summary": "2026-08-30 共归档 8 条新闻，覆盖 2 家公司、4 个信息来源。 新闻量较多的公司包括 SpaceX、垣信卫星。",
+  "summary": "2026-08-31 共归档 12 条新闻，覆盖 3 家公司、7 个信息来源。 新闻量较多的公司包括 SpaceX、星河动力、Blue Origin。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "12334d0d70cf7b89",
-      "published_at": "2026-08-29T20:20:42Z",
-      "source_name": "NASASpaceflight",
-      "title": "NASA, SpaceX set to launch the Nancy Grace Roman Space Telescope from Florida on Sunday",
-      "url": "https://www.nasaspaceflight.com/2026/08/roman-telescope-launch"
+      "item_id": "cd044f127add6292",
+      "published_at": "2026-08-31T15:00:00Z",
+      "source_name": "space.com",
+      "title": "SpaceX, NASA delay next astronaut launch to ISS due to leak on Dragon spacecraft",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-nasa-delay-next-astronaut-launch-to-iss-due-to-leak-on-dragon-spacecraft"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "c4ed50256cf4108c",
-      "published_at": "2026-08-30T12:56:57Z",
-      "source_name": "space.com",
-      "title": "Liftoff! NASA's Roman Space Telescope soars to the stars on a SpaceX Falcon Heavy rocket in spectacular launch (video)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-roman-space-telescope-launch-success-on-a-spacex-falcon-heavy-rocket-spectacular-launch-video"
+      "item_id": "491f8dee8088ade9",
+      "published_at": "2026-08-31T13:01:00Z",
+      "source_name": "Ventura County Star",
+      "title": "SpaceX plans 2 rocket launches this week in California. Here's when - Ventura County Star",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTDVVZ2JKSnE2dEh3dWNuQVF1TWFROTRpS0JTUEpOelZEZWpmV21CNlhZc3I5bTNZS00xRzI4ZThrcDY0WWEzdEFCYVZiend3SkZ2d1d3V1lxVHlJOXAweU42S292UEZPUWh3UC1VSkJuRzlXNWxtRkhGRkhyeFBhZmxLTVJTNDk5UkxBOU9rSDlpZzUxMXJoeU5YdXRSQUNJRl9scUctZC1ycXdC?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "ad84976bad6e9c26",
+      "published_at": "2026-08-31T10:41:30Z",
+      "source_name": "bing.com",
+      "title": "NASA telescope, Blue Origin and Relativity Space growth top space newsletter",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a95c4c91c43476d81196648e8440d6c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fscience%2Fgeneral%2Fnasa-telescope-blue-origin-and-relativity-space-growth-top-space-newsletter%2Far-AA2bhUUm&c=9716899618646744482&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "a0c3dab1ef6df855",
+      "published_at": "2026-08-31T08:48:59Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin tops 4,500 Space Coast jobs as New Glenn buildout accelerates",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a96340a38914416b6f63c02496b1bb6&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fnews%2Fblue-origin-tops-4-500-space-coast-jobs-as-new-glenn-buildout-accelerates%2Far-AA2bhOWo&c=531278101052116156&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "4c4d2bdcbee1c667",
+      "published_at": "2026-08-31T08:48:59Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin tops 4,500 Space Coast jobs as New Glenn buildout accelerates",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a95c4c91c43476d81196648e8440d6c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fblue-origin-tops-4500-space-coast-jobs-as-new-glenn-buildout-accelerates%2Far-AA2bhOWo&c=12592728622489929513&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "b0840507dac278b7",
+      "published_at": "2026-08-31T06:00:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX stock gains as Bernstein maintains bullish outlook",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a95c4c1b91048449655e2d23606d327&url=https%3A%2F%2Finvezz.com%2Fnews%2F2026%2F08%2F31%2Fspacex-stock-gains-as-bernstein-maintains-bullish-outlook%2F&c=10394914123996522658&mkt=en-us"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "launch",
+      "item_id": "c201d3bda7822942",
+      "published_at": "2026-08-31T05:18:13Z",
+      "source_name": "观点网",
+      "title": "星河动力智神星一号锁定9月1日首飞 正式迈入液体火箭领域 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0X2tKcXRQYnJiYVZJRDlDR1NoNTZFNDRWaUNOUHpXZGlaeU9aU0hkRkNmR1d0cEREUTh2TGpxV3Z2ZjRyOG1aWEx4NEwtclA1d2JCOEFXSUhGWkxOWFUyYkpB?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "launch",
+      "item_id": "1883cbed393e3671",
+      "published_at": "2026-08-31T04:14:29Z",
+      "source_name": "news.17173.com",
+      "title": "星河动力首款液体火箭！智神星一号锁定9月1日首飞窗口 - news.17173.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3RWF6SVJTWkFKZi1NcGlUU05zYVl0d2J3Q0xPWXdxZ1RMUmx3RnZxako5Y1BEU0lZaW1YQm5UM25GNS1xdWd5dkZOOFQ0S2lpRF9lSVhLSjN0cHhlX0s0Y1BQbXQ?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "launch",
+      "item_id": "ae571c1948f28ba5",
+      "published_at": "2026-08-31T03:05:00Z",
+      "source_name": "新浪财经",
+      "title": "星河动力首款液体火箭！智神星一号锁定9月1日首飞窗口 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSFpzNUVpdzlGZEtLOEF5NjFHTWVFTDYwN25ncVl5YWRVMmxjWDV6c0tFdGRPdTNLOVFPMVNjYi1fYXRNY3NRMmpLdnVTb3N0SjdWNXYwRmw3N2lPVnZoNnppS2MzR1hGeW44bExmSlhxR2hWWWI3SmF0azF2cTJWZ2hqck05QQ?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "launch",
+      "item_id": "c4513e8560261d21",
+      "published_at": "2026-08-31T02:31:28Z",
+      "source_name": "Jiemian.com",
+      "title": "地月通信取得重大突破，智神星一号火箭首飞在即，卫星ETF永赢(159206)交投活跃 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tbEtxaElxaU1TQjZuVTd0YUMtVmdYLWVqVC1tNUFUMTVRU0ZEWFdNbC1PUFhqSjg1NVZQV3JaR2JTSkpmYmFPa3RZQnljd21uOS0tMG5OWGg?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "aa8bfd406c8335da",
-      "published_at": "2026-08-30T10:05:00Z",
+      "item_id": "392687f2f07b576f",
+      "published_at": "2026-08-31T10:59:00Z",
       "source_name": "bing.com",
-      "title": "Is SpaceX Stock a Buy After Its First Earnings Report?",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a948dd7057d41a5ad7b752339db06be&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fis-spacex-stock-a-buy-after-its-first-earnings-report%2Far-AA2bdJ8B&c=16400073505776668018&mkt=en-us"
+      "title": "Starlink Mobile and AST? This Prepaid Carrier Wants to Offer Both",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a95c4c1b91048449655e2d23606d327&url=https%3A%2F%2Fuk.pcmag.com%2Fwireless-carriers%2F166996%2Fstarlink-mobile-and-ast-this-prepaid-carrier-wants-to-offer-both&c=525147860858529832&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "fd437e5743877090",
-      "published_at": "2026-08-30T06:30:00Z",
+      "event_type": "other",
+      "item_id": "f216bece0a63caee",
+      "published_at": "2026-08-31T07:22:00Z",
       "source_name": "bing.com",
-      "title": "Elon Musk Says SpaceX Will Offer Starlink at Half Price for People Living Near Starbase Louisiana",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a944ceb734a4e2c8eb546296805b224&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-says-spacex-offer-133109598.html&c=8480650367598719464&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "9c5aa1dd75ba32bf",
-      "published_at": "2026-08-30T06:30:00Z",
-      "source_name": "bing.com",
-      "title": "Elon Musk Says SpaceX Will Offer Starlink at Half Price for People Living Near Starbase Louisiana",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a948dd7057d41a5ad7b752339db06be&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-says-spacex-offer-133109598.html&c=8480650367598719464&mkt=en-us"
-    },
-    {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
-      "event_type": "funding",
-      "item_id": "72a201478e045ede",
-      "published_at": "2026-08-30T01:37:00Z",
-      "source_name": "温州新闻网",
-      "title": "亿元战略投资垣信卫星！温州国投出资布局国家级“千帆星座” - 温州新闻网",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IcWtsWXZyU3h4Z1daZ1RaWTd6OENvdTJwcEloVTh0NFZjbVhWU0RSYTh5a1Z3R09EMjQxNEZNR216RlplQjl1YW8wQm5HWnVHcW5QcC1pZDd0UjFRaEdNM0xtMmxtS1hDcTJyNg?oc=5"
+      "title": "Exclusive: Musk opposes allowing Ukraine to use Starlink for strikes on Russia, despite recent media reports, sources say",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a95c4c1b91048449655e2d23606d327&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fpolitics%2Farticles%2Fexclusive-musk-opposes-allowing-ukraine-142202843.html&c=518636050454934369&mkt=en-us"
     }
   ],
-  "total_items": 8
+  "total_items": 12
 }
