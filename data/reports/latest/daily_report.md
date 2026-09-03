@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-09-03
 
-- Report ID: daily-2026-09-03-4a826c16
-- Source run: 04e862bd-2393-4042-bd12-ec7e5bbb051b
+- Report ID: daily-2026-09-04-7ef96608
+- Source run: 1420aaab-fc6b-43ef-8550-c648f6ed65c4
 - Generation status: skipped_no_secret
 - Companies covered: 3
-- Total items: 11
+- Total items: 6
 
 ## Executive Summary
 
-2026-09-03 共收录 11 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 Blue Origin、SpaceX、星河动力。
+2026-09-04 共收录 6 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin、星河动力。
 
 ## Industry Chain Sections
 
@@ -21,7 +21,7 @@ No LLM summary.
 
 No LLM summary.
 
-- [China's private, reusable Pallas-1 rocket aces debut launch (video)](https://www.space.com/space-exploration/launches-spacecraft/chinas-private-reusable-pallas-1-rocket-aces-debut-launch-video) 星河动力
+- [智神星一号计划2027年下半年开展入轨回收试验 - 未来天玑](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJbU42UTQ3UWZ5NEZxZEdIbThqcjRweXpOTERsZTF4NG8wTzlsRHVqNDQ2cjdVeDFQcTBsUzd2dDB4WXREWHNiUk81Y0pzMzZ3N2c?oc=5) 星河动力
 
 ### 卫星互联网服务
 
@@ -32,22 +32,18 @@ No LLM summary.
 
 No LLM summary.
 
-- [4iG Group and SpaceX Sign Agreements to Deploy Starlink Mobile and Sovereign Satellite Solutions in Europe](https://satnews.com/2026/09/03/4ig-group-and-spacex-sign-agreements-to-deploy-starlink-mobile-and-sovereign-satellite-solutions-in-europe) SpaceX
-- [Starlink Goes Live in the UAE: What the Launch Means - BASENOR - Tesla Accessories](https://news.google.com/rss/articles/CBMijwFBVV95cUxPallEdDEzRW9tNFNEZFowVXJyakdxN2tpblhxS2ZHRUJ4TGpnMXdiNGM5dFNVZ0VyNGhERXJoZXo3cEhZai0yaDNvQmVCN0lCaEFkT09DUXBZZ25kTEw1NmVqQ0JyT2k3RFZhWFQ3ZS1JekN1VzZQVkxtQ2ROSkZocnJjcVNVMnpFTWpDSHJobw?oc=5) SpaceX
-- [Pallas-1 Debut, Falcon 9 Hits 35 Flights, X Report 3 Sep 2026 - keeptrack.space](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Gb212QWE0ZWJoZlNPSTRfUFU5c05yY09DeWRId293SDNOMU5Ia0pxRDRwYTBXblozcFpkYTA2T0I2NTBfSEg5Ry1rMHp1b001bmh2TFFZc1VNaF80MlNSTjhmRndvS0k?oc=5) SpaceX
-- [NASA Awards Blue Origin $700 Million Contract For Mars Communications Network](https://spacewatch.global/2026/09/nasa-awards-blue-origin-700-million-contract-for-mars-communications-network) Blue Origin
-- [NASA Taps Blue Origin for $700 Million Mars Contract, Further Diversifying From SpaceX - The Daily Upside](https://news.google.com/rss/articles/CBMizwFBVV95cUxQU0FhTjZhUmNIaFdVUHVGbXV3M3c5Y1NxMGJzOUtIZ043N1RrYlgyNXItYmZVUl9LRkR6VVBYY0NuMXVBeTVsdUNMMGVqeWRDbV9oQ09pNjhoWUtZUTVXb0lzSGhoc2c3VU9oUlUydlBHQmNLYldhdmZSOW9Sekd1MmtHUThPQm5FdnBILVl1VFB0cHlyTk5PUm93UkFVRGtjbXFZaFFhLVQ5Y0dUWDFpcWs5d3pVaVlia0JhNXNaZzVmenhGOEJnUEdNVWF4MkU?oc=5) Blue Origin
-- [Bezos’ Blue Origin Has Poached Dozens of Amazon Satellite Engineers](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a998f906b894feeb33b11553be0c51e&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-09-03%2Fbezos-blue-origin-has-poached-dozens-of-amazon-satellite-engineers&c=16094393778725321043&mkt=en-us) Blue Origin
+- [Starlink V2 Mini Twilight: Falcon 9 Launches Friday as Starship V3 Nears - Tech Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWnJnUllPekUzWWxac0lPWnZWeExXZUdSMDROYkNvNzdEVWtJTTgyaWkxYnNGX2NEUTlkWHlTMFV1OUttbFRzVjg3aXRaNEF0Nkg0b2NMWmR4OEg5bVZSbndhQWtuSjZ4WUdsTUxxQ2VMcnRJNmZuSzN3bm9PT0JCWEZhQ3JfQkNXeEpRcy1oaUp2NXBZaURvRnQzWk5DNnFRRUJDTXdSemFrNldMMmZGTE5DVlVzdV9Id2lmY0t4ZUY?oc=5) SpaceX
+- [Hungary’s 4iG Group to Launch Starlink Mobile](https://www.satellitetoday.com/connectivity/2026/09/03/hungarys-4ig-group-to-launch-starlink-mobile) SpaceX
+- [FILE PHOTO: Starlink satellites launch from Cape Canaveral - lufkindailynews.com](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRXJxYWV5UDN0YV9nU2tTaEZpeDl2WUE2RW5GeXozb0M2Z3lKb0MzcEFCdTZ3NEVPdTlCNkR4VkFTX2hKRllFSnMxcGI4NlNyeGxQR1kwTnp1YmVTYk1mQzcxWkkxUnNxSFhyOFlrckYySlRUUE1Pd1kyWmFTaXVPRGl4RGV4RmQ5RXZ1RjhfSVZNZ0xsSlhzNDRVeTAyOV91OEZSbkxrdnUxWUxFc1YySnRabkQzN1ZZcXVNRUxEYkkwTVFZSm5hQWRsbk5kcXRHRzd2WXRUNFFSdTZTUzVtS29hS0dhNy1ySHp3?oc=5) SpaceX
+- [Blue Origin Accelerates Engineering Hiring from Amazon Satellite Division to Expand Orbital Operations](https://satnews.com/2026/09/03/blue-origin-accelerates-engineering-hiring-from-amazon-satellite-division-to-expand-orbital-operations) Blue Origin
 
 ## Top News
 
-- [4iG Group and SpaceX Sign Agreements to Deploy Starlink Mobile and Sovereign Satellite Solutions in Europe](https://satnews.com/2026/09/03/4ig-group-and-spacex-sign-agreements-to-deploy-starlink-mobile-and-sovereign-satellite-solutions-in-europe) SpaceX
-- [Starlink Goes Live in the UAE: What the Launch Means - BASENOR - Tesla Accessories](https://news.google.com/rss/articles/CBMijwFBVV95cUxPallEdDEzRW9tNFNEZFowVXJyakdxN2tpblhxS2ZHRUJ4TGpnMXdiNGM5dFNVZ0VyNGhERXJoZXo3cEhZai0yaDNvQmVCN0lCaEFkT09DUXBZZ25kTEw1NmVqQ0JyT2k3RFZhWFQ3ZS1JekN1VzZQVkxtQ2ROSkZocnJjcVNVMnpFTWpDSHJobw?oc=5) SpaceX
-- [Pallas-1 Debut, Falcon 9 Hits 35 Flights, X Report 3 Sep 2026 - keeptrack.space](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Gb212QWE0ZWJoZlNPSTRfUFU5c05yY09DeWRId293SDNOMU5Ia0pxRDRwYTBXblozcFpkYTA2T0I2NTBfSEg5Ry1rMHp1b001bmh2TFFZc1VNaF80MlNSTjhmRndvS0k?oc=5) SpaceX
-- [NASA Awards Blue Origin $700 Million Contract For Mars Communications Network](https://spacewatch.global/2026/09/nasa-awards-blue-origin-700-million-contract-for-mars-communications-network) Blue Origin
-- [NASA Taps Blue Origin for $700 Million Mars Contract, Further Diversifying From SpaceX - The Daily Upside](https://news.google.com/rss/articles/CBMizwFBVV95cUxQU0FhTjZhUmNIaFdVUHVGbXV3M3c5Y1NxMGJzOUtIZ043N1RrYlgyNXItYmZVUl9LRkR6VVBYY0NuMXVBeTVsdUNMMGVqeWRDbV9oQ09pNjhoWUtZUTVXb0lzSGhoc2c3VU9oUlUydlBHQmNLYldhdmZSOW9Sekd1MmtHUThPQm5FdnBILVl1VFB0cHlyTk5PUm93UkFVRGtjbXFZaFFhLVQ5Y0dUWDFpcWs5d3pVaVlia0JhNXNaZzVmenhGOEJnUEdNVWF4MkU?oc=5) Blue Origin
-- [Bezos’ Blue Origin Has Poached Dozens of Amazon Satellite Engineers](http://www.bing.com/news/apiclick.aspx?aid=&tid=6a998f906b894feeb33b11553be0c51e&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-09-03%2Fbezos-blue-origin-has-poached-dozens-of-amazon-satellite-engineers&c=16094393778725321043&mkt=en-us) Blue Origin
-- [China's private, reusable Pallas-1 rocket aces debut launch (video)](https://www.space.com/space-exploration/launches-spacecraft/chinas-private-reusable-pallas-1-rocket-aces-debut-launch-video) 星河动力
+- [Starlink V2 Mini Twilight: Falcon 9 Launches Friday as Starship V3 Nears - Tech Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWnJnUllPekUzWWxac0lPWnZWeExXZUdSMDROYkNvNzdEVWtJTTgyaWkxYnNGX2NEUTlkWHlTMFV1OUttbFRzVjg3aXRaNEF0Nkg0b2NMWmR4OEg5bVZSbndhQWtuSjZ4WUdsTUxxQ2VMcnRJNmZuSzN3bm9PT0JCWEZhQ3JfQkNXeEpRcy1oaUp2NXBZaURvRnQzWk5DNnFRRUJDTXdSemFrNldMMmZGTE5DVlVzdV9Id2lmY0t4ZUY?oc=5) SpaceX
+- [Hungary’s 4iG Group to Launch Starlink Mobile](https://www.satellitetoday.com/connectivity/2026/09/03/hungarys-4ig-group-to-launch-starlink-mobile) SpaceX
+- [FILE PHOTO: Starlink satellites launch from Cape Canaveral - lufkindailynews.com](https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRXJxYWV5UDN0YV9nU2tTaEZpeDl2WUE2RW5GeXozb0M2Z3lKb0MzcEFCdTZ3NEVPdTlCNkR4VkFTX2hKRllFSnMxcGI4NlNyeGxQR1kwTnp1YmVTYk1mQzcxWkkxUnNxSFhyOFlrckYySlRUUE1Pd1kyWmFTaXVPRGl4RGV4RmQ5RXZ1RjhfSVZNZ0xsSlhzNDRVeTAyOV91OEZSbkxrdnUxWUxFc1YySnRabkQzN1ZZcXVNRUxEYkkwTVFZSm5hQWRsbk5kcXRHRzd2WXRUNFFSdTZTUzVtS29hS0dhNy1ySHp3?oc=5) SpaceX
+- [Blue Origin Accelerates Engineering Hiring from Amazon Satellite Division to Expand Orbital Operations](https://satnews.com/2026/09/03/blue-origin-accelerates-engineering-hiring-from-amazon-satellite-division-to-expand-orbital-operations) Blue Origin
+- [智神星一号计划2027年下半年开展入轨回收试验 - 未来天玑](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJbU42UTQ3UWZ5NEZxZEdIbThqcjRweXpOTERsZTF4NG8wTzlsRHVqNDQ2cjdVeDFQcTBsUzd2dDB4WXREWHNiUk81Y0pzMzZ3N2c?oc=5) 星河动力
 
 ## Risks And Watchpoints
 
