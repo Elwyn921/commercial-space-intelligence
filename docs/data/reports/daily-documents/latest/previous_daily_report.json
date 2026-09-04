@@ -1,54 +1,37 @@
 {
-  "as_of_date": "2026-09-03",
+  "as_of_date": "2026-09-04",
   "companies": [
     {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_types": {
+        "launch": 5,
+        "order": 1,
+        "other": 5
+      },
+      "item_count": 11,
+      "latest_title": "NASA Awards Blue Origin $700 Million Contract For Mars Communications Network"
+    },
+    {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 21,
-        "other": 1,
-        "regulation": 1
+        "launch": 2,
+        "other": 2,
+        "product": 1
       },
-      "item_count": 23,
-      "latest_title": "SpaceX to launch Starlink mission from West Coast"
+      "item_count": 5,
+      "latest_title": "4iG Group and SpaceX Sign Agreements to Deploy Starlink Mobile and Sovereign Satellite Solutions in Europe"
     },
     {
       "company_id": "galactic_energy",
       "company_name": "星河动力",
       "event_types": {
-        "launch": 14,
-        "market": 1
+        "funding": 1,
+        "launch": 4
       },
-      "item_count": 15,
-      "latest_title": "T早报｜智能体应用Manus恢复独立运营；SHEIN港交所IPO首日破发；星河动力可重复使用液体火箭“智神星一号”发射成功 - Caixin Global"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_types": {
-        "launch": 8,
-        "other": 1
-      },
-      "item_count": 9,
-      "latest_title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider"
-    },
-    {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
-      "event_types": {
-        "other": 3
-      },
-      "item_count": 3,
-      "latest_title": "阿里及上汽入股上海垣信卫星 注册资本增至24.8亿元 - 观点网"
-    },
-    {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
-      "event_types": {
-        "other": 1
-      },
-      "item_count": 1,
-      "latest_title": "专访星际荣耀谢红军：天基算力成第四大空间应用 - 东方财富"
+      "item_count": 5,
+      "latest_title": "济南财金集团2.6亿战略投资护航“智神星一号”叩问苍穹 - Sohu"
     },
     {
       "company_id": "landspace",
@@ -57,253 +40,201 @@
         "other": 1
       },
       "item_count": 1,
-      "latest_title": "中密控股：暂未向蓝箭航天提供密封产品 - 新浪财经"
+      "latest_title": "“朱雀三号”降落戈壁的第7天，中国航天悄悄干了一件“让宇宙回家”的大事… - 新浪财经"
     }
   ],
-  "company_count": 6,
+  "company_count": 4,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 43,
-    "market": 1,
-    "other": 7,
-    "regulation": 1
+    "funding": 1,
+    "launch": 11,
+    "order": 1,
+    "other": 8,
+    "product": 1
   },
-  "generated_at": "2026-09-03T05:47:55.910409Z",
-  "period_end": "2026-09-02",
-  "period_start": "2026-09-02",
-  "report_date": "2026-09-02",
+  "generated_at": "2026-09-04T05:54:14.298320Z",
+  "period_end": "2026-09-03",
+  "period_start": "2026-09-03",
+  "report_date": "2026-09-03",
   "schema_version": "daily_document.v1",
-  "source_count": 26,
+  "source_count": 13,
   "source_counts": {
-    "21财经": 2,
-    "Advanced Television": 1,
-    "Caixin Global": 1,
-    "Lompoc Record": 1,
-    "Moomoo": 1,
-    "NASA": 1,
-    "NASASpaceflight": 1,
-    "Phys.org": 1,
-    "Reno Gazette Journal": 1,
-    "Santa Maria Times": 1,
+    "BASENOR - Tesla Accessories": 1,
+    "KeepTrack": 1,
     "Sohu": 1,
-    "Space": 1,
-    "Spaceflight Now": 1,
-    "The Defense Post": 1,
-    "The Desert Sun": 1,
-    "Ventura County Star": 2,
-    "Yahoo": 1,
-    "arstechnica.com": 1,
-    "bing.com": 22,
-    "sohu.com": 1,
-    "space.com": 1,
+    "Tech Times": 1,
+    "The Daily Upside": 1,
+    "bing.com": 7,
+    "gulfnews.com": 1,
+    "satellitetoday.com": 1,
+    "satnews.com": 1,
+    "space.com": 2,
     "spacewatch.global": 1,
-    "东方财富": 1,
-    "新华网": 1,
-    "新浪财经": 3,
-    "观点网": 2
+    "中国甘肃网": 2,
+    "新浪财经": 2
   },
-  "summary": "2026-09-02 共归档 52 条新闻，覆盖 6 家公司、26 个信息来源。 新闻量较多的公司包括 SpaceX、星河动力、Blue Origin、垣信卫星。",
+  "summary": "2026-09-03 共归档 22 条新闻，覆盖 4 家公司、13 个信息来源。 新闻量较多的公司包括 Blue Origin、SpaceX、星河动力、蓝箭航天。",
   "top_items": [
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "862e7a3205ed252b",
-      "published_at": "2026-09-01T21:08:37Z",
-      "source_name": "NASA",
-      "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
-      "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider"
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "6c7f950c8fbfd47c",
+      "published_at": "2026-09-03T13:58:14Z",
+      "source_name": "satnews.com",
+      "title": "4iG Group and SpaceX Sign Agreements to Deploy Starlink Mobile and Sovereign Satellite Solutions in Europe",
+      "url": "https://satnews.com/2026/09/03/4ig-group-and-spacex-sign-agreements-to-deploy-starlink-mobile-and-sovereign-satellite-solutions-in-europe"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "6eae4d5d5a7f14aa",
-      "published_at": "2026-09-01T20:56:22Z",
-      "source_name": "Spaceflight Now",
-      "title": "SpaceX to launch Starlink mission from West Coast",
-      "url": "https://spaceflightnow.com/2026/09/01/spacex-to-launch-starlink-mission-from-west-coast"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "99991f46b1b4392a",
-      "published_at": "2026-09-01T18:15:54Z",
-      "source_name": "NASASpaceflight",
-      "title": "Launch Site and Facility Progress ahead of East Coast Starship debut",
-      "url": "https://www.nasaspaceflight.com/2026/09/launch-site-facility-progress-east-coast-starship"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "market",
-      "item_id": "21bc182ca997961e",
-      "published_at": "2026-09-02T00:52:00Z",
-      "source_name": "Caixin Global",
-      "title": "T早报｜智能体应用Manus恢复独立运营；SHEIN港交所IPO首日破发；星河动力可重复使用液体火箭“智神星一号”发射成功 - Caixin Global",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40VzdjekhiMTQzbll0RWNMZHZEQ29nQXktUVBYUjZ5WlM4RE5DV0VEZlFIdkdkSlk2UklUeFJYeVJmWkQ2dzY5MVdtYU94NzBoQW5BUnpIeGJxRkVHaHE0ZndydTM?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "da1830ee036cb902",
-      "published_at": "2026-09-02T14:10:07Z",
-      "source_name": "space.com",
-      "title": "Falcon Heavy brings the heat | Space photo of the day for Sept. 2, 2026",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/falcon-heavy-brings-the-heat-space-photo-of-the-day-for-sept-2-2026"
+      "item_id": "30dde6fcfc9974e0",
+      "published_at": "2026-09-03T10:31:17Z",
+      "source_name": "BASENOR - Tesla Accessories",
+      "title": "Starlink Goes Live in the UAE: What the Launch Means - BASENOR - Tesla Accessories",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPallEdDEzRW9tNFNEZFowVXJyakdxN2tpblhxS2ZHRUJ4TGpnMXdiNGM5dFNVZ0VyNGhERXJoZXo3cEhZai0yaDNvQmVCN0lCaEFkT09DUXBZZ25kTEw1NmVqQ0JyT2k3RFZhWFQ3ZS1JekN1VzZQVkxtQ2ROSkZocnJjcVNVMnpFTWpDSHJobw?oc=5"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "b20d5173e12a9f28",
-      "published_at": "2026-09-02T13:37:00Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin breaks ground on new Cape Canaveral facility ordered up by Space Force",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a98cf3c0ee94a20a946db41729ef836&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Fblue-origin-breaks-ground-cape-203700543.html&c=17293467591302798528&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "82038a3419283805",
-      "published_at": "2026-09-02T12:41:54Z",
-      "source_name": "bing.com",
-      "title": "SpaceX's Oldest Falcon 9 Booster Completes 35th Flight; Orbital Starship Debut Approaches",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a98cf3492b34241aa7e8a67c6aa5905&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacexs-oldest-falcon-9-booster-completes-35th-flight-orbital-starship-debut-approaches%2Far-AA2bs36d&c=8300056965780269872&mkt=en-us"
+      "item_id": "8215a3064f5e85cf",
+      "published_at": "2026-09-03T06:00:00Z",
+      "source_name": "spacewatch.global",
+      "title": "NASA Awards Blue Origin $700 Million Contract For Mars Communications Network",
+      "url": "https://spacewatch.global/2026/09/nasa-awards-blue-origin-700-million-contract-for-mars-communications-network"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "other",
-      "item_id": "4196fdfe49987d41",
-      "published_at": "2026-09-02T11:40:03Z",
-      "source_name": "Phys.org",
-      "title": "Blue Origin's New Glenn explosion shows infrasound can detect rocket accidents from up to 1,700 kilometers away - Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UaUIxQ1hEMmkxZjlreTVTcXRrUU5uelRaNlAyQWhSNm55YTZmclJFbGd6RzNYWjdVMnNCclUxN1JwMzlUWjZJekhienFnSUh0alRMeFhENGhfd25sTmJMbkFFUF9qQXpteGJEXw?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "efe5ae20a48314c0",
-      "published_at": "2026-09-02T11:24:21Z",
-      "source_name": "Yahoo",
-      "title": "SpaceX Falcon 9 rocket launches Starlink satellites to orbit on its 35th flight - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaUtueDNYWlI2VjBYTXd2aGdQRHBOTVh5enpvN2N5emxpeUNxZ21EXzJlejIwcmZlTUh6WkVtVTZpRnl6dDJSVjZKSGU5R2NOVnJ3bTVxRkt3QnVTcEViamFoSkIyMFVTOU5aaFl5NzZUall4WUk5WFVIZmxWZy1nRDVHa0gzd2hFZmFXUktaUXZyNzRH?oc=5"
+      "item_id": "eef433e747a65097",
+      "published_at": "2026-09-03T05:03:00Z",
+      "source_name": "bing.com",
+      "title": "Market Chatter: Blue Origin Hired Dozens of Amazon Leo Veterans for TeraWave Project Over Past Year",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a99d483c3294f90aaaf2f303ee69bf6&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fmarket-chatter-blue-origin-hired-120303496.html&c=5703331615342998322&mkt=en-us"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "c13e07c879a7fba1",
-      "published_at": "2026-09-02T09:54:00Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin breaks ground on new Canaveral facility ordered up by Space Force",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a9882c68be844d3904061303a12f7c2&url=https%3A%2F%2Fwww.orlandosentinel.com%2F2026%2F09%2F02%2Fblue-origin-breaks-ground-on-new-canaveral-facility-ordered-up-by-space-force%2F&c=3470769037996536170&mkt=en-us"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "launch",
-      "item_id": "057fa87186d29965",
-      "published_at": "2026-09-02T08:37:32Z",
-      "source_name": "21财经",
-      "title": "又一款可重复使用火箭成功入轨！智神星一号首次飞行试验成功 - 21财经",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDZNaTgweUxPdGJuc2tqWWFhNm54VUtyd2d3anAxd3dqalM4anViUG5MdG1NVHBPWDdYNVk5ZHR0YmdhSmMweXdJTG9qRnBDaTJUeHRmaXVpZUltVWl6Z1lScXFqVVZVTm9DU21scllJb1dWblhQUVhEX2kwcXlLbFlWQl9FNFRCUHNueEJ3LVVjOG5n?oc=5"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "launch",
-      "item_id": "b978d2d5deb5ffbc",
-      "published_at": "2026-09-02T07:25:00Z",
-      "source_name": "bing.com",
-      "title": "China's Galactic Energy puts PALLAS-1 in orbit, raising stakes in reusable rocket race",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a988305a6d84d2e92f265c8167407c1&url=https%3A%2F%2Fwww.digitimes.com%2Fnews%2Fa20260902VL210%2Flaunch-recovery-commercial.html&c=4213031292201570112&mkt=en-us"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "launch",
-      "item_id": "b5217d338a129321",
-      "published_at": "2026-09-02T07:25:00Z",
-      "source_name": "bing.com",
-      "title": "China's Galactic Energy puts PALLAS-1 in orbit, raising stakes in reusable rocket race",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a98cf756c9948379fd1aa9b39463d19&url=https%3A%2F%2Fwww.digitimes.com%2Fnews%2Fa20260902VL210%2Flaunch-recovery-commercial.html&c=4213031292201570112&mkt=en-us"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "launch",
-      "item_id": "72f2a05c8a604b9e",
-      "published_at": "2026-09-02T07:25:00Z",
-      "source_name": "bing.com",
-      "title": "China's Galactic Energy puts PALLAS-1 in orbit, raising stakes in reusable rocket race",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a983ff65dfb4853b2067d8454931d9c&url=https%3A%2F%2Fwww.digitimes.com%2Fnews%2Fa20260902VL210%2Flaunch-recovery-commercial.html&c=4213031292201570112&mkt=en-us"
-    },
-    {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
       "event_type": "other",
-      "item_id": "e132940b8f8b63bd",
-      "published_at": "2026-09-02T06:36:58Z",
-      "source_name": "观点网",
-      "title": "阿里及上汽入股上海垣信卫星 注册资本增至24.8亿元 - 观点网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53Q1g1cEFlRHpvMFV5dlBKckVmOHVXOFBoY2hYcXRXTkh3MWNDX2RWTGFEWjFwc25QZzdoNVNXd2w3UW9aeHlnMEYtRUFGcDJ4Y2dzMFB5WFNQd3h0UnNIQWZ3?oc=5"
-    },
-    {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
-      "event_type": "other",
-      "item_id": "1c38e804e79be903",
-      "published_at": "2026-09-02T06:36:58Z",
-      "source_name": "观点网",
-      "title": "阿里及上汽入股上海垣信卫星 注册资本增至24.8亿元 - 观点网",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40b1BTM0laa2xPdTh1dFI3SjdtQlFhSDBYWXd0Z2NBVV9EOFdIdFJ1bE8yZDFRVzk2azRvd2NFUjkyaDJ4ZGV2TTMwSDhWUQ?oc=5"
+      "item_id": "2526df2e9b312d14",
+      "published_at": "2026-09-03T05:03:00Z",
+      "source_name": "bing.com",
+      "title": "Market Chatter: Blue Origin Hired Dozens of Amazon Leo Veterans for TeraWave Project Over Past Year",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a9a1f40970f4f14afdbc6e39d604544&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fmarket-chatter-blue-origin-hired-120303496.html&c=5703331615342998322&mkt=en-us"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "5d1b169f1e872cb8",
-      "published_at": "2026-09-02T04:40:03Z",
+      "event_type": "order",
+      "item_id": "25f41cdcc8cdfe49",
+      "published_at": "2026-09-03T04:05:00Z",
+      "source_name": "The Daily Upside",
+      "title": "NASA Taps Blue Origin for $700 Million Mars Contract, Further Diversifying From SpaceX - The Daily Upside",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU0FhTjZhUmNIaFdVUHVGbXV3M3c5Y1NxMGJzOUtIZ043N1RrYlgyNXItYmZVUl9LRkR6VVBYY0NuMXVBeTVsdUNMMGVqeWRDbV9oQ09pNjhoWUtZUTVXb0lzSGhoc2c3VU9oUlUydlBHQmNLYldhdmZSOW9Sekd1MmtHUThPQm5FdnBILVl1VFB0cHlyTk5PUm93UkFVRGtjbXFZaFFhLVQ5Y0dUWDFpcWs5d3pVaVlia0JhNXNaZzVmenhGOEJnUEdNVWF4MkU?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "other",
+      "item_id": "bc48d74aed76853b",
+      "published_at": "2026-09-03T04:00:00Z",
       "source_name": "bing.com",
-      "title": "Blue Origin's New Glenn explosion shows infrasound can detect rocket accidents from up to 1,700 kilometers away",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a9882c68be844d3904061303a12f7c2&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fblue-origins-new-glenn-explosion-shows-infrasound-can-detect-rocket-accidents-from-up-to-1700-kilometers-away%2Far-AA2bpwtS&c=7850928397176365355&mkt=en-us"
+      "title": "Bezos’ Blue Origin Has Poached Dozens of Amazon Satellite Engineers",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a99d483c3294f90aaaf2f303ee69bf6&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-09-03%2Fbezos-blue-origin-has-poached-dozens-of-amazon-satellite-engineers&c=16094393778725321043&mkt=en-us"
     },
     {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
-      "event_type": "other",
-      "item_id": "5c691c77c2e1db69",
-      "published_at": "2026-09-02T03:37:40Z",
-      "source_name": "Moomoo",
-      "title": "据报阿里及上汽入股垣信卫星 - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1S0hVMFFxQUMwTHRZYkVaajdkdnVPM1Z6bm5JQlJkSHBMTlhUUUQ3LVJ0T2xUR1dWLWNpQkRGRlczaXlVRUxuRDFtNFF0eXczdzE0TzBFVGF2Zw?oc=5"
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "funding",
+      "item_id": "bd411c6d8f0e1656",
+      "published_at": "2026-09-03T01:03:04Z",
+      "source_name": "Sohu",
+      "title": "济南财金集团2.6亿战略投资护航“智神星一号”叩问苍穹 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGlkZ1EwVklSejZndml2MUdmQ2hoS3Noc1hveWFEYlFRYnJFeFFUcjQyRWJqOUJzTVVsTURpakQtZjFWOFMtN2FBRkJ1Vlhldk4teW1DSUxLU3Z2UU5GVF9INktTT01vcnhvUWMyTU11QXliVEllOGFKdzcwazRVYXJSdnp1MklPbW9FUg?oc=5"
     },
     {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
-      "event_type": "other",
-      "item_id": "866527277f9c64bd",
-      "published_at": "2026-09-02T10:30:59Z",
-      "source_name": "东方财富",
-      "title": "专访星际荣耀谢红军：天基算力成第四大空间应用 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tRUVZaVYxOXktZEFvdlROaFVtQmZQb1dUM2x1RUFoSERoVDlNV3cwTWEwNkhYZmZKN1VYZi15Yk5Odk52V1BvcDhWWEFsVE5lRFc0bGNiMWZHSml2WWdLZw?oc=5"
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "launch",
+      "item_id": "f7f06db328ada7f3",
+      "published_at": "2026-09-03T00:58:00Z",
+      "source_name": "中国甘肃网",
+      "title": "智神星一号（遥一）运载火箭在酒泉东风商业航天创新试验区点火升空 首飞入轨圆满成功 - 中国甘肃网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZVF9kclBvb1YxTGxwbHRpNi1oUkdrM1czUkktSGViR3hTQkNoaS1EdUU1eTByOFVWWjBXamRFOWRXTU5wX2haNVdnaG1TY01UX09BNVNkZjRjZEZIaVkyYXJ3eXJ3MjN2OXc?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "launch",
+      "item_id": "679065cf1c59e24b",
+      "published_at": "2026-09-03T00:58:00Z",
+      "source_name": "中国甘肃网",
+      "title": "智神星一号（遥一）运载火箭在酒泉东风商业航天创新试验区点火升空 首飞入轨圆满成功 - 中国甘肃网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fTkNGMS1TYm5TSXpjSDBRdFlXcTVRNnNaMEZzT2o2MW1CSE1ROXVPY1cwUDQ0dTl0T0tIdVdMaENaUXlKVzNWblRLVEdlWkF1YlJHS3A4NGpYdjlvUE0wdk02bUlRODlKR2lF?oc=5"
     },
     {
       "company_id": "landspace",
       "company_name": "蓝箭航天",
       "event_type": "other",
-      "item_id": "42eee455c340a32f",
-      "published_at": "2026-09-02T09:55:00Z",
+      "item_id": "2aeadbec7841f6e4",
+      "published_at": "2026-09-02T23:56:00Z",
       "source_name": "新浪财经",
-      "title": "中密控股：暂未向蓝箭航天提供密封产品 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSml4ZVQ5V3pyZ0JmZWJsMEFoV2FuMG9BWDM1YmpQU1FDOUppUjVRWXdyTVFmZXYzUUlYLU00OGw1ZmRqdGhxWjlTTFp2ODhUbF81bGlBdnMtV3E5Qk5wRkpMd0M2YmlNNjZSMXppYmktUnJHNncxTTdkdk9GUW1NOC02SW9CWkRFNG8yLW5QOV8?oc=5"
+      "title": "“朱雀三号”降落戈壁的第7天，中国航天悄悄干了一件“让宇宙回家”的大事… - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuNnc4Tmd1RzFERENlVEFwTHhrS2lGU1dDSi1IRTJtQnFOb18wS2Z0cnFHcV9IWC1CelNlbFlpZUZ3UDVwcE1hWDNPQWFRMUR4NHJGdGdMUXJBSEtTUDZmbXRUVFFYcHZXSzZ5VG1aRnpneUpNUzAwNw?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "launch",
+      "item_id": "391800ba236b00aa",
+      "published_at": "2026-09-02T20:00:00Z",
+      "source_name": "space.com",
+      "title": "China's private, reusable Pallas-1 rocket aces debut launch (video)",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-private-reusable-pallas-1-rocket-aces-debut-launch-video"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "c7d82e5055ad4768",
+      "published_at": "2026-09-02T19:41:54Z",
+      "source_name": "Tech Times",
+      "title": "SpaceX's Oldest Falcon 9 Booster Completes 35th Flight; Orbital Starship Debut Approaches - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLUNRSWE3d2dYc0s4QW8yNmtGUkl5T0N4QWZ0WFVPaEU1ekF1YjNUTWVDTTNJbWtNM2RVYzhfYzNCaFk2QXpjYkhIZU1aZGVHa1pMMmZOWTdPNFF1dGtxM190ZXFRSE5CeHhCLXcxdkVQV3FuZ2NUaDg2anFfVm1jandmY3RockhiUDA2VmNoWFhZeTNPMWxfOTNlWjVqMUlaMjRuUktQZmhHQ1VTUWxvODNNb0w5Tnh1d055SnYwNzF4QjY4VGEzT3hNWFJ5R3REaFhVd1pCRDNVQQ?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "product",
+      "item_id": "e8e5c020b0339ab7",
+      "published_at": "2026-09-03T09:04:32Z",
+      "source_name": "KeepTrack",
+      "title": "Pallas-1 Debut, Falcon 9 Hits 35 Flights, X Report 3 Sep 2026 - KeepTrack",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Gb212QWE0ZWJoZlNPSTRfUFU5c05yY09DeWRId293SDNOMU5Ia0pxRDRwYTBXblozcFpkYTA2T0I2NTBfSEg5Ry1rMHp1b001bmh2TFFZc1VNaF80MlNSTjhmRndvS0k?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "634e43d43ee40484",
+      "published_at": "2026-09-03T08:12:52Z",
+      "source_name": "gulfnews.com",
+      "title": "Starlink is now live in the UAE — Elon Musk confirms SpaceX service is operational - gulfnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OZ1NDMzdOeGV2TFFBcFRodVBHWVpnVzBPU2hMa1UtV043UUNZSjA2UERtYjdIck44d2RVdVhkd2JGR1hSdDVBRnRLc0VKZXBPNnZLUW1Ud0RER2txTWFOdnFzbEt5cGdiS3c?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "launch",
+      "item_id": "1273ba0343f70209",
+      "published_at": "2026-09-02T16:56:00Z",
+      "source_name": "新浪财经",
+      "title": "南京力量助“智神星一号”首飞圆满成功 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKZjhVb2JoV2t0anhhUVhqQTBuVDZreC1iUS1OaTA3R05JWEltRVRrRU02V3NGcjlCYTE3R0VqZGhUYWZDUDk0NW9MWDVFUVRYMHBUcWZ2NGREM3dhZmd1U2VjejFVdzRxUHV0SUtQNXBMcExvN2poRQ?oc=5"
     }
   ],
-  "total_items": 52
+  "total_items": 22
 }
