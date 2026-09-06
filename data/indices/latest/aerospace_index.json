@@ -1,10 +1,13 @@
 {
   "as_of_date": "2026-09-06",
-  "generated_at": "2026-09-06T01:28:14.035628Z",
+  "generated_at": "2026-09-06T05:57:47.880803Z",
   "market_data_source": {
     "delay_notice": "中国航天航空指数来自东方财富；美国板块为等权篮子。行情可能延迟，不构成投资建议。",
+    "errors": {
+      "industry_index": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
     "expected_instruments": 21,
-    "quoted_instruments": 21,
+    "quoted_instruments": 20,
     "request_count": 2,
     "source_id": "multi_source_market_data",
     "source_name": "新浪财经 + 东方财富",
@@ -17,12 +20,12 @@
       },
       {
         "expected_instruments": 1,
-        "quoted_instruments": 1,
+        "quoted_instruments": 0,
         "source_id": "eastmoney",
         "source_name": "东方财富行情"
       }
     ],
-    "status": "current"
+    "status": "partial"
   },
   "markets": {
     "china": {
@@ -42,7 +45,7 @@
       "index_source_name": "东方财富",
       "index_source_timestamp": "2026-09-04 15:39:32",
       "index_source_url": "https://quote.eastmoney.com/bk/90.BK0480.html",
-      "index_status": "current",
+      "index_status": "stale_previous",
       "index_value": 52602.97,
       "industry_index": {
         "change_amount": 186.98,
@@ -60,7 +63,7 @@
         "source_name": "航天航空",
         "source_timestamp": "2026-09-04 15:39:32",
         "source_url": "https://quote.eastmoney.com/bk/90.BK0480.html",
-        "status": "current",
+        "status": "stale_previous",
         "symbol": "BK0480",
         "ticker": "BK0480",
         "turnover": 22353819996.0,
@@ -229,10 +232,10 @@
           "volume": 12229353.0
         }
       ],
-      "quoted_instrument_count": 11,
+      "quoted_instrument_count": 10,
       "quoted_member_count": 10,
       "sector_id": "china",
-      "status": "current",
+      "status": "partial",
       "unchanged": 0
     },
     "united_states": {
