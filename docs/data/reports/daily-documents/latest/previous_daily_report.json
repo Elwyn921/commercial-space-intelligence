@@ -1,212 +1,207 @@
 {
-  "as_of_date": "2026-09-06",
+  "as_of_date": "2026-09-07",
   "companies": [
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_types": {
-        "launch": 2,
-        "other": 5
-      },
-      "item_count": 7,
-      "latest_title": "Blue Origin expands test and launch sites across the Cape"
-    },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 4
+        "launch": 8,
+        "market": 1,
+        "other": 1
       },
-      "item_count": 4,
-      "latest_title": "SpaceX aims to catch its Starship on land for the first time and drop upgraded Starlink satellites in orbit"
+      "item_count": 10,
+      "latest_title": "Live coverage: SpaceX to launch 80th Starlink mission of 2026"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_types": {
+        "launch": 2,
+        "other": 1
+      },
+      "item_count": 3,
+      "latest_title": "Zhuque-3 orbital rocket booster touches down upright, giving China a new foothold in reusable rockets"
     },
     {
       "company_id": "yuanxin_satellite",
       "company_name": "垣信卫星",
       "event_types": {
-        "other": 4
+        "funding": 1,
+        "other": 1
       },
-      "item_count": 4,
-      "latest_title": "中国版SpaceX！阿里入局千帆星座：正式登记为恒信卫星股东 - news.mydrivers.com"
+      "item_count": 2,
+      "latest_title": "卫网君：垣信卫星近70亿增资投资人全解析；商业航天下半场：从“把卫星送上天”到“把卫星变成生意”；马斯克亲自下场铸造燃气轮机叶片 - Sohu"
     },
     {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_types": {
-        "launch": 1
+        "other": 1
       },
       "item_count": 1,
-      "latest_title": "国防军工行业周报：遥智神星一号遥一首飞成功入轨_行业研究_研报 - 证券之星"
+      "latest_title": "Blue Origin’s New Glenn rocket explosion traced to faulty oxygen valve - eciks.org"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_types": {
+        "product": 1
+      },
+      "item_count": 1,
+      "latest_title": "中科宇航亮相中博会，工作人员透露太空旅游价格能降至百万人民币 - 广州日报新花城"
     }
   ],
-  "company_count": 4,
+  "company_count": 5,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 7,
-    "other": 9
+    "funding": 1,
+    "launch": 10,
+    "market": 1,
+    "other": 4,
+    "product": 1
   },
-  "generated_at": "2026-09-06T05:57:45.452062Z",
-  "period_end": "2026-09-05",
-  "period_start": "2026-09-05",
-  "report_date": "2026-09-05",
+  "generated_at": "2026-09-07T06:06:48.172372Z",
+  "period_end": "2026-09-06",
+  "period_start": "2026-09-06",
+  "report_date": "2026-09-06",
   "schema_version": "daily_document.v1",
   "source_count": 12,
   "source_counts": {
-    "Live Science": 1,
-    "NASASpaceflight": 1,
-    "Space Scout": 1,
-    "The Desert Sun": 1,
-    "Ventura County Star": 1,
-    "Yahoo": 1,
+    "Fox Business": 1,
+    "KeepTrack": 1,
+    "Phoenix New Times": 1,
+    "Sohu": 1,
+    "Space": 1,
+    "Spaceflight Now": 2,
     "bing.com": 5,
-    "news.mydrivers.com": 1,
-    "thepaper.cn": 1,
-    "富途牛牛": 1,
-    "新浪财经": 1,
-    "证券之星": 1
+    "eciks.org": 1,
+    "foxnews.com": 1,
+    "k.sina.com.cn": 1,
+    "广州日报新花城": 1,
+    "新浪财经": 1
   },
-  "summary": "2026-09-05 共归档 16 条新闻，覆盖 4 家公司、12 个信息来源。 新闻量较多的公司包括 Blue Origin、SpaceX、垣信卫星、星河动力。",
+  "summary": "2026-09-06 共归档 17 条新闻，覆盖 5 家公司、12 个信息来源。 新闻量较多的公司包括 SpaceX、蓝箭航天、垣信卫星、Blue Origin。",
   "top_items": [
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "3582203af75b335d",
-      "published_at": "2026-09-04T20:37:43Z",
-      "source_name": "NASASpaceflight",
-      "title": "Blue Origin expands test and launch sites across the Cape",
-      "url": "https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape"
+      "item_id": "6301fd2b7304447b",
+      "published_at": "2026-09-05T22:06:47Z",
+      "source_name": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 80th Starlink mission of 2026",
+      "url": "https://spaceflightnow.com/2026/09/05/live-coverage-spacex-to-launch-80th-starlink-mission-of-2026"
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "94c8133d6849d076",
-      "published_at": "2026-09-04T16:20:29Z",
-      "source_name": "Space Scout",
-      "title": "Blue Origin Nets NASA Mars Orbiter Contract",
-      "url": "https://www.spacescout.info/2026/09/blue-origin-nets-nasa-mars-orbiter-contract"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "launch",
-      "item_id": "7cdffbadac17caac",
-      "published_at": "2026-09-05T08:13:00Z",
-      "source_name": "证券之星",
-      "title": "国防军工行业周报：遥智神星一号遥一首飞成功入轨_行业研究_研报 - 证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GVjJvVE5pczVkV01DWS1LZVdTcnExRWtDYWduY09zQURzeUNYVHYtYURMWXpWQk5GQ1pYSTY5UTl4aG1VZzdBYkFXcWVXZ0x1YTVyWjBUQU9ZeGRTd3RPUDBn?oc=5"
-    },
-    {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
-      "event_type": "other",
-      "item_id": "c22b0ff4021d7726",
-      "published_at": "2026-09-04T23:32:00Z",
-      "source_name": "news.mydrivers.com",
-      "title": "中国版SpaceX！阿里入局千帆星座：正式登记为恒信卫星股东 - news.mydrivers.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HS1F6WU1nS2hHcXRPUGVUTGozSk93ei1IRWhaWUttdDZtS3NNdDJOeXRJMnMyODVwMjFCVHlnWFBxZW1aQTh2emZYNGhfOWdWT1dPX0JiZC0?oc=5"
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "market",
+      "item_id": "71f1eadf07147f4c",
+      "published_at": "2026-09-06T07:25:00Z",
+      "source_name": "bing.com",
+      "title": "Forget Starlink? Japan’s $1 Billion BlueBird Play Makes ASTS the National Satellite OS",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a9e1256af574e1bb8ca9d70ffb87df2&url=https%3A%2F%2Fwww.aol.com%2Farticles%2Fforget-starlink-japan-1-billion-142530000.html&c=2805625248782025403&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "e12548b9ec9fbd50",
-      "published_at": "2026-09-05T10:40:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX aims to catch its Starship on land for the first time and drop upgraded Starlink satellites in orbit",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a9cc13a53ba45a5a42b16e16221b90f&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-aims-to-catch-its-starship-on-land-for-the-first-time-and-drop-upgraded-starlink-satellites-in-orbit%2Far-AA29LKPj&c=5672061358128198738&mkt=en-us"
+      "item_id": "3f5c2579c4d72d65",
+      "published_at": "2026-09-06T15:54:11Z",
+      "source_name": "Space",
+      "title": "SpaceX Falcon 9 rocket launches 27 Starlink satellites, lands on ship at sea (video) - Space",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWXNNSXZXejJnZXcyZ1VSSWNXZUVCR1VLaDhxLWZibU1iY1RNT3hZbU5WMnFJRTJUYXY2STF6UnM0X1kzZm5fTk1nRGFHTTNwMjl1WWRuTEVnbGhGTnlTaGlYSzNxbkNoamI1ZnU2aDljUnRmbGtmOUxrdGVmeGxTb0d5V1F2YnZwcUg3SlZfa2xJRDJYcDhiWVZTbnMtRXpoY0xR?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "cc36407b4bc0660d",
-      "published_at": "2026-09-05T10:40:00Z",
+      "item_id": "7631315ce9ac94e6",
+      "published_at": "2026-09-06T14:39:00Z",
       "source_name": "bing.com",
-      "title": "SpaceX aims to catch its Starship on land for the first time and drop upgraded Starlink satellites in orbit",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a9c6f672c564b11aee367c67cb07916&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-aims-to-catch-its-starship-on-land-for-the-first-time-and-drop-upgraded-starlink-satellites-in-orbit%2Far-AA29LKPj&c=5672061358128198738&mkt=en-us"
+      "title": "SpaceX launches 27 Starlink satellites, booster lands on drone ship",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a9e1256aa004726a9c059a1cd38afbf&url=https%3A%2F%2Fwww.newsbytesapp.com%2Fnews%2Fscience%2Fspacex-launches-27-starlink-satellites-booster-lands-on-drone-ship%2Ftldr&c=8754516667585205909&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "810c80df84337fe9",
+      "published_at": "2026-09-06T13:23:05Z",
+      "source_name": "foxnews.com",
+      "title": "WATCH LIVE: SpaceX Falcon 9 launches 27 Starlink satellites from California - foxnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55RTZRY3ItYnl6YUwwSGtXQllmWV9LTnZ0aV9JYW5BUmxCMEVVZWUtZ28tZGhwV3oxYjNNTnZ6dnlBa3dLdU13bHA5RENGaWUwRWt4ejF3?oc=5"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_type": "funding",
+      "item_id": "7da07aadfbedcc1e",
+      "published_at": "2026-09-06T13:00:00Z",
+      "source_name": "Sohu",
+      "title": "卫网君：垣信卫星近70亿增资投资人全解析；商业航天下半场：从“把卫星送上天”到“把卫星变成生意”；马斯克亲自下场铸造燃气轮机叶片 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWW1TMXFvSkRCOWg2VkJmcldBQ1RzMDQ0OWZJdFA2VmRMOEdsblBKSHZLSkJwa3NsTUV1QUNEelptQzFSVV96VUZHZHFmMm1hZUtMd3ZLTWpORXd4RWtCMmhieEgyR2FBRjdYRXh0UlBucjEwUlE2NXI2Q2IxVHVianhPbFFKZkVx?oc=5"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "launch",
+      "item_id": "90061e9371f28fc9",
+      "published_at": "2026-09-06T08:18:00Z",
+      "source_name": "bing.com",
+      "title": "Zhuque-3 orbital rocket booster touches down upright, giving China a new foothold in reusable rockets",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a9dc188cdba47c48f40b532d230816a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fzhuque-3-orbital-rocket-booster-touches-down-upright-giving-china-a-new-foothold-in-reusable-rockets%2Far-AA2bFZG2&c=3965707091218646399&mkt=en-us"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "launch",
+      "item_id": "8e418cf20f0c2468",
+      "published_at": "2026-09-06T08:18:00Z",
+      "source_name": "bing.com",
+      "title": "Zhuque-3 orbital rocket booster touches down upright, giving China a new foothold in reusable rockets",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a9e127843a5427996c0b8d996098152&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fzhuque-3-orbital-rocket-booster-touches-down-upright-giving-china-a-new-foothold-in-reusable-rockets%2Far-AA2bFZG2&c=8956614473693818460&mkt=en-us"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_type": "other",
+      "item_id": "6d4c5c61bad4385e",
+      "published_at": "2026-09-06T01:49:13Z",
+      "source_name": "k.sina.com.cn",
+      "title": "阿里巴巴上汽入股垣信卫星，千帆星座运营主体注册资本增至24.8亿 - k.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10clpBRGkzdEdIdWFqMDVsX0cyekFQYUdBY2FfOHNrQ1BnME1IcTNtcmxNNDItTFk3RldlYl9YZlJpeXlNQWFBYW1LNjdHcFZIc3pxNDVmbTJyVlh6Q3BJN0JuSGxrMWRwN0lqNVZWUmZ4Zw?oc=5"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "other",
-      "item_id": "64a08f26b3bbe6e3",
-      "published_at": "2026-09-05T10:01:00Z",
-      "source_name": "bing.com",
-      "title": "Jeff Bezos' Blue Origin Hires 47 Amazon Satellite Engineers To Build Rival TeraWave Network This Year",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a9c6f70ec564065839e034b7d7d7e8a&url=https%3A%2F%2Fwww.ibtimes.com.au%2Fblue-origin-engineers-amazon-leo-terawave-1875053&c=15105226802832122892&mkt=en-us"
+      "item_id": "67c6258da36ae22e",
+      "published_at": "2026-09-05T23:05:05Z",
+      "source_name": "eciks.org",
+      "title": "Blue Origin’s New Glenn rocket explosion traced to faulty oxygen valve - eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByOFdyUnJKb3dLUVBfcE5razFwbUVYajZmbGU0S1M3ODF5MFQ2OXlkdndSY0hXZU16QUlwbFlrU0hXd0Y3X1R4eUFMWG83VnV1Z2U2bW41QzY4Rzg1bDFGNVpUTXlGTnRTT2c?oc=5"
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "other",
-      "item_id": "28db898eb1304a58",
-      "published_at": "2026-09-05T10:01:00Z",
-      "source_name": "bing.com",
-      "title": "Jeff Bezos' Blue Origin Hires 47 Amazon Satellite Engineers To Build Rival TeraWave Network This Year",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a9cc1427a374a6b8034383ca6189f60&url=https%3A%2F%2Fwww.ibtimes.com.au%2Fblue-origin-engineers-amazon-leo-terawave-1875053&c=15105226802832122892&mkt=en-us"
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "product",
+      "item_id": "c7459969b5cd07fd",
+      "published_at": "2026-09-06T11:52:19Z",
+      "source_name": "广州日报新花城",
+      "title": "中科宇航亮相中博会，工作人员透露太空旅游价格能降至百万人民币 - 广州日报新花城",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdTctckNRRHJPRHdpUGIwLVIwV3ZCUkY1NEU4c1dta0hER3h4bk1DdlZiRTIwcmpieEZIY09pdU45OGhZcTNHSWJjN3VhcVpzeFBGdkZCUmd2NUZuWElwWWw5ZG5iM2xHTEtxNTVDR3JtcGNwbEo3c0xUM3VoQnlXcnAyejhCVjJNZFE?oc=5"
     },
     {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
       "event_type": "other",
-      "item_id": "980f8823fcd895ac",
-      "published_at": "2026-09-05T03:17:00Z",
-      "source_name": "thepaper.cn",
-      "title": "阿里，投了垣信卫星 - thepaper.cn",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jLXNyM2s3THV4REE4RXJxQU1PbmFDcjEzYlpzN1BsaFZkU2p1b282dmN1aVY2Y3MtLW5KV3hNQXEzM2J1Vk53STZkRGxrZk1vM2tQWTRpeFZpdU1CNUE?oc=5"
-    },
-    {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
-      "event_type": "other",
-      "item_id": "a1b13ce022ebde4f",
-      "published_at": "2026-09-05T01:52:49Z",
-      "source_name": "富途牛牛",
-      "title": "阿里入股垣信卫星，“千帆星座”再添产业巨头 - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBhSUFLeWE5NTNWNkNRZFVYZEZDcEVhVVBzeVpyODIyUG5paHE0bnhFeFlyUXRhSXBUbEpBbjNDWkpnaDRQcHZObmRIdGwwQQ?oc=5"
-    },
-    {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
-      "event_type": "other",
-      "item_id": "98dd89268f348289",
-      "published_at": "2026-09-05T01:52:00Z",
+      "item_id": "960e40815269f357",
+      "published_at": "2026-09-06T01:00:00Z",
       "source_name": "新浪财经",
-      "title": "阿里入股垣信卫星，“千帆星座”再添产业巨头 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53bGVkYXJ3bExMaWRZSzNQZVprRGxPeDZYdWg3X2NpX3F2N0VTcHQ5OWtULUQ1NWdnZXpaVmpDODRNNmQzOXpDSkVRQTZ6eGlsWW1vdndIZjY1VWwzRmktem5zNHh4VXR0T0lfUVZNNzJKb1RZeEQzU0JUaUJNODA?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "other",
-      "item_id": "fa4fc4f8251b071f",
-      "published_at": "2026-09-04T20:00:00Z",
-      "source_name": "bing.com",
-      "title": "Jeff Bezos' Blue Origin Hires 47 Amazon Satellite Engineers To Build Rival TeraWave Network This Year",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a9be1599c7f49869d113f627500885c&url=https%3A%2F%2Fwww.ibtimes.com.au%2Fblue-origin-engineers-amazon-leo-terawave-1875053&c=15105226802832122892&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "67cd16a198c8aa78",
-      "published_at": "2026-09-04T19:00:00Z",
-      "source_name": "Ventura County Star",
-      "title": "SpaceX Vandenberg Labor Day Weekend liftoff ahead. Track rocket launch - Ventura County Star",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFYtTGNNQzZ1Ujd3LUVrV08wWGZQLW9RenlOdGlpVjd6cV9GZHF1Q2J4SmV6TE5KOHpVRHkwbXZGYmVZSDZvTTNWUF9CVnRhYzd4WWRFV0Y4dWk0QkZfbXlKc01hZ1Mzc05TS1QzcXRPMnM4bG1oem9EdGlqRzVZSTQzMUJqWXlqbmg3M1luUVZLOVVfRFVlTGstQ1RNMlBnbUVON1BsY0FBUWs?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "333bf600da2f7c0d",
-      "published_at": "2026-09-04T16:00:00Z",
-      "source_name": "The Desert Sun",
-      "title": "SpaceX plans a Labor Day Weekend rocket launch. Here's how to watch - The Desert Sun",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUTBLNnFUd2tDTkZ3VThlUmNuSXhYNEZ5WkF0YVlfVXhhcmNienJ2ekc3N1JBMkQ0TWRNRWJaZkdCNXRaRl9FWkktdTA4SlJvM3Zob2RvS3g0RndHbDdFV3JYc2ZGeks3NDZwV294N204anI0b1FxVGdSUHZVWVgtVHZ5UVZlQVU4VXhFUmFodHhvX3c3S3N4TFp0QnhhVEZULWxiTHZZamNPdFBzR2NDdnY3M2ItQQ?oc=5"
+      "title": "朱雀三号，百公里高空一把“倒车入库” - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kQ0E3VkZ6azJmeTNrdHhmY0xTeGNYT2RtYjZ2RFd5ZUQ5NnA0azN0Tks4MzVmV2cwTTQzdW5BZ3IweHBVSUZGR0ZaTUtOUmtTUVNqMzJjVm9sOWRGN29IUldLVm1wZ2lDWVY4eUtoUVoteUlQMnZSbw?oc=5"
     }
   ],
-  "total_items": 16
+  "total_items": 17
 }
