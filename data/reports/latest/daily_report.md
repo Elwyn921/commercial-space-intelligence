@@ -1,7 +1,7 @@
-# 每日新闻情报日报 - 2026-09-08
+# 每日新闻情报日报 - 2026-09-09
 
-- Report ID: daily-2026-09-09-e2e24fbd
-- Source run: 7fc43a29-53cb-47fc-9d2a-c3c3787fbe00
+- Report ID: daily-2026-09-09-14535574
+- Source run: 5962a040-b2db-4361-8bff-4f8c2b6875c2
 - Generation status: skipped_no_secret
 - Companies covered: 1
 - Total items: 1
@@ -31,11 +31,11 @@ No LLM summary.
 
 No LLM summary.
 
-- [AT&T and Amazon Leo Advance Strategic Fiber-to-Space Alliance to Challenge SpaceX Starlink](https://satnews.com/2026/09/08/att-and-amazon-leo-advance-strategic-fiber-to-space-alliance-to-challenge-spacex-starlink) SpaceX
+- [AT&T and Amazon Leo Advance Strategic Fiber-to-Space Alliance to Challenge SpaceX Starlink - satnews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcUx4Rm1xdjBKc19uM29ra1BQZlUwa0dveFRETzFwakVIWUFfTE1LV0FmSE01SG51ZHQ4Q2E2WjdyZXZHNEVOdHJSM2FrbllDajBiaGZPMElzclRFWW95SzVUbk9LaVV5VVRCMjE0N3V1emFaWHFEaUdwM0psazFXd3ljdnJ0TVI0dzVRSWstM2pBU3ZodzZtYkI1ZWZUalRqWmRJOWQySzRnLV9lcERUYzlFT0FSMDZTUkx0QURB?oc=5) SpaceX
 
 ## Top News
 
-- [AT&T and Amazon Leo Advance Strategic Fiber-to-Space Alliance to Challenge SpaceX Starlink](https://satnews.com/2026/09/08/att-and-amazon-leo-advance-strategic-fiber-to-space-alliance-to-challenge-spacex-starlink) SpaceX
+- [AT&T and Amazon Leo Advance Strategic Fiber-to-Space Alliance to Challenge SpaceX Starlink - satnews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxOcUx4Rm1xdjBKc19uM29ra1BQZlUwa0dveFRETzFwakVIWUFfTE1LV0FmSE01SG51ZHQ4Q2E2WjdyZXZHNEVOdHJSM2FrbllDajBiaGZPMElzclRFWW95SzVUbk9LaVV5VVRCMjE0N3V1emFaWHFEaUdwM0psazFXd3ljdnJ0TVI0dzVRSWstM2pBU3ZodzZtYkI1ZWZUalRqWmRJOWQySzRnLV9lcERUYzlFT0FSMDZTUkx0QURB?oc=5) SpaceX
 
 ## Risks And Watchpoints
 
