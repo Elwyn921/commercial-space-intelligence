@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-09-09
 
-- Report ID: daily-2026-09-09-13f181ed
-- Source run: c901aac0-b898-466c-8d37-64d153c35635
+- Report ID: daily-2026-09-09-b08c4e74
+- Source run: c6bb47f5-8e36-48d2-a199-9dbb7083469b
 - Generation status: skipped_no_secret
 - Companies covered: 2
-- Total items: 4
+- Total items: 7
 
 ## Executive Summary
 
-2026-09-09 共收录 4 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、蓝箭鸿擎。
+2026-09-09 共收录 7 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、蓝箭鸿擎。
 
 ## Industry Chain Sections
 
@@ -27,21 +27,23 @@ No LLM summary.
 
 No LLM summary.
 
-- [蓝箭鸿擎在武汉投资成立空间科技公司 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zSUpFVlJKZW5EN0J5Y2lxSkdZTVV5SWc1dk1oSmtvSENKODZBQm5pbzlqdjZDNWplNjAySmlwMFIwbG1JaGhLVnJFUjhWWlJLVDh3eDFSeUFnLTdF?oc=5) 蓝箭鸿擎
+- [蓝箭鸿擎在武汉投资成立空间科技公司 - 东方财富网](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KZzVrdk90bXIyQ0g2NVhNV29TZVBCelExdEZISGFna2ZUdnB3eTV2X1JkeEl0SXhxUjQtQk5UVGJ1czNDa1d1WnhqUDBhblFtNjZ6MVVOb3JQYkNEeGF6Ykw2QVhXQQ?oc=5) 蓝箭鸿擎
 
 ### 国外大厂
 
 No LLM summary.
 
-- [Starlink is the economic foundation](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa130d771f64032bf7bca10d7f43565&url=https%3A%2F%2Fwww.fool.com%2Finvesting%2F2026%2F09%2F09%2Fspacex-is-no-longer-just-a-rocket-company-heres-wh%2F&c=8920540836372296617&mkt=en-us) SpaceX
-- [AT&T and Amazon Leo Advance Strategic Fiber-to-Space Alliance to Challenge SpaceX Starlink](https://satnews.com/2026/09/08/att-and-amazon-leo-advance-strategic-fiber-to-space-alliance-to-challenge-spacex-starlink) SpaceX
+- [SpaceX to launch rocket for US Space Force. Will it be seen in Arizona?](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa179db1e284de8843f1a15eacff081&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Farizona%2F2026%2F09%2F09%2Fspacex-falcon-9-rocket-launch-today-arizona%2F91656348007%2F&c=12745857490813491431&mkt=en-us) SpaceX
+- [Amazon and AT&T partner to challenge SpaceX Starlink dominance - qz.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE1FN0RjS0xEbGphdkxkbXRQZVdKeVZCVVNXOUc2dU9NczVmSjN1MTRKbzZsWXhlVWk3ZlBXSjd4djhyZDdhZGtndXhYbVF4TFpPb3U5MFRjXzhFbmxQUk1FUklmSUJ2NVlKSXBnaGVqbngtSGVYVWc?oc=5) SpaceX
+- [SpaceX: Why You Should Wait For Its Starship Flight 14 Test Results](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa179db1e284de8843f1a15eacff081&url=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4944214-spacex-why-you-should-wait-for-its-starship-flight-14-test-results&c=14151277270194244909&mkt=en-us) SpaceX
 
 ## Top News
 
-- [蓝箭鸿擎在武汉投资成立空间科技公司 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zSUpFVlJKZW5EN0J5Y2lxSkdZTVV5SWc1dk1oSmtvSENKODZBQm5pbzlqdjZDNWplNjAySmlwMFIwbG1JaGhLVnJFUjhWWlJLVDh3eDFSeUFnLTdF?oc=5) 蓝箭鸿擎
-- [Starlink is the economic foundation](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa130d771f64032bf7bca10d7f43565&url=https%3A%2F%2Fwww.fool.com%2Finvesting%2F2026%2F09%2F09%2Fspacex-is-no-longer-just-a-rocket-company-heres-wh%2F&c=8920540836372296617&mkt=en-us) SpaceX
+- [SpaceX to launch rocket for US Space Force. Will it be seen in Arizona?](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa179db1e284de8843f1a15eacff081&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Farizona%2F2026%2F09%2F09%2Fspacex-falcon-9-rocket-launch-today-arizona%2F91656348007%2F&c=12745857490813491431&mkt=en-us) SpaceX
+- [蓝箭鸿擎在武汉投资成立空间科技公司 - 东方财富网](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KZzVrdk90bXIyQ0g2NVhNV29TZVBCelExdEZISGFna2ZUdnB3eTV2X1JkeEl0SXhxUjQtQk5UVGJ1czNDa1d1WnhqUDBhblFtNjZ6MVVOb3JQYkNEeGF6Ykw2QVhXQQ?oc=5) 蓝箭鸿擎
+- [Amazon and AT&T partner to challenge SpaceX Starlink dominance - qz.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE1FN0RjS0xEbGphdkxkbXRQZVdKeVZCVVNXOUc2dU9NczVmSjN1MTRKbzZsWXhlVWk3ZlBXSjd4djhyZDdhZGtndXhYbVF4TFpPb3U5MFRjXzhFbmxQUk1FUklmSUJ2NVlKSXBnaGVqbngtSGVYVWc?oc=5) SpaceX
+- [SpaceX: Why You Should Wait For Its Starship Flight 14 Test Results](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa179db1e284de8843f1a15eacff081&url=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4944214-spacex-why-you-should-wait-for-its-starship-flight-14-test-results&c=14151277270194244909&mkt=en-us) SpaceX
 - [祝贺！我国成功发射卫星互联网技术试验卫星 - hongqing.tech](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwV2hQZGJzWDZfU0t0NW9Wc0NRWHE3ZGtUalo2QTRyYm5SeXpTRzJJVW9Zc2lXSEJLanV3NnBCT2lMeEpkTFVRbmtCbGY2UG5x?oc=5) 蓝箭鸿擎
-- [AT&T and Amazon Leo Advance Strategic Fiber-to-Space Alliance to Challenge SpaceX Starlink](https://satnews.com/2026/09/08/att-and-amazon-leo-advance-strategic-fiber-to-space-alliance-to-challenge-spacex-starlink) SpaceX
 
 ## Risks And Watchpoints
 
