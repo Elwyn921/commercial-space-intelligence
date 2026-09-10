@@ -1,17 +1,30 @@
 {
   "artifact_version": 1,
-  "day_count": 501,
+  "day_count": 502,
   "days": [
     {
-      "company_count": 5,
+      "company_count": 1,
+      "company_ids": [
+        "spacex"
+      ],
+      "count": 1,
+      "date": "2026-09-11",
+      "inferred_date_count": 0,
+      "source_types": [
+        "rss"
+      ]
+    },
+    {
+      "company_count": 6,
       "company_ids": [
         "blue_origin",
         "cas_space",
         "galactic_energy",
         "minospace",
-        "spacex"
+        "spacex",
+        "yuanxin_satellite"
       ],
-      "count": 14,
+      "count": 17,
       "date": "2026-09-10",
       "inferred_date_count": 0,
       "source_types": [
@@ -109,7 +122,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 72,
+      "count": 73,
       "date": "2026-09-04",
       "inferred_date_count": 0,
       "source_types": [
@@ -127,7 +140,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 104,
+      "count": 106,
       "date": "2026-09-03",
       "inferred_date_count": 0,
       "source_types": [
@@ -178,7 +191,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 55,
+      "count": 56,
       "date": "2026-08-31",
       "inferred_date_count": 0,
       "source_types": [
@@ -259,7 +272,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 310,
+      "count": 311,
       "date": "2026-08-26",
       "inferred_date_count": 0,
       "source_types": [
@@ -381,7 +394,7 @@
         "yuanxin_satellite",
         "yushi_space"
       ],
-      "count": 460,
+      "count": 462,
       "date": "2026-08-19",
       "inferred_date_count": 0,
       "source_types": [
@@ -6623,10 +6636,10 @@
       ]
     }
   ],
-  "generated_at": "2026-09-10T15:18:55.331963Z",
+  "generated_at": "2026-09-10T20:10:23.143097Z",
   "inferred_date_count": 1,
-  "run_id": "7d78e351-d931-413c-a4fa-dd28d8704c31",
+  "run_id": "8fdc9b97-9d89-40e1-8dbc-5f061bff2ae7",
   "schema_version": "daily_news_index.v1",
   "timezone": "Asia/Shanghai",
-  "total_items": 8369
+  "total_items": 8380
 }
