@@ -1,190 +1,163 @@
 {
-  "as_of_date": "2026-09-09",
+  "as_of_date": "2026-09-10",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 6,
-        "market": 4,
-        "other": 2
+        "launch": 3,
+        "market": 1,
+        "other": 6,
+        "regulation": 4
       },
-      "item_count": 12,
-      "latest_title": "What SpaceX CEO Elon Musk needs to do to launch the stock into the stratosphere"
+      "item_count": 14,
+      "latest_title": "SpaceX to launch rocket for US Space Force. Will it be seen in Arizona?"
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
+      "company_id": "hongqing_technology",
+      "company_name": "蓝箭鸿擎",
       "event_types": {
-        "launch": 3,
-        "other": 1
+        "launch": 1,
+        "order": 1,
+        "other": 2
       },
       "item_count": 4,
-      "latest_title": "Blue Origin blast sent sound waves more than 1,000 miles, researchers say"
+      "latest_title": "蓝箭鸿擎在武汉投资成立空间科技公司 - 证券时报"
     },
     {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_types": {
-        "other": 2
-      },
-      "item_count": 2,
-      "latest_title": "阿里入股垣信卫星：约0.4%股权背后，是互联网巨头的轨道之争 - Sohu"
-    },
-    {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
-      "event_types": {
-        "funding": 1
+        "launch": 1
       },
       "item_count": 1,
-      "latest_title": "视频|经济学家管清友X星际荣耀彭小波X投资人张驰:深度拆解商业航天 - 新浪财经"
+      "latest_title": "Blue Origin's massive New Glenn rocket on move to launch pad"
     }
   ],
-  "company_count": 4,
+  "company_count": 3,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "funding": 1,
-    "launch": 9,
-    "market": 4,
-    "other": 5
+    "launch": 5,
+    "market": 1,
+    "order": 1,
+    "other": 8,
+    "regulation": 4
   },
-  "generated_at": "2026-09-09T05:59:29.167216Z",
-  "period_end": "2026-09-08",
-  "period_start": "2026-09-08",
-  "report_date": "2026-09-08",
+  "generated_at": "2026-09-10T05:59:18.634549Z",
+  "period_end": "2026-09-09",
+  "period_start": "2026-09-09",
+  "report_date": "2026-09-09",
   "schema_version": "daily_document.v1",
-  "source_count": 7,
+  "source_count": 6,
   "source_counts": {
-    "KeepTrack": 1,
-    "Sohu": 1,
-    "Ukrinform": 1,
     "bing.com": 12,
-    "space.com": 2,
-    "新京报": 1,
-    "新浪财经": 1
+    "hongqing.tech": 2,
+    "qz.com": 1,
+    "satnews.com": 2,
+    "东方财富网": 1,
+    "证券时报": 1
   },
-  "summary": "2026-09-08 共归档 19 条新闻，覆盖 4 家公司、7 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、垣信卫星、星际荣耀。",
+  "summary": "2026-09-09 共归档 19 条新闻，覆盖 3 家公司、6 个信息来源。 新闻量较多的公司包括 SpaceX、蓝箭鸿擎、Blue Origin。",
   "top_items": [
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "market",
-      "item_id": "cf02c5b7d9ce2fa3",
-      "published_at": "2026-09-08T06:56:00Z",
-      "source_name": "bing.com",
-      "title": "What SpaceX CEO Elon Musk needs to do to launch the stock into the stratosphere",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa0b971af1d41df9b2b6682612c5352&url=https%3A%2F%2Fwww.aol.com%2Farticles%2Fspacex-ceo-elon-musk-needs-135636000.html&c=14324985741981919626&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "hongqing_technology",
+      "company_name": "蓝箭鸿擎",
       "event_type": "other",
-      "item_id": "68f169c8412e12df",
-      "published_at": "2026-09-08T15:30:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX's recovered Starship 40 will take months to get back to Texas",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa0b971af1d41df9b2b6682612c5352&url=https%3A%2F%2Fwww.engadget.com%2F2251144%2Fspacex-starship-40-recovered-months-travel-back-to-texas%2F&c=1180260246273472985&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "fd9136cb5288a250",
-      "published_at": "2026-09-08T14:00:00Z",
-      "source_name": "space.com",
-      "title": "SpaceX rocket taxi returns after Roman Telescope launch | Space photo of the day for Sept. 8, 2026",
-      "url": "https://www.space.com/space-exploration/missions/spacex-rocket-taxi-returns-after-roman-telescope-launch-space-photo-of-the-day-for-sept-8-2026"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "b059f9aed8e3d278",
-      "published_at": "2026-09-08T09:47:00Z",
-      "source_name": "bing.com",
-      "title": "Should You Buy SpaceX Stock in September?",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa06e96c3b24413a250e58a7ba6eec3&url=https%3A%2F%2Fwww.fool.com%2Finvesting%2F2026%2F09%2F08%2Fshould-you-buy-spacex-stock-in-september%2F&c=7053444330929286928&mkt=en-us"
-    },
-    {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
-      "event_type": "other",
-      "item_id": "a0e14753b3910018",
-      "published_at": "2026-09-08T08:17:01Z",
-      "source_name": "Sohu",
-      "title": "阿里入股垣信卫星：约0.4%股权背后，是互联网巨头的轨道之争 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1dhVWNEbm15YzBaMklKWWZUSS1VOUwxUENzelhjSEJ1c21yWGlwbndHZTRSSXJTTmg1dDQyeXRLUjhkdUhlenZZdFdsdkZLQl9VeHNoVVhhcHdzRGoybnZxbDlPV2JEVkp5Q05uanBSOUdXTllXZmI2emhybHFmREdHbi15NERz?oc=5"
-    },
-    {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
-      "event_type": "other",
-      "item_id": "59d73ccc4bc5ff81",
-      "published_at": "2026-09-08T08:16:00Z",
-      "source_name": "新京报",
-      "title": "阿里入股垣信卫星：约0.4%股权背后，是互联网巨头的轨道之争 - 新京报",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54QzVncU96aG9xSy1DeGFVZDhwTnpTUGQwaWF6YW50U3JIUk5oQWdBNVRXdzRIeTNhUUpNUlp6S3pHTC0wMzZGak4wYmlpN2FXTUZRejIzak1Ga2NKbXpjcXFqNmU?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "c9f53ca445f40d70",
-      "published_at": "2026-09-08T06:51:00Z",
-      "source_name": "bing.com",
-      "title": "Amazon and AT&T partner to challenge SpaceX Starlink dominance",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa0b971af1d41df9b2b6682612c5352&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Famazon-t-partner-challenge-spacex-135107469.html&c=7533271929647883077&mkt=en-us"
-    },
-    {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
-      "event_type": "funding",
-      "item_id": "dafaae6a380ab8e4",
-      "published_at": "2026-09-08T01:33:00Z",
-      "source_name": "新浪财经",
-      "title": "视频|经济学家管清友X星际荣耀彭小波X投资人张驰:深度拆解商业航天 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EaFFTazNFSHpNNlh2Z0YzckZhTzlJMU01ZklJOTVSZGhFZkJ6NFB2UDUycWNYdkR4S1I0dm55MEpZUXQycU0wMk4ybVJYdi1Ecld1LWVweDd4UDNEOFVKVG1wYUJUWkVobnRpeThmM2RrWXV0YWdfTQ?oc=5"
+      "item_id": "323dc5f4035000f7",
+      "published_at": "2026-09-09T04:15:00Z",
+      "source_name": "证券时报",
+      "title": "蓝箭鸿擎在武汉投资成立空间科技公司 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zSUpFVlJKZW5EN0J5Y2lxSkdZTVV5SWc1dk1oSmtvSENKODZBQm5pbzlqdjZDNWplNjAySmlwMFIwbG1JaGhLVnJFUjhWWlJLVDh3eDFSeUFnLTdF?oc=5"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "54621073710b045d",
-      "published_at": "2026-09-07T19:38:50Z",
+      "item_id": "abce88961b3848f3",
+      "published_at": "2026-09-09T13:50:00Z",
       "source_name": "bing.com",
-      "title": "Blue Origin blast sent sound waves more than 1,000 miles, researchers say",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa06e9d20d24b58be4079f31cbcb013&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fscience%2Fgeneral%2Fblue-origin-blast-sent-sound-waves-more-than-1-000-miles-researchers-say%2Fvi-AA2bLCIR&c=649560162639628641&mkt=en-us"
+      "title": "Blue Origin's massive New Glenn rocket on move to launch pad",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa209ba66c643719972fd06a3da649e&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-massive-new-glenn-rocket-on-move-to-launch-pad%2Fvi-AA2bU3rM&c=5739769113515361744&mkt=en-us"
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "3825a40ecc16218d",
-      "published_at": "2026-09-07T19:38:50Z",
+      "item_id": "2e94b9d519442b06",
+      "published_at": "2026-09-09T06:02:00Z",
       "source_name": "bing.com",
-      "title": "Blue Origin blast sent sound waves more than 1,000 miles, researchers say",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6a9fdec158494017bde1afb98234cdae&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fscience%2Fgeneral%2Fblue-origin-blast-sent-sound-waves-more-than-1-000-miles-researchers-say%2Fvi-AA2bLCIR&c=649560162639628641&mkt=en-us"
+      "title": "SpaceX to launch rocket for US Space Force. Will it be seen in Arizona?",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa179db1e284de8843f1a15eacff081&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Farizona%2F2026%2F09%2F09%2Fspacex-falcon-9-rocket-launch-today-arizona%2F91656348007%2F&c=12745857490813491431&mkt=en-us"
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "24dd7a3341d47c9f",
-      "published_at": "2026-09-07T19:38:50Z",
+      "item_id": "2cae1eb4e2392b61",
+      "published_at": "2026-09-09T06:02:00Z",
       "source_name": "bing.com",
-      "title": "Blue Origin blast sent sound waves more than 1,000 miles, researchers say",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa0292124c549abb3f86889c6f5c14b&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fscience%2Fgeneral%2Fblue-origin-blast-sent-sound-waves-more-than-1-000-miles-researchers-say%2Fvi-AA2bLCIR&c=649560162639628641&mkt=en-us"
+      "title": "SpaceX to launch rocket for US Space Force. Will it be seen in Arizona?",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa209b2b43c4dab8f53619e863ee1c5&url=https%3A%2F%2Fwww.freep.com%2Fstory%2Fnews%2Farizona%2F2026%2F09%2F09%2Fspacex-falcon-9-rocket-launch-today-arizona%2F91656348007%2F&c=4648845821501466093&mkt=en-us"
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "091424d627cf991c",
+      "published_at": "2026-09-09T06:02:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX to launch rocket for US Space Force. Will it be seen in Arizona?",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa1bc293fd345a6bf61785122251757&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Farizona%2F2026%2F09%2F09%2Fspacex-falcon-9-rocket-launch-today-arizona%2F91656348007%2F&c=12745857490813491431&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "regulation",
+      "item_id": "57b4a257010ffb4d",
+      "published_at": "2026-09-09T05:38:58Z",
+      "source_name": "bing.com",
+      "title": "SpaceX’s Starlink in focus as FCC moves to expand satellite broadband spectrum; to vote on Sept. 30",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa1bc293fd345a6bf61785122251757&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-s-starlink-in-focus-as-fcc-moves-to-expand-satellite-broadband-spectrum-to-vote-on-sept-30%2Far-AA2bSXnl&c=12682816031757091287&mkt=en-us"
+    },
+    {
+      "company_id": "hongqing_technology",
+      "company_name": "蓝箭鸿擎",
       "event_type": "other",
-      "item_id": "1df67b4012b3ce78",
-      "published_at": "2026-09-08T08:00:00Z",
-      "source_name": "KeepTrack",
-      "title": "One Reflight, One Fireball, and New Glenn's Year-End Promise - KeepTrack",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fa0VsdkZaakJBYlFCdXVFS29la0xBakhGeGs4aG42cFFuc1NjWWEzbDBEZ1hrWjZBb01sMFZTdzh0ZHV1VndNSXpKVDBBN0hHYXVISGZhQWhDTzIzT3NudndoYVJYbXdn?oc=5"
+      "item_id": "32a188295206b445",
+      "published_at": "2026-09-09T04:51:58Z",
+      "source_name": "东方财富网",
+      "title": "蓝箭鸿擎在武汉投资成立空间科技公司 - 东方财富网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KZzVrdk90bXIyQ0g2NVhNV29TZVBCelExdEZISGFna2ZUdnB3eTV2X1JkeEl0SXhxUjQtQk5UVGJ1czNDa1d1WnhqUDBhblFtNjZ6MVVOb3JQYkNEeGF6Ykw2QVhXQQ?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "c07d25c15b566168",
+      "published_at": "2026-09-08T22:00:00Z",
+      "source_name": "bing.com",
+      "title": "Starlink is the economic foundation",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa130d771f64032bf7bca10d7f43565&url=https%3A%2F%2Fwww.fool.com%2Finvesting%2F2026%2F09%2F09%2Fspacex-is-no-longer-just-a-rocket-company-heres-wh%2F&c=8920540836372296617&mkt=en-us"
+    },
+    {
+      "company_id": "hongqing_technology",
+      "company_name": "蓝箭鸿擎",
+      "event_type": "launch",
+      "item_id": "454fac2882b6f3e7",
+      "published_at": "2026-09-08T18:41:29Z",
+      "source_name": "hongqing.tech",
+      "title": "祝贺！我国成功发射卫星互联网技术试验卫星 - hongqing.tech",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwV2hQZGJzWDZfU0t0NW9Wc0NRWHE3ZGtUalo2QTRyYm5SeXpTRzJJVW9Zc2lXSEJLanV3NnBCT2lMeEpkTFVRbmtCbGY2UG5x?oc=5"
+    },
+    {
+      "company_id": "hongqing_technology",
+      "company_name": "蓝箭鸿擎",
+      "event_type": "order",
+      "item_id": "0c7970e0eb641bad",
+      "published_at": "2026-09-08T23:10:33Z",
+      "source_name": "hongqing.tech",
+      "title": "鸿擎科技携手北京邮电大学、中国星网数字科技有限公司，共建太空算力技术创新中心 - hongqing.tech",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hbWo4YVFSQTBUX2xGdE4zR0lzaGJXZ0Z3WXE1UmJHWHJqV0hZVkRKb0pISE5KTHdTUHprRUVzblcyN0QyNF80RDRBSTZWVEFJ?oc=5"
     }
   ],
   "total_items": 19
