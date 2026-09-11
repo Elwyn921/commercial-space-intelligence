@@ -1,164 +1,283 @@
 {
-  "as_of_date": "2026-09-10",
+  "as_of_date": "2026-09-11",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 3,
-        "market": 1,
-        "other": 6,
-        "regulation": 4
+        "launch": 5,
+        "other": 6
       },
-      "item_count": 14,
-      "latest_title": "SpaceX to launch rocket for US Space Force. Will it be seen in Arizona?"
+      "item_count": 11,
+      "latest_title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force"
     },
     {
-      "company_id": "hongqing_technology",
-      "company_name": "蓝箭鸿擎",
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
       "event_types": {
-        "launch": 1,
-        "order": 1,
-        "other": 2
+        "other": 6
       },
-      "item_count": 4,
-      "latest_title": "蓝箭鸿擎在武汉投资成立空间科技公司 - 证券时报"
+      "item_count": 6,
+      "latest_title": "百吨级苍穹-90完成130秒试车，星河动力攻克火箭深度变推关键技术 - Sohu"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
+      "event_types": {
+        "launch": 4
+      },
+      "item_count": 4,
+      "latest_title": "Why New Glenn's debut converged with Starship flight 7"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_types": {
+        "other": 2
+      },
+      "item_count": 2,
+      "latest_title": "中科宇航董事长杨毅强：太空制造是未来高端制造的战略制高点 - 东方财富"
+    },
+    {
+      "company_id": "minospace",
+      "company_name": "微纳星空",
+      "event_types": {
+        "other": 2
+      },
+      "item_count": 2,
+      "latest_title": "鲁信创投：公司参股基金投资的商业航天产业链企业包括蓝箭航天等，未投资微纳星空 - 新浪财经"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
       "event_types": {
         "launch": 1
       },
       "item_count": 1,
-      "latest_title": "Blue Origin's massive New Glenn rocket on move to launch pad"
+      "latest_title": "今年9/15，是我们第一次民营火箭（蓝箭航天朱雀2E）+民营星座组网卫星发射（垣信卫星千帆极轨）。虽迟但到，真正的商业航... - 雪球"
     }
   ],
-  "company_count": 3,
+  "company_count": 6,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 5,
-    "market": 1,
-    "order": 1,
-    "other": 8,
-    "regulation": 4
+    "launch": 10,
+    "other": 16
   },
-  "generated_at": "2026-09-10T05:59:18.634549Z",
-  "period_end": "2026-09-09",
-  "period_start": "2026-09-09",
-  "report_date": "2026-09-09",
+  "generated_at": "2026-09-11T05:59:57.637499Z",
+  "period_end": "2026-09-10",
+  "period_start": "2026-09-10",
+  "report_date": "2026-09-10",
   "schema_version": "daily_document.v1",
-  "source_count": 6,
+  "source_count": 15,
   "source_counts": {
-    "bing.com": 12,
-    "hongqing.tech": 2,
-    "qz.com": 1,
-    "satnews.com": 2,
-    "东方财富网": 1,
-    "证券时报": 1
+    "CryptoRank": 1,
+    "Jiemian.com": 1,
+    "Light Reading": 1,
+    "Sohu": 1,
+    "Spaceflight Now": 1,
+    "Spectrum News 13": 1,
+    "The Desert Sun": 1,
+    "bing.com": 7,
+    "edhat": 1,
+    "space.com": 1,
+    "starlust.org": 1,
+    "stdaily.com": 1,
+    "东方财富": 3,
+    "新浪财经": 4,
+    "雪球": 1
   },
-  "summary": "2026-09-09 共归档 19 条新闻，覆盖 3 家公司、6 个信息来源。 新闻量较多的公司包括 SpaceX、蓝箭鸿擎、Blue Origin。",
+  "summary": "2026-09-10 共归档 26 条新闻，覆盖 6 家公司、15 个信息来源。 新闻量较多的公司包括 SpaceX、星河动力、Blue Origin、中科宇航。",
   "top_items": [
     {
-      "company_id": "hongqing_technology",
-      "company_name": "蓝箭鸿擎",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "eac21278bb6e6e28",
+      "published_at": "2026-09-09T22:32:04Z",
+      "source_name": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+      "url": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
       "event_type": "other",
-      "item_id": "323dc5f4035000f7",
-      "published_at": "2026-09-09T04:15:00Z",
-      "source_name": "证券时报",
-      "title": "蓝箭鸿擎在武汉投资成立空间科技公司 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zSUpFVlJKZW5EN0J5Y2lxSkdZTVV5SWc1dk1oSmtvSENKODZBQm5pbzlqdjZDNWplNjAySmlwMFIwbG1JaGhLVnJFUjhWWlJLVDh3eDFSeUFnLTdF?oc=5"
+      "item_id": "9a114d6b462c6b0a",
+      "published_at": "2026-09-10T15:44:09Z",
+      "source_name": "Sohu",
+      "title": "百吨级苍穹-90完成130秒试车，星河动力攻克火箭深度变推关键技术 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVkM0X1dXYThrMXBhWjhETWljS2pQWmxxWFo4NThLME5ZTkQ4THVmTVVVS2pMZUVrempCQjk5alA1aWM1Z05sRzF6UWM5ZnBoRzNCNjlDd00ybHFBaEZISUtLN3oyY0dvQnl1c0ZfY3hxNDNDOVRMdmVSX3ZXODVxTFFpWFg2VWlK?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "other",
+      "item_id": "457a0b6b4071182f",
+      "published_at": "2026-09-10T11:05:47Z",
+      "source_name": "stdaily.com",
+      "title": "星河动力复用火箭主发动机迈入可靠性验证试车阶段 - stdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14LWRqMWNQQjhyTEc0RnV5Um9aYlFndTFvMzl4Mk1qYlgtWmZEVFpqZU1ERTlpVmR6MVNiek9WM3pNZ1pYU050V1h1SEFJZkxQUXI1Q19NMXR4VmkweTIyaVV0bjM1TVF2WWF3S1VuU28?oc=5"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "abce88961b3848f3",
-      "published_at": "2026-09-09T13:50:00Z",
+      "item_id": "d29a82dcfe466aec",
+      "published_at": "2026-09-10T09:42:14Z",
       "source_name": "bing.com",
-      "title": "Blue Origin's massive New Glenn rocket on move to launch pad",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa209ba66c643719972fd06a3da649e&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-massive-new-glenn-rocket-on-move-to-launch-pad%2Fvi-AA2bU3rM&c=5739769113515361744&mkt=en-us"
+      "title": "Why New Glenn's debut converged with Starship flight 7",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa35af686f34784896c609480a88267&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fwhy-new-glenn-s-debut-converged-with-starship-flight-7%2Fvi-AA2bXXel&c=11815362635873221574&mkt=en-us"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "2e94b9d519442b06",
-      "published_at": "2026-09-09T06:02:00Z",
+      "item_id": "9b09253225c057b9",
+      "published_at": "2026-09-10T09:42:14Z",
       "source_name": "bing.com",
-      "title": "SpaceX to launch rocket for US Space Force. Will it be seen in Arizona?",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa179db1e284de8843f1a15eacff081&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Farizona%2F2026%2F09%2F09%2Fspacex-falcon-9-rocket-launch-today-arizona%2F91656348007%2F&c=12745857490813491431&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "2cae1eb4e2392b61",
-      "published_at": "2026-09-09T06:02:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX to launch rocket for US Space Force. Will it be seen in Arizona?",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa209b2b43c4dab8f53619e863ee1c5&url=https%3A%2F%2Fwww.freep.com%2Fstory%2Fnews%2Farizona%2F2026%2F09%2F09%2Fspacex-falcon-9-rocket-launch-today-arizona%2F91656348007%2F&c=4648845821501466093&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "091424d627cf991c",
-      "published_at": "2026-09-09T06:02:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX to launch rocket for US Space Force. Will it be seen in Arizona?",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa1bc293fd345a6bf61785122251757&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Farizona%2F2026%2F09%2F09%2Fspacex-falcon-9-rocket-launch-today-arizona%2F91656348007%2F&c=12745857490813491431&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "regulation",
-      "item_id": "57b4a257010ffb4d",
-      "published_at": "2026-09-09T05:38:58Z",
-      "source_name": "bing.com",
-      "title": "SpaceX’s Starlink in focus as FCC moves to expand satellite broadband spectrum; to vote on Sept. 30",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa1bc293fd345a6bf61785122251757&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-s-starlink-in-focus-as-fcc-moves-to-expand-satellite-broadband-spectrum-to-vote-on-sept-30%2Far-AA2bSXnl&c=12682816031757091287&mkt=en-us"
-    },
-    {
-      "company_id": "hongqing_technology",
-      "company_name": "蓝箭鸿擎",
-      "event_type": "other",
-      "item_id": "32a188295206b445",
-      "published_at": "2026-09-09T04:51:58Z",
-      "source_name": "东方财富网",
-      "title": "蓝箭鸿擎在武汉投资成立空间科技公司 - 东方财富网",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KZzVrdk90bXIyQ0g2NVhNV29TZVBCelExdEZISGFna2ZUdnB3eTV2X1JkeEl0SXhxUjQtQk5UVGJ1czNDa1d1WnhqUDBhblFtNjZ6MVVOb3JQYkNEeGF6Ykw2QVhXQQ?oc=5"
+      "title": "Why New Glenn's debut converged with Starship flight 7",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa30e414a8c4b5c81e602b232d50c2b&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fwhy-new-glenn-s-debut-converged-with-starship-flight-7%2Fvi-AA2bXXel&c=11815362635873221574&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "c07d25c15b566168",
-      "published_at": "2026-09-08T22:00:00Z",
+      "item_id": "ea31f71b10c5d7db",
+      "published_at": "2026-09-10T04:25:00Z",
       "source_name": "bing.com",
-      "title": "Starlink is the economic foundation",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa130d771f64032bf7bca10d7f43565&url=https%3A%2F%2Fwww.fool.com%2Finvesting%2F2026%2F09%2F09%2Fspacex-is-no-longer-just-a-rocket-company-heres-wh%2F&c=8920540836372296617&mkt=en-us"
+      "title": "UK deepens reliance on Musk's SpaceX, spending nearly $40 million on satellite services",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa35aee4db94024a25a7971af9b3a00&url=https%3A%2F%2Fwww.reuters.com%2Fbusiness%2Fmedia-telecom%2Fuk-deepens-reliance-musks-spacex-spending-nearly-40-million-satellite-services-2026-09-10%2F&c=10702040103829220635&mkt=en-us"
     },
     {
-      "company_id": "hongqing_technology",
-      "company_name": "蓝箭鸿擎",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "454fac2882b6f3e7",
-      "published_at": "2026-09-08T18:41:29Z",
-      "source_name": "hongqing.tech",
-      "title": "祝贺！我国成功发射卫星互联网技术试验卫星 - hongqing.tech",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwV2hQZGJzWDZfU0t0NW9Wc0NRWHE3ZGtUalo2QTRyYm5SeXpTRzJJVW9Zc2lXSEJLanV3NnBCT2lMeEpkTFVRbmtCbGY2UG5x?oc=5"
+      "item_id": "041c1a5f9d56e7a5",
+      "published_at": "2026-09-10T04:05:00Z",
+      "source_name": "space.com",
+      "title": "SpaceX launches classified mission for the US Space Force from California (video)",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-classified-space-force-mission-ussf-153"
     },
     {
-      "company_id": "hongqing_technology",
-      "company_name": "蓝箭鸿擎",
-      "event_type": "order",
-      "item_id": "0c7970e0eb641bad",
-      "published_at": "2026-09-08T23:10:33Z",
-      "source_name": "hongqing.tech",
-      "title": "鸿擎科技携手北京邮电大学、中国星网数字科技有限公司，共建太空算力技术创新中心 - hongqing.tech",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hbWo4YVFSQTBUX2xGdE4zR0lzaGJXZ0Z3WXE1UmJHWHJqV0hZVkRKb0pISE5KTHdTUHprRUVzblcyN0QyNF80RDRBSTZWVEFJ?oc=5"
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "5d3423557068a327",
+      "published_at": "2026-09-10T03:18:40Z",
+      "source_name": "bing.com",
+      "title": "Elon Musk's SpaceX just gave Starlink a major Wi-Fi upgrade with its new 4th-gen router",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa35aee1f084536b3c4b2f83f49df49&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Felon-musk-s-spacex-just-gave-starlink-a-major-wi-fi-upgrade-with-its-new-4th-gen-router%2Far-AA2bWTXQ&c=16715432804911533944&mkt=en-us"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "other",
+      "item_id": "b65736a6df743d15",
+      "published_at": "2026-09-10T02:52:37Z",
+      "source_name": "东方财富",
+      "title": "中科宇航董事长杨毅强：太空制造是未来高端制造的战略制高点 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IM0FJQXdURWhJMS10VnYxZ3lfd2hUNzBlRlZReWJveS1lbl9ob3MzWFFMS01YeEhaYkNzX2JDRFFDYXpJMTNsdTRpaEFSX2I4SzRHZ2VieTAzdGJYcWpaektKZmhJUQ?oc=5"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "other",
+      "item_id": "1cc9106842d8c3ca",
+      "published_at": "2026-09-10T02:52:37Z",
+      "source_name": "东方财富",
+      "title": "中科宇航董事长杨毅强：太空制造是未来高端制造的战略制高点 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qcDVqdWZOZVhjQTFUS1dLTWk3S3lSN0hLWjJ2M2NqaTNXZnRhNm91U0V3aXA5aXBVRFVGREZBODlvamhZQWEyMU53ZGN2TkpMU003OXVjWVdYVHExZ18zbw?oc=5"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_type": "launch",
+      "item_id": "e7b063e9895ca58d",
+      "published_at": "2026-09-09T19:17:00Z",
+      "source_name": "雪球",
+      "title": "今年9/15，是我们第一次民营火箭（蓝箭航天朱雀2E）+民营星座组网卫星发射（垣信卫星千帆极轨）。虽迟但到，真正的商业航... - 雪球",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0UDZBcGcxeHBTWjg5Ykk2VExjTmd0cng2bTZOdU1vaWMxcm5mZ01YQUxpLVlDOGNhbzh2ZEtpWHZZU3Q0X2JtSFpkZ1hDZlNE?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "d21201a1ffb403c9",
+      "published_at": "2026-09-09T19:00:00Z",
+      "source_name": "The Desert Sun",
+      "title": "How to watch as SpaceX launches rocket on US Space Force mission - The Desert Sun",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUk9tRFdBdnc5QlZwZDFHdl91MHEzWnIyVXMwTS1oQnNXYmRENGFGeW1yTHdRR0h1SVFueDJHRnkyLVJXTG5BRHZqY0c1bkp4RmFWRUdJbFUxeDltSHpzeHkwWVkxRUt5V2FQMUlzaUE5OFVQa1ZyalBtQThrZVVWc0hVa1pMaDYwQ3hQN2lpMGJIWDBJODJUVFlyYlFOSGgzWXZrejdiLVF6YXQtY2dR?oc=5"
+    },
+    {
+      "company_id": "minospace",
+      "company_name": "微纳星空",
+      "event_type": "other",
+      "item_id": "058bf682687b466c",
+      "published_at": "2026-09-10T07:46:00Z",
+      "source_name": "新浪财经",
+      "title": "鲁信创投：公司参股基金投资的商业航天产业链企业包括蓝箭航天等，未投资微纳星空 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TRlpHN0VWMGtWVlJnV1NiOEpXcWlSR0sxTjNLQWlxNnBUajhETEpRVERYdDRRczlMQ2tQcG9Bem4xeUxuaV93d0hTVEhQQ1VMdjJGOFpUWlRVUE1KN18xRzMxdm9XVlhEZUJ2TDJ1dFFqcjV1bXpDeA?oc=5"
+    },
+    {
+      "company_id": "minospace",
+      "company_name": "微纳星空",
+      "event_type": "other",
+      "item_id": "138ec60c4e0afbe9",
+      "published_at": "2026-09-10T07:39:00Z",
+      "source_name": "新浪财经",
+      "title": "鲁信创投(600783.SH)：参股基金投资的商业航天产业链企业包括蓝箭航天等，未投资微纳星空 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdnluVDJYc2VvNHZNRTZISnRydzdodTk2OUFLaXNJMldYLXNFWVJHWHV0NXh0RThSdWpuMWxwaThXcjh4NmU4dC1VS2ViNVBVcFJBd0cxYWdzVVU3T3oxbFZBcGtZbWV1QldFUFlMM3c3a29XQ3VtbUIzYXFyaDlsRg?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "cf933dfe8e0599d0",
+      "published_at": "2026-09-10T14:44:02Z",
+      "source_name": "starlust.org",
+      "title": "Blue Origin's New Glenn is moving to historic NASA facility as it prepares for Artemis missions - starlust.org",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRS1ZU0xqRFMxd2liek1fc1MyRTUyZUwxWTdFQmV3SXZ1Z3R3TmV2d21GUUZmN3lXdzJiRG9FVmdJWE9FWElHUjlZWDBMeDlNZ0JxakIxdkxtVkpuVkVrbzhWdkI2bm5qMUhVd01HUWpycnp1NEhjb0lOeDFydDljOW9DcURXTGh2cE1rcmpUWFZyQ0VWR1ZOUnFWRENDNGRiRkVmVUhRTV9zU1ZoeDRyR21jaWFFcU0?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "other",
+      "item_id": "d4e809bdabb99ad7",
+      "published_at": "2026-09-10T08:00:00Z",
+      "source_name": "新浪财经",
+      "title": "推力可从120吨到30吨自由调节！星河动力百苍穹-90发动机完成130秒长程试车 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1La3dfYTZpZ09GVW84TVpvemVqa3luUGpSMGE2NDdXTHdFcDZuQ3VHWWpEM0FBR19DcmJ4WndBbE1nT0pFdzNGRjRBSmR0RjdCS0VEVnNSRmRvNmtOYVJ6ZTlYWS04NzR5RVpwbHRwdEQ0azBBc2lrQi1FQjUxeWs?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "other",
+      "item_id": "51aa0c11f63bd03b",
+      "published_at": "2026-09-10T07:12:56Z",
+      "source_name": "东方财富",
+      "title": "星河动力新一代百吨级苍穹-90发动机完成130秒长程试车 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9femxyWHVJcDJrRHdIVEVMRG1QeVd6VlNKNTdFcll2M2szLUJRT2otSjhuQzloR0F4TE5PdnNVU2MwLW1HMldvNUdHbExQQmdteEtkRkdqSWxJNWdvSUN0eA?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "other",
+      "item_id": "77b24804ad7ab175",
+      "published_at": "2026-09-10T07:00:00Z",
+      "source_name": "新浪财经",
+      "title": "新一代百吨级苍穹-90 发动机完成130 秒长程试车，星河动力自主攻关全面突破针栓式深度变推技术 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kOWdjcU5ObEhNZFIzdWdiOEJhelA3a3JHQldVd0c0Y1RSX0JDQ0dyZGNteWJkMG42RzU5c3BzaEhlUW90NTMyRnFnb054VGh1UXUteHdsdDdCSGUwRE5hdlIwd0ZTSXM0Q2lLOEZ1aEF2T2lFVW5LV1ZwNG0xRnc?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "da0c9601880979b2",
+      "published_at": "2026-09-10T06:38:00Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin's New Glenn is moving to historic NASA facility as it prepares for Artemis missions",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa35af686f34784896c609480a88267&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-is-moving-to-historic-nasa-facility-as-it-prepares-for-artemis-missions%2Far-AA2bWVcv&c=7352989468227478779&mkt=en-us"
     }
   ],
-  "total_items": 19
+  "total_items": 26
 }
