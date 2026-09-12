@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-09-12
 
-- Report ID: daily-2026-09-12-3bba0fb4
-- Source run: 27631f4a-d93a-40d7-8eb3-32418093351a
+- Report ID: daily-2026-09-13-c21fe26d
+- Source run: b39ed6f2-fed3-42d7-bd90-bb740bede65a
 - Generation status: skipped_no_secret
-- Companies covered: 2
-- Total items: 3
+- Companies covered: 1
+- Total items: 1
 
 ## Executive Summary
 
-2026-09-12 共收录 3 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 天兵科技、Blue Origin。
+2026-09-13 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 天兵科技。
 
 ## Industry Chain Sections
 
@@ -21,8 +21,7 @@ No LLM summary.
 
 No LLM summary.
 
-- [天龙三号遥二运载火箭完成总装、总测，预计今年第四季度择机复飞 - 新浪财经](https://news.google.com/rss/articles/CBMif0FVX3lxTE52N1l2bDZDeG1lZ2VMNzZnVlVLU0psLWhTbHgwNHFVNjF4QVF1OW4takpOdVhxQ1dyeF9DVC15VmtVV2Fkbkd1Z29IYlZsOFNScTBiTkl6UE8zNkRqY09HNGs4cTA0WGNBMmNRS18zSUlUazc3VHQxUnNTOU95eXM?oc=5) 天兵科技
-- [天龙三号官宣“归零” 天兵科技：行业机会窗口仍在，不会为保成功降低火箭性能 - 每日经济新闻](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xa0t4Y1lJdFpoeU5saTFvblpINTU0UDRIakt6MHpjMDFrTld0OW1DWGs4ZktLcHNUVmViQnBCTHF6M2o5M3NVeHRocDkzOGprVWpFSDdZZ1I2ME04ZHREWnF3akNQUQ?oc=5) 天兵科技
+- [天龙三号遥一火箭飞行失利，原因查明！ - 新浪财经](https://news.google.com/rss/articles/CBMidkFVX3lxTE1qSE9oNldVbGxtRHlWVENVR2ZrY2NjWUhXVnptYlRrTlowQ202ODlvRHRrYzVkTXN1dUljWW1ROTJGWTlxNHFQclJuRFdoLW1qT0xILTlpQ1VYWWp4YmlIcTFHSlg4OTFIMllRY1lfWHFCVTdaOEE?oc=5) 天兵科技
 
 ### 卫星互联网服务
 
@@ -33,13 +32,10 @@ No LLM summary.
 
 No LLM summary.
 
-- [Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract](https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract) Blue Origin
 
 ## Top News
 
-- [天龙三号遥二运载火箭完成总装、总测，预计今年第四季度择机复飞 - 新浪财经](https://news.google.com/rss/articles/CBMif0FVX3lxTE52N1l2bDZDeG1lZ2VMNzZnVlVLU0psLWhTbHgwNHFVNjF4QVF1OW4takpOdVhxQ1dyeF9DVC15VmtVV2Fkbkd1Z29IYlZsOFNScTBiTkl6UE8zNkRqY09HNGs4cTA0WGNBMmNRS18zSUlUazc3VHQxUnNTOU95eXM?oc=5) 天兵科技
-- [天龙三号官宣“归零” 天兵科技：行业机会窗口仍在，不会为保成功降低火箭性能 - 每日经济新闻](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xa0t4Y1lJdFpoeU5saTFvblpINTU0UDRIakt6MHpjMDFrTld0OW1DWGs4ZktLcHNUVmViQnBCTHF6M2o5M3NVeHRocDkzOGprVWpFSDdZZ1I2ME04ZHREWnF3akNQUQ?oc=5) 天兵科技
-- [Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract](https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract) Blue Origin
+- [天龙三号遥一火箭飞行失利，原因查明！ - 新浪财经](https://news.google.com/rss/articles/CBMidkFVX3lxTE1qSE9oNldVbGxtRHlWVENVR2ZrY2NjWUhXVnptYlRrTlowQ202ODlvRHRrYzVkTXN1dUljWW1ROTJGWTlxNHFQclJuRFdoLW1qT0xILTlpQ1VYWWp4YmlIcTFHSlg4OTFIMllRY1lfWHFCVTdaOEE?oc=5) 天兵科技
 
 ## Risks And Watchpoints
 
