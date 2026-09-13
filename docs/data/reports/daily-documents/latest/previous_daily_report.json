@@ -1,202 +1,128 @@
 {
-  "as_of_date": "2026-09-12",
+  "as_of_date": "2026-09-13",
   "companies": [
-    {
-      "company_id": "space_pioneer",
-      "company_name": "天兵科技",
-      "event_types": {
-        "launch": 10
-      },
-      "item_count": 10,
-      "latest_title": "天龙三号遥一火箭首飞失利原因查明 - 证券时报"
-    },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 5,
+        "launch": 2,
         "other": 1
       },
-      "item_count": 6,
-      "latest_title": "Starship flight 14 targets first orbit: Starlink V3 satellites Falcon 9 cannot carry"
+      "item_count": 3,
+      "latest_title": "SpaceX Starlink satellite 'train' seen from International Space Station"
     },
     {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
+      "company_id": "space_pioneer",
+      "company_name": "天兵科技",
       "event_types": {
+        "launch": 1,
         "other": 2
       },
-      "item_count": 2,
-      "latest_title": "星河动力复用火箭主发动机迈入可靠性验证试车阶段 - 北京市科学技术委员会"
+      "item_count": 3,
+      "latest_title": "天龙三号遥二运载火箭完成总装、总测，预计今年第四季度择机复飞 - 新浪财经"
     },
     {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_types": {
-        "other": 1
+        "launch": 1
       },
       "item_count": 1,
-      "latest_title": "上海瀚讯9月10日回应卫星互联网话题：为千帆星座通信分系统核心承研单位_公司新闻 - 证券之星"
+      "latest_title": "Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract"
     }
   ],
-  "company_count": 4,
+  "company_count": 3,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 15,
-    "other": 4
+    "launch": 4,
+    "other": 3
   },
-  "generated_at": "2026-09-12T05:47:55.811653Z",
-  "period_end": "2026-09-11",
-  "period_start": "2026-09-11",
-  "report_date": "2026-09-11",
+  "generated_at": "2026-09-13T06:09:18.062176Z",
+  "period_end": "2026-09-12",
+  "period_start": "2026-09-12",
+  "report_date": "2026-09-12",
   "schema_version": "daily_document.v1",
-  "source_count": 12,
+  "source_count": 6,
   "source_counts": {
-    "Jiemian.com": 1,
-    "Space": 1,
-    "bing.com": 5,
-    "jnz.cs.com.cn": 1,
-    "sina.cn": 1,
-    "thepaper.cn": 2,
-    "北京市科学技术委员会": 1,
+    "TradingKey": 1,
+    "bing.com": 1,
+    "finance.biggo.com": 1,
+    "space.com": 1,
     "新浪财经": 2,
-    "第一财经": 2,
-    "证券之星": 1,
-    "证券时报": 1,
-    "驱动之家": 1
+    "每日经济新闻": 1
   },
-  "summary": "2026-09-11 共归档 19 条新闻，覆盖 4 家公司、12 个信息来源。 新闻量较多的公司包括 天兵科技、SpaceX、星河动力、垣信卫星。",
+  "summary": "2026-09-12 共归档 7 条新闻，覆盖 3 家公司、6 个信息来源。 新闻量较多的公司包括 SpaceX、天兵科技、Blue Origin。",
   "top_items": [
     {
       "company_id": "space_pioneer",
       "company_name": "天兵科技",
       "event_type": "launch",
-      "item_id": "1dbe4656385bbfed",
-      "published_at": "2026-09-11T12:14:00Z",
-      "source_name": "证券时报",
-      "title": "天龙三号遥一火箭首飞失利原因查明 - 证券时报",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSUJBTU1taVlaclJMdWh4WnpJakxDZFRUZmdueTJmNmgxRE52VHNXWGlNRzcwUDFPdEVyU0VnTXR4UWotU2NiN045ZTZ6T1kzeVFJS1hldFgxcGs?oc=5"
-    },
-    {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
-      "event_type": "other",
-      "item_id": "eb21713594185309",
-      "published_at": "2026-09-10T23:11:25Z",
-      "source_name": "证券之星",
-      "title": "上海瀚讯9月10日回应卫星互联网话题：为千帆星座通信分系统核心承研单位_公司新闻 - 证券之星",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOVVhJbmM1c2VFOEdZcFo0Nk00MVo1aTRTQldOb3VXanVMYUU2Yl9mUkxvSTlNZnpWcWE5RVk1ZjAxVUxUbEhRLXd5RURJMDZTdHNPeWdWcTdoOTAtbWY0Q3JR?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "59556ce20930858a",
-      "published_at": "2026-09-11T12:52:02Z",
-      "source_name": "bing.com",
-      "title": "Starship flight 14 targets first orbit: Starlink V3 satellites Falcon 9 cannot carry",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa4adf0690f49138a369a498d9fca94&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fstarship-flight-14-targets-first-orbit-starlink-v3-satellites-falcon-9-cannot-carry%2Far-AA2c2Wui&c=5102874649525135131&mkt=en-us"
-    },
-    {
-      "company_id": "space_pioneer",
-      "company_name": "天兵科技",
-      "event_type": "launch",
-      "item_id": "5c52da1fdac61444",
-      "published_at": "2026-09-11T11:18:29Z",
-      "source_name": "第一财经",
-      "title": "天龙三号遥一运载火箭飞行试验任务完成归零 - 第一财经",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCVFBGMHNZRTBiX19CMzhwS21jRk9tNGpxeThyNFpheDdyMXM5Vl9iWjhNRGxEUjJNa1ZSYTZOeV9mR00zWnJtdTNqcjZJdlRi?oc=5"
-    },
-    {
-      "company_id": "space_pioneer",
-      "company_name": "天兵科技",
-      "event_type": "launch",
-      "item_id": "28573987804cdc50",
-      "published_at": "2026-09-11T11:18:04Z",
-      "source_name": "第一财经",
-      "title": "天龙三号遥一运载火箭飞行试验任务完成归零 - 第一财经",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44YnBKZWRrbi1wZUJ4VXFFbTlXYnRhUzlPTWpQcUFhX0E1bWx6YU5hcjhjNnV0SkJId01zVVVpdnpNZW5NODBhMUpPMUc2am5KWW1B?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "d5e363d2fab7271d",
-      "published_at": "2026-09-11T07:02:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX orbital AI is closer than you think and 4 other revelations from its CFO",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa41be0dbd644e9abc71b3ba857fea4&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-orbital-ai-is-closer-than-you-think-and-4-other-revelations-from-its-cfo%2Far-AA2c1mUg&c=3744713097147717561&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "49e695734036f581",
-      "published_at": "2026-09-11T05:00:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX at $148: The Single Metric Investors Must Follow",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa4adef4130430ea640212a519a3407&url=https%3A%2F%2F247wallst.com%2Finvesting%2F2026%2F09%2F11%2Fspacex-at-148-the-single-metric-investors-must-follow%2F&c=1141816209066554076&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "1dabc48867b17f00",
-      "published_at": "2026-09-11T05:00:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX at $148: The Single Metric Investors Must Follow",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa41be0dbd644e9abc71b3ba857fea4&url=https%3A%2F%2F247wallst.com%2Finvesting%2F2026%2F09%2F11%2Fspacex-at-148-the-single-metric-investors-must-follow%2F&c=1141816209066554076&mkt=en-us"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "other",
-      "item_id": "2a65c5675ee0496d",
-      "published_at": "2026-09-11T04:33:00Z",
-      "source_name": "北京市科学技术委员会",
-      "title": "星河动力复用火箭主发动机迈入可靠性验证试车阶段 - 北京市科学技术委员会",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RZ1gzcU40NzRfU1FKR1Ytbm1ROXNrcjFBLXRvNTNKU0JUeElsbTZ1aElwVFRNb2g5Wm1iVUJlNWxOZThvaG9reEtjZ3paV0psQlQtem45VWJrZGNYOWxaNWJLOUU4aEZVdmMwS19kaW11NGVDc2hxeW4tLVM4dkE?oc=5"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "other",
-      "item_id": "12a1524434c0f656",
-      "published_at": "2026-09-11T00:33:00Z",
-      "source_name": "sina.cn",
-      "title": "在今年3月的深圳2026第二届商业航天产业发展大会上，星河动力公布了智神星二号“船载筷子夹火箭”回收方案 - sina.cn",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VR2wtSlg4R2dKRUdmZmJINHNNaW1zZ1NJUzROQjJnaFQ5SkRtVEcxZUtWRGZTb2VzUGV4RmdEa1FSWjlZd2IwejFtWEc0b0dMMjdDMzhoeUY1R3dldWFNcnZzbw?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "88f914076e306cd1",
-      "published_at": "2026-09-10T17:00:00Z",
-      "source_name": "bing.com",
-      "title": "Is Starlink Mobile a commitment or a campaign?",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa4adef4130430ea640212a519a3407&url=https%3A%2F%2Fwww.sdxcentral.com%2Fcontrol-plane%2Fis-starlink-mobile-a-commitment-or-a-campaign%2F&c=13508941298055035536&mkt=en-us"
-    },
-    {
-      "company_id": "space_pioneer",
-      "company_name": "天兵科技",
-      "event_type": "launch",
-      "item_id": "88bfbeaba044cf0f",
-      "published_at": "2026-09-11T14:05:35Z",
-      "source_name": "Jiemian.com",
-      "title": "天龙三号首飞失利归零，故障原因公布 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uR2ppMlVWdzdral9DZ21vZWlUeGIybzlTSEFjaDlNbTZWdDJfVWZqXzJKRUxYREJJN2JVcXFPc2lrTFNOUWJybjFKTHFwdmtPZUFiZ1hSbG4?oc=5"
-    },
-    {
-      "company_id": "space_pioneer",
-      "company_name": "天兵科技",
-      "event_type": "launch",
-      "item_id": "dbafbdd663acafb2",
-      "published_at": "2026-09-11T12:32:00Z",
+      "item_id": "af9a5eb2a59669a1",
+      "published_at": "2026-09-12T14:08:00Z",
       "source_name": "新浪财经",
-      "title": "天龙三号首飞失利，原因公布 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPalBUS3F0amhxVU9MY2FTc1FLRjQtS2tjaVFFWmNzb3o5WU9Ya1V1SzRNNFBNLW5BUEVvTmFTTlM0X2ZkbjhrZUZKS3RxckpWc2lqRWdaNUotbXhjMjZSSjlKWDhubFBPN25jd2xQamI1R0JiV1NLX1Z3ZFN1dDdGeU5CRmJTdE0?oc=5"
+      "title": "天龙三号遥二运载火箭完成总装、总测，预计今年第四季度择机复飞 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52N1l2bDZDeG1lZ2VMNzZnVlVLU0psLWhTbHgwNHFVNjF4QVF1OW4takpOdVhxQ1dyeF9DVC15VmtVV2Fkbkd1Z29IYlZsOFNScTBiTkl6UE8zNkRqY09HNGs4cTA0WGNBMmNRS18zSUlUazc3VHQxUnNTOU95eXM?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "bd286eb1a87da85e",
+      "published_at": "2026-09-12T10:10:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX Starlink satellite 'train' seen from International Space Station",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa5ab5e7c3241399c3daae538e4e025&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-starlink-satellite-train-seen-from-international-space-station%2Fvi-AA2c5mgX&c=408983336966998227&mkt=en-us"
+    },
+    {
+      "company_id": "space_pioneer",
+      "company_name": "天兵科技",
+      "event_type": "other",
+      "item_id": "2ac5c06443a13a85",
+      "published_at": "2026-09-11T23:38:00Z",
+      "source_name": "新浪财经",
+      "title": "天龙三号遥一火箭飞行失利原因查明 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KUHVDNHY4RWFmcGFWalMyRTVTQ1IybnYwbXFwYmFpNEY1cTMtaGMtRDZhSXVlM0ZKSTg5VTZ0eThqd3N5a0JYclVrVWJYZEFycGlsQVczNGhZdHhPNGNWLVlhcEhBaGxETGNUSUl3WXZwTVBfRkpEWQ?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "0bb339340646e9a9",
+      "published_at": "2026-09-11T22:06:42Z",
+      "source_name": "space.com",
+      "title": "Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract",
+      "url": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "c359a658dc7adfdb",
+      "published_at": "2026-09-11T18:38:00Z",
+      "source_name": "finance.biggo.com",
+      "title": "SpaceX CFO: Starship to Launch Upgraded Starlink Satellites This Month, Set to Begin Generating Revenue - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96S2MwODBLaFFhWWxPR0xMXzRpQ2ROUWFhYklZUkx4c2xSNlVyUF82RjdaMlpmUFVwRVBXR0FxbmFQVk5odmlFWnpSQjJVelJIMlJxMTlESkY0bFFfbVB0NGtteXpzQl83QUZYaDFUc2pxRGYwamc?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "6ae37b12cf1145e6",
+      "published_at": "2026-09-11T17:51:05Z",
+      "source_name": "TradingKey",
+      "title": "SpaceX Reportedly Plans to Deploy First V3 Starlink Satellites With Starship Next Week - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX1RxOThUclJjRDN4M29RZ0Z3UXRmM1Bwc1k0QXI1akhmTWZVbHl0SEtXUkFJSlFnTkxWTXpQQjY5dXE1cEZNZ2swRGZISnZ6amwtX1dOd3MxcXE4VnpJN0FwbFVLOGpkd1RBeERTQW1wZ3JTX01Va3JzbXJzR1ZmclJYRGJxWUNaUkR3VXBUV0dYU0twbjB4bFA5ampCZnZ0NUFlcFhIM0pyNG1iZGZRbDI4UkdCenoxWEx0UmRfSjNQMms2R0lNNVdJdEt3aWJCT2gySTdOZElBVVM5dEJBR21QVHhqNDA3RTFB?oc=5"
+    },
+    {
+      "company_id": "space_pioneer",
+      "company_name": "天兵科技",
+      "event_type": "other",
+      "item_id": "396d7e3c770a7304",
+      "published_at": "2026-09-12T04:09:00Z",
+      "source_name": "每日经济新闻",
+      "title": "天龙三号官宣“归零” 天兵科技：行业机会窗口仍在，不会为保成功降低火箭性能 - 每日经济新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xa0t4Y1lJdFpoeU5saTFvblpINTU0UDRIakt6MHpjMDFrTld0OW1DWGs4ZktLcHNUVmViQnBCTHF6M2o5M3NVeHRocDkzOGprVWpFSDdZZ1I2ME04ZHREWnF3akNQUQ?oc=5"
     }
   ],
-  "total_items": 19
+  "total_items": 7
 }
