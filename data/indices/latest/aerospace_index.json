@@ -1,10 +1,13 @@
 {
   "as_of_date": "2026-09-14",
-  "generated_at": "2026-09-14T06:17:43.490742Z",
+  "generated_at": "2026-09-14T08:05:10.388820Z",
   "market_data_source": {
     "delay_notice": "中国航天航空指数来自东方财富；美国板块为等权篮子。行情可能延迟，不构成投资建议。",
+    "errors": {
+      "industry_index": "URLError: <urlopen error _ssl.c:999: The handshake operation timed out>"
+    },
     "expected_instruments": 21,
-    "quoted_instruments": 21,
+    "quoted_instruments": 20,
     "request_count": 2,
     "source_id": "multi_source_market_data",
     "source_name": "新浪财经 + 东方财富",
@@ -17,19 +20,19 @@
       },
       {
         "expected_instruments": 1,
-        "quoted_instruments": 1,
+        "quoted_instruments": 0,
         "source_id": "eastmoney",
         "source_name": "东方财富行情"
       }
     ],
-    "status": "current"
+    "status": "partial"
   },
   "markets": {
     "china": {
       "advancers": 0,
-      "basket_change_pct": -2.411,
+      "basket_change_pct": -2.449,
       "basket_name": "中国航空航天板块等权篮子",
-      "change_pct": -2.411,
+      "change_pct": -2.449,
       "currency": "CNY",
       "decliners": 10,
       "display_name": "中国航空航天板块",
@@ -42,7 +45,7 @@
       "index_source_name": "东方财富",
       "index_source_timestamp": "2026-09-14 14:17:42",
       "index_source_url": "https://quote.eastmoney.com/bk/90.BK0480.html",
-      "index_status": "current",
+      "index_status": "stale_previous",
       "index_value": 51856.65,
       "industry_index": {
         "change_amount": -902.6,
@@ -60,7 +63,7 @@
         "source_name": "航天航空",
         "source_timestamp": "2026-09-14 14:17:42",
         "source_url": "https://quote.eastmoney.com/bk/90.BK0480.html",
-        "status": "current",
+        "status": "stale_previous",
         "symbol": "BK0480",
         "ticker": "BK0480",
         "turnover": 17210954996.0,
@@ -69,20 +72,20 @@
       "member_count": 10,
       "members": [
         {
-          "change_amount": -0.68,
-          "change_pct": -1.174,
+          "change_amount": -0.65,
+          "change_pct": -1.122,
           "high": 58.15,
           "low": 57.16,
           "name": "中国卫星",
           "open": 57.8,
           "previous_close": 57.94,
-          "price": 57.26,
+          "price": 57.29,
           "source_name": "中国卫星",
-          "source_timestamp": "2026-09-14 14:17:38",
+          "source_timestamp": "2026-09-14 15:34:59",
           "status": "current",
           "symbol": "sh600118",
           "ticker": "600118.SH",
-          "volume": 11052383.0
+          "volume": 13363401.0
         },
         {
           "change_amount": -0.92,
@@ -94,91 +97,91 @@
           "previous_close": 23.54,
           "price": 22.62,
           "source_name": "中航西飞",
-          "source_timestamp": "2026-09-14 14:17:39",
+          "source_timestamp": "2026-09-14 15:36:00",
           "status": "current",
           "symbol": "sz000768",
           "ticker": "000768.SZ",
-          "volume": 28760334.0
+          "volume": 32415994.0
         },
         {
-          "change_amount": -2.49,
-          "change_pct": -5.185,
+          "change_amount": -2.52,
+          "change_pct": -5.248,
           "high": 48.25,
-          "low": 45.45,
+          "low": 45.43,
           "name": "中航沈飞",
           "open": 47.9,
           "previous_close": 48.02,
-          "price": 45.53,
+          "price": 45.5,
           "source_name": "中航沈飞",
-          "source_timestamp": "2026-09-14 14:17:39",
+          "source_timestamp": "2026-09-14 15:34:59",
           "status": "current",
           "symbol": "sh600760",
           "ticker": "600760.SH",
-          "volume": 23504221.0
+          "volume": 27432113.0
         },
         {
-          "change_amount": -1.34,
-          "change_pct": -3.22,
+          "change_amount": -1.43,
+          "change_pct": -3.437,
           "high": 41.75,
           "low": 39.95,
           "name": "航发动力",
           "open": 41.2,
           "previous_close": 41.61,
-          "price": 40.27,
+          "price": 40.18,
           "source_name": "航发动力",
-          "source_timestamp": "2026-09-14 14:17:39",
+          "source_timestamp": "2026-09-14 15:34:59",
           "status": "current",
           "symbol": "sh600893",
           "ticker": "600893.SH",
-          "volume": 31476217.0
+          "volume": 35159367.0
         },
         {
-          "change_amount": -0.27,
-          "change_pct": -2.265,
+          "change_amount": -0.24,
+          "change_pct": -2.013,
           "high": 11.97,
           "low": 11.63,
           "name": "中航机载",
           "open": 11.89,
           "previous_close": 11.92,
-          "price": 11.65,
+          "price": 11.68,
           "source_name": "中航机载",
-          "source_timestamp": "2026-09-14 14:17:38",
+          "source_timestamp": "2026-09-14 15:34:59",
           "status": "current",
           "symbol": "sh600372",
           "ticker": "600372.SH",
-          "volume": 35150548.0
+          "volume": 38959082.0
         },
         {
-          "change_amount": -0.24,
-          "change_pct": -1.649,
+          "change_amount": -0.22,
+          "change_pct": -1.512,
           "high": 14.64,
           "low": 14.27,
           "name": "航天电子",
           "open": 14.5,
           "previous_close": 14.55,
-          "price": 14.31,
+          "price": 14.33,
           "source_name": "航天电子",
-          "source_timestamp": "2026-09-14 14:17:39",
+          "source_timestamp": "2026-09-14 15:34:59",
           "status": "current",
           "symbol": "sh600879",
           "ticker": "600879.SH",
-          "volume": 43910352.0
+          "volume": 50505460.0
         },
         {
-          "change_amount": -0.08,
-          "change_pct": -0.542,
+          "change_amount": -0.14,
+          "change_pct": -0.949,
           "high": 14.88,
           "low": 14.51,
           "name": "航天发展",
           "open": 14.75,
           "previous_close": 14.75,
-          "price": 14.67,
+          "price": 14.61,
           "source_name": "航天发展",
-          "source_timestamp": "2026-09-14 14:17:39",
+          "source_timestamp": "2026-09-14 15:36:00",
           "status": "current",
           "symbol": "sz000547",
           "ticker": "000547.SZ",
-          "volume": 33588830.0
+          "volume": 39636730.0
         },
         {
           "change_amount": -0.73,
@@ -190,49 +193,49 @@
           "previous_close": 19.99,
           "price": 19.26,
           "source_name": "航天彩虹",
-          "source_timestamp": "2026-09-14 14:17:39",
+          "source_timestamp": "2026-09-14 15:35:45",
           "status": "current",
           "symbol": "sz002389",
           "ticker": "002389.SZ",
-          "volume": 23118697.0
+          "volume": 27240598.0
         },
         {
-          "change_amount": -0.01,
-          "change_pct": -0.043,
+          "change_amount": -0.03,
+          "change_pct": -0.13,
           "high": 23.31,
           "low": 22.6,
           "name": "广联航空",
           "open": 22.91,
           "previous_close": 23.08,
-          "price": 23.07,
+          "price": 23.05,
           "source_name": "广联航空",
-          "source_timestamp": "2026-09-14 14:17:39",
+          "source_timestamp": "2026-09-14 15:35:15",
           "status": "current",
           "symbol": "sz300900",
           "ticker": "300900.SZ",
-          "volume": 5735600.0
+          "volume": 6703216.0
         },
         {
-          "change_amount": -1.1,
-          "change_pct": -2.47,
+          "change_amount": -1.12,
+          "change_pct": -2.515,
           "high": 44.54,
           "low": 41.88,
           "name": "中无人机",
           "open": 44.02,
           "previous_close": 44.53,
-          "price": 43.43,
+          "price": 43.41,
           "source_name": "中无人机",
-          "source_timestamp": "2026-09-14 14:17:37",
+          "source_timestamp": "2026-09-14 15:34:59",
           "status": "current",
           "symbol": "sh688297",
           "ticker": "688297.SH",
-          "volume": 13675405.0
+          "volume": 15894360.0
         }
       ],
-      "quoted_instrument_count": 11,
+      "quoted_instrument_count": 10,
       "quoted_member_count": 10,
       "sector_id": "china",
-      "status": "current",
+      "status": "partial",
       "unchanged": 0
     },
     "united_states": {
@@ -267,11 +270,11 @@
           "previous_close": 204.8,
           "price": 210.45,
           "source_name": "波音",
-          "source_timestamp": "2026-09-12 09:49:40",
+          "source_timestamp": "2026-09-14 16:03:33",
           "status": "current",
           "symbol": "gb_ba",
           "ticker": "BA",
-          "volume": 4141209.0
+          "volume": 4141124.0
         },
         {
           "change_amount": -5.93,
@@ -283,11 +286,11 @@
           "previous_close": 530.12,
           "price": 524.19,
           "source_name": "洛克希德马丁",
-          "source_timestamp": "2026-09-12 09:41:35",
+          "source_timestamp": "2026-09-14 16:02:01",
           "status": "current",
           "symbol": "gb_lmt",
           "ticker": "LMT",
-          "volume": 987773.0
+          "volume": 987752.0
         },
         {
           "change_amount": -0.44,
@@ -299,11 +302,11 @@
           "previous_close": 198.12,
           "price": 197.68,
           "source_name": "RTX",
-          "source_timestamp": "2026-09-12 09:44:57",
+          "source_timestamp": "2026-09-14 16:02:33",
           "status": "current",
           "symbol": "gb_rtx",
           "ticker": "RTX",
-          "volume": 3680583.0
+          "volume": 3680582.0
         },
         {
           "change_amount": 0.02,
@@ -315,11 +318,11 @@
           "previous_close": 518.95,
           "price": 518.97,
           "source_name": "诺斯洛普",
-          "source_timestamp": "2026-09-12 09:42:52",
+          "source_timestamp": "2026-09-14 16:01:05",
           "status": "current",
           "symbol": "gb_noc",
           "ticker": "NOC",
-          "volume": 588207.0
+          "volume": 588108.0
         },
         {
           "change_amount": 1.65,
@@ -331,7 +334,7 @@
           "previous_close": 354.25,
           "price": 355.9,
           "source_name": "通用动力",
-          "source_timestamp": "2026-09-12 09:39:00",
+          "source_timestamp": "2026-09-14 16:03:36",
           "status": "current",
           "symbol": "gb_gd",
           "ticker": "GD",
@@ -347,11 +350,11 @@
           "previous_close": 248.37,
           "price": 245.54,
           "source_name": "L3 HARRIS TECHNOLOGIES INC",
-          "source_timestamp": "2026-09-12 09:39:52",
+          "source_timestamp": "2026-09-14 16:02:16",
           "status": "current",
           "symbol": "gb_lhx",
           "ticker": "LHX",
-          "volume": 1924090.0
+          "volume": 1924057.0
         },
         {
           "change_amount": 1.7,
@@ -363,11 +366,11 @@
           "previous_close": 227.91,
           "price": 229.61,
           "source_name": "HWM",
-          "source_timestamp": "2026-09-12 09:39:55",
+          "source_timestamp": "2026-09-14 16:04:31",
           "status": "current",
           "symbol": "gb_hwm",
           "ticker": "HWM",
-          "volume": 3731149.0
+          "volume": 3730861.0
         },
         {
           "change_amount": 13.44,
@@ -379,11 +382,11 @@
           "previous_close": 1126.88,
           "price": 1140.32,
           "source_name": "TransDigm",
-          "source_timestamp": "2026-09-12 09:46:21",
+          "source_timestamp": "2026-09-14 16:00:15",
           "status": "current",
           "symbol": "gb_tdg",
           "ticker": "TDG",
-          "volume": 375324.0
+          "volume": 375322.0
         },
         {
           "change_amount": 0.99,
@@ -395,11 +398,11 @@
           "previous_close": 61.96,
           "price": 62.95,
           "source_name": "RKLB",
-          "source_timestamp": "2026-09-12 09:45:50",
+          "source_timestamp": "2026-09-14 16:04:47",
           "status": "current",
           "symbol": "gb_rklb",
           "ticker": "RKLB",
-          "volume": 15391388.0
+          "volume": 15391320.0
         },
         {
           "change_amount": -0.05,
@@ -411,11 +414,11 @@
           "previous_close": 59.91,
           "price": 59.86,
           "source_name": "ASTS",
-          "source_timestamp": "2026-09-12 08:14:39",
+          "source_timestamp": "2026-09-14 16:04:42",
           "status": "current",
           "symbol": "gb_asts",
           "ticker": "ASTS",
-          "volume": 6662746.0
+          "volume": 6662736.0
         }
       ],
       "quoted_instrument_count": 10,
