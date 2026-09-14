@@ -1,128 +1,148 @@
 {
-  "as_of_date": "2026-09-13",
+  "as_of_date": "2026-09-14",
   "companies": [
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_types": {
-        "launch": 2,
-        "other": 1
-      },
-      "item_count": 3,
-      "latest_title": "SpaceX Starlink satellite 'train' seen from International Space Station"
-    },
     {
       "company_id": "space_pioneer",
       "company_name": "天兵科技",
       "event_types": {
         "launch": 1,
+        "other": 4
+      },
+      "item_count": 5,
+      "latest_title": "天龙三号火箭年底复飞！我国多款复用火箭接连突破，到底有多难？ - sohu.com"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_types": {
+        "launch": 1,
         "other": 2
       },
       "item_count": 3,
-      "latest_title": "天龙三号遥二运载火箭完成总装、总测，预计今年第四季度择机复飞 - 新浪财经"
+      "latest_title": "SpaceX is about to fly Starship on its first real orbital mission, carrying a stack of Starlink satellites"
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
       "event_types": {
-        "launch": 1
+        "other": 1
       },
       "item_count": 1,
-      "latest_title": "Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract"
+      "latest_title": "2025年亏损17亿，预计2029年盈利！蓝箭航天冲刺“商业航天第一股” - wenxuan.news"
     }
   ],
   "company_count": 3,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 4,
-    "other": 3
+    "launch": 2,
+    "other": 7
   },
-  "generated_at": "2026-09-13T06:09:18.062176Z",
-  "period_end": "2026-09-12",
-  "period_start": "2026-09-12",
-  "report_date": "2026-09-12",
+  "generated_at": "2026-09-14T06:17:39.763195Z",
+  "period_end": "2026-09-13",
+  "period_start": "2026-09-13",
+  "report_date": "2026-09-13",
   "schema_version": "daily_document.v1",
   "source_count": 6,
   "source_counts": {
-    "TradingKey": 1,
-    "bing.com": 1,
-    "finance.biggo.com": 1,
-    "space.com": 1,
+    "Jiemian.com": 1,
+    "bing.com": 3,
+    "sohu.com": 1,
+    "wenxuan.news": 1,
     "新浪财经": 2,
-    "每日经济新闻": 1
+    "财联社": 1
   },
-  "summary": "2026-09-12 共归档 7 条新闻，覆盖 3 家公司、6 个信息来源。 新闻量较多的公司包括 SpaceX、天兵科技、Blue Origin。",
+  "summary": "2026-09-13 共归档 9 条新闻，覆盖 3 家公司、6 个信息来源。 新闻量较多的公司包括 天兵科技、SpaceX、蓝箭航天。",
   "top_items": [
     {
-      "company_id": "space_pioneer",
-      "company_name": "天兵科技",
-      "event_type": "launch",
-      "item_id": "af9a5eb2a59669a1",
-      "published_at": "2026-09-12T14:08:00Z",
-      "source_name": "新浪财经",
-      "title": "天龙三号遥二运载火箭完成总装、总测，预计今年第四季度择机复飞 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52N1l2bDZDeG1lZ2VMNzZnVlVLU0psLWhTbHgwNHFVNjF4QVF1OW4takpOdVhxQ1dyeF9DVC15VmtVV2Fkbkd1Z29IYlZsOFNScTBiTkl6UE8zNkRqY09HNGs4cTA0WGNBMmNRS18zSUlUazc3VHQxUnNTOU95eXM?oc=5"
-    },
-    {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "bd286eb1a87da85e",
-      "published_at": "2026-09-12T10:10:00Z",
+      "item_id": "5d9664ff9a09c7fc",
+      "published_at": "2026-09-13T12:55:00Z",
       "source_name": "bing.com",
-      "title": "SpaceX Starlink satellite 'train' seen from International Space Station",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa5ab5e7c3241399c3daae538e4e025&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-starlink-satellite-train-seen-from-international-space-station%2Fvi-AA2c5mgX&c=408983336966998227&mkt=en-us"
+      "title": "SpaceX is about to fly Starship on its first real orbital mission, carrying a stack of Starlink satellites",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa752ea3eeb4ecabcdddb77a1cfd9b7&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-is-about-to-fly-starship-on-its-first-real-orbital-mission-carrying-a-stack-of-starlink-satellites%2Far-AA2c8JFR&c=8749849953370325308&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "a4a44ff4a71aeea3",
+      "published_at": "2026-09-13T12:02:09Z",
+      "source_name": "bing.com",
+      "title": "SpaceX Falcon 9 fairing cameras capture amazing views of separation",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa6ffb3ecf6400293d1c6c5f1db6044&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-falcon-9-fairing-cameras-capture-amazing-views-of-separation%2Fvi-AA2c8YBe&c=11270717142602709922&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "ad973ccc7c79dd24",
+      "published_at": "2026-09-13T12:01:59Z",
+      "source_name": "bing.com",
+      "title": "SpaceX Starlink satellites deployed in stunning view from space",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aa6ffb3d88b43c09e860dbc5a3bfe34&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-starlink-satellites-deployed-in-stunning-view-from-space%2Fvi-AA2c8kUS&c=3904254701083554992&mkt=en-us"
     },
     {
       "company_id": "space_pioneer",
       "company_name": "天兵科技",
       "event_type": "other",
-      "item_id": "2ac5c06443a13a85",
-      "published_at": "2026-09-11T23:38:00Z",
+      "item_id": "768d6a398f67f72a",
+      "published_at": "2026-09-13T07:44:00Z",
+      "source_name": "sohu.com",
+      "title": "天龙三号火箭年底复飞！我国多款复用火箭接连突破，到底有多难？ - sohu.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVDhmeXhlNWVORkJOTFhScjRiTGVqSUxwbktNQmUzSzBvYlItZktJSmtCVi1MVm5ZSXBickpHODZaVWFwdkRPdnpHbVpNbmdQbVpwUmhGUU5UQ216aFlibW1UMmpiaFlkWW15dXM1ZFVtcjVXcl9FSF85MG4wU196cUx2TldFdFltXzlOUQ?oc=5"
+    },
+    {
+      "company_id": "space_pioneer",
+      "company_name": "天兵科技",
+      "event_type": "other",
+      "item_id": "fdfea3d19b7768fb",
+      "published_at": "2026-09-12T17:02:00Z",
       "source_name": "新浪财经",
-      "title": "天龙三号遥一火箭飞行失利原因查明 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KUHVDNHY4RWFmcGFWalMyRTVTQ1IybnYwbXFwYmFpNEY1cTMtaGMtRDZhSXVlM0ZKSTg5VTZ0eThqd3N5a0JYclVrVWJYZEFycGlsQVczNGhZdHhPNGNWLVlhcEhBaGxETGNUSUl3WXZwTVBfRkpEWQ?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "0bb339340646e9a9",
-      "published_at": "2026-09-11T22:06:42Z",
-      "source_name": "space.com",
-      "title": "Rocket Lab protests NASA's decision to award Blue Origin $700 million Mars orbiter contract",
-      "url": "https://www.space.com/space-exploration/missions/rocket-lab-protests-nasas-decision-to-award-blue-origin-usd700-million-mars-orbiter-contract"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "c359a658dc7adfdb",
-      "published_at": "2026-09-11T18:38:00Z",
-      "source_name": "finance.biggo.com",
-      "title": "SpaceX CFO: Starship to Launch Upgraded Starlink Satellites This Month, Set to Begin Generating Revenue - finance.biggo.com",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96S2MwODBLaFFhWWxPR0xMXzRpQ2ROUWFhYklZUkx4c2xSNlVyUF82RjdaMlpmUFVwRVBXR0FxbmFQVk5odmlFWnpSQjJVelJIMlJxMTlESkY0bFFfbVB0NGtteXpzQl83QUZYaDFUc2pxRGYwamc?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "6ae37b12cf1145e6",
-      "published_at": "2026-09-11T17:51:05Z",
-      "source_name": "TradingKey",
-      "title": "SpaceX Reportedly Plans to Deploy First V3 Starlink Satellites With Starship Next Week - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX1RxOThUclJjRDN4M29RZ0Z3UXRmM1Bwc1k0QXI1akhmTWZVbHl0SEtXUkFJSlFnTkxWTXpQQjY5dXE1cEZNZ2swRGZISnZ6amwtX1dOd3MxcXE4VnpJN0FwbFVLOGpkd1RBeERTQW1wZ3JTX01Va3JzbXJzR1ZmclJYRGJxWUNaUkR3VXBUV0dYU0twbjB4bFA5ampCZnZ0NUFlcFhIM0pyNG1iZGZRbDI4UkdCenoxWEx0UmRfSjNQMms2R0lNNVdJdEt3aWJCT2gySTdOZElBVVM5dEJBR21QVHhqNDA3RTFB?oc=5"
+      "title": "天龙三号遥一火箭飞行失利，原因查明！ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qSE9oNldVbGxtRHlWVENVR2ZrY2NjWUhXVnptYlRrTlowQ202ODlvRHRrYzVkTXN1dUljWW1ROTJGWTlxNHFQclJuRFdoLW1qT0xILTlpQ1VYWWp4YmlIcTFHSlg4OTFIMllRY1lfWHFCVTdaOEE?oc=5"
     },
     {
       "company_id": "space_pioneer",
       "company_name": "天兵科技",
       "event_type": "other",
-      "item_id": "396d7e3c770a7304",
-      "published_at": "2026-09-12T04:09:00Z",
-      "source_name": "每日经济新闻",
-      "title": "天龙三号官宣“归零” 天兵科技：行业机会窗口仍在，不会为保成功降低火箭性能 - 每日经济新闻",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xa0t4Y1lJdFpoeU5saTFvblpINTU0UDRIakt6MHpjMDFrTld0OW1DWGs4ZktLcHNUVmViQnBCTHF6M2o5M3NVeHRocDkzOGprVWpFSDdZZ1I2ME04ZHREWnF3akNQUQ?oc=5"
+      "item_id": "95547250b0b421ce",
+      "published_at": "2026-09-13T10:55:00Z",
+      "source_name": "新浪财经",
+      "title": "天龙三号官宣“归零” - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tdEpoYWZ5QWpiUWhwemVxV1M1eWtwRUJLeXpKXzF4Q3MyTkxVajhFS0M5Zm9pWnZvQUxKSWwxeThSMzFBYVJ1cUduZ25ubGJFT09VZHp4cFBuUzhxX0R1N08zUkVhT1ppNGQtMWw3UFdqRDBYc1A2Xw?oc=5"
+    },
+    {
+      "company_id": "space_pioneer",
+      "company_name": "天兵科技",
+      "event_type": "launch",
+      "item_id": "95b18808ba7bd115",
+      "published_at": "2026-09-13T08:02:49Z",
+      "source_name": "Jiemian.com",
+      "title": "天龙三号预计拟于4月2日首飞 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hU28tS2lIREhIV1ZuZFo2YThqN2YxTHh0Z1VXelh3TmxBdjhyRmhLWHdLdVpOU2JUR1JUbXdYOEJlWWRfamwweWVxTjRmcVY3OXhhdURVQTM?oc=5"
+    },
+    {
+      "company_id": "space_pioneer",
+      "company_name": "天兵科技",
+      "event_type": "other",
+      "item_id": "ff23e50619f7e1f5",
+      "published_at": "2026-09-13T09:42:00Z",
+      "source_name": "财联社",
+      "title": "天兵科技回应天龙三号失利：遥二火箭预计今年四季度择机复飞，不会为保成功降低性能 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5XUXBNa21DQ2NjemdIUUxrLS1HZk8tcXVyN29xM2psZjF1ZTBRbWIxLUtKTTlmOHRvR2RSVVo0dHlweUFhWTZrag?oc=5"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "other",
+      "item_id": "dc2d1222b819e386",
+      "published_at": "2026-09-13T08:05:49Z",
+      "source_name": "wenxuan.news",
+      "title": "2025年亏损17亿，预计2029年盈利！蓝箭航天冲刺“商业航天第一股” - wenxuan.news",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Cd3BLQS1ZV29KYzlsamduQ3RTYzh2TGhpcjJqbjFMTERzTENoTDc4VWhZT2RCc2xXdzhWb2NGU2hYYU90cm5nSURXQk1fZHpOaEMyVU4waWRnZ0tjUDBmRA?oc=5"
     }
   ],
-  "total_items": 7
+  "total_items": 9
 }
