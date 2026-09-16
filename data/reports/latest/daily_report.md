@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-09-16
 
-- Report ID: daily-2026-09-16-f67aa94e
-- Source run: b8cb7b57-1598-406b-9dd0-49a28cd4f7f0
+- Report ID: daily-2026-09-17-6dacc4dd
+- Source run: d8071f91-c569-4261-9fda-e7733efe4c96
 - Generation status: skipped_no_secret
-- Companies covered: 6
-- Total items: 33
+- Companies covered: 2
+- Total items: 5
 
 ## Executive Summary
 
-2026-09-16 共收录 33 条新闻，覆盖 6 家公司。新闻量靠前的公司包括 SpaceX、垣信卫星、蓝箭航天。
+2026-09-17 共收录 5 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、垣信卫星。
 
 ## Industry Chain Sections
 
@@ -16,63 +16,32 @@
 
 No LLM summary.
 
-- [微纳星空3 年累计亏损10.93亿 IPO问询次日便因为串标被军采暂停 - 新浪财经](https://news.google.com/rss/articles/CBMif0FVX3lxTFBISGFxc3U1X3RfaUFyUnhSWDVNU1lJTVNnaTZKVEh2QUc0bTQ1UGMtYWlfUFpFTXhGMW56dl9MNTlUSFJCbS13TFhOX1otOG1YS1Vxc0hCdU5xeFVQU0tmN3BaSEIzdjNJR29tUFJsSnBBZENNNlRtTEE4RGdxbUU?oc=5) 微纳星空
 
 ### 运载火箭与发射服务
 
 No LLM summary.
 
-- [朱雀二号改进型火箭发射成功 中国民营航天迈入批量组网新阶段 - 香港01](https://news.google.com/rss/articles/CBMiywNBVV95cUxPaXdBUnR5VE9hbFRjU2lIeDNYU3BIVVI3Z01DZmtZRmZEaDRmZlRtVExDWjB2cnJ3ajFDNHV6eDBNZVM3bmVpT3Fsb0xTeFZZN2c3WVVGSFdFVkFfRE8zaFJDMlFUci1wbHROOVdieWZ2dXRyQ0NVSU5OUGlRVkRkenl6SlFLSGt6QXFyZFo4M1hidUxpWkQ1Z0FnYlBfS3JnS1lMNm9obEZ0ZUlKUVJETnNIQUpTeHZIQVgyckV2M2RHQzBITmhjaWtEMnlzcUNCZTk0ejFXYjV1eGJvbktQQ3kxakJuMzlsVnNmQ2tPMlpOY1BrdzVUVjh4Q2FOWVB1eXZDeTd5bG82Zkxvc2VucFUteTEza3p4dUZNN01odzFMT2lCQ05zcXltZlhCRk1ncDE0SkZEcVVLMlFGc2E5YzNPOWZ4b2lrOHJxaXdRbUotVGl0Z3MwOXdjWGZNRmh0UFMybXpuNWpkOWJoR2E0XzN2ZEtpd3I3RFNuTjVPeGFjd1luVFg4SF9jUnRpeF9fN3NEczhvRk1uOEdUNWpJR1B6cTJLQ1NTZEdJNVZXUVRMZFNkdjNqOUNlTW92R2VJVzgzUVlTTUFaRzA?oc=5) 蓝箭航天
-- [朱雀三号已经回收了，我反而建议你关注朱雀二号丨空天侦探社 - sichuan.scol.com.cn](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DeVoyLWVJU3VTbTVjWFRqS3dzNVZXQS1wLVpZUDV1V056VFJnZ3JGZ1BaQnRWTTczQ3Q1RTcxU0dudjRWb0dkTUdNU3hoLW5ySWQyeUEwbzlrVGFld3VIWGs3OA?oc=5) 蓝箭航天
-- [蓝箭航天董事长张昌武是工商管理硕士 是全日制学历吗？ - 新浪财经](https://news.google.com/rss/articles/CBMif0FVX3lxTE0tdGtMaU9hcEhUNGlSSmpjVGpFRDdjdmZVWWM3ODgwdk9DZE41MlJtb254TkwwNzRheDJZLWNGTVVRdTM5NUxWS1NrcUJyV3Y4VkZZNlRCa3BzZWJ2bG9GT19RaTJ6eklTMko4eGlNUVFpWHJNWUtCcXBRa0VvelE?oc=5) 蓝箭航天
-- [东海海域首次千帆星座组网卫星发射成功，预计年底正式全球商业化运营 - 新浪财经](https://news.google.com/rss/articles/CBMinAVBVV95cUxNR0E4Q2tNSE8xZUtHZlM2Z1dGcHB5NWpoTWRocFI5eWs5Nk1iclRaeXFZazZ3aXhMMDR0YzZ3aEg4b2ZOY0xDaXFaV0luSlpqeDZCZzhKakpKQlZIbjJCcjdSVHE0akVDNERENThEM082TWVEVkRCcWVoMnAtdUJLQTJKbzhuazhDUmFpeU5uR3Fib0FKbGdwaUF0THhpQU1lVldaV21ZU201QVBsQkxlbHMtQW5wbWtDcHpuOFQ1Wm1yQkk5NkpNRTRwTWNtUmExY3N4OXdxMWtxTkpGVGdqbkF3a2ZadVdnSWUyR3RTTU5MMHBnVmVVc2dNQ3Q3TVdmdmVHQUxDaHFmQTVhSXRrVExQU3l2NlJ1dzFQcG5mcHFxalVSRWJYaUxuN0RzZjdBM2xHd09zZ3NYdHAySEQ2NW9IVTVSUjRMLVlmVzViQ3NvWnRhVlUtaGM4V3FORnE4YzRMU2pxUlBBMnduenlXaUNFNTl3MGh0ZUlOeGhOVW42NVpjVlk1dGp1UkJlYjRKVVRsZm8yNUlpYjBJRnRWcm5hSWpKMnNXdmhnbUliUm5qb1BhNGtGLW5tU2ZjZDFQQ192UTJmejdVN3J4d1JMQ2tFdE93Q1M5VS1kNnlxZWRmNTdsMk5nWThrYnBtRlg4TVhjWVZHOXNIMXFLUXA5c3ZGMjlTeVQ3YzJvdnNLMkc1cXNKa2Z3NnFhRm14WVNVNVhJNC1sekZvOUVjSTE2SzNuNTJuOXFqdmdKY0JDTHYyckpPc2RpS2VNSmF3X01wQllfX1p1ZzYtY3hFR01UbmFqYmdBbnVDdTZUVVpycVVpd3MzRU1zaGEtMFcwd2hDMHI0Tk1SUjgtdVg3UnZrbkYxeExnMmkwNDVTOQ?oc=5) 垣信卫星
-- [朱雀二号改进型遥七火箭成功发射千帆星座10颗卫星_手机新浪网 - 新浪财经](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGp0NWlGV2d3QUtmSEVkd2sxOU10SXAyMmRXb3lJak9pNmw5WUpFZkxCSUo5aFBfZXdoazAtb0pVQzRQeDBRTGJTSUxaM1owTXpJZlB6b1pISUhodE51SjV6NURJNEpGLWtzNzE3U3FhcUZvWllCN05xbU1RTzM4TTV3ekk4Qk5kbDJnR2VkVjdxX2NaZFBwc1lKaDBWdEVyUmNpaU5XZw?oc=5) 垣信卫星
-- [朱雀火箭再升空，达成民营航天首次！专访蓝箭航天相关负责人 - cs.zjol.com.cn](https://news.google.com/rss/articles/CBMiakFVX3lxTE05Y18zdktMT3NVaWh3VVR5eVI3TVg0S1ZoVjZLbHhJX1VFLUFRZTdUVGlfLW9qYUJmUjh3eU9vaElSUzNOeXpPVmdKU0JiMlZERWZsUVRTQUpsbzdrU0RMRXQzYlBkY1lGLXc?oc=5) 蓝箭航天
+- [海上发射首战告捷 千帆星座迈入工业化组网阶段 - 上海证券报电子版](https://news.google.com/rss/articles/CBMibkFVX3lxTE1WRHF0eFl1ZFpObkR4OFBlSXhId3M3TUxDNlh6bnpQal9rbnpKbEhtQmt0c2dmU0ItMTgwOU4xMk5vRWVzNTZUSFB2UFdFcS1Fc2NqWkE5d2tveTlndXRWZmhqNVBrSlJpT1I1dTB3?oc=5) 垣信卫星
 
 ### 卫星互联网服务
 
 No LLM summary.
 
-- [中国星网董事长：开通北斗短信公众用户量已增至4.5亿 - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTE5wcVlJSXlQZjJLenEtSHI1alJmSVE2ZTNKOEMtUzZHMHZrbE1MNGZwcUhENWJqQXJJSG9xeWFSSXhObE01bnhlRktQMWowVzZyQWEyOXdDV28zeVl0UW1ZRWlidHlaaXI2b1UzYjU3T3hEMjV0LTlUNQ?oc=5) 中国星网
-- [松江企业垣信卫星两日两发，千帆星座增至256颗 - 上观新闻](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OSlJ3UE5NWmM5ZWhSMF9IWXc2cENqM2JlWGd0RzVISk9pV1BqeUk3alY2NzFtM0RNUktXeElhT1JoQnRVd3hKNXdNTmpjS3dTRXJQQ2paVGw?oc=5) 垣信卫星
-- [中国星网董事长苟坪：推动北斗短信手机功能预置 - 中证网](https://news.google.com/rss/articles/CBMieEFVX3lxTE5xYkJlUEV3MTlad0hoNlVxdlpVc0l1dFVLNmJXZ2w0QTBtWm1mY29JemUtbk1YTzc0ODVNc2ltMnJ0M2ZRdDZDRlJvbDhWRDR4bDlrR09DOGlzZ0ZZSXdUV003SFE0Q081aThKdE9IY0swNnlSWUUtbQ?oc=5) 中国星网
-- [银河航天在老挝实现低轨卫星互联网试验验证 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlOE1Db3RyR2NuMHN4amJxdVVfTTVfc3p3dDFDNGhRMzZNUjY2MFRpN0U4aUdxdktFdEFCd2w1YnNQTDRVcWZuQUpxTlVBc3VjLVJqNFRPQzRRQW8t?oc=5) 银河航天
-- [泰伯早报| 9月16日：千帆星座增至256颗；福建省发文支持民营企业投资低空基础设施；北斗规模应用国际峰会拟签约投资及合同项目达55.4亿元 - 泰伯网](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5xYndYdzYtYkxoQ2FjZmcxM0pSd19KR28zcnJuNHJHVjRjR3FQZkw4cEJQSXlMaG8tQVQwd054WUtvZw?oc=5) 垣信卫星
-- [一发10颗 千帆星座增至248颗 - 新浪财经](https://news.google.com/rss/articles/CBMihgFBVV95cUxQMG5ScllNX29HTXNJRERtblppM3M1bmRVOWJjUS1VUmJ6VnZMN3I2dU1OaHFFamdtbzVRTkU5NEdUUUpIQVNmYzUycTQ5Ynd1Y1IxT2VMejYwX0pRamFoV25ILUJYTEJHaXdvSHY3Zk5sVWRvMEk0WmR4ZzZQelNTaERGZHBYQQ?oc=5) 垣信卫星
 
 ### 国外大厂
 
 No LLM summary.
 
-- [No Pressure: A Massive Starlink Upgrade Hinges on SpaceX's Next Starship Launch - PCMag](https://news.google.com/rss/articles/CBMingFBVV95cUxPemp0V0hPZGZPWExpSGxPT3lXdG5Cb3A2Mi12Sm52aE1vZUNXcDQ5RXY0NGNRZkNKUmw5a1g2ZmV2RVhCYTRBc19TRl9sSU1fT05HV0RHd1ZvZVN0WEhyWE5qMGRKTDVqblFpajVvV0FOSldkVGVjbDhLamhPUGVydHN4am1zN09YSUNxYTB5c1ZiN3NEclNiVDBCTF92Zw?oc=5) SpaceX
-- [Avio CEO Reports Influx of Customers Turned Away by SpaceX](https://europeanspaceflight.com/avio-ceo-reports-influx-of-customers-turned-away-by-spacex) SpaceX
-- [Starship Flight 14 Targets First Orbit Sep 22, X Report 16 Sep 2026 - keeptrack.space](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kQmNpUEl5aVFxRlBKc2ZTOGxxaXhOb08yZ0pCb1N5bEFncVVVQUY2N1RkbFpScHFnNjlqT0dnXzZJRTJhNEJwdFVjMi1KV251X2JZQ1FsZkFZOFlIbWc0dlFkNnBrNWc?oc=5) SpaceX
-- [SpaceX scrubs Vandenberg launch of national security payload, targets backup window on Wednesday - Spaceflight Now](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNc2FQMWhncGJYdUlqcENJaEMyOG1jdWxZODU5OEFTOGFvNl9qTTR1NC1TZlcxYmp4MEJ6SkFYUHMwN0hja3NKVWdWeHM3WC1uOGtBcHVqSTFZOXJQdS0wTFRGOUlvSVlndV9zdDBqTWNNMkRBeE8xOTl2NXdIWTRuMGtvOHRjLWx5SU1SNktmVVJQWmU3bFN3T2ZiSElwV2NqcXhQLXJEM1NCOEZtc1I1S3Q4SVNnRnVCTmttRE1MRXBxOXh3VmI5V25SSUYwMjBXSWtpbVNCZFV3S1ZrM2pBMjRrMEJfaUh0M1E?oc=5) SpaceX
-- [Starship to Attempt First Orbital Flight Next Week](https://spacepolicyonline.com/news/starship-to-attempt-first-orbital-flight-next-week) SpaceX
-- [SpaceX tells prospective Falcon 9 commercial customers that the rocket is no longer accepting new reservations](https://www.spaceintelreport.com/spacex-tells-prospective-falcon-9-commercial-customers-that-the-rocket-is-no-longer-accepting-new-reservations) SpaceX
+- [SpaceX Falcon 9 rocket-landing team gets 1st-ever Neil Armstrong Space Prize](https://www.space.com/space-exploration/spacex-falcon-9-rocket-landing-team-gets-1st-ever-neil-armstrong-space-prize) SpaceX
+- [No Pressure: A Massive Starlink Upgrade Hinges on SpaceX's Next Starship Launch - pcmag.com](https://news.google.com/rss/articles/CBMingFBVV95cUxPemp0V0hPZGZPWExpSGxPT3lXdG5Cb3A2Mi12Sm52aE1vZUNXcDQ5RXY0NGNRZkNKUmw5a1g2ZmV2RVhCYTRBc19TRl9sSU1fT05HV0RHd1ZvZVN0WEhyWE5qMGRKTDVqblFpajVvV0FOSldkVGVjbDhLamhPUGVydHN4am1zN09YSUNxYTB5c1ZiN3NEclNiVDBCTF92Zw?oc=5) SpaceX
+- [D-Orbit, Exotrail and Portal Space Systems on what happens if Falcon 9 quits the commercial market](https://www.spaceintelreport.com/d-orbit-exotrail-and-portal-space-systems-on-what-happens-if-falcon-9-quits-the-commercial-market) SpaceX
 
 ## Top News
 
-- [朱雀二号改进型火箭发射成功 中国民营航天迈入批量组网新阶段 - 香港01](https://news.google.com/rss/articles/CBMiywNBVV95cUxPaXdBUnR5VE9hbFRjU2lIeDNYU3BIVVI3Z01DZmtZRmZEaDRmZlRtVExDWjB2cnJ3ajFDNHV6eDBNZVM3bmVpT3Fsb0xTeFZZN2c3WVVGSFdFVkFfRE8zaFJDMlFUci1wbHROOVdieWZ2dXRyQ0NVSU5OUGlRVkRkenl6SlFLSGt6QXFyZFo4M1hidUxpWkQ1Z0FnYlBfS3JnS1lMNm9obEZ0ZUlKUVJETnNIQUpTeHZIQVgyckV2M2RHQzBITmhjaWtEMnlzcUNCZTk0ejFXYjV1eGJvbktQQ3kxakJuMzlsVnNmQ2tPMlpOY1BrdzVUVjh4Q2FOWVB1eXZDeTd5bG82Zkxvc2VucFUteTEza3p4dUZNN01odzFMT2lCQ05zcXltZlhCRk1ncDE0SkZEcVVLMlFGc2E5YzNPOWZ4b2lrOHJxaXdRbUotVGl0Z3MwOXdjWGZNRmh0UFMybXpuNWpkOWJoR2E0XzN2ZEtpd3I3RFNuTjVPeGFjd1luVFg4SF9jUnRpeF9fN3NEczhvRk1uOEdUNWpJR1B6cTJLQ1NTZEdJNVZXUVRMZFNkdjNqOUNlTW92R2VJVzgzUVlTTUFaRzA?oc=5) 蓝箭航天
-- [No Pressure: A Massive Starlink Upgrade Hinges on SpaceX's Next Starship Launch - PCMag](https://news.google.com/rss/articles/CBMingFBVV95cUxPemp0V0hPZGZPWExpSGxPT3lXdG5Cb3A2Mi12Sm52aE1vZUNXcDQ5RXY0NGNRZkNKUmw5a1g2ZmV2RVhCYTRBc19TRl9sSU1fT05HV0RHd1ZvZVN0WEhyWE5qMGRKTDVqblFpajVvV0FOSldkVGVjbDhLamhPUGVydHN4am1zN09YSUNxYTB5c1ZiN3NEclNiVDBCTF92Zw?oc=5) SpaceX
-- [Avio CEO Reports Influx of Customers Turned Away by SpaceX](https://europeanspaceflight.com/avio-ceo-reports-influx-of-customers-turned-away-by-spacex) SpaceX
-- [中国星网董事长：开通北斗短信公众用户量已增至4.5亿 - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTE5wcVlJSXlQZjJLenEtSHI1alJmSVE2ZTNKOEMtUzZHMHZrbE1MNGZwcUhENWJqQXJJSG9xeWFSSXhObE01bnhlRktQMWowVzZyQWEyOXdDV28zeVl0UW1ZRWlidHlaaXI2b1UzYjU3T3hEMjV0LTlUNQ?oc=5) 中国星网
-- [朱雀三号已经回收了，我反而建议你关注朱雀二号丨空天侦探社 - sichuan.scol.com.cn](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DeVoyLWVJU3VTbTVjWFRqS3dzNVZXQS1wLVpZUDV1V056VFJnZ3JGZ1BaQnRWTTczQ3Q1RTcxU0dudjRWb0dkTUdNU3hoLW5ySWQyeUEwbzlrVGFld3VIWGs3OA?oc=5) 蓝箭航天
-- [蓝箭航天董事长张昌武是工商管理硕士 是全日制学历吗？ - 新浪财经](https://news.google.com/rss/articles/CBMif0FVX3lxTE0tdGtMaU9hcEhUNGlSSmpjVGpFRDdjdmZVWWM3ODgwdk9DZE41MlJtb254TkwwNzRheDJZLWNGTVVRdTM5NUxWS1NrcUJyV3Y4VkZZNlRCa3BzZWJ2bG9GT19RaTJ6eklTMko4eGlNUVFpWHJNWUtCcXBRa0VvelE?oc=5) 蓝箭航天
-- [东海海域首次千帆星座组网卫星发射成功，预计年底正式全球商业化运营 - 新浪财经](https://news.google.com/rss/articles/CBMinAVBVV95cUxNR0E4Q2tNSE8xZUtHZlM2Z1dGcHB5NWpoTWRocFI5eWs5Nk1iclRaeXFZazZ3aXhMMDR0YzZ3aEg4b2ZOY0xDaXFaV0luSlpqeDZCZzhKakpKQlZIbjJCcjdSVHE0akVDNERENThEM082TWVEVkRCcWVoMnAtdUJLQTJKbzhuazhDUmFpeU5uR3Fib0FKbGdwaUF0THhpQU1lVldaV21ZU201QVBsQkxlbHMtQW5wbWtDcHpuOFQ1Wm1yQkk5NkpNRTRwTWNtUmExY3N4OXdxMWtxTkpGVGdqbkF3a2ZadVdnSWUyR3RTTU5MMHBnVmVVc2dNQ3Q3TVdmdmVHQUxDaHFmQTVhSXRrVExQU3l2NlJ1dzFQcG5mcHFxalVSRWJYaUxuN0RzZjdBM2xHd09zZ3NYdHAySEQ2NW9IVTVSUjRMLVlmVzViQ3NvWnRhVlUtaGM4V3FORnE4YzRMU2pxUlBBMnduenlXaUNFNTl3MGh0ZUlOeGhOVW42NVpjVlk1dGp1UkJlYjRKVVRsZm8yNUlpYjBJRnRWcm5hSWpKMnNXdmhnbUliUm5qb1BhNGtGLW5tU2ZjZDFQQ192UTJmejdVN3J4d1JMQ2tFdE93Q1M5VS1kNnlxZWRmNTdsMk5nWThrYnBtRlg4TVhjWVZHOXNIMXFLUXA5c3ZGMjlTeVQ3YzJvdnNLMkc1cXNKa2Z3NnFhRm14WVNVNVhJNC1sekZvOUVjSTE2SzNuNTJuOXFqdmdKY0JDTHYyckpPc2RpS2VNSmF3X01wQllfX1p1ZzYtY3hFR01UbmFqYmdBbnVDdTZUVVpycVVpd3MzRU1zaGEtMFcwd2hDMHI0Tk1SUjgtdVg3UnZrbkYxeExnMmkwNDVTOQ?oc=5) 垣信卫星
-- [Starship Flight 14 Targets First Orbit Sep 22, X Report 16 Sep 2026 - keeptrack.space](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kQmNpUEl5aVFxRlBKc2ZTOGxxaXhOb08yZ0pCb1N5bEFncVVVQUY2N1RkbFpScHFnNjlqT0dnXzZJRTJhNEJwdFVjMi1KV251X2JZQ1FsZkFZOFlIbWc0dlFkNnBrNWc?oc=5) SpaceX
-- [朱雀二号改进型遥七火箭成功发射千帆星座10颗卫星_手机新浪网 - 新浪财经](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGp0NWlGV2d3QUtmSEVkd2sxOU10SXAyMmRXb3lJak9pNmw5WUpFZkxCSUo5aFBfZXdoazAtb0pVQzRQeDBRTGJTSUxaM1owTXpJZlB6b1pISUhodE51SjV6NURJNEpGLWtzNzE3U3FhcUZvWllCN05xbU1RTzM4TTV3ekk4Qk5kbDJnR2VkVjdxX2NaZFBwc1lKaDBWdEVyUmNpaU5XZw?oc=5) 垣信卫星
-- [松江企业垣信卫星两日两发，千帆星座增至256颗 - 上观新闻](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OSlJ3UE5NWmM5ZWhSMF9IWXc2cENqM2JlWGd0RzVISk9pV1BqeUk3alY2NzFtM0RNUktXeElhT1JoQnRVd3hKNXdNTmpjS3dTRXJQQ2paVGw?oc=5) 垣信卫星
-- [中国星网董事长苟坪：推动北斗短信手机功能预置 - 中证网](https://news.google.com/rss/articles/CBMieEFVX3lxTE5xYkJlUEV3MTlad0hoNlVxdlpVc0l1dFVLNmJXZ2w0QTBtWm1mY29JemUtbk1YTzc0ODVNc2ltMnJ0M2ZRdDZDRlJvbDhWRDR4bDlrR09DOGlzZ0ZZSXdUV003SFE0Q081aThKdE9IY0swNnlSWUUtbQ?oc=5) 中国星网
-- [微纳星空3 年累计亏损10.93亿 IPO问询次日便因为串标被军采暂停 - 新浪财经](https://news.google.com/rss/articles/CBMif0FVX3lxTFBISGFxc3U1X3RfaUFyUnhSWDVNU1lJTVNnaTZKVEh2QUc0bTQ1UGMtYWlfUFpFTXhGMW56dl9MNTlUSFJCbS13TFhOX1otOG1YS1Vxc0hCdU5xeFVQU0tmN3BaSEIzdjNJR29tUFJsSnBBZENNNlRtTEE4RGdxbUU?oc=5) 微纳星空
-- [银河航天在老挝实现低轨卫星互联网试验验证 - 证券时报](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlOE1Db3RyR2NuMHN4amJxdVVfTTVfc3p3dDFDNGhRMzZNUjY2MFRpN0U4aUdxdktFdEFCd2w1YnNQTDRVcWZuQUpxTlVBc3VjLVJqNFRPQzRRQW8t?oc=5) 银河航天
-- [朱雀火箭再升空，达成民营航天首次！专访蓝箭航天相关负责人 - cs.zjol.com.cn](https://news.google.com/rss/articles/CBMiakFVX3lxTE05Y18zdktMT3NVaWh3VVR5eVI3TVg0S1ZoVjZLbHhJX1VFLUFRZTdUVGlfLW9qYUJmUjh3eU9vaElSUzNOeXpPVmdKU0JiMlZERWZsUVRTQUpsbzdrU0RMRXQzYlBkY1lGLXc?oc=5) 蓝箭航天
-- [SpaceX scrubs Vandenberg launch of national security payload, targets backup window on Wednesday - Spaceflight Now](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNc2FQMWhncGJYdUlqcENJaEMyOG1jdWxZODU5OEFTOGFvNl9qTTR1NC1TZlcxYmp4MEJ6SkFYUHMwN0hja3NKVWdWeHM3WC1uOGtBcHVqSTFZOXJQdS0wTFRGOUlvSVlndV9zdDBqTWNNMkRBeE8xOTl2NXdIWTRuMGtvOHRjLWx5SU1SNktmVVJQWmU3bFN3T2ZiSElwV2NqcXhQLXJEM1NCOEZtc1I1S3Q4SVNnRnVCTmttRE1MRXBxOXh3VmI5V25SSUYwMjBXSWtpbVNCZFV3S1ZrM2pBMjRrMEJfaUh0M1E?oc=5) SpaceX
-- [Starship to Attempt First Orbital Flight Next Week](https://spacepolicyonline.com/news/starship-to-attempt-first-orbital-flight-next-week) SpaceX
-- [泰伯早报| 9月16日：千帆星座增至256颗；福建省发文支持民营企业投资低空基础设施；北斗规模应用国际峰会拟签约投资及合同项目达55.4亿元 - 泰伯网](https://news.google.com/rss/articles/CBMiQkFVX3lxTE5xYndYdzYtYkxoQ2FjZmcxM0pSd19KR28zcnJuNHJHVjRjR3FQZkw4cEJQSXlMaG8tQVQwd054WUtvZw?oc=5) 垣信卫星
-- [24小时内两发高密度发射，民营商业火箭助力中国“星链”千帆星座组网 - Sohu](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMjk4b0VTQzFkRFhhMURKQk5EQmYxSnZRaktDem9YaEcyTXRvVnVGeHgwUFZSVEgxMjBPNE5ic0trdlMxbzhVQUFVS25LZWZKYlo5aUdUVUxqQmdxM1FBYzZ3cE5QQXo3R1JRVUFlRVczck5kREktcGpfRl9jZVZkYVhlY1I4WVJsNk9jWg?oc=5) 垣信卫星
-- [朱雀、引力接连发射成功 千帆星座组网提速 多股获融资客抢筹(名单) - 东方财富](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EWllNU2RyR0pqNTFTOFNIOFI3dHZkQmVfVWZMMWtxZE9COXY0Rzg3MFRYRXlJajczSG5uaUhERTNXemtGV2dBczBiM0RjWGxtZk04VXZqdXZ3VHpsN1hnbTJkcFp3UQ?oc=5) 垣信卫星
-- [朱雀二号改进型火箭成功发射千帆极轨19组卫星 - finance.people.com.cn](https://news.google.com/rss/articles/CBMibkFVX3lxTFAzU3BPcG05czlIVm40ZFBpSUM2Ymh6QjRxSGp1VTAwQ0Z5ZHdyRUpMU09lMHMwa21hWmo0UmxmZEQyMDd5R2RpNHJzRmdNNXItdVhjek05bWl2T3FFY25PN3ZIck5RaklUWjBNYWVn?oc=5) 蓝箭航天
+- [SpaceX Falcon 9 rocket-landing team gets 1st-ever Neil Armstrong Space Prize](https://www.space.com/space-exploration/spacex-falcon-9-rocket-landing-team-gets-1st-ever-neil-armstrong-space-prize) SpaceX
+- [No Pressure: A Massive Starlink Upgrade Hinges on SpaceX's Next Starship Launch - pcmag.com](https://news.google.com/rss/articles/CBMingFBVV95cUxPemp0V0hPZGZPWExpSGxPT3lXdG5Cb3A2Mi12Sm52aE1vZUNXcDQ5RXY0NGNRZkNKUmw5a1g2ZmV2RVhCYTRBc19TRl9sSU1fT05HV0RHd1ZvZVN0WEhyWE5qMGRKTDVqblFpajVvV0FOSldkVGVjbDhLamhPUGVydHN4am1zN09YSUNxYTB5c1ZiN3NEclNiVDBCTF92Zw?oc=5) SpaceX
+- [海上发射首战告捷 千帆星座迈入工业化组网阶段 - 上海证券报电子版](https://news.google.com/rss/articles/CBMibkFVX3lxTE1WRHF0eFl1ZFpObkR4OFBlSXhId3M3TUxDNlh6bnpQal9rbnpKbEhtQmt0c2dmU0ItMTgwOU4xMk5vRWVzNTZUSFB2UFdFcS1Fc2NqWkE5d2tveTlndXRWZmhqNVBrSlJpT1I1dTB3?oc=5) 垣信卫星
+- [D-Orbit, Exotrail and Portal Space Systems on what happens if Falcon 9 quits the commercial market](https://www.spaceintelreport.com/d-orbit-exotrail-and-portal-space-systems-on-what-happens-if-falcon-9-quits-the-commercial-market) SpaceX
 
 ## Risks And Watchpoints
 
