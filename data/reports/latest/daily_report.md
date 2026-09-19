@@ -1,7 +1,7 @@
 # 每日新闻情报日报 - 2026-09-19
 
-- Report ID: daily-2026-09-19-d9208141
-- Source run: 6924567c-f1e3-491e-ac33-62e5f1320810
+- Report ID: daily-2026-09-19-4ad25433
+- Source run: 818d6030-ed8d-4b71-b873-ab1702e6bf4b
 - Generation status: skipped_no_secret
 - Companies covered: 1
 - Total items: 3
@@ -31,14 +31,14 @@ No LLM summary.
 
 No LLM summary.
 
-- [A SpaceX Falcon 9 rocket is due to fly near Arizona this weekend - sacbee.com](https://news.google.com/rss/articles/CBMie0FVX3lxTFBraThwUkZUVUFUQ1dhdGx4T0g4UThwZkVseXEyRWJGRDBfbGlPZU5hR1NZRnRldWVYTVZJaExoZ1lzNHhscHo1N0l1a2oyRmhpUUR5clBuLVhZc2haWkhWdHI2VXFpQ1VZdGZRME9oUDUwdnZSd0FtdndfMA?oc=5) SpaceX
 - [An evening SpaceX rocket launch is due up this weekend in California - Ventura County Star](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTdVRGRlV0p0Y3EyQ0s4elJNQWdCcDNpZ3ZLSWszR3ZoaWxqZm1hQ0RPNVNuWVBGYmtabW5aMjFhQV92X3J2b1ZRVENrWjNGSHlTMGh5MmFwSHduVmhncmcyaGxWMTJ6WVJMdWdvVFFzSFJnV0R2Wk95cVVtdnpQZHF0ckpVdDZKS2VZdzZDSXFvdnVUdXJXVUU4d1ZJbXdCbzZUYkNLSkU?oc=5) SpaceX
+- [A SpaceX Falcon 9 rocket is due to fly near Arizona this weekend - azcentral.com and The Arizona Republic](https://news.google.com/rss/articles/CBMirgFBVV95cUxPV0ZkZU5WaFdoeVExNm56UmJYQV9Bdl9La3c1eDBQOGxJd29wanN1RXNBcTNqZXJuN2pZQTlwUGZQUzhUcUVaZFlzVVJQMHU0eHQ1aC1pcEJkNzlqNTdFanpkNjdoazZmdkJrX0RBT0hmTFcxYzdfOFRhRmxfMnBLVWlEbDRMOUhRbnNHS2NKMjJneDhGVC1PMmI1NDd6VHZJeC1PU3l1YzFrckJVV0E?oc=5) SpaceX
 - [NASA Awards SpaceX Three Crew Flights to Space Station](https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station) SpaceX
 
 ## Top News
 
-- [A SpaceX Falcon 9 rocket is due to fly near Arizona this weekend - sacbee.com](https://news.google.com/rss/articles/CBMie0FVX3lxTFBraThwUkZUVUFUQ1dhdGx4T0g4UThwZkVseXEyRWJGRDBfbGlPZU5hR1NZRnRldWVYTVZJaExoZ1lzNHhscHo1N0l1a2oyRmhpUUR5clBuLVhZc2haWkhWdHI2VXFpQ1VZdGZRME9oUDUwdnZSd0FtdndfMA?oc=5) SpaceX
 - [An evening SpaceX rocket launch is due up this weekend in California - Ventura County Star](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTdVRGRlV0p0Y3EyQ0s4elJNQWdCcDNpZ3ZLSWszR3ZoaWxqZm1hQ0RPNVNuWVBGYmtabW5aMjFhQV92X3J2b1ZRVENrWjNGSHlTMGh5MmFwSHduVmhncmcyaGxWMTJ6WVJMdWdvVFFzSFJnV0R2Wk95cVVtdnpQZHF0ckpVdDZKS2VZdzZDSXFvdnVUdXJXVUU4d1ZJbXdCbzZUYkNLSkU?oc=5) SpaceX
+- [A SpaceX Falcon 9 rocket is due to fly near Arizona this weekend - azcentral.com and The Arizona Republic](https://news.google.com/rss/articles/CBMirgFBVV95cUxPV0ZkZU5WaFdoeVExNm56UmJYQV9Bdl9La3c1eDBQOGxJd29wanN1RXNBcTNqZXJuN2pZQTlwUGZQUzhUcUVaZFlzVVJQMHU0eHQ1aC1pcEJkNzlqNTdFanpkNjdoazZmdkJrX0RBT0hmTFcxYzdfOFRhRmxfMnBLVWlEbDRMOUhRbnNHS2NKMjJneDhGVC1PMmI1NDd6VHZJeC1PU3l1YzFrckJVV0E?oc=5) SpaceX
 - [NASA Awards SpaceX Three Crew Flights to Space Station](https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station) SpaceX
 
 ## Risks And Watchpoints
