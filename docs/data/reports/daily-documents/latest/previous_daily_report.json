@@ -1,215 +1,174 @@
 {
-  "as_of_date": "2026-09-19",
+  "as_of_date": "2026-09-20",
   "companies": [
+    {
+      "company_id": "galaxyspace",
+      "company_name": "银河航天",
+      "event_types": {
+        "launch": 13
+      },
+      "item_count": 13,
+      "latest_title": "银河航天四颗SAR卫星成功发射 - 新浪财经"
+    },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 8,
-        "other": 4,
-        "regulation": 2
+        "launch": 7,
+        "other": 2,
+        "regulation": 1
       },
-      "item_count": 14,
-      "latest_title": "Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape"
+      "item_count": 10,
+      "latest_title": "NASA Awards SpaceX Three Crew Flights to Space Station"
     },
     {
       "company_id": "i_space",
       "company_name": "星际荣耀",
       "event_types": {
-        "launch": 4
-      },
-      "item_count": 4,
-      "latest_title": "星际荣耀双曲线三号运载火箭贮箱极限载荷试验告捷 - futurephecda.com"
-    },
-    {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
-      "event_types": {
-        "launch": 2
-      },
-      "item_count": 2,
-      "latest_title": "海上发射首战告捷 千帆星座迈入工业化组网阶段 - 上海证券报电子版"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_types": {
         "launch": 1
       },
       "item_count": 1,
-      "latest_title": "NASA | Animation of ESCAPADE launched to Mars atop Blue Origin's New Glenn rocket"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_types": {
-        "other": 1
-      },
-      "item_count": 1,
-      "latest_title": "探路太空制造，中科宇航谋划“航天+生物医药”拼图 - 21财经"
+      "latest_title": "双曲线三号即将发射，中国民营火箭最激进的一次挑战 - 手机网易网"
     }
   ],
-  "company_count": 5,
+  "company_count": 3,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 15,
-    "other": 5,
-    "regulation": 2
+    "launch": 21,
+    "other": 2,
+    "regulation": 1
   },
-  "generated_at": "2026-09-19T05:53:45.142492Z",
-  "period_end": "2026-09-18",
-  "period_start": "2026-09-18",
-  "report_date": "2026-09-18",
+  "generated_at": "2026-09-20T06:16:21.812135Z",
+  "period_end": "2026-09-19",
+  "period_start": "2026-09-19",
+  "report_date": "2026-09-19",
   "schema_version": "daily_document.v1",
-  "source_count": 14,
+  "source_count": 11,
   "source_counts": {
-    "21财经": 1,
+    "Jiemian.com": 1,
     "NASA": 1,
-    "NASASpaceflight": 1,
-    "Seeking Alpha": 1,
-    "Space": 1,
-    "TechRepublic": 1,
-    "Universe Space Tech": 1,
-    "arstechnica.com": 1,
+    "azcentral.com and The Arizona Republic": 1,
     "bing.com": 6,
-    "futurephecda.com": 1,
-    "satnews.com": 1,
-    "上海证券报电子版": 1,
-    "新浪财经": 4,
-    "디지털투데이": 1
+    "cls.cn": 1,
+    "emwap.eastmoney.com": 1,
+    "sacbee.com": 1,
+    "thepaper.cn": 1,
+    "vcstar.com": 1,
+    "手机网易网": 1,
+    "新浪财经": 9
   },
-  "summary": "2026-09-18 共归档 22 条新闻，覆盖 5 家公司、14 个信息来源。 新闻量较多的公司包括 SpaceX、星际荣耀、垣信卫星、Blue Origin。",
+  "summary": "2026-09-19 共归档 24 条新闻，覆盖 3 家公司、11 个信息来源。 新闻量较多的公司包括 银河航天、SpaceX、星际荣耀。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "a7fea0a560304504",
-      "published_at": "2026-09-18T00:06:52Z",
-      "source_name": "NASASpaceflight",
-      "title": "Starship’s upcoming missions: Waiting on Orbit, Building toward the Cape",
-      "url": "https://www.nasaspaceflight.com/2026/09/starships-upcoming-missions-orbit-cape"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "f80be177d0fa9362",
-      "published_at": "2026-09-17T18:32:30Z",
+      "item_id": "1c2ba1e10e1adc33",
+      "published_at": "2026-09-18T16:02:31Z",
       "source_name": "NASA",
-      "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station"
+      "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
+      "url": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "regulation",
+      "item_id": "8c79de0cbc2bd29d",
+      "published_at": "2026-09-19T13:28:21Z",
+      "source_name": "bing.com",
+      "title": "SpaceX Starlink is no longer just a satellite partner",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aaf3b9d02f04fb5bd19ac426ec38926&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-starlink-is-no-longer-just-a-satellite-partner%2Far-AA2czNZI&c=6826562108380100642&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "54700aa6298b264a",
-      "published_at": "2026-09-18T07:32:00Z",
+      "item_id": "1b1cf94e45527f47",
+      "published_at": "2026-09-19T12:45:00Z",
       "source_name": "bing.com",
-      "title": "SpaceX stock falls as Starship's test flight slips to Sept. 28, retail investors sell shares",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aad55baa6f44405a3d06b390b90e9bf&url=https%3A%2F%2Ffinance.yahoo.com%2Fmarkets%2Fstocks%2Farticle%2Fspacex-stock-falls-as-starships-test-flight-slips-to-sept-28-retail-investors-sell-shares-143200705.html&c=13127740329171912061&mkt=en-us"
+      "title": "SpaceX Targets September 28 For Starship's First Orbital Flight",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aaf3b9d02f04fb5bd19ac426ec38926&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-targets-september-28-for-starships-first-orbital-flight%2Far-AA2cAdyZ&c=8611843838341997457&mkt=en-us"
     },
     {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
+      "company_id": "i_space",
+      "company_name": "星际荣耀",
       "event_type": "launch",
-      "item_id": "07b5305928cc2db1",
-      "published_at": "2026-09-17T17:45:03Z",
-      "source_name": "上海证券报电子版",
-      "title": "海上发射首战告捷 千帆星座迈入工业化组网阶段 - 上海证券报电子版",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WRHF0eFl1ZFpObkR4OFBlSXhId3M3TUxDNlh6bnpQal9rbnpKbEhtQmt0c2dmU0ItMTgwOU4xMk5vRWVzNTZUSFB2UFdFcS1Fc2NqWkE5d2tveTlndXRWZmhqNVBrSlJpT1I1dTB3?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "dacbf88cd68bf7bb",
-      "published_at": "2026-09-18T14:37:00Z",
-      "source_name": "Seeking Alpha",
-      "title": "Launch As Infrastructure: What SpaceX's 100th Mission Of 2026 Tells Investors - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzlTTTBWRGhlb3dHYUl1VklBYS1zRG5IMGFtVzQxTG9IQi10ZlVQaWMtUld2TVNCd2RKZDM2Q3h4TmRpNHpsMTZBdzZnemJKZUZUZnhSRTR3TGhHSE5xdzA0WUZHWFJvbXZ2T2hOT1c1S1RFQzl4YmdRYU96WENLQjhVYkRMNFkzUTVkdmdmeUVBNjZnLVB5ZEY4WDVmNTUydTlUUmlEbi1ObFhfSlE?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "b7c8a950673f9d93",
-      "published_at": "2026-09-18T12:03:48Z",
-      "source_name": "bing.com",
-      "title": "NASA | Animation of ESCAPADE launched to Mars atop Blue Origin's New Glenn rocket",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aad98f6a6b9433b9de984b6f5a8910c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fscience%2Faeronautics%2Fnasa-animation-of-escapade-launched-to-mars-atop-blue-origin-s-new-glenn-rocket%2Fvi-AA2cwQH9&c=9348350126525361578&mkt=en-us"
+      "item_id": "c35d022a92e8a707",
+      "published_at": "2026-09-19T04:27:36Z",
+      "source_name": "手机网易网",
+      "title": "双曲线三号即将发射，中国民营火箭最激进的一次挑战 - 手机网易网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sNG15QVppSUkzVXhMWmlkdGJvQWplVW9ReFRuZnVBNUZUNV9pT19SSTh4b0dnOU5RMmFBaHRzNjdtb3FYWEViS3lfTTI5d0lRbGRvcm9fcEx4ZG91US11R2hR?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "d0acb4a0460e9b89",
-      "published_at": "2026-09-18T11:00:11Z",
-      "source_name": "arstechnica.com",
-      "title": "Rocket Report: China wants a Raptor 3 engine; SpaceX set for big Starship test",
-      "url": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches"
+      "item_id": "f119fcfe7c0308d9",
+      "published_at": "2026-09-18T23:01:00Z",
+      "source_name": "sacbee.com",
+      "title": "A SpaceX Falcon 9 rocket is due to fly near Arizona this weekend - sacbee.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBraThwUkZUVUFUQ1dhdGx4T0g4UThwZkVseXEyRWJGRDBfbGlPZU5hR1NZRnRldWVYTVZJaExoZ1lzNHhscHo1N0l1a2oyRmhpUUR5clBuLVhZc2haWkhWdHI2VXFpQ1VZdGZRME9oUDUwdnZSd0FtdndfMA?oc=5"
     },
     {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "other",
-      "item_id": "451224b0476d1d9d",
-      "published_at": "2026-09-18T09:17:00Z",
-      "source_name": "21财经",
-      "title": "探路太空制造，中科宇航谋划“航天+生物医药”拼图 - 21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONnFQUktzUkpWWkhwaHBFb01NWTNrSWdyYXhBU0JSb1prUldWZ0V0S3hwY3BGMHl5TExTRWptVUJFNDFkcjlobUtEbFJrbW9tUzJkekRkTEdzNjEtUmVkaTU1OVplSEVlOXA4OElEQmswMVphYmpOUks0eFBadk1WVHNPYXVWUW9lejVBd1RkVQ?oc=5"
-    },
-    {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "eba30cf34317aa4c",
-      "published_at": "2026-09-18T08:47:38Z",
-      "source_name": "futurephecda.com",
-      "title": "星际荣耀双曲线三号运载火箭贮箱极限载荷试验告捷 - futurephecda.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yVVpyenlZS3JMa09QNVE5eWVqNjdfTFJqNXpSbE1zX0d4NTcyUXJuaVlfVE5mSVJkZXJMZ1dqLUxtR3VjSjMtSFFBeTBNOFhYSkE?oc=5"
+      "item_id": "515f702f3bd0133d",
+      "published_at": "2026-09-18T23:00:00Z",
+      "source_name": "vcstar.com",
+      "title": "An evening SpaceX rocket launch is due up this weekend in California - vcstar.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTdVRGRlV0p0Y3EyQ0s4elJNQWdCcDNpZ3ZLSWszR3ZoaWxqZm1hQ0RPNVNuWVBGYmtabW5aMjFhQV92X3J2b1ZRVENrWjNGSHlTMGh5MmFwSHduVmhncmcyaGxWMTJ6WVJMdWdvVFFzSFJnV0R2Wk95cVVtdnpQZHF0ckpVdDZKS2VZdzZDSXFvdnVUdXJXVUU4d1ZJbXdCbzZUYkNLSkU?oc=5"
     },
     {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
+      "company_id": "galaxyspace",
+      "company_name": "银河航天",
       "event_type": "launch",
-      "item_id": "4a52daebeed8fb62",
-      "published_at": "2026-09-18T08:05:58Z",
+      "item_id": "b7d63f67da8ee6c4",
+      "published_at": "2026-09-19T14:30:00Z",
       "source_name": "新浪财经",
-      "title": "星际荣耀完成可回收大型液体运载火箭SQX-3贮箱极限载荷静力试验_手机新浪网 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc2oySGg0M1JvTXJwckRPOGFkVVJBY3JvdlVnUXNPRVEwUzlHT1dmSWM3S083TXJqRm5kY0xlcGdTWTRETnVVNVdSSnA2bzlOZXhFV2RVRC1iWnV2ZUNmVW5TSWRwNEdYemthMVFWMUZEaURKX2NCbFBKY2hTVjZnT1pvMktLbHUwcVN4dFJsSkltUXJtRTg5NDBTUDIyV1ctTy1yUk9lYm9NUmZIQXR0TTdn?oc=5"
+      "title": "银河航天四颗SAR卫星成功发射 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BcFU3V3E0eWR1cUFTMk51dGFoTmdHcW9mWVIxdXRxeDlCbk93X1M3SzVfaVVfTjg1QVA5bTNEYjhya2NtRWRhNnFhM0NSaEROSkw5aWREemVBMDdRMnd3MTBfczktZlFwWkpfdkNmejNNRm9sOTgzSlF4Vnc?oc=5"
     },
     {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
+      "company_id": "galaxyspace",
+      "company_name": "银河航天",
       "event_type": "launch",
-      "item_id": "1c83f33aec27a3b8",
-      "published_at": "2026-09-18T07:35:00Z",
+      "item_id": "175bea17390acb07",
+      "published_at": "2026-09-19T14:30:00Z",
       "source_name": "新浪财经",
-      "title": "星际荣耀完成可回收大型液体运载火箭 SQX-3 贮箱极限载荷静力试验 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PT1RFNkNJNmxRWVU5ZDhQbzhraV9HeHhqY0N4dEJqQjJFTzRQSzdNRU1XT1otR0tvNGdvUXVhWXUySzY2NkoxWmZBb1I4UHlQZ09JeDlnR2xPLURwa0RSdDZGMVZGQlJMcmNsMktJc3oyTHpaRXpzVkk1cGYwYXM?oc=5"
+      "title": "一箭四星成功发射 银河航天SAR卫星快速批产能力再获验证 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xTDRsRU5jRUM0a1h5UmIwMTZSN2lsbTREU0ExRGNXbUhQbE5mOEgtWlVHNHA5OVZpZGt5T280Y3lfR3NhWXZjUVRXQ0ozSEpxaExUV2dmYl9fbXpHeW1GZHRiMFp4NVJKbmFLTWllV2dKdVQ4allxdQ?oc=5"
     },
     {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
+      "company_id": "galaxyspace",
+      "company_name": "银河航天",
       "event_type": "launch",
-      "item_id": "51d5331a19299dce",
-      "published_at": "2026-09-18T07:30:59Z",
+      "item_id": "a5146f8127feb46f",
+      "published_at": "2026-09-19T14:17:00Z",
       "source_name": "新浪财经",
-      "title": "星际荣耀双曲线三号运载火箭一子级甲烷贮箱、二子级共底贮箱极限载荷静力试验顺利完成 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41dk5OYk10OEN3Yzd6RHktR1VOamJSb0Y2SmVQV3h1N2ZycmRoREFXTmRLQ0JkU0ZqRWtGSnFibWs4eGo0UjIzU2FXRQ?oc=5"
+      "title": "一箭四星成功发射 银河航天SAR卫星快速批产能力再获验证 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvc2VMUmdQNi1zblJxdHZSbmhlUjVlYnBrc0JySkc4R0FpQlZxSnNXdjFPU3RBT0FvaEpZZFZjRlhSMTdoamFNZHRxS3B5Q0lwLTJ3eWZjLTRSOV9kYllHbDZLZGFrZHpqaUllT1FsdmNhX05Lejg2dg?oc=5"
     },
     {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
+      "company_id": "galaxyspace",
+      "company_name": "银河航天",
       "event_type": "launch",
-      "item_id": "e11d03ab5075526b",
-      "published_at": "2026-09-18T00:00:00Z",
+      "item_id": "dedd12f60277c454",
+      "published_at": "2026-09-19T13:07:00Z",
       "source_name": "新浪财经",
-      "title": "两天18颗卫星入轨，千帆星座组网规模增至256颗_手机新浪网 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZXFaWENBQ3RjOUVDa3A2b0ZWbFJwUHd3eVRsWVo4d0FOcS1icE1rczF2ZEQ3N2Z4bDhiM0gxZndTWHBiXzEwd05uSEVHN3Rla2s0ckV6OGRQSXhDTUxOWTBIRzZZNWQyNGFvTXJGTUdhN3pyNVhaNWg3bzZQTE1IaXRWWm54MTlvOHctbzZaSVQtbGlUdFBuSENKNVlRRk9MWkxnTE1sTQ?oc=5"
+      "title": "银河航天一箭四星发射SAR卫星 累计发射自主研制卫星53颗 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaDdsM0tsOVg1enBiSkZ1RzNNWnRNTERKalBqREdiRjdkbFgzRy1UNEc4dk5JU1dsUkxQWFJDYllwWDAzc3RLOFp3Ym5ZX2lWQ0xyUV9KQU55WUFfWWF1XzVkbmlTeHVMOXRvX01Odm44UUhVMUQwU1BqeGNINVBFdFFGd0RQcHpzRGVJU21aVUV5ZzQ?oc=5"
+    },
+    {
+      "company_id": "galaxyspace",
+      "company_name": "银河航天",
+      "event_type": "launch",
+      "item_id": "038c01db4a0ee0be",
+      "published_at": "2026-09-19T12:44:43Z",
+      "source_name": "cls.cn",
+      "title": "银河航天四颗SAR卫星成功发射 多颗卫星已规模化应用星上智能处理 - cls.cn",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5LZ0RIUmpKSWlTa1BfZjFxRDAxd0ZmcURDVHhxRXlHdnZjRXJ6WUl6ckUyZDB0V1BWTTBUUEJjSkV0VmNSblE?oc=5"
     }
   ],
-  "total_items": 22
+  "total_items": 24
 }
