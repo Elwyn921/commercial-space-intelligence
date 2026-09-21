@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-09-21
 
-- Report ID: daily-2026-09-22-e4de15ea
-- Source run: 1953f1ab-bbd6-4675-8415-c9f7d1da799d
+- Report ID: daily-2026-09-22-93a100fa
+- Source run: ef175143-3a6b-4ba5-89e6-a771d73d4f67
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 1
+- Total items: 4
 
 ## Executive Summary
 
-2026-09-22 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-09-22 共收录 4 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,11 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
-- [Exolaunch, Space Cargo book Starship Starfall missions](https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall) SpaceX
+- [Launch Preview: Electron, Falcon 9, and Starship set for launches](https://www.nasaspaceflight.com/2026/09/launch-preview-092126) SpaceX
+- [China targets two launches as SpaceX takes It easy - astronomy.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbVMxR2l2RjJqblN4QWlDWk9EdHU3YW13NjBiUDZwSU1QQldzUWUzVy1sNEVfOTNvMkdjTjdhLTQxMEluaGdnMU5rWmx3TkJZVkttRkxHMjd1ci1nNng0SzZNc20tYXJYVWtXakdSWi1EUnZSMDRZN2Z0WnhvVWdXNWVGMFdjb1dUVEt0WEp2NzB0aENEeVktVHpPU2tXRllsd2NPRExB?oc=5) SpaceX
+- [SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch](https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch) SpaceX
 
 ## Top News
 
-- [Exolaunch, Space Cargo book Starship Starfall missions](https://www.nasaspaceflight.com/2026/09/exolaunch-space-cargo-starship-starfall) SpaceX
+- [Launch Preview: Electron, Falcon 9, and Starship set for launches](https://www.nasaspaceflight.com/2026/09/launch-preview-092126) SpaceX
+- [China targets two launches as SpaceX takes It easy - astronomy.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxQbVMxR2l2RjJqblN4QWlDWk9EdHU3YW13NjBiUDZwSU1QQldzUWUzVy1sNEVfOTNvMkdjTjdhLTQxMEluaGdnMU5rWmx3TkJZVkttRkxHMjd1ci1nNng0SzZNc20tYXJYVWtXakdSWi1EUnZSMDRZN2Z0WnhvVWdXNWVGMFdjb1dUVEt0WEp2NzB0aENEeVktVHpPU2tXRllsd2NPRExB?oc=5) SpaceX
+- [SpaceX’s Super Heavy booster arrives at pad ahead of first orbital Starship launch](https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch) SpaceX
 
 ## Risks And Watchpoints
 
