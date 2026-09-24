@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-09-23
+# 每日新闻情报日报 - 2026-09-24
 
-- Report ID: daily-2026-09-23-fd279836
-- Source run: 09e4e4a0-591e-4c24-956d-02e15de517b4
+- Report ID: daily-2026-09-24-a4247e28
+- Source run: 150740ce-43a0-4dba-bf3e-01738989c213
 - Generation status: skipped_no_secret
-- Companies covered: 2
-- Total items: 6
+- Companies covered: 1
+- Total items: 3
 
 ## Executive Summary
 
-2026-09-23 共收录 6 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、银河航天。
+2026-09-24 共收录 3 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -26,24 +26,20 @@ No LLM summary.
 
 No LLM summary.
 
-- [银河航天董事长兼CEO徐鸣：卫星互联网成为太空经济重要增长引擎 - 证券时报网](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HNS03LUJZdHp2VVVCbG1tTTlLa2xueUZGYkxJZ3lyTkF5TjNkSmpzQ0pES0lVRTlMQUFDQ01zQy1XLVZMU0FMOWttZUM1Q3hLeXBXN1pzWHpTQ2s?oc=5) 银河航天
-- [Amazon Leo Partners With UZ-SAT to Expand Satellite Internet in Uzbekistan](https://spacewatch.global/2026/09/amazon-leo-partners-with-uz-sat-to-expand-satellite-internet-in-uzbekistan) 银河航天
 
 ### 国外大厂
 
 No LLM summary.
 
-- [Elon Musk Projects Starlink Constellation Will Deliver Majority of Global Internet Traffic Within a Decade](https://satnews.com/2026/09/23/elon-musk-projects-starlink-constellation-will-deliver-majority-of-global-internet-traffic-within-a-decade) SpaceX
-- [Elon Musk-led SpaceX's Starlink Faces New Military Connectivity Alternative as Boeing Drone Unit Tests Gogo Link - Benzinga](https://news.google.com/rss/articles/CBMi9wFBVV95cUxObXBsM3V6emFjbkNfS1hEUmdLalFPQUhmTXRabjZRX2U3cnlPdTU0Y0tneWFKN3p2ekVtcUZCSXdFdl9menpHQklUaU1oZ254b2lCTWVHbFFISnlnQmoteVVRNDd3Y19RaXd0TFVESWVRTjhEclUzaE8yZ3FsWnZCWmk3aXhrLVdzQmplSE5kakRHdXd6QWhqVVUwNksyQXltUmlVQzFWbE1kaDIySWFmUXdyZy01bGVsSVhoWG4tWTdaN0dWMGdDWjZmOFJMRjB2RnpiYVRHeUFiUGY1N1NKeFNSeXB2V3pBM2xkcUNsSDVWT24xcGVJ?oc=5) SpaceX
-- [SpaceX Breaches $150 Again: Will the ‘Golden Dome’ Announcements Be Enough to Keep Prices Above IPO Levels?](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab43a6704a34e778d4569af9427011c&url=https%3A%2F%2F247wallst.com%2Finvesting%2F2026%2F09%2F23%2Fspacex-breaches-150-again-will-the-golden-dome-announcements-be-enough-to-keep-prices-above-ipo-levels%2F&c=15072045297143756727&mkt=en-us) SpaceX
+- [SpaceX stack Starship and Super Heavy for first orbital flight](https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight) SpaceX
+- [Blastoffs! SpaceX launches Starlink satellites twice in less than 4 hours](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab480d0de90488abe810d8d88e089ff&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fnews%2Fother%2Fblastoffs-spacex-launches-starlink-satellites-twice-in-less-than-4-hours%2Fvi-AA2cR5k5&c=8104756090329136710&mkt=en-us) SpaceX
+- [SpaceX Starlink satellites swarm like 'cosmic fireflies' in time-lapse from space](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab480cfd2df4d8ea1614dc85f793a6c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-starlink-satellites-swarm-like-cosmic-fireflies-in-time-lapse-from-space%2Fvi-AA2cQgQ8&c=8993068211560062609&mkt=en-us) SpaceX
 
 ## Top News
 
-- [Elon Musk Projects Starlink Constellation Will Deliver Majority of Global Internet Traffic Within a Decade](https://satnews.com/2026/09/23/elon-musk-projects-starlink-constellation-will-deliver-majority-of-global-internet-traffic-within-a-decade) SpaceX
-- [银河航天董事长兼CEO徐鸣：卫星互联网成为太空经济重要增长引擎 - 证券时报网](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HNS03LUJZdHp2VVVCbG1tTTlLa2xueUZGYkxJZ3lyTkF5TjNkSmpzQ0pES0lVRTlMQUFDQ01zQy1XLVZMU0FMOWttZUM1Q3hLeXBXN1pzWHpTQ2s?oc=5) 银河航天
-- [Elon Musk-led SpaceX's Starlink Faces New Military Connectivity Alternative as Boeing Drone Unit Tests Gogo Link - Benzinga](https://news.google.com/rss/articles/CBMi9wFBVV95cUxObXBsM3V6emFjbkNfS1hEUmdLalFPQUhmTXRabjZRX2U3cnlPdTU0Y0tneWFKN3p2ekVtcUZCSXdFdl9menpHQklUaU1oZ254b2lCTWVHbFFISnlnQmoteVVRNDd3Y19RaXd0TFVESWVRTjhEclUzaE8yZ3FsWnZCWmk3aXhrLVdzQmplSE5kakRHdXd6QWhqVVUwNksyQXltUmlVQzFWbE1kaDIySWFmUXdyZy01bGVsSVhoWG4tWTdaN0dWMGdDWjZmOFJMRjB2RnpiYVRHeUFiUGY1N1NKeFNSeXB2V3pBM2xkcUNsSDVWT24xcGVJ?oc=5) SpaceX
-- [Amazon Leo Partners With UZ-SAT to Expand Satellite Internet in Uzbekistan](https://spacewatch.global/2026/09/amazon-leo-partners-with-uz-sat-to-expand-satellite-internet-in-uzbekistan) 银河航天
-- [SpaceX Breaches $150 Again: Will the ‘Golden Dome’ Announcements Be Enough to Keep Prices Above IPO Levels?](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab43a6704a34e778d4569af9427011c&url=https%3A%2F%2F247wallst.com%2Finvesting%2F2026%2F09%2F23%2Fspacex-breaches-150-again-will-the-golden-dome-announcements-be-enough-to-keep-prices-above-ipo-levels%2F&c=15072045297143756727&mkt=en-us) SpaceX
+- [SpaceX stack Starship and Super Heavy for first orbital flight](https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight) SpaceX
+- [Blastoffs! SpaceX launches Starlink satellites twice in less than 4 hours](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab480d0de90488abe810d8d88e089ff&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fnews%2Fother%2Fblastoffs-spacex-launches-starlink-satellites-twice-in-less-than-4-hours%2Fvi-AA2cR5k5&c=8104756090329136710&mkt=en-us) SpaceX
+- [SpaceX Starlink satellites swarm like 'cosmic fireflies' in time-lapse from space](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab480cfd2df4d8ea1614dc85f793a6c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-starlink-satellites-swarm-like-cosmic-fireflies-in-time-lapse-from-space%2Fvi-AA2cQgQ8&c=8993068211560062609&mkt=en-us) SpaceX
 
 ## Risks And Watchpoints
 
