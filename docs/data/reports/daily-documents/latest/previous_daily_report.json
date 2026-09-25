@@ -1,25 +1,24 @@
 {
-  "as_of_date": "2026-09-24",
+  "as_of_date": "2026-09-25",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 4,
-        "market": 1,
-        "other": 2
+        "launch": 5,
+        "other": 6
       },
-      "item_count": 7,
-      "latest_title": "SpaceX Breaches $150 Again: Will the ‘Golden Dome’ Announcements Be Enough to Keep Prices Above IPO Levels?"
+      "item_count": 11,
+      "latest_title": "SpaceX stack Starship and Super Heavy for first orbital flight"
     },
     {
-      "company_id": "galaxyspace",
-      "company_name": "银河航天",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_types": {
-        "other": 2
+        "launch": 1
       },
-      "item_count": 2,
-      "latest_title": "Amazon Leo Partners With UZ-SAT to Expand Satellite Internet in Uzbekistan"
+      "item_count": 1,
+      "latest_title": "European Lunar Rover Secures Spot Aboard Blue Origin Blue Moon Mission"
     },
     {
       "company_id": "china_satnet",
@@ -28,112 +27,120 @@
         "other": 1
       },
       "item_count": 1,
-      "latest_title": "中国星网旗下公司拟转让20%股权 - 泰伯网"
+      "latest_title": "中国星网旗下公司拟转让20%股权 - 搜狐网"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_types": {
+        "launch": 1
+      },
+      "item_count": 1,
+      "latest_title": "中国力箭一号“一箭九星”成功发射 多颗遥感与技术试验卫星入轨 - jpchinapress.com"
     }
   ],
-  "company_count": 3,
+  "company_count": 4,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 4,
-    "market": 1,
-    "other": 5
+    "launch": 7,
+    "other": 7
   },
-  "generated_at": "2026-09-24T06:11:05.939115Z",
-  "period_end": "2026-09-23",
-  "period_start": "2026-09-23",
-  "report_date": "2026-09-23",
+  "generated_at": "2026-09-25T06:10:12.088645Z",
+  "period_end": "2026-09-24",
+  "period_start": "2026-09-24",
+  "report_date": "2026-09-24",
   "schema_version": "daily_document.v1",
   "source_count": 6,
   "source_counts": {
-    "Benzinga": 1,
-    "bing.com": 5,
-    "satnews.com": 1,
-    "spacewatch.global": 1,
-    "泰伯网": 1,
-    "证券时报网": 1
+    "KeepTrack": 1,
+    "Spaceflight Now": 1,
+    "bing.com": 9,
+    "europeanspaceflight.com": 1,
+    "jpchinapress.com": 1,
+    "搜狐网": 1
   },
-  "summary": "2026-09-23 共归档 10 条新闻，覆盖 3 家公司、6 个信息来源。 新闻量较多的公司包括 SpaceX、银河航天、中国星网。",
+  "summary": "2026-09-24 共归档 14 条新闻，覆盖 4 家公司、6 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、中国星网、中科宇航。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "market",
-      "item_id": "da00abba9f52acfb",
-      "published_at": "2026-09-23T05:34:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX Breaches $150 Again: Will the ‘Golden Dome’ Announcements Be Enough to Keep Prices Above IPO Levels?",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab43a6704a34e778d4569af9427011c&url=https%3A%2F%2F247wallst.com%2Finvesting%2F2026%2F09%2F23%2Fspacex-breaches-150-again-will-the-golden-dome-announcements-be-enough-to-keep-prices-above-ipo-levels%2F&c=15072045297143756727&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "c71b19063913abb7",
-      "published_at": "2026-09-23T13:59:33Z",
-      "source_name": "satnews.com",
-      "title": "Elon Musk Projects Starlink Constellation Will Deliver Majority of Global Internet Traffic Within a Decade",
-      "url": "https://satnews.com/2026/09/23/elon-musk-projects-starlink-constellation-will-deliver-majority-of-global-internet-traffic-within-a-decade"
-    },
-    {
-      "company_id": "galaxyspace",
-      "company_name": "银河航天",
-      "event_type": "other",
-      "item_id": "61f4519900cb099c",
-      "published_at": "2026-09-23T06:00:00Z",
-      "source_name": "spacewatch.global",
-      "title": "Amazon Leo Partners With UZ-SAT to Expand Satellite Internet in Uzbekistan",
-      "url": "https://spacewatch.global/2026/09/amazon-leo-partners-with-uz-sat-to-expand-satellite-internet-in-uzbekistan"
+      "item_id": "17867a60e10ec75d",
+      "published_at": "2026-09-23T21:47:00Z",
+      "source_name": "Spaceflight Now",
+      "title": "SpaceX stack Starship and Super Heavy for first orbital flight",
+      "url": "https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "f7eb6c6c877be9d0",
-      "published_at": "2026-09-23T04:37:17Z",
+      "item_id": "a0a661b0ffc158a6",
+      "published_at": "2026-09-24T15:52:00Z",
       "source_name": "bing.com",
-      "title": "Elon Musk-led SpaceX's Starlink faces new military connectivity alternative as Boeing drone unit tests Gogo Link",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab3f252dc0d4f48b2e3a76e3c7e408a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Felon-musk-led-spacex-s-starlink-faces-new-military-connectivity-alternative-as-boeing-drone-unit-tests-gogo-link%2Far-AA2cOt5T&c=2012034148419713637&mkt=en-us"
+      "title": "Carney Wants Canada Off Starlink, But Its Rival Still Needs SpaceX",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab5d64a339f4bb4a4f95af7238ec86d&url=https%3A%2F%2Fwww.iphoneincanada.ca%2F2026%2F09%2F24%2Fcarney-diversify-starlink-telesat%2F&c=4305369343483346841&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "a74311e53738bae9",
-      "published_at": "2026-09-23T04:30:00Z",
+      "item_id": "e4c9ce410d3fac1d",
+      "published_at": "2026-09-24T13:06:34Z",
       "source_name": "bing.com",
-      "title": "Here's What $10,000 Invested in SpaceX Stock Could Look Like in 5 Years",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab43a6704a34e778d4569af9427011c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fheres-what-10000-invested-in-spacex-stock-could-look-like-in-5-years%2Far-AA2cOHCl&c=9059199041257440580&mkt=en-us"
+      "title": "Falcon 9’s Starlink 9-3 failure left 20 satellites doomed to reentry",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab58d279015469bad5a78a22a0518d0&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Ffalcon-9-s-starlink-9-3-failure-left-20-satellites-doomed-to-reentry%2Fvi-AA2cUqiZ&c=10590362687082010532&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "2e63369a6f51ae1a",
-      "published_at": "2026-09-23T04:30:00Z",
+      "item_id": "d7050374bf1a2ecb",
+      "published_at": "2026-09-24T13:06:34Z",
       "source_name": "bing.com",
-      "title": "Here's What $10,000 Invested in SpaceX Stock Could Look Like in 5 Years",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab480cfd2df4d8ea1614dc85f793a6c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fheres-what-10000-invested-in-spacex-stock-could-look-like-in-5-years%2Far-AA2cOHCl&c=9059199041257440580&mkt=en-us"
+      "title": "Falcon 9’s Starlink 9-3 failure left 20 satellites doomed to reentry",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab5d64b1104492bbe320cdf743e509c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Faviation%2Ffalcon-9-s-starlink-9-3-failure-left-20-satellites-doomed-to-reentry%2Fvi-AA2cUqiZ&c=9529544856206527549&mkt=en-us"
     },
     {
-      "company_id": "galaxyspace",
-      "company_name": "银河航天",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "ece7946a5ffa3851",
-      "published_at": "2026-09-23T12:01:00Z",
-      "source_name": "证券时报网",
-      "title": "银河航天董事长兼CEO徐鸣：卫星互联网成为太空经济重要增长引擎 - 证券时报网",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HNS03LUJZdHp2VVVCbG1tTTlLa2xueUZGYkxJZ3lyTkF5TjNkSmpzQ0pES0lVRTlMQUFDQ01zQy1XLVZMU0FMOWttZUM1Q3hLeXBXN1pzWHpTQ2s?oc=5"
+      "item_id": "81de033248516b67",
+      "published_at": "2026-09-24T12:45:00Z",
+      "source_name": "bing.com",
+      "title": "Starlink Tips Gigabit Speeds for Maritime Users Who Own $2,000 Dish",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab58d2626644d619e2ad607442c8dc0&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fstarlink-tips-gigabit-speeds-for-maritime-users-who-own-2000-dish&c=8942863275108497659&mkt=en-us"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "52d6674105180283",
+      "published_at": "2026-09-24T07:44:44Z",
+      "source_name": "jpchinapress.com",
+      "title": "中国力箭一号“一箭九星”成功发射 多颗遥感与技术试验卫星入轨 - jpchinapress.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVhJQjIzRWlldWN6ZVpCdlk5c2UxckExVGd1S1pQbWtYTUVtQ2xvQkxRd2ItTm13bGY4ZmdNVGd0VUZPQmxxNUZoS1JhMjdGTVBDaWk2U04taDNDUEVxYVBwS0dZQjFRNFkxM0tmSUdWa3BVZkNBczVWQ2dmTGFYbnhJVWtYZzRVaWc?oc=5"
     },
     {
       "company_id": "china_satnet",
       "company_name": "中国星网",
       "event_type": "other",
-      "item_id": "6c68e2af2a97cdcb",
-      "published_at": "2026-09-23T11:22:00Z",
-      "source_name": "泰伯网",
-      "title": "中国星网旗下公司拟转让20%股权 - 泰伯网",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE85VC1VaFVjaDdUcHhBS29QczZiSnUzcFBCazNQXzU1aVpldTRLcUFXZUtRUUFKT0ktU21weWZkOS1FQQ?oc=5"
+      "item_id": "f63aa49d538de674",
+      "published_at": "2026-09-24T09:19:08Z",
+      "source_name": "搜狐网",
+      "title": "中国星网旗下公司拟转让20%股权 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0VSeHVUMXBBbHNEMjM0bnRZRFc4Yzd6UzYtWXlyaEdSTkVYUVhtWlhWcUk0bmFWMW8wdUlibHREU282eVpFSGJlM3JnNlJZRE5KNW1aRjZEeXFwQkg1ODdZRHdlTTBPRzRKRGcwMkdEcDgtbHpqQ0xlYlpnUjNIV1pFS2ZPWkU4?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "58577c432e6625e3",
+      "published_at": "2026-09-24T13:45:53Z",
+      "source_name": "europeanspaceflight.com",
+      "title": "European Lunar Rover Secures Spot Aboard Blue Origin Blue Moon Mission",
+      "url": "https://europeanspaceflight.com/european-lunar-rover-secures-spot-aboard-blue-origin-blue-moon-mission"
     }
   ],
-  "total_items": 10
+  "total_items": 14
 }
