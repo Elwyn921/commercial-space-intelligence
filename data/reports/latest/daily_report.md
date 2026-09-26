@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-09-25
+# 每日新闻情报日报 - 2026-09-26
 
-- Report ID: daily-2026-09-26-d5317c5d
-- Source run: ef0db447-5cff-47b1-b6ba-dda619df5c57
+- Report ID: daily-2026-09-26-5b7e033f
+- Source run: 1330e92d-7a58-40b6-b8f2-abce0942fb2d
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 1
+- Total items: 2
 
 ## Executive Summary
 
-2026-09-26 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-09-26 共收录 2 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -32,10 +32,12 @@ No LLM summary.
 No LLM summary.
 
 - [SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast](https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast) SpaceX
+- [Blastoff! SpaceX launches 29 Starlink satellites from Florida, nails landing](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab729054288485da5285c8e16935bed&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Ftechnology%2Fspace-exploration%2Fblastoff-spacex-launches-29-starlink-satellites-from-florida-nails-landing%2Fvi-AA2cZ5aH&c=9095820309529419124&mkt=en-us) SpaceX
 
 ## Top News
 
 - [SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast](https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast) SpaceX
+- [Blastoff! SpaceX launches 29 Starlink satellites from Florida, nails landing](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab729054288485da5285c8e16935bed&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Ftechnology%2Fspace-exploration%2Fblastoff-spacex-launches-29-starlink-satellites-from-florida-nails-landing%2Fvi-AA2cZ5aH&c=9095820309529419124&mkt=en-us) SpaceX
 
 ## Risks And Watchpoints
 
