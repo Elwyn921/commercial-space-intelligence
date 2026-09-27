@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-09-26
+# 每日新闻情报日报 - 2026-09-27
 
-- Report ID: daily-2026-09-26-b054670b
-- Source run: c85c68cc-f967-4528-a2d5-f66098fb4f4f
+- Report ID: daily-2026-09-27-b82081a1
+- Source run: f07db142-861a-4405-8e91-a0f513fdfef6
 - Generation status: skipped_no_secret
-- Companies covered: 3
-- Total items: 4
+- Companies covered: 1
+- Total items: 1
 
 ## Executive Summary
 
-2026-09-26 共收录 4 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin、中科宇航。
+2026-09-27 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -21,7 +21,6 @@ No LLM summary.
 
 No LLM summary.
 
-- [Китай показал сборку Kinetica-1 — крупнейшей твердотопливной ракеты страны](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab82a4318f340b0b5d8def9a06380ab&url=https%3A%2F%2Fwww.ixbt.com%2Fnews%2F2026%2F09%2F26%2F438461-kitai-pokazal-sborku-kinetica-1-krupneisei-tverdotoplivnoi-rakety-strany.html&c=15446898221618493945&mkt=en-us) 中科宇航
 
 ### 卫星互联网服务
 
@@ -32,16 +31,11 @@ No LLM summary.
 
 No LLM summary.
 
-- [Animation of NASA's ESCAPADE launched to Mars atop Blue Origin's New Glenn rocket](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab8282321af4f9a907aad698113791e&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fanimation-of-nasas-escapade-launched-to-mars-atop-blue-origins-new-glenn-rocket%2Fvi-AA2d1G3M&c=11858405606867084063&mkt=en-us) Blue Origin
-- [SpaceX completes another secret Pentagon launch, adding to suspected Starshield buildout](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab827f356024918a5ebe3addef05000&url=https%3A%2F%2Fwww.teslarati.com%2Fspacex-space-force-launch-starshiled-infrastructure%2F&c=990168806895888020&mkt=en-us) SpaceX
-- [SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast](https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast) SpaceX
+- [SpaceX President Gwynne Shotwell Files SEC Intent to Sell $52 Million in Executive Equity](https://satnews.com/2026/09/26/spacex-president-gwynne-shotwell-files-sec-intent-to-sell-52-million-in-executive-equity) SpaceX
 
 ## Top News
 
-- [Animation of NASA's ESCAPADE launched to Mars atop Blue Origin's New Glenn rocket](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab8282321af4f9a907aad698113791e&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fanimation-of-nasas-escapade-launched-to-mars-atop-blue-origins-new-glenn-rocket%2Fvi-AA2d1G3M&c=11858405606867084063&mkt=en-us) Blue Origin
-- [SpaceX completes another secret Pentagon launch, adding to suspected Starshield buildout](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab827f356024918a5ebe3addef05000&url=https%3A%2F%2Fwww.teslarati.com%2Fspacex-space-force-launch-starshiled-infrastructure%2F&c=990168806895888020&mkt=en-us) SpaceX
-- [Китай показал сборку Kinetica-1 — крупнейшей твердотопливной ракеты страны](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab82a4318f340b0b5d8def9a06380ab&url=https%3A%2F%2Fwww.ixbt.com%2Fnews%2F2026%2F09%2F26%2F438461-kitai-pokazal-sborku-kinetica-1-krupneisei-tverdotoplivnoi-rakety-strany.html&c=15446898221618493945&mkt=en-us) 中科宇航
-- [SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast](https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast) SpaceX
+- [SpaceX President Gwynne Shotwell Files SEC Intent to Sell $52 Million in Executive Equity](https://satnews.com/2026/09/26/spacex-president-gwynne-shotwell-files-sec-intent-to-sell-52-million-in-executive-equity) SpaceX
 
 ## Risks And Watchpoints
 
