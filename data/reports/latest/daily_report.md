@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-09-27
 
-- Report ID: daily-2026-09-27-71c45aa3
-- Source run: 173ba670-8762-4042-af2d-9c0f5401f839
+- Report ID: daily-2026-09-28-0b8362e8
+- Source run: be0d80d5-531c-4ce9-987d-e221d191f824
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 5
+- Total items: 2
 
 ## Executive Summary
 
-2026-09-27 共收录 5 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-09-28 共收录 2 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,15 +31,13 @@ No LLM summary.
 
 No LLM summary.
 
-- [Planet Labs Delivers Pelican-12 Spacecraft to Cape Canaveral for SpaceX Bandwagon-5 Mission](https://satnews.com/2026/09/27/planet-labs-delivers-pelican-12-spacecraft-to-cape-canaveral-for-spacex-bandwagon-5-mission) SpaceX
-- [SpaceX's Next Starship Launch Will Generate Revenue -- Sort Of - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaUQySGpVN19oWnpVR3pZYnZyMzF2VlZYZU9ldjBma2N1Q0Nhb2Z0cDZnZ0o4NF83TVJOV09NRWh0b2dtUkZsOXBkcXhDRWM4X3g4dHV6UFFTMDJRbW93dlAzR2lkckJET2d4cU9EYzhpRUctTEhlRmdYWTVVa1Y1Q1BJakIxSjFVZTFXX2d4NmpUeUM4eTRyZA?oc=5) SpaceX
-- [SpaceX (SPCX) Stock Eyes 56% Rally as Historic Orbital Starship Launch Approaches](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab93ba873854d75aabe7f6ef2c09838&url=https%3A%2F%2Fblockonomi.com%2Fspacex-spcx-stock-eyes-56-rally-as-historic-orbital-starship-launch-approaches%2F&c=17070162151310399210&mkt=en-us) SpaceX
+- [SpaceX reuses Falcon 9 rocket for 10th time in latest Starlink launch - Mashable](https://news.google.com/rss/articles/CBMingFBVV95cUxOc1pHN3U1ZWxZOWhUNWZERkFEbTcyTnhleFFPR2lqUldPNkxQRy1mbnFFRUNIZngycF9lR0tHamtwNW9zQ2VWaVhnZVAzSXhYYkF5S3hJT09SZHNtZ3p2RDdLa1RNRjhJMTJyYVhBUTU5cVZwdk4weUlSSmRyVjMtUERxX1gyZlItUkxSZGUyXzZXUXRycmktaDlLX1loUQ?oc=5) SpaceX
+- [Starship Flight 14: SpaceX Attempts Orbit](https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit) SpaceX
 
 ## Top News
 
-- [Planet Labs Delivers Pelican-12 Spacecraft to Cape Canaveral for SpaceX Bandwagon-5 Mission](https://satnews.com/2026/09/27/planet-labs-delivers-pelican-12-spacecraft-to-cape-canaveral-for-spacex-bandwagon-5-mission) SpaceX
-- [SpaceX's Next Starship Launch Will Generate Revenue -- Sort Of - The Motley Fool](https://news.google.com/rss/articles/CBMimAFBVV95cUxQaUQySGpVN19oWnpVR3pZYnZyMzF2VlZYZU9ldjBma2N1Q0Nhb2Z0cDZnZ0o4NF83TVJOV09NRWh0b2dtUkZsOXBkcXhDRWM4X3g4dHV6UFFTMDJRbW93dlAzR2lkckJET2d4cU9EYzhpRUctTEhlRmdYWTVVa1Y1Q1BJakIxSjFVZTFXX2d4NmpUeUM4eTRyZA?oc=5) SpaceX
-- [SpaceX (SPCX) Stock Eyes 56% Rally as Historic Orbital Starship Launch Approaches](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab93ba873854d75aabe7f6ef2c09838&url=https%3A%2F%2Fblockonomi.com%2Fspacex-spcx-stock-eyes-56-rally-as-historic-orbital-starship-launch-approaches%2F&c=17070162151310399210&mkt=en-us) SpaceX
+- [SpaceX reuses Falcon 9 rocket for 10th time in latest Starlink launch - Mashable](https://news.google.com/rss/articles/CBMingFBVV95cUxOc1pHN3U1ZWxZOWhUNWZERkFEbTcyTnhleFFPR2lqUldPNkxQRy1mbnFFRUNIZngycF9lR0tHamtwNW9zQ2VWaVhnZVAzSXhYYkF5S3hJT09SZHNtZ3p2RDdLa1RNRjhJMTJyYVhBUTU5cVZwdk4weUlSSmRyVjMtUERxX1gyZlItUkxSZGUyXzZXUXRycmktaDlLX1loUQ?oc=5) SpaceX
+- [Starship Flight 14: SpaceX Attempts Orbit](https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit) SpaceX
 
 ## Risks And Watchpoints
 
