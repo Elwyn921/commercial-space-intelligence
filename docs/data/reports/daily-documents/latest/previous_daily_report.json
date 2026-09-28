@@ -1,169 +1,107 @@
 {
-  "as_of_date": "2026-09-27",
+  "as_of_date": "2026-09-28",
   "companies": [
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_types": {
-        "launch": 2,
-        "other": 3,
-        "product": 1
-      },
-      "item_count": 6,
-      "latest_title": "中科宇航力箭一号总装周期缩短至约 15 天：南沙总装厂房年产能 30 发，接单到发射周期压缩至半年内 - 手机新浪网"
-    },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 5
+        "launch": 4,
+        "regulation": 1
       },
       "item_count": 5,
-      "latest_title": "SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast"
+      "latest_title": "Planet Labs Delivers Pelican-12 Spacecraft to Cape Canaveral for SpaceX Bandwagon-5 Mission"
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
       "event_types": {
-        "launch": 1
+        "other": 1
       },
       "item_count": 1,
-      "latest_title": "Animation of NASA's ESCAPADE launched to Mars atop Blue Origin's New Glenn rocket"
+      "latest_title": "朱雀三号官宣登陆央视中秋晚会，商业航天迈向主流视野每经编辑：赵云9月25日，蓝箭 - 股吧"
     }
   ],
-  "company_count": 3,
+  "company_count": 2,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 8,
-    "other": 3,
-    "product": 1
+    "launch": 4,
+    "other": 1,
+    "regulation": 1
   },
-  "generated_at": "2026-09-27T06:36:52.268259Z",
-  "period_end": "2026-09-26",
-  "period_start": "2026-09-26",
-  "report_date": "2026-09-26",
+  "generated_at": "2026-09-28T06:54:00.897470Z",
+  "period_end": "2026-09-27",
+  "period_start": "2026-09-27",
+  "report_date": "2026-09-27",
   "schema_version": "daily_document.v1",
-  "source_count": 6,
+  "source_count": 4,
   "source_counts": {
-    "Space": 1,
-    "Spaceflight Now": 1,
-    "bing.com": 7,
-    "凤凰网": 1,
-    "手机新浪网": 1,
-    "新浪财经": 1
+    "bing.com": 2,
+    "fool.com": 1,
+    "satnews.com": 2,
+    "股吧": 1
   },
-  "summary": "2026-09-26 共归档 12 条新闻，覆盖 3 家公司、6 个信息来源。 新闻量较多的公司包括 中科宇航、SpaceX、Blue Origin。",
+  "summary": "2026-09-27 共归档 6 条新闻，覆盖 2 家公司、4 个信息来源。 新闻量较多的公司包括 SpaceX、蓝箭航天。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "9e9b8c616625e9e7",
-      "published_at": "2026-09-25T20:26:14Z",
-      "source_name": "Spaceflight Now",
-      "title": "SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast",
-      "url": "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast"
+      "item_id": "e52187cafc4c00dc",
+      "published_at": "2026-09-27T14:56:48Z",
+      "source_name": "satnews.com",
+      "title": "Planet Labs Delivers Pelican-12 Spacecraft to Cape Canaveral for SpaceX Bandwagon-5 Mission",
+      "url": "https://satnews.com/2026/09/27/planet-labs-delivers-pelican-12-spacecraft-to-cape-canaveral-for-spacex-bandwagon-5-mission"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "2263ed0816abf2e5",
-      "published_at": "2026-09-26T15:15:43Z",
-      "source_name": "Space",
-      "title": "SpaceX launches classified mystery mission for US Space Force from California (video, photos) - Space",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObWZESl9tc2Z4TlZiTHl6Z1djUVJmTW5SU2pEQUdEREtIU3hHWXRrdlNVaVdnSkFTV1BiVEdVRGhBSjk5QVgzdGZKYmZhdDhkaldyYURLb3h1TGJ0LVRiNkhTYkRwTFhPei1NWHk3cHpIU3NGdFFZb0FONFFKd0ppdWY0WU0xc2VKbEZjenJzdEZ0VjV2N1c1SVZrbU5aRU1KV1dvVEtPczFTcGV2aHVFSXVNbmFOUkNYSVN3NEFuMERyZ05xc0pNVGZ2SlNzbm9mbUZj?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "a00117240c778d0b",
-      "published_at": "2026-09-26T12:20:00Z",
-      "source_name": "bing.com",
-      "title": "Animation of NASA's ESCAPADE launched to Mars atop Blue Origin's New Glenn rocket",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab8282321af4f9a907aad698113791e&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fanimation-of-nasas-escapade-launched-to-mars-atop-blue-origins-new-glenn-rocket%2Fvi-AA2d1G3M&c=11858405606867084063&mkt=en-us"
+      "item_id": "dcfc5eb07e9b1f82",
+      "published_at": "2026-09-27T11:45:00Z",
+      "source_name": "fool.com",
+      "title": "SpaceX's Next Starship Launch Will Generate Revenue -- Sort Of - fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaUQySGpVN19oWnpVR3pZYnZyMzF2VlZYZU9ldjBma2N1Q0Nhb2Z0cDZnZ0o4NF83TVJOV09NRWh0b2dtUkZsOXBkcXhDRWM4X3g4dHV6UFFTMDJRbW93dlAzR2lkckJET2d4cU9EYzhpRUctTEhlRmdYWTVVa1Y1Q1BJakIxSjFVZTFXX2d4NmpUeUM4eTRyZA?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "d47fc03011ed734f",
-      "published_at": "2026-09-26T09:53:00Z",
+      "item_id": "811649559fd2baaf",
+      "published_at": "2026-09-27T04:15:00Z",
       "source_name": "bing.com",
-      "title": "SpaceX Just Launched Its 100th Block 5 Rocket: Elon Musk Is Building an Unshakable Financial Fortress",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab878b97eae43bcb0fcd0cb78c53b83&url=https%3A%2F%2F247wallst.com%2Finvesting%2F2026%2F09%2F26%2Fspacex-just-launched-its-100th-block-5-rocket-elon-musk-is-building-an-unshakable-financial-fortress%2F&c=2516976594445517555&mkt=en-us"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "8619f6107cc45870",
-      "published_at": "2026-09-26T09:48:54Z",
-      "source_name": "手机新浪网",
-      "title": "中科宇航力箭一号总装周期缩短至约 15 天：南沙总装厂房年产能 30 发，接单到发射周期压缩至半年内 - 手机新浪网",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wTkR1Zi1FeWNpRTlhT1hlTmJfbGdxN0t1SmxzR2hNbzVpbXRoODJyVUdoRjhPOG1ibzA5emxqTF9IUFprNlVEY0QtYkt3Z29qOHJiOEstTTAxWDctMmdWRHhXOGg4NVZiUmlWN25HdTBzWEdo?oc=5"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "ecacfa0a1cd0f539",
-      "published_at": "2026-09-26T09:34:00Z",
-      "source_name": "新浪财经",
-      "title": "中科宇航力箭一号总装周期缩短至约15 天：南沙总装厂房年产能30 发，接单到发射周期压缩至半年内 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IMmJyVnIzbmE5WXNDeGUwbUZKaXR0Vk9XRU1OaWc1dmRUaDhPdURzQVhMNWV1ejI0b0YyNFVNNmRTQkdETFhqSFZJZlFBVWRCdTFjNmhBSFJpRlhZQk1yQU1FUGlTS2ZIQng3aHIwcms4cDJNLUVSWkpiTHpVT3M?oc=5"
+      "title": "SpaceX (SPCX) Stock Eyes 56% Rally as Historic Orbital Starship Launch Approaches",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab93ba873854d75aabe7f6ef2c09838&url=https%3A%2F%2Fblockonomi.com%2Fspacex-spcx-stock-eyes-56-rally-as-historic-orbital-starship-launch-approaches%2F&c=17070162151310399210&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "93eece5f10ac9d45",
-      "published_at": "2026-09-26T08:23:00Z",
+      "item_id": "bce9508e537d5698",
+      "published_at": "2026-09-27T04:04:00Z",
       "source_name": "bing.com",
-      "title": "SpaceX completes another secret Pentagon launch, adding to suspected Starshield buildout",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab827f356024918a5ebe3addef05000&url=https%3A%2F%2Fwww.teslarati.com%2Fspacex-space-force-launch-starshiled-infrastructure%2F&c=990168806895888020&mkt=en-us"
+      "title": "SpaceX (SPCX) Stock: Analysts See 56% Upside Before Monday’s Launch",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab93ba873854d75aabe7f6ef2c09838&url=https%3A%2F%2Fcoincentral.com%2Fspacex-spcx-stock-analysts-see-56-upside-before-mondays-launch%2F&c=8428948203730398312&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "0742c9910e40e600",
-      "published_at": "2026-09-25T17:38:01Z",
-      "source_name": "bing.com",
-      "title": "Blastoff! SpaceX launches 29 Starlink satellites from Florida, nails landing",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab729054288485da5285c8e16935bed&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Ftechnology%2Fspace-exploration%2Fblastoff-spacex-launches-29-starlink-satellites-from-florida-nails-landing%2Fvi-AA2cZ5aH&c=9095820309529419124&mkt=en-us"
+      "event_type": "regulation",
+      "item_id": "9de4165282cd58cc",
+      "published_at": "2026-09-27T00:34:35Z",
+      "source_name": "satnews.com",
+      "title": "SpaceX President Gwynne Shotwell Files SEC Intent to Sell $52 Million in Executive Equity",
+      "url": "https://satnews.com/2026/09/26/spacex-president-gwynne-shotwell-files-sec-intent-to-sell-52-million-in-executive-equity"
     },
     {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "product",
-      "item_id": "4f900de33f743408",
-      "published_at": "2026-09-26T09:40:26Z",
-      "source_name": "凤凰网",
-      "title": "中科宇航力箭一号总装周期缩短至约15天：南沙总装厂房年产能30发 - 凤凰网",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBVFp6T1pXQml3ZlVkQlU3Rk5pei1sXzVqZ3lSd09feXRlVVkxVjdHS3dmeTI2cXp5SkFqSGg0TzJkbzhILTJEaw?oc=5"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
       "event_type": "other",
-      "item_id": "e4e08e11618fe3c3",
-      "published_at": "2026-09-26T06:40:00Z",
-      "source_name": "bing.com",
-      "title": "Китай показал сборку Kinetica-1 — крупнейшей твердотопливной ракеты страны",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab7e0b99ed04d5083dad6c69b3226fb&url=https%3A%2F%2Fwww.ixbt.com%2Fnews%2F2026%2F09%2F26%2F438461-kitai-pokazal-sborku-kinetica-1-krupneisei-tverdotoplivnoi-rakety-strany.html&c=15446898221618493945&mkt=en-us"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "other",
-      "item_id": "c690c4f33c584ac9",
-      "published_at": "2026-09-26T06:40:00Z",
-      "source_name": "bing.com",
-      "title": "Китай показал сборку Kinetica-1 — крупнейшей твердотопливной ракеты страны",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab878f19a4e4710805db1868b9ad060&url=https%3A%2F%2Fwww.ixbt.com%2Fnews%2F2026%2F09%2F26%2F438461-kitai-pokazal-sborku-kinetica-1-krupneisei-tverdotoplivnoi-rakety-strany.html&c=15446898221618493945&mkt=en-us"
+      "item_id": "20a9ac6ce75faaa5",
+      "published_at": "2026-09-27T14:53:11Z",
+      "source_name": "股吧",
+      "title": "朱雀三号官宣登陆央视中秋晚会，商业航天迈向主流视野每经编辑：赵云9月25日，蓝箭 - 股吧",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYOU1WRHFKR3dfX1RMTlZSSlpoZDFWa3otWkhhQ1ptM3JSS2VJaDRxdFFjellnd2NESnVUUTZVNktmTzY2OHJHbzJxNGx2Yk4yMFZybnprcEFwVVN4aWMwTC1aRWM?oc=5"
     }
   ],
-  "total_items": 12
+  "total_items": 6
 }
