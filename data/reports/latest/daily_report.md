@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-09-28
 
-- Report ID: daily-2026-09-28-5a7731d4
-- Source run: a566189e-2557-4a23-a395-b45b63b1df9f
+- Report ID: daily-2026-09-28-eb867450
+- Source run: 9f0fef72-2b1d-486f-ba34-6dbec0498499
 - Generation status: skipped_no_secret
-- Companies covered: 2
-- Total items: 6
+- Companies covered: 1
+- Total items: 5
 
 ## Executive Summary
 
-2026-09-28 共收录 6 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、中科宇航。
+2026-09-28 共收录 5 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -21,7 +21,6 @@ No LLM summary.
 
 No LLM summary.
 
-- [中科宇航深化太空制药合作，力鸿二号计划2027年携医药载荷首飞 - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwc2h4NVpieWRkajNEWFd0WU52eDZqT3JTZWhCUE03ektCV01MZzNtWXFBekIyWDUxQzhPR1lfY09GMTBSUER5ZDhTV25rYm9acFVweEVhRTl0Ymtx?oc=5) 中科宇航
 
 ### 卫星互联网服务
 
@@ -32,16 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
-- [Live coverage: SpaceX to launch first Starlink V3 satellites to orbit on Starship](https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship) SpaceX
-- [SpaceX Starship targets first orbital flight as Musk pushes rocket towards Moon, Mars](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab9cb767e8b40158069b7217dba4fb5&url=https%3A%2F%2Fwww.msn.com%2Fen-in%2Fnews%2Fother%2Fspacex-starship-targets-first-orbital-flight-as-musk-pushes-rocket-towards-moon-mars%2Far-AA2d5Qm0&c=5286194968683993708&mkt=en-us) SpaceX
-- [SpaceX reuses Falcon 9 rocket for 10th time in latest Starlink launch - Mashable](https://news.google.com/rss/articles/CBMingFBVV95cUxOc1pHN3U1ZWxZOWhUNWZERkFEbTcyTnhleFFPR2lqUldPNkxQRy1mbnFFRUNIZngycF9lR0tHamtwNW9zQ2VWaVhnZVAzSXhYYkF5S3hJT09SZHNtZ3p2RDdLa1RNRjhJMTJyYVhBUTU5cVZwdk4weUlSSmRyVjMtUERxX1gyZlItUkxSZGUyXzZXUXRycmktaDlLX1loUQ?oc=5) SpaceX
+- [Indian Startup TakeMe2Space to Launch Orbital Computing Satellite on SpaceX Transporter-18 Mission](https://spacewatch.global/2026/09/indian-startup-takeme2space-to-launch-orbital-computing-satellite-on-spacex-transporter-18-mission) SpaceX
+- [SpaceX Prepares Starship for its First Orbital Flight and In-Orbit Starlink Deployment](https://spacewatch.global/2026/09/spacex-prepares-starship-for-its-first-orbital-flight-and-in-orbit-starlink-deployment) SpaceX
+- [Why Starship's riskiest launch yet is such a big deal for Elon Musk's SpaceX](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aba582a9b1c4c1cbc2b1b8bb8a42b04&url=https%3A%2F%2Fwww.businessinsider.com%2Fspacex-starship-launch-orbit-starlink-mission-risk-important-2026-9&c=12624777823274569062&mkt=en-us) SpaceX
 
 ## Top News
 
-- [中科宇航深化太空制药合作，力鸿二号计划2027年携医药载荷首飞 - 证券时报网](https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwc2h4NVpieWRkajNEWFd0WU52eDZqT3JTZWhCUE03ektCV01MZzNtWXFBekIyWDUxQzhPR1lfY09GMTBSUER5ZDhTV25rYm9acFVweEVhRTl0Ymtx?oc=5) 中科宇航
-- [Live coverage: SpaceX to launch first Starlink V3 satellites to orbit on Starship](https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship) SpaceX
-- [SpaceX Starship targets first orbital flight as Musk pushes rocket towards Moon, Mars](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ab9cb767e8b40158069b7217dba4fb5&url=https%3A%2F%2Fwww.msn.com%2Fen-in%2Fnews%2Fother%2Fspacex-starship-targets-first-orbital-flight-as-musk-pushes-rocket-towards-moon-mars%2Far-AA2d5Qm0&c=5286194968683993708&mkt=en-us) SpaceX
-- [SpaceX reuses Falcon 9 rocket for 10th time in latest Starlink launch - Mashable](https://news.google.com/rss/articles/CBMingFBVV95cUxOc1pHN3U1ZWxZOWhUNWZERkFEbTcyTnhleFFPR2lqUldPNkxQRy1mbnFFRUNIZngycF9lR0tHamtwNW9zQ2VWaVhnZVAzSXhYYkF5S3hJT09SZHNtZ3p2RDdLa1RNRjhJMTJyYVhBUTU5cVZwdk4weUlSSmRyVjMtUERxX1gyZlItUkxSZGUyXzZXUXRycmktaDlLX1loUQ?oc=5) SpaceX
+- [Indian Startup TakeMe2Space to Launch Orbital Computing Satellite on SpaceX Transporter-18 Mission](https://spacewatch.global/2026/09/indian-startup-takeme2space-to-launch-orbital-computing-satellite-on-spacex-transporter-18-mission) SpaceX
+- [SpaceX Prepares Starship for its First Orbital Flight and In-Orbit Starlink Deployment](https://spacewatch.global/2026/09/spacex-prepares-starship-for-its-first-orbital-flight-and-in-orbit-starlink-deployment) SpaceX
+- [Why Starship's riskiest launch yet is such a big deal for Elon Musk's SpaceX](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aba582a9b1c4c1cbc2b1b8bb8a42b04&url=https%3A%2F%2Fwww.businessinsider.com%2Fspacex-starship-launch-orbit-starlink-mission-risk-important-2026-9&c=12624777823274569062&mkt=en-us) SpaceX
 
 ## Risks And Watchpoints
 
@@ -51,4 +49,4 @@ No LLM summary.
 
 ## Source Health
 
-degraded: 0/37 sources succeeded.
+degraded: 14/26 sources succeeded.
