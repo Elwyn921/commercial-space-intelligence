@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-09-29
 
-- Report ID: daily-2026-09-29-b0f32083
-- Source run: a89fca89-7e41-4e1b-97f1-0dc9de5f7e04
+- Report ID: daily-2026-09-29-44462966
+- Source run: 2e40d58c-f9d0-44d3-82eb-1150ba794c43
 - Generation status: skipped_no_secret
-- Companies covered: 2
-- Total items: 11
+- Companies covered: 3
+- Total items: 15
 
 ## Executive Summary
 
-2026-09-29 共收录 11 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
+2026-09-29 共收录 15 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin、中科宇航。
 
 ## Industry Chain Sections
 
@@ -21,6 +21,7 @@ No LLM summary.
 
 No LLM summary.
 
+- [中科宇航与广州实验室将开展太空制药场景验证 - 北京市科学技术委员会](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LbkFMUXlQaEhYbjRwR05UQU5iQVVfWDJHR19USWJaRU9ia1VyRG9DWWJjeGR1NHJOS2c4XzVTQ0swRjFRaTFTZW95cW5lWjJYSTlmSTFqUGdHTVZkV255TDZYeF8xVzdDQ252WHdEb19sRGk1WEV3dXJ5bXJ2ZVE?oc=5) 中科宇航
 
 ### 卫星互联网服务
 
@@ -31,16 +32,17 @@ No LLM summary.
 
 No LLM summary.
 
-- [SpaceX’s Starship goes orbital, deploying first next-gen Starlinks - Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3Fsalc0ZlhsR1RyOTVxVkF2VDVXZFlBcFphNUFsbHZzY1VqWlpyZ3J1WkNIMlNQS1FYVWVaN2FNZm02a3lyTUg0QW5FWktYR2t6aHg3WGlCUnk1cTFvMXItNkkyTW5oNHBjS2cxQ2RjT0E4dF9OMF90Q0g4SGRLWjg5enZmVVZjRnVEcjkySk1Eb243eEpkYU1NU0dNdmFLOEJaZmhkV2NLdnZDTXMw?oc=5) SpaceX
-- [The rocket launched twenty-six new Starlink satellites to join eleven thousand existing ones in orbit. - facebook.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOFh6M3JLdWRBemFUSGhuR25JOFlCLXZ3SEVaTVpqS29iVEpXU21KVHIzVlBRQjJNRDBSdkx1TXUtT2hTVFhPSVV0WEN6LTdURkg4NjV3LV9RRmFNajZyZHl0WTl3T0x5a0l6UVdNclh5SkNfV0Y0MzRKWWNBQ0EtOFdfTTFJcXM2SldRWDluTXh0N3F3dEp2SEVnZXlocER2OExadUNQYXVPejA3SVc3OUJwdHRQNDNvOHFFZTg5ZGJPeUFsZ1l6TEpGYkJ0QmlSVFhick11UG1QQQ?oc=5) SpaceX
-- [SpaceX's Starship makes orbital debut deploying Starlinks before early ending - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUxONEdtUHZ5SjVIV3RpTVhrdlIzVTRucmFYRThFZ014SGlwX2cxTk80MjB3UHc5c2ZmZTlkOE1kMDJLS1BCM2hyREJhdjVaMExEUXhUemw4UlB2NXJCTm1pdkphM0hXRFdVNDQ1UlBueXpYcTdtcmNwT3ZtcGpXWTlDVW0xUmowZmFpdzVFemlVbGtwckxIM3NzNkhEenhENUVkWXByU09TQW9rUlNBUUNocEtBQQ?oc=5) SpaceX
+- [Starship Reaches Orbit for the First Time, Deploys 26 Starlink V3 Satellites](https://spacewatch.global/2026/09/starship-reaches-orbit-for-the-first-time-deploys-26-starlink-v3-satellites) SpaceX
+- [SpaceX Starship Deploys 26 Starlink V3 Satellites; Human Missions Next](http://www.bing.com/news/apiclick.aspx?aid=&tid=6abba35720654d4cb77c395cac12db58&url=https%3A%2F%2Fwww.sentinelassam.com%2Fmore-news%2Finternational%2Fspacex-starship-deploys-26-starlink-v3-satellites-human-missions-next&c=669880080274019913&mkt=en-us) SpaceX
+- [The National Space Society Congratulates SpaceX on the first Orbital Flight of Starship](http://www.bing.com/news/apiclick.aspx?aid=&tid=6abba35720654d4cb77c395cac12db58&url=https%3A%2F%2Fwww.jsonline.com%2Fpress-release%2Fstory%2F246580%2Fthe-national-space-society-congratulates-spacex-on-the-first-orbital-flight-of-starship%2F&c=6660335326825324643&mkt=en-us) SpaceX
 - [Blue Origin CEO: 'We have a path to launch this year' amid pad rebuilding effort - Florida Today](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRHBTd0NWWndNSHhSMXlYanVCTmxTM3gwUGRKRnJzVkZzNTlYVzVjczRNMmZuX3lxLVQ4cFNGZlByNmpGSGZIZTc5OE1iZll2dVlsV0xGdGxLc2JWMUtnVDZveHhpTWFCNUtSSmRnZFhxdU5oeThPbmp3Nk9LZUdUbUZOYzNxOE92Y0xWeUFVX1hRZi02V2oxUzlvalZLVUFLSmtpdGs3QzgxYnF6emRvNjNDd0cwWVZBUFRUZGdUMEVHNXlkd2QyaGV6VU9TZTNFMkhHSUlSX0ozWEpRcl9EaUVJUUZrSmR4TnlsRHA1SFp4cU5KQjlWbWRFR3VWWXppbEpWTQ?oc=5) Blue Origin
 
 ## Top News
 
-- [SpaceX’s Starship goes orbital, deploying first next-gen Starlinks - Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ3Fsalc0ZlhsR1RyOTVxVkF2VDVXZFlBcFphNUFsbHZzY1VqWlpyZ3J1WkNIMlNQS1FYVWVaN2FNZm02a3lyTUg0QW5FWktYR2t6aHg3WGlCUnk1cTFvMXItNkkyTW5oNHBjS2cxQ2RjT0E4dF9OMF90Q0g4SGRLWjg5enZmVVZjRnVEcjkySk1Eb243eEpkYU1NU0dNdmFLOEJaZmhkV2NLdnZDTXMw?oc=5) SpaceX
-- [The rocket launched twenty-six new Starlink satellites to join eleven thousand existing ones in orbit. - facebook.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOFh6M3JLdWRBemFUSGhuR25JOFlCLXZ3SEVaTVpqS29iVEpXU21KVHIzVlBRQjJNRDBSdkx1TXUtT2hTVFhPSVV0WEN6LTdURkg4NjV3LV9RRmFNajZyZHl0WTl3T0x5a0l6UVdNclh5SkNfV0Y0MzRKWWNBQ0EtOFdfTTFJcXM2SldRWDluTXh0N3F3dEp2SEVnZXlocER2OExadUNQYXVPejA3SVc3OUJwdHRQNDNvOHFFZTg5ZGJPeUFsZ1l6TEpGYkJ0QmlSVFhick11UG1QQQ?oc=5) SpaceX
-- [SpaceX's Starship makes orbital debut deploying Starlinks before early ending - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUxONEdtUHZ5SjVIV3RpTVhrdlIzVTRucmFYRThFZ014SGlwX2cxTk80MjB3UHc5c2ZmZTlkOE1kMDJLS1BCM2hyREJhdjVaMExEUXhUemw4UlB2NXJCTm1pdkphM0hXRFdVNDQ1UlBueXpYcTdtcmNwT3ZtcGpXWTlDVW0xUmowZmFpdzVFemlVbGtwckxIM3NzNkhEenhENUVkWXByU09TQW9rUlNBUUNocEtBQQ?oc=5) SpaceX
+- [Starship Reaches Orbit for the First Time, Deploys 26 Starlink V3 Satellites](https://spacewatch.global/2026/09/starship-reaches-orbit-for-the-first-time-deploys-26-starlink-v3-satellites) SpaceX
+- [SpaceX Starship Deploys 26 Starlink V3 Satellites; Human Missions Next](http://www.bing.com/news/apiclick.aspx?aid=&tid=6abba35720654d4cb77c395cac12db58&url=https%3A%2F%2Fwww.sentinelassam.com%2Fmore-news%2Finternational%2Fspacex-starship-deploys-26-starlink-v3-satellites-human-missions-next&c=669880080274019913&mkt=en-us) SpaceX
+- [中科宇航与广州实验室将开展太空制药场景验证 - 北京市科学技术委员会](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LbkFMUXlQaEhYbjRwR05UQU5iQVVfWDJHR19USWJaRU9ia1VyRG9DWWJjeGR1NHJOS2c4XzVTQ0swRjFRaTFTZW95cW5lWjJYSTlmSTFqUGdHTVZkV255TDZYeF8xVzdDQ252WHdEb19sRGk1WEV3dXJ5bXJ2ZVE?oc=5) 中科宇航
+- [The National Space Society Congratulates SpaceX on the first Orbital Flight of Starship](http://www.bing.com/news/apiclick.aspx?aid=&tid=6abba35720654d4cb77c395cac12db58&url=https%3A%2F%2Fwww.jsonline.com%2Fpress-release%2Fstory%2F246580%2Fthe-national-space-society-congratulates-spacex-on-the-first-orbital-flight-of-starship%2F&c=6660335326825324643&mkt=en-us) SpaceX
 - [Blue Origin CEO: 'We have a path to launch this year' amid pad rebuilding effort - Florida Today](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRHBTd0NWWndNSHhSMXlYanVCTmxTM3gwUGRKRnJzVkZzNTlYVzVjczRNMmZuX3lxLVQ4cFNGZlByNmpGSGZIZTc5OE1iZll2dVlsV0xGdGxLc2JWMUtnVDZveHhpTWFCNUtSSmRnZFhxdU5oeThPbmp3Nk9LZUdUbUZOYzNxOE92Y0xWeUFVX1hRZi02V2oxUzlvalZLVUFLSmtpdGs3QzgxYnF6emRvNjNDd0cwWVZBUFRUZGdUMEVHNXlkd2QyaGV6VU9TZTNFMkhHSUlSX0ozWEpRcl9EaUVJUUZrSmR4TnlsRHA1SFp4cU5KQjlWbWRFR3VWWXppbEpWTQ?oc=5) Blue Origin
 
 ## Risks And Watchpoints
