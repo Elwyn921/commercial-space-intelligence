@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-09-29
 
-- Report ID: daily-2026-09-29-44462966
-- Source run: 2e40d58c-f9d0-44d3-82eb-1150ba794c43
+- Report ID: daily-2026-09-30-5ee0d2c6
+- Source run: b5ca4dca-096c-4cdc-b4d1-b6d3b7922a39
 - Generation status: skipped_no_secret
-- Companies covered: 3
-- Total items: 15
+- Companies covered: 1
+- Total items: 1
 
 ## Executive Summary
 
-2026-09-29 共收录 15 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin、中科宇航。
+2026-09-30 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 Blue Origin。
 
 ## Industry Chain Sections
 
@@ -21,7 +21,6 @@ No LLM summary.
 
 No LLM summary.
 
-- [中科宇航与广州实验室将开展太空制药场景验证 - 北京市科学技术委员会](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LbkFMUXlQaEhYbjRwR05UQU5iQVVfWDJHR19USWJaRU9ia1VyRG9DWWJjeGR1NHJOS2c4XzVTQ0swRjFRaTFTZW95cW5lWjJYSTlmSTFqUGdHTVZkV255TDZYeF8xVzdDQ252WHdEb19sRGk1WEV3dXJ5bXJ2ZVE?oc=5) 中科宇航
 
 ### 卫星互联网服务
 
@@ -32,18 +31,11 @@ No LLM summary.
 
 No LLM summary.
 
-- [Starship Reaches Orbit for the First Time, Deploys 26 Starlink V3 Satellites](https://spacewatch.global/2026/09/starship-reaches-orbit-for-the-first-time-deploys-26-starlink-v3-satellites) SpaceX
-- [SpaceX Starship Deploys 26 Starlink V3 Satellites; Human Missions Next](http://www.bing.com/news/apiclick.aspx?aid=&tid=6abba35720654d4cb77c395cac12db58&url=https%3A%2F%2Fwww.sentinelassam.com%2Fmore-news%2Finternational%2Fspacex-starship-deploys-26-starlink-v3-satellites-human-missions-next&c=669880080274019913&mkt=en-us) SpaceX
-- [The National Space Society Congratulates SpaceX on the first Orbital Flight of Starship](http://www.bing.com/news/apiclick.aspx?aid=&tid=6abba35720654d4cb77c395cac12db58&url=https%3A%2F%2Fwww.jsonline.com%2Fpress-release%2Fstory%2F246580%2Fthe-national-space-society-congratulates-spacex-on-the-first-orbital-flight-of-starship%2F&c=6660335326825324643&mkt=en-us) SpaceX
-- [Blue Origin CEO: 'We have a path to launch this year' amid pad rebuilding effort - Florida Today](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRHBTd0NWWndNSHhSMXlYanVCTmxTM3gwUGRKRnJzVkZzNTlYVzVjczRNMmZuX3lxLVQ4cFNGZlByNmpGSGZIZTc5OE1iZll2dVlsV0xGdGxLc2JWMUtnVDZveHhpTWFCNUtSSmRnZFhxdU5oeThPbmp3Nk9LZUdUbUZOYzNxOE92Y0xWeUFVX1hRZi02V2oxUzlvalZLVUFLSmtpdGs3QzgxYnF6emRvNjNDd0cwWVZBUFRUZGdUMEVHNXlkd2QyaGV6VU9TZTNFMkhHSUlSX0ozWEpRcl9EaUVJUUZrSmR4TnlsRHA1SFp4cU5KQjlWbWRFR3VWWXppbEpWTQ?oc=5) Blue Origin
+- [Blue Origin seeks FAA approval for 50 New Glenn launches per year from Cape - floridatoday.com](https://news.google.com/rss/articles/CBMihwJBVV95cUxPYzB0WVV4cTBGbzdEY2t2dUlkRjV2MlJEbFcya0FMODhKOWc2UzRGWGRoTExveHdLY1ktcFlTU0pEV1pkVVp2NnhSQTduTXhrbkV6SEFHTmV6ZkNlSU1nOFd0U2NGUUpWOS1zTktLVzVsRWg5aXFDTlB1NEYzZlg0ck1lbGpCY3hseE5KSkg0OUpXeVJLUVZZai1ITzFQdFlNeGhYenp4RmI5MnhrV1RXei1JVjZiZmVLejV4YVo0d3pheEs3WGZXNGFJTmhQVlBpNVk2WDVWVmdSNFE0cXpXZElMQWhrY0ltZE9uNEhGOFZrWEpuYWRKOEhQX214bENMcHVTeHNUNA?oc=5) Blue Origin
 
 ## Top News
 
-- [Starship Reaches Orbit for the First Time, Deploys 26 Starlink V3 Satellites](https://spacewatch.global/2026/09/starship-reaches-orbit-for-the-first-time-deploys-26-starlink-v3-satellites) SpaceX
-- [SpaceX Starship Deploys 26 Starlink V3 Satellites; Human Missions Next](http://www.bing.com/news/apiclick.aspx?aid=&tid=6abba35720654d4cb77c395cac12db58&url=https%3A%2F%2Fwww.sentinelassam.com%2Fmore-news%2Finternational%2Fspacex-starship-deploys-26-starlink-v3-satellites-human-missions-next&c=669880080274019913&mkt=en-us) SpaceX
-- [中科宇航与广州实验室将开展太空制药场景验证 - 北京市科学技术委员会](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LbkFMUXlQaEhYbjRwR05UQU5iQVVfWDJHR19USWJaRU9ia1VyRG9DWWJjeGR1NHJOS2c4XzVTQ0swRjFRaTFTZW95cW5lWjJYSTlmSTFqUGdHTVZkV255TDZYeF8xVzdDQ252WHdEb19sRGk1WEV3dXJ5bXJ2ZVE?oc=5) 中科宇航
-- [The National Space Society Congratulates SpaceX on the first Orbital Flight of Starship](http://www.bing.com/news/apiclick.aspx?aid=&tid=6abba35720654d4cb77c395cac12db58&url=https%3A%2F%2Fwww.jsonline.com%2Fpress-release%2Fstory%2F246580%2Fthe-national-space-society-congratulates-spacex-on-the-first-orbital-flight-of-starship%2F&c=6660335326825324643&mkt=en-us) SpaceX
-- [Blue Origin CEO: 'We have a path to launch this year' amid pad rebuilding effort - Florida Today](https://news.google.com/rss/articles/CBMihAJBVV95cUxNRHBTd0NWWndNSHhSMXlYanVCTmxTM3gwUGRKRnJzVkZzNTlYVzVjczRNMmZuX3lxLVQ4cFNGZlByNmpGSGZIZTc5OE1iZll2dVlsV0xGdGxLc2JWMUtnVDZveHhpTWFCNUtSSmRnZFhxdU5oeThPbmp3Nk9LZUdUbUZOYzNxOE92Y0xWeUFVX1hRZi02V2oxUzlvalZLVUFLSmtpdGs3QzgxYnF6emRvNjNDd0cwWVZBUFRUZGdUMEVHNXlkd2QyaGV6VU9TZTNFMkhHSUlSX0ozWEpRcl9EaUVJUUZrSmR4TnlsRHA1SFp4cU5KQjlWbWRFR3VWWXppbEpWTQ?oc=5) Blue Origin
+- [Blue Origin seeks FAA approval for 50 New Glenn launches per year from Cape - floridatoday.com](https://news.google.com/rss/articles/CBMihwJBVV95cUxPYzB0WVV4cTBGbzdEY2t2dUlkRjV2MlJEbFcya0FMODhKOWc2UzRGWGRoTExveHdLY1ktcFlTU0pEV1pkVVp2NnhSQTduTXhrbkV6SEFHTmV6ZkNlSU1nOFd0U2NGUUpWOS1zTktLVzVsRWg5aXFDTlB1NEYzZlg0ck1lbGpCY3hseE5KSkg0OUpXeVJLUVZZai1ITzFQdFlNeGhYenp4RmI5MnhrV1RXei1JVjZiZmVLejV4YVo0d3pheEs3WGZXNGFJTmhQVlBpNVk2WDVWVmdSNFE0cXpXZElMQWhrY0ltZE9uNEhGOFZrWEpuYWRKOEhQX214bENMcHVTeHNUNA?oc=5) Blue Origin
 
 ## Risks And Watchpoints
 
