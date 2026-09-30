@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-09-29
+# 每日新闻情报日报 - 2026-09-30
 
-- Report ID: daily-2026-09-30-0f7ea18f
-- Source run: c7a3fd9e-998d-4918-ad3e-74d45a02d102
+- Report ID: daily-2026-09-30-fdfb25ec
+- Source run: 7d7891d4-3915-4fe7-aff7-b1cb39f8c8e2
 - Generation status: skipped_no_secret
 - Companies covered: 2
-- Total items: 4
+- Total items: 8
 
 ## Executive Summary
 
-2026-09-30 共收录 4 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 Blue Origin、SpaceX。
+2026-09-30 共收录 8 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 Blue Origin、SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,17 +31,21 @@ No LLM summary.
 
 No LLM summary.
 
+- [FAA Gives Initial Approval For Additional New Glenn Launches From the Cape - TalkOfTitusville.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxOTkRFZlBHZ20xX3JvOW51V2NScmVQVmxSNjBudXdEZVFJTXR3NG9YaGN1clVlNmdOa2h3TkJoZmFMODJISExCTllmdlNFNHdOcUIxMUtMb1ktMHFpbkRGMHRyMUpZYmxETUtMVkJ6TkxjTTBaYW9fbHJpb3pCb01hcXdiRVl2cVNZZ1AzeFRIVGFfYWpuRmlUd1JQRlVoU2VkQzBleGRSb3lDbWpHM0ZKdnpLS3gwdw?oc=5) Blue Origin
+- [Blue Origin Pursuing New Glenn Launch Rate Boost - Aviation Week](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1JOTHFhZUI2TDhZSDlrczlRTnF2QURDTHBESEVqNE42M2NMWTB5U2lXMnB4WDk5RzV6UjVRT0I3cml4N3BGNTljSm1TemhSMXpVc0h2Q3hTUlh2aVlPTDVkQTdvWUxtY3pnd29QMVI1R1UzVEw1bVRWWVBVRC1IOHY5VlF4ZUhrUUpMZl9TRDRVSzZrSG5XR1F0YWt3R1RrOXpFNWxldWFTdw?oc=5) Blue Origin
+- [Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO](https://www.nasaspaceflight.com/2026/09/launch-preview-092926) SpaceX
 - [SpaceX Transporter-18 to carry three Canadian satellites](https://spaceq.ca/spacex-transporter-18-three-canadian-satellites) SpaceX
 - [NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract](https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract) Blue Origin
 - [NASA has a Dragon dilemma, and there appear to be no good answers](https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers) SpaceX
-- [Blue Origin seeks FAA approval for 50 New Glenn launches per year from Cape - Florida Today](https://news.google.com/rss/articles/CBMihwJBVV95cUxPYzB0WVV4cTBGbzdEY2t2dUlkRjV2MlJEbFcya0FMODhKOWc2UzRGWGRoTExveHdLY1ktcFlTU0pEV1pkVVp2NnhSQTduTXhrbkV6SEFHTmV6ZkNlSU1nOFd0U2NGUUpWOS1zTktLVzVsRWg5aXFDTlB1NEYzZlg0ck1lbGpCY3hseE5KSkg0OUpXeVJLUVZZai1ITzFQdFlNeGhYenp4RmI5MnhrV1RXei1JVjZiZmVLejV4YVo0d3pheEs3WGZXNGFJTmhQVlBpNVk2WDVWVmdSNFE0cXpXZElMQWhrY0ltZE9uNEhGOFZrWEpuYWRKOEhQX214bENMcHVTeHNUNA?oc=5) Blue Origin
 
 ## Top News
 
+- [FAA Gives Initial Approval For Additional New Glenn Launches From the Cape - TalkOfTitusville.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxOTkRFZlBHZ20xX3JvOW51V2NScmVQVmxSNjBudXdEZVFJTXR3NG9YaGN1clVlNmdOa2h3TkJoZmFMODJISExCTllmdlNFNHdOcUIxMUtMb1ktMHFpbkRGMHRyMUpZYmxETUtMVkJ6TkxjTTBaYW9fbHJpb3pCb01hcXdiRVl2cVNZZ1AzeFRIVGFfYWpuRmlUd1JQRlVoU2VkQzBleGRSb3lDbWpHM0ZKdnpLS3gwdw?oc=5) Blue Origin
+- [Blue Origin Pursuing New Glenn Launch Rate Boost - Aviation Week](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1JOTHFhZUI2TDhZSDlrczlRTnF2QURDTHBESEVqNE42M2NMWTB5U2lXMnB4WDk5RzV6UjVRT0I3cml4N3BGNTljSm1TemhSMXpVc0h2Q3hTUlh2aVlPTDVkQTdvWUxtY3pnd29QMVI1R1UzVEw1bVRWWVBVRC1IOHY5VlF4ZUhrUUpMZl9TRDRVSzZrSG5XR1F0YWt3R1RrOXpFNWxldWFTdw?oc=5) Blue Origin
+- [Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO](https://www.nasaspaceflight.com/2026/09/launch-preview-092926) SpaceX
 - [SpaceX Transporter-18 to carry three Canadian satellites](https://spaceq.ca/spacex-transporter-18-three-canadian-satellites) SpaceX
 - [NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract](https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract) Blue Origin
 - [NASA has a Dragon dilemma, and there appear to be no good answers](https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers) SpaceX
-- [Blue Origin seeks FAA approval for 50 New Glenn launches per year from Cape - Florida Today](https://news.google.com/rss/articles/CBMihwJBVV95cUxPYzB0WVV4cTBGbzdEY2t2dUlkRjV2MlJEbFcya0FMODhKOWc2UzRGWGRoTExveHdLY1ktcFlTU0pEV1pkVVp2NnhSQTduTXhrbkV6SEFHTmV6ZkNlSU1nOFd0U2NGUUpWOS1zTktLVzVsRWg5aXFDTlB1NEYzZlg0ck1lbGpCY3hseE5KSkg0OUpXeVJLUVZZai1ITzFQdFlNeGhYenp4RmI5MnhrV1RXei1JVjZiZmVLejV4YVo0d3pheEs3WGZXNGFJTmhQVlBpNVk2WDVWVmdSNFE0cXpXZElMQWhrY0ltZE9uNEhGOFZrWEpuYWRKOEhQX214bENMcHVTeHNUNA?oc=5) Blue Origin
 
 ## Risks And Watchpoints
 
