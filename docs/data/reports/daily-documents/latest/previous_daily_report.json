@@ -1,16 +1,16 @@
 {
-  "as_of_date": "2026-09-30",
+  "as_of_date": "2026-10-01",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 29,
+        "launch": 6,
         "market": 2,
-        "other": 3
+        "other": 6
       },
-      "item_count": 34,
-      "latest_title": "What You Need to Know About NASA’s SpaceX Crew-13 Mission"
+      "item_count": 14,
+      "latest_title": "Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO"
     },
     {
       "company_id": "blue_origin",
@@ -19,149 +19,145 @@
         "launch": 4
       },
       "item_count": 4,
-      "latest_title": "FAA license put Blue Origin’s New Glenn within reach of its first flight"
+      "latest_title": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract"
     },
     {
       "company_id": "cas_space",
       "company_name": "中科宇航",
       "event_types": {
-        "other": 1
+        "market": 1
       },
       "item_count": 1,
-      "latest_title": "中科宇航与广州实验室将开展太空制药场景验证 - 北京市科学技术委员会"
+      "latest_title": "中科宇航IPO状态变更为中止 - 新浪财经"
     }
   ],
   "company_count": 3,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 33,
-    "market": 2,
-    "other": 4
+    "launch": 10,
+    "market": 3,
+    "other": 6
   },
-  "generated_at": "2026-09-30T06:43:24.849245Z",
-  "period_end": "2026-09-29",
-  "period_start": "2026-09-29",
-  "report_date": "2026-09-29",
+  "generated_at": "2026-10-01T07:11:42.670682Z",
+  "period_end": "2026-09-30",
+  "period_start": "2026-09-30",
+  "report_date": "2026-09-30",
   "schema_version": "daily_document.v1",
-  "source_count": 14,
+  "source_count": 10,
   "source_counts": {
-    "Ars Technica": 1,
+    "Aviation Week": 1,
     "Florida Today": 1,
-    "Investor's Business Daily": 1,
     "NASA": 1,
-    "Space": 1,
-    "SpacePolicyOnline.com": 1,
-    "Yahoo Finance": 1,
+    "NASASpaceflight": 2,
+    "TalkOfTitusville.com": 1,
+    "Tesla Oracle": 1,
     "arstechnica.com": 1,
-    "bing.com": 26,
-    "satellitetoday.com": 1,
-    "satnews.com": 1,
+    "bing.com": 9,
     "spaceq.ca": 1,
-    "spacewatch.global": 1,
-    "北京市科学技术委员会": 1
+    "新浪财经": 1
   },
-  "summary": "2026-09-29 共归档 39 条新闻，覆盖 3 家公司、14 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、中科宇航。",
+  "summary": "2026-09-30 共归档 19 条新闻，覆盖 3 家公司、10 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、中科宇航。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "075cfda27105537a",
-      "published_at": "2026-09-28T16:09:09Z",
+      "item_id": "0b249524158dd795",
+      "published_at": "2026-09-29T21:48:36Z",
+      "source_name": "NASASpaceflight",
+      "title": "Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO",
+      "url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092926"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "80b6d8cd1243edae",
+      "published_at": "2026-09-29T20:08:01Z",
       "source_name": "NASA",
-      "title": "What You Need to Know About NASA’s SpaceX Crew-13 Mission",
-      "url": "https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-13-mission"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "market",
-      "item_id": "66adcb1dde8140fe",
-      "published_at": "2026-09-29T07:13:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX Achieves First Starship Orbit and Deploys 26 Starlink V3 Satellites",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6abc2ec3f25a4622b41bddb32f920e7c&url=https%3A%2F%2Ffinance.yahoo.com%2Fmarkets%2Fstocks%2Farticles%2Fspacex-achieves-first-starship-orbit-141326925.html&c=12367738283998109374&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "market",
-      "item_id": "5741c2d42f2693e3",
-      "published_at": "2026-09-29T07:13:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX Achieves First Starship Orbit and Deploys 26 Starlink V3 Satellites",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6abc74fc0d1b4d7ab15e8d27969ef14a&url=https%3A%2F%2Ffinance.yahoo.com%2Fmarkets%2Fstocks%2Farticles%2Fspacex-achieves-first-starship-orbit-141326925.html&c=12367738283998109374&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "4a7e0b9180cc862d",
-      "published_at": "2026-09-29T11:03:00Z",
-      "source_name": "bing.com",
-      "title": "Musk: “First Orbital Flight Successful” as SpaceX’s Starship Reaches Orbit on Flight 14",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6abc2ec3f25a4622b41bddb32f920e7c&url=https%3A%2F%2F247wallst.com%2Finvesting%2F2026%2F09%2F29%2Fmusk-first-orbital-flight-successful-as-spacexs-starship-reaches-orbit-on-flight-14%2F&c=17526574301779880943&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "4d44ce41907d0c4a",
-      "published_at": "2026-09-29T10:04:00Z",
-      "source_name": "bing.com",
-      "title": "Musk: “First Orbital Flight Successful” as SpaceX’s Starship Reaches Orbit on Flight 14",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6abc74fc0d1b4d7ab15e8d27969ef14a&url=https%3A%2F%2Fwww.aol.com%2Farticles%2Fmusk-first-orbital-flight-successful-170340000.html&c=1492924895428158918&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "d347a54a03b42661",
-      "published_at": "2026-09-29T07:00:55Z",
-      "source_name": "bing.com",
-      "title": "FAA license put Blue Origin’s New Glenn within reach of its first flight",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6abc2eca0baa493baab314d1badb9979&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Faviation%2Ffaa-license-put-blue-origin-s-new-glenn-within-reach-of-its-first-flight%2Fvi-AA2dbFGg&c=17946786694582255732&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "67edf7e789a0da49",
-      "published_at": "2026-09-29T07:00:55Z",
-      "source_name": "bing.com",
-      "title": "FAA license put Blue Origin’s New Glenn within reach of its first flight",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6abc7504e51e49c78381371bd10f85bc&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Faviation%2Ffaa-license-put-blue-origin-s-new-glenn-within-reach-of-its-first-flight%2Fvi-AA2dbFGg&c=17946786694582255732&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "1464196cb65529c0",
-      "published_at": "2026-09-29T07:00:55Z",
-      "source_name": "bing.com",
-      "title": "FAA license put Blue Origin’s New Glenn within reach of its first flight",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6abbeff7cfdc453ca627bdd8b997665e&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Faviation%2Ffaa-license-put-blue-origin-s-new-glenn-within-reach-of-its-first-flight%2Fvi-AA2dbFGg&c=17946786694582255732&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "7e3a4310d9a403ad",
-      "published_at": "2026-09-28T19:08:00Z",
-      "source_name": "Florida Today",
-      "title": "Blue Origin CEO: 'We have a path to launch this year' amid pad rebuilding effort - Florida Today",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRHBTd0NWWndNSHhSMXlYanVCTmxTM3gwUGRKRnJzVkZzNTlYVzVjczRNMmZuX3lxLVQ4cFNGZlByNmpGSGZIZTc5OE1iZll2dVlsV0xGdGxLc2JWMUtnVDZveHhpTWFCNUtSSmRnZFhxdU5oeThPbmp3Nk9LZUdUbUZOYzNxOE92Y0xWeUFVX1hRZi02V2oxUzlvalZLVUFLSmtpdGs3QzgxYnF6emRvNjNDd0cwWVZBUFRUZGdUMEVHNXlkd2QyaGV6VU9TZTNFMkhHSUlSX0ozWEpRcl9EaUVJUUZrSmR4TnlsRHA1SFp4cU5KQjlWbWRFR3VWWXppbEpWTQ?oc=5"
+      "title": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+      "url": "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract"
     },
     {
       "company_id": "cas_space",
       "company_name": "中科宇航",
+      "event_type": "market",
+      "item_id": "bfa0e2e2051ed586",
+      "published_at": "2026-09-30T10:03:00Z",
+      "source_name": "新浪财经",
+      "title": "中科宇航IPO状态变更为中止 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbTVmU3BFTW9SaFAtdGxiLXViOVlwbmVqRWlOVTZicFV6cy1aUnNhWWo0TUFQYjZoaDBTSDFPXzdZMnpWQnozV0hUTGxqcWdUbG0zUnlnem0wMjhHVTdCTzQ2UVpMWUZ0VHlHSVFid21ZSUFqY3YyMFlwNXFUQkotag?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "4bd2fe82a90c9691",
+      "published_at": "2026-09-30T14:34:55Z",
+      "source_name": "Tesla Oracle",
+      "title": "SpaceX deployed 26 terabits per second of Starlink V3 bandwidth in a single Starship launch (Flight 14) - Tesla Oracle",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObGJKZWdlWFZra1dBaWMxVVVtZ1JVNlNndEJ6MlBvV3VxWDJqMnY1dHlsWmc2dktKMnpTNHR3VEpoTDdGWmhNWHF2dnhkV2NTQzV2TmF3Unc3V1k3cnktanMzYUFjMXd0UHliNTF5cjNfQ2diR0NuSzFDLXBQcGVOR0dRVFVOazh2eEhTblpVc3M1THpOMmxaWWRUNGdQMEF0akVTbzVtTlBQVzJZenBFR3Z3ZWF2amtyalJxNDg0am9YREpPLVBRVktEdHZtUlJMa0dEblpHck0?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "164155deaac41ba5",
-      "published_at": "2026-09-29T03:07:18Z",
-      "source_name": "北京市科学技术委员会",
-      "title": "中科宇航与广州实验室将开展太空制药场景验证 - 北京市科学技术委员会",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LbkFMUXlQaEhYbjRwR05UQU5iQVVfWDJHR19USWJaRU9ia1VyRG9DWWJjeGR1NHJOS2c4XzVTQ0swRjFRaTFTZW95cW5lWjJYSTlmSTFqUGdHTVZkV255TDZYeF8xVzdDQ252WHdEb19sRGk1WEV3dXJ5bXJ2ZVE?oc=5"
+      "item_id": "b859162bfb0baa62",
+      "published_at": "2026-09-30T09:29:37Z",
+      "source_name": "bing.com",
+      "title": "SpaceX’s megarocket is on the verge of paradigm-shifting success. It’s spurring a ‘crisis’",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6abd40daf37f41ebb9c679a041880b8a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-s-megarocket-is-on-the-verge-of-paradigm-shifting-success-it-s-spurring-a-crisis%2Far-AA2dhcXp&c=690823218016504896&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "07e8175a1a063407",
+      "published_at": "2026-09-30T07:52:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX: In 10 Years, Your Kids Will Thank You For Buying After Starship Made Orbit",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6abd40daf37f41ebb9c679a041880b8a&url=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4951017-spacex-in-10-years-your-kids-will-thank-you-for-buying-after-starship-made-orbit&c=15846380470817701881&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "53dd27ac9df7b44f",
+      "published_at": "2026-09-29T23:28:08Z",
+      "source_name": "TalkOfTitusville.com",
+      "title": "FAA Gives Initial Approval For Additional New Glenn Launches From the Cape - TalkOfTitusville.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTkRFZlBHZ20xX3JvOW51V2NScmVQVmxSNjBudXdEZVFJTXR3NG9YaGN1clVlNmdOa2h3TkJoZmFMODJISExCTllmdlNFNHdOcUIxMUtMb1ktMHFpbkRGMHRyMUpZYmxETUtMVkJ6TkxjTTBaYW9fbHJpb3pCb01hcXdiRVl2cVNZZ1AzeFRIVGFfYWpuRmlUd1JQRlVoU2VkQzBleGRSb3lDbWpHM0ZKdnpLS3gwdw?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "61407edf1650a598",
+      "published_at": "2026-09-29T22:04:43Z",
+      "source_name": "Aviation Week",
+      "title": "Blue Origin Pursuing New Glenn Launch Rate Boost - Aviation Week",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1JOTHFhZUI2TDhZSDlrczlRTnF2QURDTHBESEVqNE42M2NMWTB5U2lXMnB4WDk5RzV6UjVRT0I3cml4N3BGNTljSm1TemhSMXpVc0h2Q3hTUlh2aVlPTDVkQTdvWUxtY3pnd29QMVI1R1UzVEw1bVRWWVBVRC1IOHY5VlF4ZUhrUUpMZl9TRDRVSzZrSG5XR1F0YWt3R1RrOXpFNWxldWFTdw?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "8f18c1791b4782af",
+      "published_at": "2026-09-29T20:13:46Z",
+      "source_name": "spaceq.ca",
+      "title": "SpaceX Transporter-18 to carry three Canadian satellites",
+      "url": "https://spaceq.ca/spacex-transporter-18-three-canadian-satellites"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "3c9bcd867af549d9",
+      "published_at": "2026-09-29T16:09:00Z",
+      "source_name": "Florida Today",
+      "title": "Blue Origin seeks FAA approval for 50 New Glenn launches per year from Cape - Florida Today",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYzB0WVV4cTBGbzdEY2t2dUlkRjV2MlJEbFcya0FMODhKOWc2UzRGWGRoTExveHdLY1ktcFlTU0pEV1pkVVp2NnhSQTduTXhrbkV6SEFHTmV6ZkNlSU1nOFd0U2NGUUpWOS1zTktLVzVsRWg5aXFDTlB1NEYzZlg0ck1lbGpCY3hseE5KSkg0OUpXeVJLUVZZai1ITzFQdFlNeGhYenp4RmI5MnhrV1RXei1JVjZiZmVLejV4YVo0d3pheEs3WGZXNGFJTmhQVlBpNVk2WDVWVmdSNFE0cXpXZElMQWhrY0ltZE9uNEhGOFZrWEpuYWRKOEhQX214bENMcHVTeHNUNA?oc=5"
     }
   ],
-  "total_items": 39
+  "total_items": 19
 }
