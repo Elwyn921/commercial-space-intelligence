@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-10-01
+# 每日新闻情报日报 - 2026-10-02
 
-- Report ID: daily-2026-10-02-900fdead
-- Source run: 784777e4-55cb-4449-a38a-945ebe2733bd
+- Report ID: daily-2026-10-02-74832e58
+- Source run: c33abba0-4aba-4089-a7ff-8791a75c80f3
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 5
+- Total items: 7
 
 ## Executive Summary
 
-2026-10-02 共收录 5 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-10-02 共收录 7 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,15 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
+- [SpaceX Transporter-18 launches three Canadian satellites](https://spaceq.ca/spacex-transporter-18-launches-three-canadian-satellites) SpaceX
+- [SpaceX describes surgical intervention before launch of latest crew mission](https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission) SpaceX
 - [The First Mission Milestones Onboard SpaceX’s Transporter-18 Rideshare Launch](https://www.satellitetoday.com/launch/2026/10/01/the-first-mission-milestones-onboard-spacexs-transporter-18-rideshare-launch) SpaceX
-- [Falcon Heavy set to launch classified NROL-97 to high-energy orbit](https://www.nasaspaceflight.com/2026/10/nrol97-launch) SpaceX
-- [SpaceX launches Google AI satellite, 129 other payloads on 2nd leg of spaceflight tripleheader (video) - Space](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFFyWHJickNnMVZxbGNaTmlOQTdUbVQwR0JfV01YaW1heFI1dExadWkzTGRXbUhYYmUzRFBOMUpodjVHZFdEeFczdjBZbGVSNUNHWTAydndEVTVmOWNlb1VaWXgtcno3MVJUb2ZSMmtPOGJvZ3VqOHY4T2dKdzZKZndhOXd3cmtMel93UXFmUHN5djJ4MEctbjBsc1ptN2laSXhucDJuUVFRWlRJbVdWUnc4VHlYajBPT3Rn?oc=5) SpaceX
 
 ## Top News
 
+- [SpaceX Transporter-18 launches three Canadian satellites](https://spaceq.ca/spacex-transporter-18-launches-three-canadian-satellites) SpaceX
+- [SpaceX describes surgical intervention before launch of latest crew mission](https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission) SpaceX
 - [The First Mission Milestones Onboard SpaceX’s Transporter-18 Rideshare Launch](https://www.satellitetoday.com/launch/2026/10/01/the-first-mission-milestones-onboard-spacexs-transporter-18-rideshare-launch) SpaceX
-- [Falcon Heavy set to launch classified NROL-97 to high-energy orbit](https://www.nasaspaceflight.com/2026/10/nrol97-launch) SpaceX
-- [SpaceX launches Google AI satellite, 129 other payloads on 2nd leg of spaceflight tripleheader (video) - Space](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUFFyWHJickNnMVZxbGNaTmlOQTdUbVQwR0JfV01YaW1heFI1dExadWkzTGRXbUhYYmUzRFBOMUpodjVHZFdEeFczdjBZbGVSNUNHWTAydndEVTVmOWNlb1VaWXgtcno3MVJUb2ZSMmtPOGJvZ3VqOHY4T2dKdzZKZndhOXd3cmtMel93UXFmUHN5djJ4MEctbjBsc1ptN2laSXhucDJuUVFRWlRJbVdWUnc4VHlYajBPT3Rn?oc=5) SpaceX
 
 ## Risks And Watchpoints
 
