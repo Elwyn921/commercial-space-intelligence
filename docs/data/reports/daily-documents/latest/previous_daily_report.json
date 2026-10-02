@@ -1,163 +1,279 @@
 {
-  "as_of_date": "2026-10-01",
+  "as_of_date": "2026-10-02",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 6,
-        "market": 2,
-        "other": 6
+        "launch": 9,
+        "order": 1,
+        "other": 7
       },
-      "item_count": 14,
-      "latest_title": "Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO"
+      "item_count": 17,
+      "latest_title": "NASA’s SpaceX Crew-13 Launches to International Space Station"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_types": {
-        "launch": 4
+        "funding": 2,
+        "launch": 2
       },
       "item_count": 4,
-      "latest_title": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract"
+      "latest_title": "Blue Origin's first outside funding round is oversubscribed, CEO says - qz.com"
     },
     {
       "company_id": "cas_space",
       "company_name": "中科宇航",
       "event_types": {
+        "launch": 1,
+        "market": 2,
+        "other": 1
+      },
+      "item_count": 4,
+      "latest_title": "蓝箭航天、中科宇航和微纳星空等三家商业航天IPO同日被中止 - 手机新浪网"
+    },
+    {
+      "company_id": "china_satnet",
+      "company_name": "中国星网",
+      "event_types": {
+        "launch": 1
+      },
+      "item_count": 1,
+      "latest_title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest"
+    },
+    {
+      "company_id": "minospace",
+      "company_name": "微纳星空",
+      "event_types": {
         "market": 1
       },
       "item_count": 1,
-      "latest_title": "中科宇航IPO状态变更为中止 - 新浪财经"
+      "latest_title": "蓝箭航天、中科宇航、微纳星空三家企业IPO状态同步变更为中止 - jiemian.com"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_types": {
+        "launch": 1
+      },
+      "item_count": 1,
+      "latest_title": "智神星一号首飞成功！揭秘这枚火箭的硬核技术 - 搜狐网"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_types": {
+        "market": 1
+      },
+      "item_count": 1,
+      "latest_title": "蓝箭航天、中科宇航、微纳星空三家企业IPO状态同步变更为中止 - jiemian.com"
     }
   ],
-  "company_count": 3,
+  "company_count": 7,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 10,
-    "market": 3,
-    "other": 6
+    "funding": 2,
+    "launch": 14,
+    "market": 4,
+    "order": 1,
+    "other": 8
   },
-  "generated_at": "2026-10-01T07:11:42.670682Z",
-  "period_end": "2026-09-30",
-  "period_start": "2026-09-30",
-  "report_date": "2026-09-30",
+  "generated_at": "2026-10-02T07:00:39.924746Z",
+  "period_end": "2026-10-01",
+  "period_start": "2026-10-01",
+  "report_date": "2026-10-01",
   "schema_version": "daily_document.v1",
-  "source_count": 10,
+  "source_count": 15,
   "source_counts": {
-    "Aviation Week": 1,
-    "Florida Today": 1,
+    "3?ds=true&seed=1790899296": 1,
+    "Advanced Television": 1,
+    "ChinaTalk": 1,
     "NASA": 1,
-    "NASASpaceflight": 2,
-    "TalkOfTitusville.com": 1,
-    "Tesla Oracle": 1,
-    "arstechnica.com": 1,
-    "bing.com": 9,
+    "SpaceNews": 1,
+    "Spaceflight Now": 1,
+    "The Economist": 1,
+    "bing.com": 13,
+    "cnbc.com": 1,
+    "jiemian.com": 3,
+    "qz.com": 1,
+    "satnews.com": 1,
     "spaceq.ca": 1,
-    "新浪财经": 1
+    "手机新浪网": 1,
+    "搜狐网": 1
   },
-  "summary": "2026-09-30 共归档 19 条新闻，覆盖 3 家公司、10 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、中科宇航。",
+  "summary": "2026-10-01 共归档 29 条新闻，覆盖 7 家公司、15 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、中科宇航、中国星网。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "0b249524158dd795",
-      "published_at": "2026-09-29T21:48:36Z",
-      "source_name": "NASASpaceflight",
-      "title": "Launch Preview: Crew-13 to launch to ISS, Falcon Heavy to launch mission for the NRO",
-      "url": "https://www.nasaspaceflight.com/2026/09/launch-preview-092926"
+      "item_id": "21f728fc4b942bcb",
+      "published_at": "2026-10-01T15:59:24Z",
+      "source_name": "NASA",
+      "title": "NASA’s SpaceX Crew-13 Launches to International Space Station",
+      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-13-launches-to-international-space-station"
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "80b6d8cd1243edae",
-      "published_at": "2026-09-29T20:08:01Z",
-      "source_name": "NASA",
-      "title": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
-      "url": "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract"
+      "item_id": "bb59c22c620a1554",
+      "published_at": "2026-10-01T02:03:53Z",
+      "source_name": "Spaceflight Now",
+      "title": "Live coverage: NASA, SpaceX to launch next crewed mission to the International Space Station",
+      "url": "https://spaceflightnow.com/2026/10/01/live-coverage-nasa-spacex-to-launch-next-crewed-mission-to-the-international-space-station"
     },
     {
       "company_id": "cas_space",
       "company_name": "中科宇航",
       "event_type": "market",
-      "item_id": "bfa0e2e2051ed586",
-      "published_at": "2026-09-30T10:03:00Z",
-      "source_name": "新浪财经",
-      "title": "中科宇航IPO状态变更为中止 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbTVmU3BFTW9SaFAtdGxiLXViOVlwbmVqRWlOVTZicFV6cy1aUnNhWWo0TUFQYjZoaDBTSDFPXzdZMnpWQnozV0hUTGxqcWdUbG0zUnlnem0wMjhHVTdCTzQ2UVpMWUZ0VHlHSVFid21ZSUFqY3YyMFlwNXFUQkotag?oc=5"
+      "item_id": "5e43d243e85dcedc",
+      "published_at": "2026-10-01T14:06:00Z",
+      "source_name": "手机新浪网",
+      "title": "蓝箭航天、中科宇航和微纳星空等三家商业航天IPO同日被中止 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkZ0ttS05oNFdUYmdUR1gtMjFGbmZsd2tDRl9kajZaTndqWXhuWktsNmRzMlpnUTJVRWZyY3ZIQjBWbXNVRGJwd282MzZMUjZEUVdESXhBc3JockFNNzFvdndyLXhsVDJRMzVhZnBmVkM?oc=5"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "market",
+      "item_id": "2ee9c8770dbd3258",
+      "published_at": "2026-10-01T03:27:17Z",
+      "source_name": "jiemian.com",
+      "title": "蓝箭航天、中科宇航、微纳星空三家企业IPO状态同步变更为中止 - jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LSV91bldSSGMxenNwaVdZZmVhOExkMGpEZW41bGFuUkVKWkVDNjFxbDg2SjR5cnk2UDJyaDlJTFpRMHhyTXVhTFczeTVQZ1RPRXRUMGFXLWs?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "4bd2fe82a90c9691",
-      "published_at": "2026-09-30T14:34:55Z",
-      "source_name": "Tesla Oracle",
-      "title": "SpaceX deployed 26 terabits per second of Starlink V3 bandwidth in a single Starship launch (Flight 14) - Tesla Oracle",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObGJKZWdlWFZra1dBaWMxVVVtZ1JVNlNndEJ6MlBvV3VxWDJqMnY1dHlsWmc2dktKMnpTNHR3VEpoTDdGWmhNWHF2dnhkV2NTQzV2TmF3Unc3V1k3cnktanMzYUFjMXd0UHliNTF5cjNfQ2diR0NuSzFDLXBQcGVOR0dRVFVOazh2eEhTblpVc3M1THpOMmxaWWRUNGdQMEF0akVTbzVtTlBQVzJZenBFR3Z3ZWF2amtyalJxNDg0am9YREpPLVBRVktEdHZtUlJMa0dEblpHck0?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "b859162bfb0baa62",
-      "published_at": "2026-09-30T09:29:37Z",
-      "source_name": "bing.com",
-      "title": "SpaceX’s megarocket is on the verge of paradigm-shifting success. It’s spurring a ‘crisis’",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6abd40daf37f41ebb9c679a041880b8a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-s-megarocket-is-on-the-verge-of-paradigm-shifting-success-it-s-spurring-a-crisis%2Far-AA2dhcXp&c=690823218016504896&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "07e8175a1a063407",
-      "published_at": "2026-09-30T07:52:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX: In 10 Years, Your Kids Will Thank You For Buying After Starship Made Orbit",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6abd40daf37f41ebb9c679a041880b8a&url=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4951017-spacex-in-10-years-your-kids-will-thank-you-for-buying-after-starship-made-orbit&c=15846380470817701881&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "53dd27ac9df7b44f",
-      "published_at": "2026-09-29T23:28:08Z",
-      "source_name": "TalkOfTitusville.com",
-      "title": "FAA Gives Initial Approval For Additional New Glenn Launches From the Cape - TalkOfTitusville.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTkRFZlBHZ20xX3JvOW51V2NScmVQVmxSNjBudXdEZVFJTXR3NG9YaGN1clVlNmdOa2h3TkJoZmFMODJISExCTllmdlNFNHdOcUIxMUtMb1ktMHFpbkRGMHRyMUpZYmxETUtMVkJ6TkxjTTBaYW9fbHJpb3pCb01hcXdiRVl2cVNZZ1AzeFRIVGFfYWpuRmlUd1JQRlVoU2VkQzBleGRSb3lDbWpHM0ZKdnpLS3gwdw?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "61407edf1650a598",
-      "published_at": "2026-09-29T22:04:43Z",
-      "source_name": "Aviation Week",
-      "title": "Blue Origin Pursuing New Glenn Launch Rate Boost - Aviation Week",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS1JOTHFhZUI2TDhZSDlrczlRTnF2QURDTHBESEVqNE42M2NMWTB5U2lXMnB4WDk5RzV6UjVRT0I3cml4N3BGNTljSm1TemhSMXpVc0h2Q3hTUlh2aVlPTDVkQTdvWUxtY3pnd29QMVI1R1UzVEw1bVRWWVBVRC1IOHY5VlF4ZUhrUUpMZl9TRDRVSzZrSG5XR1F0YWt3R1RrOXpFNWxldWFTdw?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "8f18c1791b4782af",
-      "published_at": "2026-09-29T20:13:46Z",
+      "item_id": "3769a3f1ef596898",
+      "published_at": "2026-10-01T15:31:49Z",
       "source_name": "spaceq.ca",
-      "title": "SpaceX Transporter-18 to carry three Canadian satellites",
-      "url": "https://spaceq.ca/spacex-transporter-18-three-canadian-satellites"
+      "title": "Josh Kutryk reaches space for the first time aboard SpaceX Crew-13",
+      "url": "https://spaceq.ca/josh-kutryk-reaches-space-for-the-first-time-aboard-spacex-crew-13"
+    },
+    {
+      "company_id": "china_satnet",
+      "company_name": "中国星网",
+      "event_type": "launch",
+      "item_id": "89d9b331b555563e",
+      "published_at": "2026-10-01T12:46:32Z",
+      "source_name": "3?ds=true&seed=1790899296",
+      "title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
+      "url": "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "c11868a5c3667ed8",
+      "published_at": "2026-10-01T12:44:46Z",
+      "source_name": "The Economist",
+      "title": "A rocket shortage gives SpaceX’s competitors an opportunity - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMTFMQmVGRjFLdmR0eXZDUFdRTm9wU0ZsMnJXb0wxYTc2T1hPRWw3Y2RfeWlWZmgxdEtUQ0QzeWtYeWFxUTNlT3FNVXVkSkRzRU9YemJQdlYtd04zUGlVYkFoMDBNNjdmWlF1ZDlFZTZudHE4OHRMX0trV3hLUzFBaFlNRHg1Ry1PSXBHVTZTYklGb2xDSEhLTDRzTmk2OHgzYzNINm00VQ?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "funding",
+      "item_id": "93dc3d3989b0ba18",
+      "published_at": "2026-10-01T12:04:50Z",
+      "source_name": "qz.com",
+      "title": "Blue Origin's first outside funding round is oversubscribed, CEO says - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vWC1rcy10X0gyRl9kVXpfVU1XZ005dzIyLVFlOFpYaVh4aDRTNHFFMXVNRzFfZUhzVzF6a3NvR25FbUdheDZuaW1Bam45c2MydDAtOFBoZlBJaHpodV8wTFZxNS1SS1NLelpGTjJuRzJOVlg2QXhEM0hn?oc=5"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "other",
+      "item_id": "eecf169df2ff6435",
+      "published_at": "2026-10-01T11:02:52Z",
+      "source_name": "bing.com",
+      "title": "CAS Space Lihong-2 suborbital rocket slips to 2027: Merlin-class engine needs three-restart test",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6abed8c66c184490a6643cbace2f6730&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fcas-space-lihong-2-suborbital-rocket-slips-to-2027-merlin-class-engine-needs-three-restart-test%2Far-AA2dmEae&c=14605925642436932575&mkt=en-us"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "3c9bcd867af549d9",
-      "published_at": "2026-09-29T16:09:00Z",
-      "source_name": "Florida Today",
-      "title": "Blue Origin seeks FAA approval for 50 New Glenn launches per year from Cape - Florida Today",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYzB0WVV4cTBGbzdEY2t2dUlkRjV2MlJEbFcya0FMODhKOWc2UzRGWGRoTExveHdLY1ktcFlTU0pEV1pkVVp2NnhSQTduTXhrbkV6SEFHTmV6ZkNlSU1nOFd0U2NGUUpWOS1zTktLVzVsRWg5aXFDTlB1NEYzZlg0ck1lbGpCY3hseE5KSkg0OUpXeVJLUVZZai1ITzFQdFlNeGhYenp4RmI5MnhrV1RXei1JVjZiZmVLejV4YVo0d3pheEs3WGZXNGFJTmhQVlBpNVk2WDVWVmdSNFE0cXpXZElMQWhrY0ltZE9uNEhGOFZrWEpuYWRKOEhQX214bENMcHVTeHNUNA?oc=5"
+      "item_id": "1c2bae70505915b6",
+      "published_at": "2026-10-01T09:57:44Z",
+      "source_name": "Advanced Television",
+      "title": "Blue Origin targets 50 launches a year - Advanced Television",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTXNEaFRTN2I2a3d4WVJDTFRWRmFkdElnSmtaakJxT0x0XzF2OWpPNHpQZnZQT0JoZGNSSHN1UzdTcV92MEoyTkpCdk02a1lJRDBjTEtuMkx1bTRIWkd5YVdRaUpmY29maGk3d1FUbnBWZVFPaUM5LVVwYzBzdUM3ZFFEeV9lR1J2bHVKZk9TWQ?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "e59dbe65e3693029",
+      "published_at": "2026-10-01T05:30:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX’s Starlink Just Got More Powerful, and Cable Giants Comcast, Charter May Feel the Heat",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6abe9979149d43adba4366910766d22c&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fspacex-starlink-just-got-more-153103554.html&c=16182280784161937757&mkt=en-us"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "launch",
+      "item_id": "38a34eb15645fd74",
+      "published_at": "2026-10-01T05:13:45Z",
+      "source_name": "搜狐网",
+      "title": "智神星一号首飞成功！揭秘这枚火箭的硬核技术 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xZWhhRm5zVjNpLVRoc0lfYndUd2gwckxJY2VPeWw1b1RrQzMzQ0Vma00wN1F4WjFiSzBMUWkwaUhUU0RwMnRldks1WERvZmVvYzM0?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "4f52dfd62fb8a4dd",
+      "published_at": "2026-09-30T23:23:10Z",
+      "source_name": "SpaceNews",
+      "title": "Blue Origin seeking to increase New Glenn launch cadence at Cape Canaveral - SpaceNews",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaE1CSEt5ajM4MUFZWUtJUWV5MkhIUThVOGZhRmIxQjBIT1hPUWFzeF9jS0tVZkFkWXBPWVhic0pRNlVIRnpzMFMtVXhmS1lrSXhJdFBDZVM4QUlUUkhhWUlwdENwUXZEZVJJQmNfSWUtWURpNk5NeEpZbFBKQkVXYl9qVTBZcnE5VGt2RmZadHd5ck1wZEcxQjZUNTAwdw?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "funding",
+      "item_id": "06681b638b916bbe",
+      "published_at": "2026-09-30T21:55:01Z",
+      "source_name": "cnbc.com",
+      "title": "Blue Origin's first outside funding round is 'oversubscribed' and not closed yet, CEO says - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vbmUzaExzU2habGdkZ1d4NEdYQ1RBaXpUZElZZnRSRzRSRmxWNld2SGhRMkR3V1BGT2xGeHJaWUVBWUo2bUptcWp5YTlDZzF1WTlOUnRLTWM0ZExUQlRZWTRBSFczN0lHZE9iTFoxa9IBdEFVX3lxTE1xNV9vQ0ptdENTYWRKdVg2TTFaVW1hQnBSVUMwVlpEM0RTajZDRGlhZDVJT2t3MDVTOGZoLXJuM3NFMGxJbDlwc2RuNUxPS3F0QkxXS25lcHNaQWc4aVV6b3ZQSTVjVUxpbjJGOURLR2J5bGc3?oc=5"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "41212e0ec8e934ca",
+      "published_at": "2026-09-30T20:01:58Z",
+      "source_name": "satnews.com",
+      "title": "CAS Space Delays Maiden Flight of Reusable Lihong-2 Suborbital Rocket to 2027",
+      "url": "https://satnews.com/2026/09/30/cas-space-delays-maiden-flight-of-reusable-lihong-2-suborbital-rocket-to-2027"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "market",
+      "item_id": "a85cfd65e6043dae",
+      "published_at": "2026-10-01T03:27:17Z",
+      "source_name": "jiemian.com",
+      "title": "蓝箭航天、中科宇航、微纳星空三家企业IPO状态同步变更为中止 - jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LSV91bldSSGMxenNwaVdZZmVhOExkMGpEZW41bGFuUkVKWkVDNjFxbDg2SjR5cnk2UDJyaDlJTFpRMHhyTXVhTFczeTVQZ1RPRXRUMGFXLWs?oc=5"
+    },
+    {
+      "company_id": "minospace",
+      "company_name": "微纳星空",
+      "event_type": "market",
+      "item_id": "5b43c17e1df4324a",
+      "published_at": "2026-10-01T03:27:17Z",
+      "source_name": "jiemian.com",
+      "title": "蓝箭航天、中科宇航、微纳星空三家企业IPO状态同步变更为中止 - jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LSV91bldSSGMxenNwaVdZZmVhOExkMGpEZW41bGFuUkVKWkVDNjFxbDg2SjR5cnk2UDJyaDlJTFpRMHhyTXVhTFczeTVQZ1RPRXRUMGFXLWs?oc=5"
     }
   ],
-  "total_items": 19
+  "total_items": 29
 }
