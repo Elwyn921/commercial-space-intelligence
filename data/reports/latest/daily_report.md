@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-10-04
 
-- Report ID: daily-2026-10-03-cb4d2095
-- Source run: 6ffa7bb3-7e75-4c08-b7b4-4bd3a52cd998
+- Report ID: daily-2026-10-04-03ef9ce1
+- Source run: 7eab62f2-79ea-46ef-bd40-48aa9bea581c
 - Generation status: skipped_no_secret
-- Companies covered: 3
-- Total items: 3
+- Companies covered: 1
+- Total items: 1
 
 ## Executive Summary
 
-2026-10-03 共收录 3 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 Blue Origin、中科宇航、微纳星空。
+2026-10-04 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -16,13 +16,11 @@
 
 No LLM summary.
 
-- [国星宇航、展芯半导体、微纳星空、国仪量子冲刺IPO，涉及四川多家机构投资 - 新浪财经](https://news.google.com/rss/articles/CBMisAJBVV95cUxPOGtpOV9PMlNtbWhucDAtQkJIMjk0UU5Udjd2dkNGTnhsRDViWklZaU01dFppVHZnSXlKWGhLdXp3YWVheUp2VUo3dDV1ckprNU1OTnBRZnNUZkc5N2FWeEktaEk4dl9IZVU0V0xnQVJxM3BSVHVMaFZrT3JKUGVwTWdDWnBJRWtQdldPa2lpejBCcUFfdXVZQTJFdGJndFY3bkZ3ODJFV09meVlQaF9SclQ5ZGNXa0lQX2ZpcFlNX1R6U25PN0R0S2F2clRpZHRTdWdWek1xY1pvUHFRWVI5Ym53bktyek1vWGxqc3lVZENRNmZxRkJ3RGh6X3Q4aDRhTXhFc2JkNDdwbTB1NmN6dlY0aFpkLTgza1dicC1Gek9xOVZucFdGYTY3cU9IVS1K?oc=5) 微纳星空
 
 ### 运载火箭与发射服务
 
 No LLM summary.
 
-- [“一箭9星”，中科宇航今年第6次发射成功 - 茉莉花新闻网](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHUWM3ZE8yS3BfaHlUd0E0ZlpiZHowcjdpUk5IYktMOG1ibGV4ZExqeW93VzFqZ1hlZzRQaXVlWDJ2dDE0YUE?oc=5) 中科宇航
 
 ### 卫星互联网服务
 
@@ -33,13 +31,11 @@ No LLM summary.
 
 No LLM summary.
 
-- [Blue Origin Wants to Launch New Glenn Up to 50 Times a Year - mediasat.info](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGNwbU5ldVV0cFlBVjYzdFFfQ2hmN0hjVDA5SFJFcDVBR0p1OXNoVDNPU3E1RkkzLTZQejRWVFlycDFwM2hvQTU3Q2FsRUk3eXRfZUp4MGVpLVFDM0pFbXVtNXhxYzNxZzdYSEgxLUVxTGFlSFIwY3liczBoTjFNaGxmZ0RVZDljOHA3U2JsRjZsclRPUXV4am1UVlg?oc=5) Blue Origin
+- [SpaceX shares first picture of Starlink V3 satellite deployment by Starship on debut orbital flight](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac237208a1b4aa38b02194fdb516de3&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-shares-first-picture-of-starlink-v3-satellite-deployment-by-starship-on-debut-orbital-flight%2Far-AA2dvQiu&c=12753644285938891155&mkt=en-us) SpaceX
 
 ## Top News
 
-- [“一箭9星”，中科宇航今年第6次发射成功 - 茉莉花新闻网](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHUWM3ZE8yS3BfaHlUd0E0ZlpiZHowcjdpUk5IYktMOG1ibGV4ZExqeW93VzFqZ1hlZzRQaXVlWDJ2dDE0YUE?oc=5) 中科宇航
-- [Blue Origin Wants to Launch New Glenn Up to 50 Times a Year - mediasat.info](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGNwbU5ldVV0cFlBVjYzdFFfQ2hmN0hjVDA5SFJFcDVBR0p1OXNoVDNPU3E1RkkzLTZQejRWVFlycDFwM2hvQTU3Q2FsRUk3eXRfZUp4MGVpLVFDM0pFbXVtNXhxYzNxZzdYSEgxLUVxTGFlSFIwY3liczBoTjFNaGxmZ0RVZDljOHA3U2JsRjZsclRPUXV4am1UVlg?oc=5) Blue Origin
-- [国星宇航、展芯半导体、微纳星空、国仪量子冲刺IPO，涉及四川多家机构投资 - 新浪财经](https://news.google.com/rss/articles/CBMisAJBVV95cUxPOGtpOV9PMlNtbWhucDAtQkJIMjk0UU5Udjd2dkNGTnhsRDViWklZaU01dFppVHZnSXlKWGhLdXp3YWVheUp2VUo3dDV1ckprNU1OTnBRZnNUZkc5N2FWeEktaEk4dl9IZVU0V0xnQVJxM3BSVHVMaFZrT3JKUGVwTWdDWnBJRWtQdldPa2lpejBCcUFfdXVZQTJFdGJndFY3bkZ3ODJFV09meVlQaF9SclQ5ZGNXa0lQX2ZpcFlNX1R6U25PN0R0S2F2clRpZHRTdWdWek1xY1pvUHFRWVI5Ym53bktyek1vWGxqc3lVZENRNmZxRkJ3RGh6X3Q4aDRhTXhFc2JkNDdwbTB1NmN6dlY0aFpkLTgza1dicC1Gek9xOVZucFdGYTY3cU9IVS1K?oc=5) 微纳星空
+- [SpaceX shares first picture of Starlink V3 satellite deployment by Starship on debut orbital flight](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac237208a1b4aa38b02194fdb516de3&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-shares-first-picture-of-starlink-v3-satellite-deployment-by-starship-on-debut-orbital-flight%2Far-AA2dvQiu&c=12753644285938891155&mkt=en-us) SpaceX
 
 ## Risks And Watchpoints
 
