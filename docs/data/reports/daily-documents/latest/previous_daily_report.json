@@ -1,113 +1,104 @@
 {
-  "as_of_date": "2026-10-04",
+  "as_of_date": "2026-10-05",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 2
+        "launch": 4,
+        "other": 3
       },
-      "item_count": 2,
-      "latest_title": "Triple Rocket Launch Spree Drives SpaceX (SPCX) Stock Up 7% on Friday"
+      "item_count": 7,
+      "latest_title": "SpaceX shares first picture of Starlink V3 satellite deployment by Starship on debut orbital flight"
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
       "event_types": {
-        "launch": 1
+        "other": 1
       },
       "item_count": 1,
-      "latest_title": "Blue Origin Wants to Launch New Glenn Up to 50 Times a Year - mediasat.info"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_types": {
-        "launch": 1
-      },
-      "item_count": 1,
-      "latest_title": "“一箭9星”，中科宇航今年第6次发射成功 - 茉莉花新闻网"
-    },
-    {
-      "company_id": "minospace",
-      "company_name": "微纳星空",
-      "event_types": {
-        "market": 1
-      },
-      "item_count": 1,
-      "latest_title": "国星宇航、展芯半导体、微纳星空、国仪量子冲刺IPO，涉及四川多家机构投资 - 新浪财经"
+      "latest_title": "蓝箭航天最近的四件事！蓝箭航天到底在经历什么？ - finance.ifeng.com"
     }
   ],
-  "company_count": 4,
+  "company_count": 2,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
     "launch": 4,
-    "market": 1
+    "other": 4
   },
-  "generated_at": "2026-10-04T06:50:27.585918Z",
-  "period_end": "2026-10-03",
-  "period_start": "2026-10-03",
-  "report_date": "2026-10-03",
+  "generated_at": "2026-10-05T07:02:52.014873Z",
+  "period_end": "2026-10-04",
+  "period_start": "2026-10-04",
+  "report_date": "2026-10-04",
   "schema_version": "daily_document.v1",
-  "source_count": 4,
+  "source_count": 2,
   "source_counts": {
-    "bing.com": 2,
-    "mediasat.info": 1,
-    "新浪财经": 1,
-    "茉莉花新闻网": 1
+    "bing.com": 7,
+    "finance.ifeng.com": 1
   },
-  "summary": "2026-10-03 共归档 5 条新闻，覆盖 4 家公司、4 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、中科宇航、微纳星空。",
+  "summary": "2026-10-04 共归档 8 条新闻，覆盖 2 家公司、2 个信息来源。 新闻量较多的公司包括 SpaceX、蓝箭航天。",
   "top_items": [
     {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "0b89ed2fa1cb00d3",
-      "published_at": "2026-10-03T13:13:03Z",
-      "source_name": "茉莉花新闻网",
-      "title": "“一箭9星”，中科宇航今年第6次发射成功 - 茉莉花新闻网",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHUWM3ZE8yS3BfaHlUd0E0ZlpiZHowcjdpUk5IYktMOG1ibGV4ZExqeW93VzFqZ1hlZzRQaXVlWDJ2dDE0YUE?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "994bbc6490e1079d",
-      "published_at": "2026-10-03T05:51:55Z",
-      "source_name": "mediasat.info",
-      "title": "Blue Origin Wants to Launch New Glenn Up to 50 Times a Year - mediasat.info",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGNwbU5ldVV0cFlBVjYzdFFfQ2hmN0hjVDA5SFJFcDVBR0p1OXNoVDNPU3E1RkkzLTZQejRWVFlycDFwM2hvQTU3Q2FsRUk3eXRfZUp4MGVpLVFDM0pFbXVtNXhxYzNxZzdYSEgxLUVxTGFlSFIwY3liczBoTjFNaGxmZ0RVZDljOHA3U2JsRjZsclRPUXV4am1UVlg?oc=5"
+      "item_id": "fe8fa9da3b33da34",
+      "published_at": "2026-10-03T23:19:07Z",
+      "source_name": "bing.com",
+      "title": "SpaceX shares first picture of Starlink V3 satellite deployment by Starship on debut orbital flight",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac2b7e23071458597e1d82bd5155182&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-shares-first-picture-of-starlink-v3-satellite-deployment-by-starship-on-debut-orbital-flight%2Far-AA2dvQiu&c=12753644285938891155&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "2bc7b3bb952afefa",
-      "published_at": "2026-10-03T01:33:00Z",
+      "item_id": "77039c63a9c85307",
+      "published_at": "2026-10-03T23:19:07Z",
       "source_name": "bing.com",
-      "title": "Triple Rocket Launch Spree Drives SpaceX (SPCX) Stock Up 7% on Friday",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac0dc439a604917adc731a019896531&url=https%3A%2F%2Fblockonomi.com%2Ftriple-rocket-launch-spree-drives-spacex-spcx-stock-up-7-on-friday%2F&c=6000042193252598788&mkt=en-us"
+      "title": "SpaceX shares first picture of Starlink V3 satellite deployment by Starship on debut orbital flight",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac30c0211d34aefb47fa4c120d4de5f&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-shares-first-picture-of-starlink-v3-satellite-deployment-by-starship-on-debut-orbital-flight%2Far-AA2dvQiu&c=12753644285938891155&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "90ef5f89e45ee0cf",
-      "published_at": "2026-10-03T00:47:00Z",
+      "item_id": "6b2346555bf70f94",
+      "published_at": "2026-10-03T23:19:07Z",
       "source_name": "bing.com",
-      "title": "SpaceX (SPCX) Stock Surges 7% After Launching 3 Rockets in 13 Hours",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac1626c79ac4529be997e0867f63542&url=https%3A%2F%2Fcoincentral.com%2Fspacex-spcx-stock-surges-7-after-launching-3-rockets-in-13-hours%2F&c=11770537211686775131&mkt=en-us"
+      "title": "SpaceX shares first picture of Starlink V3 satellite deployment by Starship on debut orbital flight",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac237208a1b4aa38b02194fdb516de3&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-shares-first-picture-of-starlink-v3-satellite-deployment-by-starship-on-debut-orbital-flight%2Far-AA2dvQiu&c=12753644285938891155&mkt=en-us"
     },
     {
-      "company_id": "minospace",
-      "company_name": "微纳星空",
-      "event_type": "market",
-      "item_id": "2d1dd86c81562e74",
-      "published_at": "2026-10-02T17:51:08Z",
-      "source_name": "新浪财经",
-      "title": "国星宇航、展芯半导体、微纳星空、国仪量子冲刺IPO，涉及四川多家机构投资 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPOGtpOV9PMlNtbWhucDAtQkJIMjk0UU5Udjd2dkNGTnhsRDViWklZaU01dFppVHZnSXlKWGhLdXp3YWVheUp2VUo3dDV1ckprNU1OTnBRZnNUZkc5N2FWeEktaEk4dl9IZVU0V0xnQVJxM3BSVHVMaFZrT3JKUGVwTWdDWnBJRWtQdldPa2lpejBCcUFfdXVZQTJFdGJndFY3bkZ3ODJFV09meVlQaF9SclQ5ZGNXa0lQX2ZpcFlNX1R6U25PN0R0S2F2clRpZHRTdWdWek1xY1pvUHFRWVI5Ym53bktyek1vWGxqc3lVZENRNmZxRkJ3RGh6X3Q4aDRhTXhFc2JkNDdwbTB1NmN6dlY0aFpkLTgza1dicC1Gek9xOVZucFdGYTY3cU9IVS1K?oc=5"
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "21a879aba17af68f",
+      "published_at": "2026-10-03T23:19:07Z",
+      "source_name": "bing.com",
+      "title": "SpaceX shares first picture of Starlink V3 satellite deployment by Starship on debut orbital flight",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac2789b1ee7428d9598fe2a19e458ef&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-shares-first-picture-of-starlink-v3-satellite-deployment-by-starship-on-debut-orbital-flight%2Far-AA2dvQiu&c=12753644285938891155&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "1ea41b4d46037f84",
+      "published_at": "2026-10-04T04:54:00Z",
+      "source_name": "bing.com",
+      "title": "Elon Musk Renews Delta Feud After Airline Picks Amazon Leo Over Starlink",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac2789b99df4e5f947910d635bb15a7&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-renews-delta-feud-115432173.html&c=11934920675918518823&mkt=en-us"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "other",
+      "item_id": "389634afd2450664",
+      "published_at": "2026-10-04T10:00:39Z",
+      "source_name": "finance.ifeng.com",
+      "title": "蓝箭航天最近的四件事！蓝箭航天到底在经历什么？ - finance.ifeng.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PVUFoN2V5dFJwdHJBd1lTQmd2Qkx0ajlINmRxODlHZEZpTVlkSUpIYXkza3dncFlnUEtIU0UyRXBVa28wWVVQcmtKT1I0YnZl?oc=5"
     }
   ],
-  "total_items": 5
+  "total_items": 8
 }
