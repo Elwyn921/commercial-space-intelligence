@@ -1,104 +1,121 @@
 {
-  "as_of_date": "2026-10-05",
+  "as_of_date": "2026-10-06",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 4,
-        "other": 3
+        "launch": 7,
+        "market": 2,
+        "other": 1,
+        "product": 1
       },
-      "item_count": 7,
-      "latest_title": "SpaceX shares first picture of Starlink V3 satellite deployment by Starship on debut orbital flight"
+      "item_count": 11,
+      "latest_title": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency"
     },
     {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_types": {
-        "other": 1
+        "launch": 2
       },
-      "item_count": 1,
-      "latest_title": "蓝箭航天最近的四件事！蓝箭航天到底在经历什么？ - finance.ifeng.com"
+      "item_count": 2,
+      "latest_title": "Blue Origin's New Glenn rocket nails first-ever droneship landing"
     }
   ],
   "company_count": 2,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 4,
-    "other": 4
+    "launch": 9,
+    "market": 2,
+    "other": 1,
+    "product": 1
   },
-  "generated_at": "2026-10-05T07:02:52.014873Z",
-  "period_end": "2026-10-04",
-  "period_start": "2026-10-04",
-  "report_date": "2026-10-04",
+  "generated_at": "2026-10-06T07:34:54.284175Z",
+  "period_end": "2026-10-05",
+  "period_start": "2026-10-05",
+  "report_date": "2026-10-05",
   "schema_version": "daily_document.v1",
-  "source_count": 2,
+  "source_count": 5,
   "source_counts": {
+    "Spaceflight Now": 2,
+    "Ventura County Star": 1,
+    "bgr.com": 1,
     "bing.com": 7,
-    "finance.ifeng.com": 1
+    "satnews.com": 2
   },
-  "summary": "2026-10-04 共归档 8 条新闻，覆盖 2 家公司、2 个信息来源。 新闻量较多的公司包括 SpaceX、蓝箭航天。",
+  "summary": "2026-10-05 共归档 13 条新闻，覆盖 2 家公司、5 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "fe8fa9da3b33da34",
-      "published_at": "2026-10-03T23:19:07Z",
+      "item_id": "b1ae6f6d7779b739",
+      "published_at": "2026-10-04T20:33:26Z",
+      "source_name": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency",
+      "url": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "market",
+      "item_id": "db05b777bb9ac687",
+      "published_at": "2026-10-05T03:20:19Z",
       "source_name": "bing.com",
-      "title": "SpaceX shares first picture of Starlink V3 satellite deployment by Starship on debut orbital flight",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac2b7e23071458597e1d82bd5155182&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-shares-first-picture-of-starlink-v3-satellite-deployment-by-starship-on-debut-orbital-flight%2Far-AA2dvQiu&c=12753644285938891155&mkt=en-us"
+      "title": "SpaceX shares look 'unusually cheap,' Morgan Stanley says: Elon Musk's AI, Starlink bets take center stage",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac4318c1f064b31ad45e4bb1a1eadd1&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Ftech-companies%2Fspacex-shares-look-unusually-cheap-morgan-stanley-says-elon-musk-s-ai-starlink-bets-take-center-stage%2Far-AA2dB8dr&c=16421067831990666516&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "market",
+      "item_id": "0255fe4729862d81",
+      "published_at": "2026-10-05T03:20:19Z",
+      "source_name": "bing.com",
+      "title": "SpaceX shares look 'unusually cheap,' Morgan Stanley says: Elon Musk's AI, Starlink bets take center stage",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac39c1ee9e840c9bd63b81a2aa8102d&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Ftop-stocks%2Fspacex-shares-look-unusually-cheap-morgan-stanley-says-elon-musk-s-ai-starlink-bets-take-center-stage%2Far-AA2dB8dr&c=13474464363427928641&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "77039c63a9c85307",
-      "published_at": "2026-10-03T23:19:07Z",
-      "source_name": "bing.com",
-      "title": "SpaceX shares first picture of Starlink V3 satellite deployment by Starship on debut orbital flight",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac30c0211d34aefb47fa4c120d4de5f&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-shares-first-picture-of-starlink-v3-satellite-deployment-by-starship-on-debut-orbital-flight%2Far-AA2dvQiu&c=12753644285938891155&mkt=en-us"
+      "item_id": "d9f9d28664a0b977",
+      "published_at": "2026-10-05T13:00:00Z",
+      "source_name": "Ventura County Star",
+      "title": "SpaceX's Falcon 9 due for launch in California. Here's the schedule - Ventura County Star",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRElJN0NMQjBWOWdoM3dtenhObi1ZZF9NVV92TjBUWlNQM18yMmlvc0RkdXY1T05RM0d0WVNFVDcyNW40aGFSWFl0ZUg3SjFoS0hnbV9yaVVRQW9tYnhFVEIyUlppMDV3VkRmODAwT01oUE1QVlpCcFk5V28yMnpRdW9qWFhscW1KYmE1RDB1eHZUbzR6WFhvaUdqYnF6bE1xbWJDSFUxbDFpa3BDbW1YWVRnWmJvUQ?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "6b2346555bf70f94",
-      "published_at": "2026-10-03T23:19:07Z",
+      "item_id": "e5e929ece9a4d8d6",
+      "published_at": "2026-10-05T12:02:00Z",
       "source_name": "bing.com",
-      "title": "SpaceX shares first picture of Starlink V3 satellite deployment by Starship on debut orbital flight",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac237208a1b4aa38b02194fdb516de3&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-shares-first-picture-of-starlink-v3-satellite-deployment-by-starship-on-debut-orbital-flight%2Far-AA2dvQiu&c=12753644285938891155&mkt=en-us"
+      "title": "South Korea, SpaceX, and China ready for launch this week",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac4318c1f064b31ad45e4bb1a1eadd1&url=https%3A%2F%2Fwww.astronomy.com%2Fwhats-launching-this-week%2Fsouth-korea-spacex-and-china-ready-for-launch-this-week%2F&c=6339226115474228720&mkt=en-us"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "21a879aba17af68f",
-      "published_at": "2026-10-03T23:19:07Z",
+      "item_id": "97c00d837ffe8894",
+      "published_at": "2026-10-05T11:01:45Z",
       "source_name": "bing.com",
-      "title": "SpaceX shares first picture of Starlink V3 satellite deployment by Starship on debut orbital flight",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac2789b1ee7428d9598fe2a19e458ef&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-shares-first-picture-of-starlink-v3-satellite-deployment-by-starship-on-debut-orbital-flight%2Far-AA2dvQiu&c=12753644285938891155&mkt=en-us"
+      "title": "Blue Origin's New Glenn rocket nails first-ever droneship landing",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac46a60bac1434b9dc8f992f4d689d8&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-rocket-nails-first-ever-droneship-landing%2Fvi-AA2dCtjH&c=8734366114638211468&mkt=en-us"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "1ea41b4d46037f84",
-      "published_at": "2026-10-04T04:54:00Z",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "398f43e528d156d0",
+      "published_at": "2026-10-05T11:01:45Z",
       "source_name": "bing.com",
-      "title": "Elon Musk Renews Delta Feud After Airline Picks Amazon Leo Over Starlink",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac2789b99df4e5f947910d635bb15a7&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-renews-delta-feud-115432173.html&c=11934920675918518823&mkt=en-us"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "other",
-      "item_id": "389634afd2450664",
-      "published_at": "2026-10-04T10:00:39Z",
-      "source_name": "finance.ifeng.com",
-      "title": "蓝箭航天最近的四件事！蓝箭航天到底在经历什么？ - finance.ifeng.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PVUFoN2V5dFJwdHJBd1lTQmd2Qkx0ajlINmRxODlHZEZpTVlkSUpIYXkza3dncFlnUEtIU0UyRXBVa28wWVVQcmtKT1I0YnZl?oc=5"
+      "title": "Blue Origin's New Glenn rocket nails first-ever droneship landing",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac43195d0c74564a5ff8edf64379284&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-rocket-nails-first-ever-droneship-landing%2Fvi-AA2dCtjH&c=8734366114638211468&mkt=en-us"
     }
   ],
-  "total_items": 8
+  "total_items": 13
 }
