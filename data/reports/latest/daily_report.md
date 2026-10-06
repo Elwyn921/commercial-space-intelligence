@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-10-06
 
-- Report ID: daily-2026-10-06-da1636ca
-- Source run: bfdb3219-884e-408a-8012-64db2383a3fa
+- Report ID: daily-2026-10-07-ac4bc5cc
+- Source run: 3129bfc5-4002-4c6a-b9cc-9cf4651fce78
 - Generation status: skipped_no_secret
-- Companies covered: 4
-- Total items: 7
+- Companies covered: 1
+- Total items: 1
 
 ## Executive Summary
 
-2026-10-06 共收录 7 条新闻，覆盖 4 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin、星河动力。
+2026-10-07 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -21,8 +21,6 @@ No LLM summary.
 
 No LLM summary.
 
-- [2026中关村论坛年会｜商业航天青春期|智神星一号|朱雀三号|蓝箭航天|火箭|蓝箭 - 新浪财经](https://news.google.com/rss/articles/CBMinwRBVV95cUxNVGw1QnppWkFVRHFnS2ZpSkY2ZFpxQjFsTnNZaTdEVWxkRUt1enJYbGtiUGNnNmszWVZPaXJra0VzcHhwZWl0V0J6SThwVUR0X2l0U1lESWNLZU84dng0bFlIdHI2OG1OdWp0VkFGaEtSTW9WQ1NsTHczQl9sa1FiazI4OGU0clE1U0FMQ3NYTngtS0FwZ1oxcGNyYmlQM2dFd2RuZGJrSHhCUkw1SlItWkJWbklUUHhTb0xva1liZFFFb3VUSlRMOGhpLW5WdEdIRV81ZWVOTDFoZW1ybFBqbUtqUV94dmJJeG1hdi1LWUY4MnJCQ3pJZGhpWEQ4QmtGYjdYMmFQcWk5SWdGWnRsSlJtbUYxNGM0MGhOVk1LLVhXTVJlYndpb3gxdHFINjF5S2E0MkRXNk9zVEdtTjBCUnlzT0xnUUNkU2l5S1RLVG5oN01ZZGt3c0VETFdLclhqOEFOREIxWE8xZ0l1UXJGb2xzbFNqdml0RzdEY3hwTG9qTTVLZEowbVAtbVFnWG1tZGNCQnRSa3FuTS13UWRmYnNxNElveWREMTA4LVgxOVA1VERJTmNkTXJjV1VudDIxYUJ3MnVkbEZXakRtUlF4OXhkWWNGcjcyRDFUSXQ5YnJZNE9mTE1DR3VYbFZBUERWQWc3bGFNeHpvdU5MYl9mNThjd2lydUdNYTgyYnZYOXFRcUJjTkQweDRiMFp6N0k?oc=5) 星河动力
-- [2026中关村论坛年会｜商业航天青春期|智神星一号|朱雀三号|蓝箭航天|火箭|蓝箭 - 新浪财经](https://news.google.com/rss/articles/CBMinwRBVV95cUxNVGw1QnppWkFVRHFnS2ZpSkY2ZFpxQjFsTnNZaTdEVWxkRUt1enJYbGtiUGNnNmszWVZPaXJra0VzcHhwZWl0V0J6SThwVUR0X2l0U1lESWNLZU84dng0bFlIdHI2OG1OdWp0VkFGaEtSTW9WQ1NsTHczQl9sa1FiazI4OGU0clE1U0FMQ3NYTngtS0FwZ1oxcGNyYmlQM2dFd2RuZGJrSHhCUkw1SlItWkJWbklUUHhTb0xva1liZFFFb3VUSlRMOGhpLW5WdEdIRV81ZWVOTDFoZW1ybFBqbUtqUV94dmJJeG1hdi1LWUY4MnJCQ3pJZGhpWEQ4QmtGYjdYMmFQcWk5SWdGWnRsSlJtbUYxNGM0MGhOVk1LLVhXTVJlYndpb3gxdHFINjF5S2E0MkRXNk9zVEdtTjBCUnlzT0xnUUNkU2l5S1RLVG5oN01ZZGt3c0VETFdLclhqOEFOREIxWE8xZ0l1UXJGb2xzbFNqdml0RzdEY3hwTG9qTTVLZEowbVAtbVFnWG1tZGNCQnRSa3FuTS13UWRmYnNxNElveWREMTA4LVgxOVA1VERJTmNkTXJjV1VudDIxYUJ3MnVkbEZXakRtUlF4OXhkWWNGcjcyRDFUSXQ5YnJZNE9mTE1DR3VYbFZBUERWQWc3bGFNeHpvdU5MYl9mNThjd2lydUdNYTgyYnZYOXFRcUJjTkQweDRiMFp6N0k?oc=5) 蓝箭航天
 
 ### 卫星互联网服务
 
@@ -33,19 +31,11 @@ No LLM summary.
 
 No LLM summary.
 
-- [Millions of people and dozens of countries rely on Starlink, giving Elon Musk unprecedented leverage - Business Insider](https://news.google.com/rss/articles/CBMijwFBVV95cUxNOElJR1BHazJVSFBOVjBhXzFNN3c3aDQ0UFlmZkdzM3ZlOXVxMzlfUEhiNi05WFJwc2c4Z2FwOEl5RmtlOTdfek1BaUN5Z0J0a1prY0JWRXlkaTlGczYwOXNzdHByU2s4MGxfTDd5UU96WWJuUXhNWWVUWkdibnUtaVZfbk01OE9DZWstM1NSZw?oc=5) SpaceX
-- [Morgan Stanley calls SpaceX stock cheap before Starship test](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac4e6b601a2465dbf318ea6d98287f8&url=https%3A%2F%2Ffinance.yahoo.com%2Fmarkets%2Fstocks%2Farticles%2Fmorgan-stanley-calls-spacex-stock-113352652.html&c=3040709826697679185&mkt=en-us) SpaceX
-- [SpaceX: A Growth Story That Hasn't Taken Off Just Yet](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac4e6b601a2465dbf318ea6d98287f8&url=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4952119-spacex-stock-growth-story-that-hasnt-taken-off-yet&c=16922380554247101836&mkt=en-us) SpaceX
-- [FAA advances Starship, New Glenn and Terran R reviews for Cape Canaveral launches - WESH](https://news.google.com/rss/articles/CBMimAFBVV95cUxPMGJjUm9OUk95VTlYU1dVMnBXZmR5cElmWUI5UTdZZzZmYXNpVTN2TnRlNEdqUGg1VnZibkk4czZmUEZrYXRlMTFGWk9ERlhVWEZpYWNpbVliT0hOTGx1M2JsT2NSVUJQanU4b0NnNDFCWHRlWjRkOU9LcGhKai1sOUwtb25TdXBlUm8yalFza0pxYVFzTC1iYw?oc=5) Blue Origin
+- [SpaceX Reveals How Close Other Satellites Get to Its Starlink Constellation - PCMag Australia](https://news.google.com/rss/articles/CBMitAFBVV95cUxPeWZhZjRkeTFkUkpLRmd4ek5wT3VtRjBKWGZYMjc3OTRZdHFtZVdCNUFkdkQ5VG01QjZxUFREdkk2NkIxcHJNY3BfNU95TmxETHlpOFR3NzhRWjJ0ckU0eTR3NTl6TEZHZU1Gc3VFUkxkOXNsY2pNZDRyQ29ZTVZkMk40VVFCYXotTlBlYmRIcXdhVGJvMnV4WFh0TDhQd05UbGxfcmFzdElEXzJ4MGFYUzBlbWc?oc=5) SpaceX
 
 ## Top News
 
-- [Millions of people and dozens of countries rely on Starlink, giving Elon Musk unprecedented leverage - Business Insider](https://news.google.com/rss/articles/CBMijwFBVV95cUxNOElJR1BHazJVSFBOVjBhXzFNN3c3aDQ0UFlmZkdzM3ZlOXVxMzlfUEhiNi05WFJwc2c4Z2FwOEl5RmtlOTdfek1BaUN5Z0J0a1prY0JWRXlkaTlGczYwOXNzdHByU2s4MGxfTDd5UU96WWJuUXhNWWVUWkdibnUtaVZfbk01OE9DZWstM1NSZw?oc=5) SpaceX
-- [Morgan Stanley calls SpaceX stock cheap before Starship test](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac4e6b601a2465dbf318ea6d98287f8&url=https%3A%2F%2Ffinance.yahoo.com%2Fmarkets%2Fstocks%2Farticles%2Fmorgan-stanley-calls-spacex-stock-113352652.html&c=3040709826697679185&mkt=en-us) SpaceX
-- [2026中关村论坛年会｜商业航天青春期|智神星一号|朱雀三号|蓝箭航天|火箭|蓝箭 - 新浪财经](https://news.google.com/rss/articles/CBMinwRBVV95cUxNVGw1QnppWkFVRHFnS2ZpSkY2ZFpxQjFsTnNZaTdEVWxkRUt1enJYbGtiUGNnNmszWVZPaXJra0VzcHhwZWl0V0J6SThwVUR0X2l0U1lESWNLZU84dng0bFlIdHI2OG1OdWp0VkFGaEtSTW9WQ1NsTHczQl9sa1FiazI4OGU0clE1U0FMQ3NYTngtS0FwZ1oxcGNyYmlQM2dFd2RuZGJrSHhCUkw1SlItWkJWbklUUHhTb0xva1liZFFFb3VUSlRMOGhpLW5WdEdIRV81ZWVOTDFoZW1ybFBqbUtqUV94dmJJeG1hdi1LWUY4MnJCQ3pJZGhpWEQ4QmtGYjdYMmFQcWk5SWdGWnRsSlJtbUYxNGM0MGhOVk1LLVhXTVJlYndpb3gxdHFINjF5S2E0MkRXNk9zVEdtTjBCUnlzT0xnUUNkU2l5S1RLVG5oN01ZZGt3c0VETFdLclhqOEFOREIxWE8xZ0l1UXJGb2xzbFNqdml0RzdEY3hwTG9qTTVLZEowbVAtbVFnWG1tZGNCQnRSa3FuTS13UWRmYnNxNElveWREMTA4LVgxOVA1VERJTmNkTXJjV1VudDIxYUJ3MnVkbEZXakRtUlF4OXhkWWNGcjcyRDFUSXQ5YnJZNE9mTE1DR3VYbFZBUERWQWc3bGFNeHpvdU5MYl9mNThjd2lydUdNYTgyYnZYOXFRcUJjTkQweDRiMFp6N0k?oc=5) 星河动力
-- [2026中关村论坛年会｜商业航天青春期|智神星一号|朱雀三号|蓝箭航天|火箭|蓝箭 - 新浪财经](https://news.google.com/rss/articles/CBMinwRBVV95cUxNVGw1QnppWkFVRHFnS2ZpSkY2ZFpxQjFsTnNZaTdEVWxkRUt1enJYbGtiUGNnNmszWVZPaXJra0VzcHhwZWl0V0J6SThwVUR0X2l0U1lESWNLZU84dng0bFlIdHI2OG1OdWp0VkFGaEtSTW9WQ1NsTHczQl9sa1FiazI4OGU0clE1U0FMQ3NYTngtS0FwZ1oxcGNyYmlQM2dFd2RuZGJrSHhCUkw1SlItWkJWbklUUHhTb0xva1liZFFFb3VUSlRMOGhpLW5WdEdIRV81ZWVOTDFoZW1ybFBqbUtqUV94dmJJeG1hdi1LWUY4MnJCQ3pJZGhpWEQ4QmtGYjdYMmFQcWk5SWdGWnRsSlJtbUYxNGM0MGhOVk1LLVhXTVJlYndpb3gxdHFINjF5S2E0MkRXNk9zVEdtTjBCUnlzT0xnUUNkU2l5S1RLVG5oN01ZZGt3c0VETFdLclhqOEFOREIxWE8xZ0l1UXJGb2xzbFNqdml0RzdEY3hwTG9qTTVLZEowbVAtbVFnWG1tZGNCQnRSa3FuTS13UWRmYnNxNElveWREMTA4LVgxOVA1VERJTmNkTXJjV1VudDIxYUJ3MnVkbEZXakRtUlF4OXhkWWNGcjcyRDFUSXQ5YnJZNE9mTE1DR3VYbFZBUERWQWc3bGFNeHpvdU5MYl9mNThjd2lydUdNYTgyYnZYOXFRcUJjTkQweDRiMFp6N0k?oc=5) 蓝箭航天
-- [SpaceX: A Growth Story That Hasn't Taken Off Just Yet](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac4e6b601a2465dbf318ea6d98287f8&url=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4952119-spacex-stock-growth-story-that-hasnt-taken-off-yet&c=16922380554247101836&mkt=en-us) SpaceX
-- [FAA advances Starship, New Glenn and Terran R reviews for Cape Canaveral launches - WESH](https://news.google.com/rss/articles/CBMimAFBVV95cUxPMGJjUm9OUk95VTlYU1dVMnBXZmR5cElmWUI5UTdZZzZmYXNpVTN2TnRlNEdqUGg1VnZibkk4czZmUEZrYXRlMTFGWk9ERlhVWEZpYWNpbVliT0hOTGx1M2JsT2NSVUJQanU4b0NnNDFCWHRlWjRkOU9LcGhKai1sOUwtb25TdXBlUm8yalFza0pxYVFzTC1iYw?oc=5) Blue Origin
+- [SpaceX Reveals How Close Other Satellites Get to Its Starlink Constellation - PCMag Australia](https://news.google.com/rss/articles/CBMitAFBVV95cUxPeWZhZjRkeTFkUkpLRmd4ek5wT3VtRjBKWGZYMjc3OTRZdHFtZVdCNUFkdkQ5VG01QjZxUFREdkk2NkIxcHJNY3BfNU95TmxETHlpOFR3NzhRWjJ0ckU0eTR3NTl6TEZHZU1Gc3VFUkxkOXNsY2pNZDRyQ29ZTVZkMk40VVFCYXotTlBlYmRIcXdhVGJvMnV4WFh0TDhQd05UbGxfcmFzdElEXzJ4MGFYUzBlbWc?oc=5) SpaceX
 
 ## Risks And Watchpoints
 
