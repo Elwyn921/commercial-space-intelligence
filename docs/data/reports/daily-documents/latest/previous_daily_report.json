@@ -1,121 +1,187 @@
 {
-  "as_of_date": "2026-10-06",
+  "as_of_date": "2026-10-07",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 7,
-        "market": 2,
-        "other": 1,
-        "product": 1
+        "launch": 4,
+        "market": 3,
+        "other": 9
       },
-      "item_count": 11,
-      "latest_title": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency"
+      "item_count": 16,
+      "latest_title": "SpaceX continues rally on Tuesday: what's behind the recent bull run?"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_types": {
-        "launch": 2
+        "launch": 5
       },
-      "item_count": 2,
-      "latest_title": "Blue Origin's New Glenn rocket nails first-ever droneship landing"
+      "item_count": 5,
+      "latest_title": "Blue Origin’s New Glenn plan put booster reuse on a Blue Moon Mk1 mission"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_types": {
+        "other": 1
+      },
+      "item_count": 1,
+      "latest_title": "2026中关村论坛年会｜商业航天青春期|智神星一号|朱雀三号|蓝箭航天|火箭|蓝箭 - 新浪财经"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_types": {
+        "other": 1
+      },
+      "item_count": 1,
+      "latest_title": "2026中关村论坛年会｜商业航天青春期|智神星一号|朱雀三号|蓝箭航天|火箭|蓝箭 - 新浪财经"
     }
   ],
-  "company_count": 2,
+  "company_count": 4,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
     "launch": 9,
-    "market": 2,
-    "other": 1,
-    "product": 1
+    "market": 3,
+    "other": 11
   },
-  "generated_at": "2026-10-06T07:34:54.284175Z",
-  "period_end": "2026-10-05",
-  "period_start": "2026-10-05",
-  "report_date": "2026-10-05",
+  "generated_at": "2026-10-07T07:14:53.563828Z",
+  "period_end": "2026-10-06",
+  "period_start": "2026-10-06",
+  "report_date": "2026-10-06",
   "schema_version": "daily_document.v1",
   "source_count": 5,
   "source_counts": {
-    "Spaceflight Now": 2,
-    "Ventura County Star": 1,
+    "Business Insider": 1,
+    "WESH": 1,
     "bgr.com": 1,
-    "bing.com": 7,
-    "satnews.com": 2
+    "bing.com": 18,
+    "新浪财经": 2
   },
-  "summary": "2026-10-05 共归档 13 条新闻，覆盖 2 家公司、5 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin。",
+  "summary": "2026-10-06 共归档 23 条新闻，覆盖 4 家公司、5 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、星河动力、蓝箭航天。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "b1ae6f6d7779b739",
-      "published_at": "2026-10-04T20:33:26Z",
-      "source_name": "Spaceflight Now",
-      "title": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency",
-      "url": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency"
+      "event_type": "market",
+      "item_id": "9c55654790e1215c",
+      "published_at": "2026-10-06T06:09:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX continues rally on Tuesday: what's behind the recent bull run?",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac56e79110346e6ac9b290f50c59392&url=https%3A%2F%2Finvezz.com%2Fnews%2F2026%2F10%2F06%2Fspacex-continues-rally-on-tuesday-whats-behind-the-recent-bull-run%2F&c=18152142645754945922&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "market",
-      "item_id": "db05b777bb9ac687",
-      "published_at": "2026-10-05T03:20:19Z",
+      "item_id": "3224ffa2f30d644f",
+      "published_at": "2026-10-06T00:33:00Z",
       "source_name": "bing.com",
-      "title": "SpaceX shares look 'unusually cheap,' Morgan Stanley says: Elon Musk's AI, Starlink bets take center stage",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac4318c1f064b31ad45e4bb1a1eadd1&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Ftech-companies%2Fspacex-shares-look-unusually-cheap-morgan-stanley-says-elon-musk-s-ai-starlink-bets-take-center-stage%2Far-AA2dB8dr&c=16421067831990666516&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "market",
-      "item_id": "0255fe4729862d81",
-      "published_at": "2026-10-05T03:20:19Z",
-      "source_name": "bing.com",
-      "title": "SpaceX shares look 'unusually cheap,' Morgan Stanley says: Elon Musk's AI, Starlink bets take center stage",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac39c1ee9e840c9bd63b81a2aa8102d&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Ftop-stocks%2Fspacex-shares-look-unusually-cheap-morgan-stanley-says-elon-musk-s-ai-starlink-bets-take-center-stage%2Far-AA2dB8dr&c=13474464363427928641&mkt=en-us"
+      "title": "SpaceX: A Growth Story That Hasn't Taken Off Just Yet",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac4e6b601a2465dbf318ea6d98287f8&url=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4952119-spacex-stock-growth-story-that-hasnt-taken-off-yet&c=16922380554247101836&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "d9f9d28664a0b977",
-      "published_at": "2026-10-05T13:00:00Z",
-      "source_name": "Ventura County Star",
-      "title": "SpaceX's Falcon 9 due for launch in California. Here's the schedule - Ventura County Star",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRElJN0NMQjBWOWdoM3dtenhObi1ZZF9NVV92TjBUWlNQM18yMmlvc0RkdXY1T05RM0d0WVNFVDcyNW40aGFSWFl0ZUg3SjFoS0hnbV9yaVVRQW9tYnhFVEIyUlppMDV3VkRmODAwT01oUE1QVlpCcFk5V28yMnpRdW9qWFhscW1KYmE1RDB1eHZUbzR6WFhvaUdqYnF6bE1xbWJDSFUxbDFpa3BDbW1YWVRnWmJvUQ?oc=5"
+      "item_id": "d3d6d89608361cce",
+      "published_at": "2026-10-06T14:20:00Z",
+      "source_name": "bing.com",
+      "title": "Bigger Than Starlink: SpaceX Provides New Look at Orbital Data Center Plans",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac56e79110346e6ac9b290f50c59392&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fbigger-than-starlink-spacex-provides-new-look-at-orbital-data-center-plans&c=10019482265672213143&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "e5e929ece9a4d8d6",
-      "published_at": "2026-10-05T12:02:00Z",
+      "event_type": "other",
+      "item_id": "2c1684a7dab22ff3",
+      "published_at": "2026-10-06T14:17:00Z",
       "source_name": "bing.com",
-      "title": "South Korea, SpaceX, and China ready for launch this week",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac4318c1f064b31ad45e4bb1a1eadd1&url=https%3A%2F%2Fwww.astronomy.com%2Fwhats-launching-this-week%2Fsouth-korea-spacex-and-china-ready-for-launch-this-week%2F&c=6339226115474228720&mkt=en-us"
+      "title": "SpaceX urges satellite operators to share flight paths to avoid collisions",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac56e79110346e6ac9b290f50c59392&url=https%3A%2F%2Fwww.wftv.com%2Fnews%2Flocal%2Fbrevard-county%2Fspacex-urges-satellite-operators-share-flight-paths-avoid-collisions%2FTXIIJ6MNR5BLTEQAECIQWE4G64%2F&c=13089309698174083585&mkt=en-us"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "97c00d837ffe8894",
-      "published_at": "2026-10-05T11:01:45Z",
+      "item_id": "9f60076021e930fb",
+      "published_at": "2026-10-06T11:12:19Z",
       "source_name": "bing.com",
-      "title": "Blue Origin's New Glenn rocket nails first-ever droneship landing",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac46a60bac1434b9dc8f992f4d689d8&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-rocket-nails-first-ever-droneship-landing%2Fvi-AA2dCtjH&c=8734366114638211468&mkt=en-us"
+      "title": "Blue Origin’s New Glenn plan put booster reuse on a Blue Moon Mk1 mission",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac5b3494c5940dfa61d4882690c6fab&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fblue-origin-s-new-glenn-plan-put-booster-reuse-on-a-blue-moon-mk1-mission%2Fvi-AA2dHcIE&c=7378708982474255572&mkt=en-us"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "398f43e528d156d0",
-      "published_at": "2026-10-05T11:01:45Z",
+      "item_id": "3b4be1ef59f5af0c",
+      "published_at": "2026-10-06T11:12:19Z",
       "source_name": "bing.com",
-      "title": "Blue Origin's New Glenn rocket nails first-ever droneship landing",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac43195d0c74564a5ff8edf64379284&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-rocket-nails-first-ever-droneship-landing%2Fvi-AA2dCtjH&c=8734366114638211468&mkt=en-us"
+      "title": "Blue Origin’s New Glenn plan put booster reuse on a Blue Moon Mk1 mission",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac56e80abd942ba9026f4b9ba75124a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fblue-origin-s-new-glenn-plan-put-booster-reuse-on-a-blue-moon-mk1-mission%2Fvi-AA2dHcIE&c=7378708982474255572&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "9dc818c517ebb056",
+      "published_at": "2026-10-06T11:05:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX reveals how its 1 Million AI satellite network will work and prevent space collisions",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac56e79110346e6ac9b290f50c59392&url=https%3A%2F%2Fwww.teslarati.com%2Fspacex-starmind-space-safety%2F&c=12604730144695449447&mkt=en-us"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "other",
+      "item_id": "97cfe87037341df6",
+      "published_at": "2026-10-06T01:11:00Z",
+      "source_name": "新浪财经",
+      "title": "2026中关村论坛年会｜商业航天青春期|智神星一号|朱雀三号|蓝箭航天|火箭|蓝箭 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxNVGw1QnppWkFVRHFnS2ZpSkY2ZFpxQjFsTnNZaTdEVWxkRUt1enJYbGtiUGNnNmszWVZPaXJra0VzcHhwZWl0V0J6SThwVUR0X2l0U1lESWNLZU84dng0bFlIdHI2OG1OdWp0VkFGaEtSTW9WQ1NsTHczQl9sa1FiazI4OGU0clE1U0FMQ3NYTngtS0FwZ1oxcGNyYmlQM2dFd2RuZGJrSHhCUkw1SlItWkJWbklUUHhTb0xva1liZFFFb3VUSlRMOGhpLW5WdEdIRV81ZWVOTDFoZW1ybFBqbUtqUV94dmJJeG1hdi1LWUY4MnJCQ3pJZGhpWEQ4QmtGYjdYMmFQcWk5SWdGWnRsSlJtbUYxNGM0MGhOVk1LLVhXTVJlYndpb3gxdHFINjF5S2E0MkRXNk9zVEdtTjBCUnlzT0xnUUNkU2l5S1RLVG5oN01ZZGt3c0VETFdLclhqOEFOREIxWE8xZ0l1UXJGb2xzbFNqdml0RzdEY3hwTG9qTTVLZEowbVAtbVFnWG1tZGNCQnRSa3FuTS13UWRmYnNxNElveWREMTA4LVgxOVA1VERJTmNkTXJjV1VudDIxYUJ3MnVkbEZXakRtUlF4OXhkWWNGcjcyRDFUSXQ5YnJZNE9mTE1DR3VYbFZBUERWQWc3bGFNeHpvdU5MYl9mNThjd2lydUdNYTgyYnZYOXFRcUJjTkQweDRiMFp6N0k?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "783b20842126b5df",
+      "published_at": "2026-10-05T23:20:00Z",
+      "source_name": "WESH",
+      "title": "FAA advances Starship, New Glenn and Terran R reviews for Cape Canaveral launches - WESH",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMGJjUm9OUk95VTlYU1dVMnBXZmR5cElmWUI5UTdZZzZmYXNpVTN2TnRlNEdqUGg1VnZibkk4czZmUEZrYXRlMTFGWk9ERlhVWEZpYWNpbVliT0hOTGx1M2JsT2NSVUJQanU4b0NnNDFCWHRlWjRkOU9LcGhKai1sOUwtb25TdXBlUm8yalFza0pxYVFzTC1iYw?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "a67927e9a174703c",
+      "published_at": "2026-10-06T11:12:19Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin’s New Glenn reached orbit, opening a new SpaceX rivalry",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac56e80abd942ba9026f4b9ba75124a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-reached-orbit-opening-a-new-spacex-rivalry%2Fvi-AA2dHjNS&c=17512264719261705552&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "6313039ab37ab17b",
+      "published_at": "2026-10-06T11:12:19Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin’s New Glenn reached orbit, opening a new SpaceX rivalry",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac5b3494c5940dfa61d4882690c6fab&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-reached-orbit-opening-a-new-spacex-rivalry%2Fvi-AA2dHjNS&c=17512264719261705552&mkt=en-us"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "other",
+      "item_id": "2834726d0b0acedb",
+      "published_at": "2026-10-06T01:11:00Z",
+      "source_name": "新浪财经",
+      "title": "2026中关村论坛年会｜商业航天青春期|智神星一号|朱雀三号|蓝箭航天|火箭|蓝箭 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxNVGw1QnppWkFVRHFnS2ZpSkY2ZFpxQjFsTnNZaTdEVWxkRUt1enJYbGtiUGNnNmszWVZPaXJra0VzcHhwZWl0V0J6SThwVUR0X2l0U1lESWNLZU84dng0bFlIdHI2OG1OdWp0VkFGaEtSTW9WQ1NsTHczQl9sa1FiazI4OGU0clE1U0FMQ3NYTngtS0FwZ1oxcGNyYmlQM2dFd2RuZGJrSHhCUkw1SlItWkJWbklUUHhTb0xva1liZFFFb3VUSlRMOGhpLW5WdEdIRV81ZWVOTDFoZW1ybFBqbUtqUV94dmJJeG1hdi1LWUY4MnJCQ3pJZGhpWEQ4QmtGYjdYMmFQcWk5SWdGWnRsSlJtbUYxNGM0MGhOVk1LLVhXTVJlYndpb3gxdHFINjF5S2E0MkRXNk9zVEdtTjBCUnlzT0xnUUNkU2l5S1RLVG5oN01ZZGt3c0VETFdLclhqOEFOREIxWE8xZ0l1UXJGb2xzbFNqdml0RzdEY3hwTG9qTTVLZEowbVAtbVFnWG1tZGNCQnRSa3FuTS13UWRmYnNxNElveWREMTA4LVgxOVA1VERJTmNkTXJjV1VudDIxYUJ3MnVkbEZXakRtUlF4OXhkWWNGcjcyRDFUSXQ5YnJZNE9mTE1DR3VYbFZBUERWQWc3bGFNeHpvdU5MYl9mNThjd2lydUdNYTgyYnZYOXFRcUJjTkQweDRiMFp6N0k?oc=5"
     }
   ],
-  "total_items": 13
+  "total_items": 23
 }
