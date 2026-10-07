@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-10-07
 
-- Report ID: daily-2026-10-07-790b6c34
-- Source run: 46f1d886-500f-4ad9-88fb-e3bc848ffa4f
+- Report ID: daily-2026-10-08-5620060c
+- Source run: ea56c97c-cc1c-4e57-a623-276c24839751
 - Generation status: skipped_no_secret
 - Companies covered: 2
-- Total items: 8
+- Total items: 6
 
 ## Executive Summary
 
-2026-10-07 共收录 8 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、中国星网。
+2026-10-08 共收录 6 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
 
 ## Industry Chain Sections
 
@@ -26,22 +26,22 @@ No LLM summary.
 
 No LLM summary.
 
-- [China SatNet's GW Constellation Links Arctic Ships and Antarctic Station in First Polar Test - Pandaily](https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzM4TW4tWlBTbzMybi1ock1BRC1wOGl1YWdzdXA4ZXVaXzB0TEJpa2tXRXFxLXc0ZW5VSlhsUTEtT1lQc2ZyeTBKajc4SlV6Xy1PZkx5Vzdsck50bEFEUldVSlg2YnhvU2ZZSEIxOUdaZDN5MnNYVE5CRE1rdml2b2hIZzU0Tm16eUlDc0Q1TGJZX0ZoM2tHM1hicw?oc=5) 中国星网
 
 ### 国外大厂
 
 No LLM summary.
 
-- [SpaceX is calling out other satellite operators for nearly crashing into Starlink - Business Insider](https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVE3VGJxNURRVHpaQWVnOUd4bXhiTjZzR1c3SC1Gb2NBd2p1eDBwWWh3VDIzNUdVVUNVanUwX0NRUTlOSU5ZNDdvbXRXY0duNFZXTzJtQ3NFYXAzbjJyQW11LVBKQ3dVZnFaSGRNazltZlB4STdBSndVLUdnVXhObDJmX3ExWWhMdnlSMy1DVlNTV3Njc0Q1LTNQTkFVVFM3SWNHcmlfZDhfNlY5T0tR?oc=5) SpaceX
-- [Starlink says India build-out done, awaits final nod](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac63631e8644d33afb35e27e7c14145&url=https%3A%2F%2Fwww.financialexpress.com%2Fbusiness%2Fnews-starlink-says-india-build-out-done-awaits-final-nod-4355682%2F&c=6469832907184119&mkt=en-us) SpaceX
-- [Starlink built India setup to meet security norms, says SpaceX executive; awaits nod](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac63631e8644d33afb35e27e7c14145&url=https%3A%2F%2Fwww.msn.com%2Fen-in%2Fnews%2Fother%2Fstarlink-built-india-setup-to-meet-security-norms-says-spacex-executive-awaits-nod%2Far-AA2dJzzH&c=13771329635356951918&mkt=en-us) SpaceX
+- [SpaceX warns of collision risk as satellites begin to crowd Earth's orbit - WESH](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNV9wREt3SEFTaDNBVzhUUHl5YjZYdHNOMHlVMUJuS3Q3aUdXaElFM3d4OEZnc3Y3bjFyb2Q4X3gwYi1iTC05ZmxidGxxWF9rUC1jcDNQRS0tV0JIanY1VEZkWjlQX0ZhYzJuaFgzci1oN3Qxbmhab2Q3Nk01dC11VXVvdzlCa2Ex?oc=5) SpaceX
+- [NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival](https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival) SpaceX
+- [NASA’s SpaceX 35th Commercial Resupply Mission Overview](https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview) SpaceX
+- [Rocket Lab Challenges NASA’s $700M Mars Orbiter Award to Blue Origin While Scaling Vertical Integration via $8B Iridium Acquisition](https://satnews.com/2026/10/07/rocket-lab-challenges-nasas-700m-mars-orbiter-award-to-blue-origin-while-scaling-vertical-integration-via-8b-iridium-acquisition) Blue Origin
 
 ## Top News
 
-- [SpaceX is calling out other satellite operators for nearly crashing into Starlink - Business Insider](https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVE3VGJxNURRVHpaQWVnOUd4bXhiTjZzR1c3SC1Gb2NBd2p1eDBwWWh3VDIzNUdVVUNVanUwX0NRUTlOSU5ZNDdvbXRXY0duNFZXTzJtQ3NFYXAzbjJyQW11LVBKQ3dVZnFaSGRNazltZlB4STdBSndVLUdnVXhObDJmX3ExWWhMdnlSMy1DVlNTV3Njc0Q1LTNQTkFVVFM3SWNHcmlfZDhfNlY5T0tR?oc=5) SpaceX
-- [China SatNet's GW Constellation Links Arctic Ships and Antarctic Station in First Polar Test - Pandaily](https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzM4TW4tWlBTbzMybi1ock1BRC1wOGl1YWdzdXA4ZXVaXzB0TEJpa2tXRXFxLXc0ZW5VSlhsUTEtT1lQc2ZyeTBKajc4SlV6Xy1PZkx5Vzdsck50bEFEUldVSlg2YnhvU2ZZSEIxOUdaZDN5MnNYVE5CRE1rdml2b2hIZzU0Tm16eUlDc0Q1TGJZX0ZoM2tHM1hicw?oc=5) 中国星网
-- [Starlink says India build-out done, awaits final nod](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac63631e8644d33afb35e27e7c14145&url=https%3A%2F%2Fwww.financialexpress.com%2Fbusiness%2Fnews-starlink-says-india-build-out-done-awaits-final-nod-4355682%2F&c=6469832907184119&mkt=en-us) SpaceX
-- [Starlink built India setup to meet security norms, says SpaceX executive; awaits nod](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac63631e8644d33afb35e27e7c14145&url=https%3A%2F%2Fwww.msn.com%2Fen-in%2Fnews%2Fother%2Fstarlink-built-india-setup-to-meet-security-norms-says-spacex-executive-awaits-nod%2Far-AA2dJzzH&c=13771329635356951918&mkt=en-us) SpaceX
+- [SpaceX warns of collision risk as satellites begin to crowd Earth's orbit - WESH](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNV9wREt3SEFTaDNBVzhUUHl5YjZYdHNOMHlVMUJuS3Q3aUdXaElFM3d4OEZnc3Y3bjFyb2Q4X3gwYi1iTC05ZmxidGxxWF9rUC1jcDNQRS0tV0JIanY1VEZkWjlQX0ZhYzJuaFgzci1oN3Qxbmhab2Q3Nk01dC11VXVvdzlCa2Ex?oc=5) SpaceX
+- [NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival](https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival) SpaceX
+- [NASA’s SpaceX 35th Commercial Resupply Mission Overview](https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview) SpaceX
+- [Rocket Lab Challenges NASA’s $700M Mars Orbiter Award to Blue Origin While Scaling Vertical Integration via $8B Iridium Acquisition](https://satnews.com/2026/10/07/rocket-lab-challenges-nasas-700m-mars-orbiter-award-to-blue-origin-while-scaling-vertical-integration-via-8b-iridium-acquisition) Blue Origin
 
 ## Risks And Watchpoints
 
