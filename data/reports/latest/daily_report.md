@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-10-08
 
-- Report ID: daily-2026-10-08-ac1aec2d
-- Source run: 6a5d83b4-db3f-4ee2-832e-ad8b46901ae0
+- Report ID: daily-2026-10-08-ca0e2750
+- Source run: f9d120a1-e1e8-4df4-864d-17a55461baf1
 - Generation status: skipped_no_secret
 - Companies covered: 2
-- Total items: 12
+- Total items: 15
 
 ## Executive Summary
 
-2026-10-08 共收录 12 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
+2026-10-08 共收录 15 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
 
 ## Industry Chain Sections
 
@@ -31,21 +31,21 @@ No LLM summary.
 
 No LLM summary.
 
-- [SpaceX secures approval to deploy 15,000 Starlink satellites for direct-to-device service - 디지털투데이](https://news.google.com/rss/articles/CBMixwFBVV95cUxQa3RZQlgwOTR4VzBtM0tzbzYwdEIydEJMaGEtTDdKQWxGaHdUNWJkVnJENzdfZVkxbjJ6OHF1MjlkY1NrZkVVVnJNRHZ2Vk1fblhyRjlOWXFad1hSMXpRVkV5N0dZTi12eFJWTHJUYTlweUhPSnlwLVFHaFNhM3hSTXhTNWdabkVyaFFtdUhoNmtRZUJXVjdjZ3FIUVhRSG9tWjRPR2QtVk5JeWhtYXlGOW9hT3E2dHM5b25SSk50dGRWV0pER3FV?oc=5) SpaceX
-- [Bezos Signals Blue Origin IPO Within Several Years After $10 Billion Fundraise - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE15cEJrcUU4SVA5d1hJek5SOFlEeEZvUlczZjYyQWN2R0NoTGlPb3lDZHFiTDMtT2x5Tkh0T2hzOTVDWnBybjI1MTFFSDFIVXJJTThzT2gtUUJwYUlFNFRWLUx4VjNOS1Flb1JSZU1wUHp2T29zbWc?oc=5) Blue Origin
-- [SpaceX warns of collision risk as satellites begin to crowd Earth's orbit - WESH](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNV9wREt3SEFTaDNBVzhUUHl5YjZYdHNOMHlVMUJuS3Q3aUdXaElFM3d4OEZnc3Y3bjFyb2Q4X3gwYi1iTC05ZmxidGxxWF9rUC1jcDNQRS0tV0JIanY1VEZkWjlQX0ZhYzJuaFgzci1oN3Qxbmhab2Q3Nk01dC11VXVvdzlCa2Ex?oc=5) SpaceX
-- [NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival](https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival) SpaceX
-- [ASTS stock eyes green week: Retail sees 'major catalysts' for new highs as Bezos targets Blue Origin's December return](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac709001ea545d0afd1c2d950e0f7db&url=https%3A%2F%2Fwww.msn.com%2Fen-in%2Fnews%2Fother%2Fasts-stock-eyes-green-week-retail-sees-major-catalysts-for-new-highs-as-bezos-targets-blue-origins-december-return%2Far-AA2dMHLu&c=8229091864292379573&mkt=en-us) Blue Origin
-- [Jeff Bezos just put Blue Origin's IPO on the radar after $10 billion funding round: 'It probably makes sense'](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac709001ea545d0afd1c2d950e0f7db&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fjeff-bezos-just-put-blue-origins-ipo-on-the-radar-after-10-billion-funding-round-it-probably-makes-sense%2Far-AA2dMU1p&c=10689140805009016834&mkt=en-us) Blue Origin
+- [Jeff Bezos says Blue Origin will likely pursue an IPO within several years - Quartz](https://news.google.com/rss/articles/CBMib0FVX3lxTE1lYjhmOTExdDAwWk5jRnc0MUI5Yzl3VGp2eEdqSVJEMFJQWUxUS1dBeW80UUtqV1U4TVpCQ2xPSm5fc0ZpWHYxdlF5Qk5HRG1jVjZSbnA2SWRCaDBZWVVLZmhoell0Mm8zT1JUUk8zVQ?oc=5) Blue Origin
+- [SpaceX Stock Drops as Musk Says Starlink Is Being Blocked From Huge Market by Oligarchs - Barron's](https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTdnWEY2NWJOUE52UHdwS0ZLOHR3eENtUjJ0cFBnSnExblM4T1p6blozQUd0M3BBUEpGYXhCRW9TbTk0dmdPZF9ZSnlzcWxGb1FNNG5FZ1VXdkNxTFF3aG1UcnFrRUtFV0JZQ2tNck05YXlCSnNkdmF2cmNFN2lWZFBUSFMwdy0yTkE?oc=5) SpaceX
+- [SpaceX reveals hundreds of Starlink near misses annually - Aerospace Global News](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYldRUnh1ci0zcDU5N1ozZzE2YzNVSm5LMFFsN3I2VWRLeW5FYTFpeG1PLV85Z3NaTjE3cWlheGxtMW9zcW13U25IaXNseHEtd3hwMlhEUjRYTWtBaFdVQmhhVEFrMkRaMy1ZUVVCRGo4UDdLWldoVENPYVRQcXppRjFfbEpoOEFjZEt0allvX3I2NFZy?oc=5) SpaceX
+- [SpaceX, Blue Origin, Relativity advance ambitious Space Coast launch plans - The Business Journals](https://news.google.com/rss/articles/CBMipwFBVV95cUxPanVoV01lcGpqZU95ajFpMWVibEFnN2g3d2hFT2hIOWVQQk5CMnFWb2tJT3NSemE5WkZNZXJhOE05Tl9NODFfNWdsR3RTRV8wN1JwZ3FNR2JDQWxVWDFPTmFqbjE1V3dLbWFfbFJFQnNJR01sQ3pHTl9UbmFCNWZmR0lyVG9tUjVBVUVPdFBXZnNTd3EtNUxVeUJtQWIzXzlUZTBybFRaQQ?oc=5) Blue Origin
+- [FCC’s 15,000-Satellite SpaceX Approval Moves Starlink Mobile Closer to a Standalone Wireless Service](https://spacewatch.global/2026/10/fccs-15000-satellite-spacex-approval-moves-starlink-mobile-closer-to-a-standalone-wireless-service) SpaceX
+- [Jeff Bezos Just Put Blue Origin's IPO on the Radar After $10 Billion Funding Round: 'It Probably Makes Sense' - TradingView](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNejFIMHZvdXcwcWZ6Znl6V1FxQm9RX3cyWFA3U1J0QVNGZFJfczNIMExHc0Zqb0RJcjlFR25aZWd0bTJvWjhQV1NmT3dYRUtlcG83UUxsX2h4amlOcWg1bjZaczFHUHY2aW1Vektzb1NxaHhSa1JQSEVFSW5PWm9nV0tBeFVtWHk2eUpBekVZV2tXY3NDdkVUTkNRZ05rMHdLSC1Ld0p5Y2QyVVN4SUhmSy1hWkYycGVkV0M4WFBjYXU5ZXlsdnVBc0I5VHpoa2VXdmtETEpWeWI3OXVQUnczdDlDTTRVejg3T1VPcXRCN2FUYUNEV0lZ?oc=5) Blue Origin
 
 ## Top News
 
-- [SpaceX secures approval to deploy 15,000 Starlink satellites for direct-to-device service - 디지털투데이](https://news.google.com/rss/articles/CBMixwFBVV95cUxQa3RZQlgwOTR4VzBtM0tzbzYwdEIydEJMaGEtTDdKQWxGaHdUNWJkVnJENzdfZVkxbjJ6OHF1MjlkY1NrZkVVVnJNRHZ2Vk1fblhyRjlOWXFad1hSMXpRVkV5N0dZTi12eFJWTHJUYTlweUhPSnlwLVFHaFNhM3hSTXhTNWdabkVyaFFtdUhoNmtRZUJXVjdjZ3FIUVhRSG9tWjRPR2QtVk5JeWhtYXlGOW9hT3E2dHM5b25SSk50dGRWV0pER3FV?oc=5) SpaceX
-- [Bezos Signals Blue Origin IPO Within Several Years After $10 Billion Fundraise - BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE15cEJrcUU4SVA5d1hJek5SOFlEeEZvUlczZjYyQWN2R0NoTGlPb3lDZHFiTDMtT2x5Tkh0T2hzOTVDWnBybjI1MTFFSDFIVXJJTThzT2gtUUJwYUlFNFRWLUx4VjNOS1Flb1JSZU1wUHp2T29zbWc?oc=5) Blue Origin
-- [SpaceX warns of collision risk as satellites begin to crowd Earth's orbit - WESH](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNV9wREt3SEFTaDNBVzhUUHl5YjZYdHNOMHlVMUJuS3Q3aUdXaElFM3d4OEZnc3Y3bjFyb2Q4X3gwYi1iTC05ZmxidGxxWF9rUC1jcDNQRS0tV0JIanY1VEZkWjlQX0ZhYzJuaFgzci1oN3Qxbmhab2Q3Nk01dC11VXVvdzlCa2Ex?oc=5) SpaceX
-- [NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival](https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival) SpaceX
-- [ASTS stock eyes green week: Retail sees 'major catalysts' for new highs as Bezos targets Blue Origin's December return](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac709001ea545d0afd1c2d950e0f7db&url=https%3A%2F%2Fwww.msn.com%2Fen-in%2Fnews%2Fother%2Fasts-stock-eyes-green-week-retail-sees-major-catalysts-for-new-highs-as-bezos-targets-blue-origins-december-return%2Far-AA2dMHLu&c=8229091864292379573&mkt=en-us) Blue Origin
-- [Jeff Bezos just put Blue Origin's IPO on the radar after $10 billion funding round: 'It probably makes sense'](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac709001ea545d0afd1c2d950e0f7db&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fjeff-bezos-just-put-blue-origins-ipo-on-the-radar-after-10-billion-funding-round-it-probably-makes-sense%2Far-AA2dMU1p&c=10689140805009016834&mkt=en-us) Blue Origin
+- [Jeff Bezos says Blue Origin will likely pursue an IPO within several years - Quartz](https://news.google.com/rss/articles/CBMib0FVX3lxTE1lYjhmOTExdDAwWk5jRnc0MUI5Yzl3VGp2eEdqSVJEMFJQWUxUS1dBeW80UUtqV1U4TVpCQ2xPSm5fc0ZpWHYxdlF5Qk5HRG1jVjZSbnA2SWRCaDBZWVVLZmhoell0Mm8zT1JUUk8zVQ?oc=5) Blue Origin
+- [SpaceX Stock Drops as Musk Says Starlink Is Being Blocked From Huge Market by Oligarchs - Barron's](https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTdnWEY2NWJOUE52UHdwS0ZLOHR3eENtUjJ0cFBnSnExblM4T1p6blozQUd0M3BBUEpGYXhCRW9TbTk0dmdPZF9ZSnlzcWxGb1FNNG5FZ1VXdkNxTFF3aG1UcnFrRUtFV0JZQ2tNck05YXlCSnNkdmF2cmNFN2lWZFBUSFMwdy0yTkE?oc=5) SpaceX
+- [SpaceX reveals hundreds of Starlink near misses annually - Aerospace Global News](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYldRUnh1ci0zcDU5N1ozZzE2YzNVSm5LMFFsN3I2VWRLeW5FYTFpeG1PLV85Z3NaTjE3cWlheGxtMW9zcW13U25IaXNseHEtd3hwMlhEUjRYTWtBaFdVQmhhVEFrMkRaMy1ZUVVCRGo4UDdLWldoVENPYVRQcXppRjFfbEpoOEFjZEt0allvX3I2NFZy?oc=5) SpaceX
+- [SpaceX, Blue Origin, Relativity advance ambitious Space Coast launch plans - The Business Journals](https://news.google.com/rss/articles/CBMipwFBVV95cUxPanVoV01lcGpqZU95ajFpMWVibEFnN2g3d2hFT2hIOWVQQk5CMnFWb2tJT3NSemE5WkZNZXJhOE05Tl9NODFfNWdsR3RTRV8wN1JwZ3FNR2JDQWxVWDFPTmFqbjE1V3dLbWFfbFJFQnNJR01sQ3pHTl9UbmFCNWZmR0lyVG9tUjVBVUVPdFBXZnNTd3EtNUxVeUJtQWIzXzlUZTBybFRaQQ?oc=5) Blue Origin
+- [FCC’s 15,000-Satellite SpaceX Approval Moves Starlink Mobile Closer to a Standalone Wireless Service](https://spacewatch.global/2026/10/fccs-15000-satellite-spacex-approval-moves-starlink-mobile-closer-to-a-standalone-wireless-service) SpaceX
+- [Jeff Bezos Just Put Blue Origin's IPO on the Radar After $10 Billion Funding Round: 'It Probably Makes Sense' - TradingView](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNejFIMHZvdXcwcWZ6Znl6V1FxQm9RX3cyWFA3U1J0QVNGZFJfczNIMExHc0Zqb0RJcjlFR25aZWd0bTJvWjhQV1NmT3dYRUtlcG83UUxsX2h4amlOcWg1bjZaczFHUHY2aW1Vektzb1NxaHhSa1JQSEVFSW5PWm9nV0tBeFVtWHk2eUpBekVZV2tXY3NDdkVUTkNRZ05rMHdLSC1Ld0p5Y2QyVVN4SUhmSy1hWkYycGVkV0M4WFBjYXU5ZXlsdnVBc0I5VHpoa2VXdmtETEpWeWI3OXVQUnczdDlDTTRVejg3T1VPcXRCN2FUYUNEV0lZ?oc=5) Blue Origin
 
 ## Risks And Watchpoints
 
