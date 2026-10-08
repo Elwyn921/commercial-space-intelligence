@@ -1,187 +1,143 @@
 {
-  "as_of_date": "2026-10-07",
+  "as_of_date": "2026-10-08",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 4,
-        "market": 3,
-        "other": 9
+        "launch": 5,
+        "other": 4,
+        "regulation": 9
       },
-      "item_count": 16,
-      "latest_title": "SpaceX continues rally on Tuesday: what's behind the recent bull run?"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_types": {
-        "launch": 5
-      },
-      "item_count": 5,
-      "latest_title": "Blue Origin’s New Glenn plan put booster reuse on a Blue Moon Mk1 mission"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_types": {
-        "other": 1
-      },
-      "item_count": 1,
-      "latest_title": "2026中关村论坛年会｜商业航天青春期|智神星一号|朱雀三号|蓝箭航天|火箭|蓝箭 - 新浪财经"
+      "item_count": 18,
+      "latest_title": "FCC approves 15,000 SpaceX Starlink satellites that could compete directly with cellular carriers - TechSpot"
     },
     {
       "company_id": "landspace",
       "company_name": "蓝箭航天",
       "event_types": {
+        "market": 2
+      },
+      "item_count": 2,
+      "latest_title": "同一天，蓝箭航天、中科宇航等三家商业航天IPO“中止” - 凤凰网"
+    },
+    {
+      "company_id": "china_satnet",
+      "company_name": "中国星网",
+      "event_types": {
         "other": 1
       },
       "item_count": 1,
-      "latest_title": "2026中关村论坛年会｜商业航天青春期|智神星一号|朱雀三号|蓝箭航天|火箭|蓝箭 - 新浪财经"
+      "latest_title": "China SatNet's GW Constellation Links Arctic Ships and Antarctic Station in First Polar Test - Pandaily"
     }
   ],
-  "company_count": 4,
+  "company_count": 3,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 9,
-    "market": 3,
-    "other": 11
+    "launch": 5,
+    "market": 2,
+    "other": 5,
+    "regulation": 9
   },
-  "generated_at": "2026-10-07T07:14:53.563828Z",
-  "period_end": "2026-10-06",
-  "period_start": "2026-10-06",
-  "report_date": "2026-10-06",
+  "generated_at": "2026-10-08T07:25:01.368200Z",
+  "period_end": "2026-10-07",
+  "period_start": "2026-10-07",
+  "report_date": "2026-10-07",
   "schema_version": "daily_document.v1",
-  "source_count": 5,
+  "source_count": 9,
   "source_counts": {
     "Business Insider": 1,
-    "WESH": 1,
-    "bgr.com": 1,
-    "bing.com": 18,
-    "新浪财经": 2
+    "Mashable": 1,
+    "PCMag": 1,
+    "PCMag Australia": 1,
+    "Pandaily": 1,
+    "TechSpot": 1,
+    "bing.com": 13,
+    "凤凰网": 1,
+    "搜狐网": 1
   },
-  "summary": "2026-10-06 共归档 23 条新闻，覆盖 4 家公司、5 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、星河动力、蓝箭航天。",
+  "summary": "2026-10-07 共归档 21 条新闻，覆盖 3 家公司、9 个信息来源。 新闻量较多的公司包括 SpaceX、蓝箭航天、中国星网。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "market",
-      "item_id": "9c55654790e1215c",
-      "published_at": "2026-10-06T06:09:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX continues rally on Tuesday: what's behind the recent bull run?",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac56e79110346e6ac9b290f50c59392&url=https%3A%2F%2Finvezz.com%2Fnews%2F2026%2F10%2F06%2Fspacex-continues-rally-on-tuesday-whats-behind-the-recent-bull-run%2F&c=18152142645754945922&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "market",
-      "item_id": "3224ffa2f30d644f",
-      "published_at": "2026-10-06T00:33:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX: A Growth Story That Hasn't Taken Off Just Yet",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac4e6b601a2465dbf318ea6d98287f8&url=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4952119-spacex-stock-growth-story-that-hasnt-taken-off-yet&c=16922380554247101836&mkt=en-us"
+      "event_type": "regulation",
+      "item_id": "a6670777a1820593",
+      "published_at": "2026-10-07T14:13:00Z",
+      "source_name": "TechSpot",
+      "title": "FCC approves 15,000 SpaceX Starlink satellites that could compete directly with cellular carriers - TechSpot",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWhHM0sxQUFNZTlNNWxTeDY4YkkxMzF2YTZ1ZmJfbkI5WjdFc1ZFWHk0YUNzOTVHQVdrSldsZmtsa1A2a29mcTBaUVpiTVJPSUVMVlZkbk51QjlwX09lZWNoVVJKTGk1Z01hT2ptUXNySmtoZ1oyejZPMXVnRnU4QTcwV1RZVGFkckh2YnNqOGVoOTJzN0NZTlB2S3gtXzBFVXc?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "d3d6d89608361cce",
-      "published_at": "2026-10-06T14:20:00Z",
+      "item_id": "d546ec20ef47ab3d",
+      "published_at": "2026-10-07T11:14:13Z",
       "source_name": "bing.com",
-      "title": "Bigger Than Starlink: SpaceX Provides New Look at Orbital Data Center Plans",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac56e79110346e6ac9b290f50c59392&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fbigger-than-starlink-spacex-provides-new-look-at-orbital-data-center-plans&c=10019482265672213143&mkt=en-us"
+      "title": "Elon Musk Accuses Unnamed ‘Oligarchs’ Of Blocking Starlink's India Launch",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac708f76ee9422faa4c0a004450a47c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Felon-musk-accuses-unnamed-oligarchs-of-blocking-starlinks-india-launch%2Far-AA2dLs7o&c=3259350490283330646&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "2c1684a7dab22ff3",
-      "published_at": "2026-10-06T14:17:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX urges satellite operators to share flight paths to avoid collisions",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac56e79110346e6ac9b290f50c59392&url=https%3A%2F%2Fwww.wftv.com%2Fnews%2Flocal%2Fbrevard-county%2Fspacex-urges-satellite-operators-share-flight-paths-avoid-collisions%2FTXIIJ6MNR5BLTEQAECIQWE4G64%2F&c=13089309698174083585&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "9f60076021e930fb",
-      "published_at": "2026-10-06T11:12:19Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin’s New Glenn plan put booster reuse on a Blue Moon Mk1 mission",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac5b3494c5940dfa61d4882690c6fab&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fblue-origin-s-new-glenn-plan-put-booster-reuse-on-a-blue-moon-mk1-mission%2Fvi-AA2dHcIE&c=7378708982474255572&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "3b4be1ef59f5af0c",
-      "published_at": "2026-10-06T11:12:19Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin’s New Glenn plan put booster reuse on a Blue Moon Mk1 mission",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac56e80abd942ba9026f4b9ba75124a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fblue-origin-s-new-glenn-plan-put-booster-reuse-on-a-blue-moon-mk1-mission%2Fvi-AA2dHcIE&c=7378708982474255572&mkt=en-us"
+      "item_id": "8b00471427ae4782",
+      "published_at": "2026-10-07T10:55:00Z",
+      "source_name": "Business Insider",
+      "title": "SpaceX is calling out other satellite operators for nearly crashing into Starlink - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVE3VGJxNURRVHpaQWVnOUd4bXhiTjZzR1c3SC1Gb2NBd2p1eDBwWWh3VDIzNUdVVUNVanUwX0NRUTlOSU5ZNDdvbXRXY0duNFZXTzJtQ3NFYXAzbjJyQW11LVBKQ3dVZnFaSGRNazltZlB4STdBSndVLUdnVXhObDJmX3ExWWhMdnlSMy1DVlNTV3Njc0Q1LTNQTkFVVFM3SWNHcmlfZDhfNlY5T0tR?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "e8c11ad8d81515bd",
+      "published_at": "2026-10-07T10:38:00Z",
+      "source_name": "bing.com",
+      "title": "FCC Approves 15,000 Starlink Satellites for Direct-to-Cell Use",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac708f818144411919c4dc9eee669ba&url=https%3A%2F%2Fwww.gadgetreview.com%2Ffcc-approves-15000-starlink-satellites-for-direct-to-cell-use&c=15965459484141403507&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "2adad2aab936540a",
+      "published_at": "2026-10-07T09:32:00Z",
+      "source_name": "bing.com",
+      "title": "Elon Musk calls Starlink's India block a crime",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac708f76ee9422faa4c0a004450a47c&url=https%3A%2F%2Fwww.thestreet.com%2Fcrypto%2Ftechnology%2Findias-starlink-delay-is-a-crime-against-its-people-musk-says&c=3988615735696851733&mkt=en-us"
+    },
+    {
+      "company_id": "china_satnet",
+      "company_name": "中国星网",
       "event_type": "other",
-      "item_id": "9dc818c517ebb056",
-      "published_at": "2026-10-06T11:05:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX reveals how its 1 Million AI satellite network will work and prevent space collisions",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac56e79110346e6ac9b290f50c59392&url=https%3A%2F%2Fwww.teslarati.com%2Fspacex-starmind-space-safety%2F&c=12604730144695449447&mkt=en-us"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "other",
-      "item_id": "97cfe87037341df6",
-      "published_at": "2026-10-06T01:11:00Z",
-      "source_name": "新浪财经",
-      "title": "2026中关村论坛年会｜商业航天青春期|智神星一号|朱雀三号|蓝箭航天|火箭|蓝箭 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxNVGw1QnppWkFVRHFnS2ZpSkY2ZFpxQjFsTnNZaTdEVWxkRUt1enJYbGtiUGNnNmszWVZPaXJra0VzcHhwZWl0V0J6SThwVUR0X2l0U1lESWNLZU84dng0bFlIdHI2OG1OdWp0VkFGaEtSTW9WQ1NsTHczQl9sa1FiazI4OGU0clE1U0FMQ3NYTngtS0FwZ1oxcGNyYmlQM2dFd2RuZGJrSHhCUkw1SlItWkJWbklUUHhTb0xva1liZFFFb3VUSlRMOGhpLW5WdEdIRV81ZWVOTDFoZW1ybFBqbUtqUV94dmJJeG1hdi1LWUY4MnJCQ3pJZGhpWEQ4QmtGYjdYMmFQcWk5SWdGWnRsSlJtbUYxNGM0MGhOVk1LLVhXTVJlYndpb3gxdHFINjF5S2E0MkRXNk9zVEdtTjBCUnlzT0xnUUNkU2l5S1RLVG5oN01ZZGt3c0VETFdLclhqOEFOREIxWE8xZ0l1UXJGb2xzbFNqdml0RzdEY3hwTG9qTTVLZEowbVAtbVFnWG1tZGNCQnRSa3FuTS13UWRmYnNxNElveWREMTA4LVgxOVA1VERJTmNkTXJjV1VudDIxYUJ3MnVkbEZXakRtUlF4OXhkWWNGcjcyRDFUSXQ5YnJZNE9mTE1DR3VYbFZBUERWQWc3bGFNeHpvdU5MYl9mNThjd2lydUdNYTgyYnZYOXFRcUJjTkQweDRiMFp6N0k?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "783b20842126b5df",
-      "published_at": "2026-10-05T23:20:00Z",
-      "source_name": "WESH",
-      "title": "FAA advances Starship, New Glenn and Terran R reviews for Cape Canaveral launches - WESH",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMGJjUm9OUk95VTlYU1dVMnBXZmR5cElmWUI5UTdZZzZmYXNpVTN2TnRlNEdqUGg1VnZibkk4czZmUEZrYXRlMTFGWk9ERlhVWEZpYWNpbVliT0hOTGx1M2JsT2NSVUJQanU4b0NnNDFCWHRlWjRkOU9LcGhKai1sOUwtb25TdXBlUm8yalFza0pxYVFzTC1iYw?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "a67927e9a174703c",
-      "published_at": "2026-10-06T11:12:19Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin’s New Glenn reached orbit, opening a new SpaceX rivalry",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac56e80abd942ba9026f4b9ba75124a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-reached-orbit-opening-a-new-spacex-rivalry%2Fvi-AA2dHjNS&c=17512264719261705552&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "6313039ab37ab17b",
-      "published_at": "2026-10-06T11:12:19Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin’s New Glenn reached orbit, opening a new SpaceX rivalry",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac5b3494c5940dfa61d4882690c6fab&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-reached-orbit-opening-a-new-spacex-rivalry%2Fvi-AA2dHjNS&c=17512264719261705552&mkt=en-us"
+      "item_id": "7beb7d5196a64836",
+      "published_at": "2026-10-07T07:11:36Z",
+      "source_name": "Pandaily",
+      "title": "China SatNet's GW Constellation Links Arctic Ships and Antarctic Station in First Polar Test - Pandaily",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzM4TW4tWlBTbzMybi1ock1BRC1wOGl1YWdzdXA4ZXVaXzB0TEJpa2tXRXFxLXc0ZW5VSlhsUTEtT1lQc2ZyeTBKajc4SlV6Xy1PZkx5Vzdsck50bEFEUldVSlg2YnhvU2ZZSEIxOUdaZDN5MnNYVE5CRE1rdml2b2hIZzU0Tm16eUlDc0Q1TGJZX0ZoM2tHM1hicw?oc=5"
     },
     {
       "company_id": "landspace",
       "company_name": "蓝箭航天",
-      "event_type": "other",
-      "item_id": "2834726d0b0acedb",
-      "published_at": "2026-10-06T01:11:00Z",
-      "source_name": "新浪财经",
-      "title": "2026中关村论坛年会｜商业航天青春期|智神星一号|朱雀三号|蓝箭航天|火箭|蓝箭 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxNVGw1QnppWkFVRHFnS2ZpSkY2ZFpxQjFsTnNZaTdEVWxkRUt1enJYbGtiUGNnNmszWVZPaXJra0VzcHhwZWl0V0J6SThwVUR0X2l0U1lESWNLZU84dng0bFlIdHI2OG1OdWp0VkFGaEtSTW9WQ1NsTHczQl9sa1FiazI4OGU0clE1U0FMQ3NYTngtS0FwZ1oxcGNyYmlQM2dFd2RuZGJrSHhCUkw1SlItWkJWbklUUHhTb0xva1liZFFFb3VUSlRMOGhpLW5WdEdIRV81ZWVOTDFoZW1ybFBqbUtqUV94dmJJeG1hdi1LWUY4MnJCQ3pJZGhpWEQ4QmtGYjdYMmFQcWk5SWdGWnRsSlJtbUYxNGM0MGhOVk1LLVhXTVJlYndpb3gxdHFINjF5S2E0MkRXNk9zVEdtTjBCUnlzT0xnUUNkU2l5S1RLVG5oN01ZZGt3c0VETFdLclhqOEFOREIxWE8xZ0l1UXJGb2xzbFNqdml0RzdEY3hwTG9qTTVLZEowbVAtbVFnWG1tZGNCQnRSa3FuTS13UWRmYnNxNElveWREMTA4LVgxOVA1VERJTmNkTXJjV1VudDIxYUJ3MnVkbEZXakRtUlF4OXhkWWNGcjcyRDFUSXQ5YnJZNE9mTE1DR3VYbFZBUERWQWc3bGFNeHpvdU5MYl9mNThjd2lydUdNYTgyYnZYOXFRcUJjTkQweDRiMFp6N0k?oc=5"
+      "event_type": "market",
+      "item_id": "ec2d09d81e515ba1",
+      "published_at": "2026-10-07T15:57:38Z",
+      "source_name": "凤凰网",
+      "title": "同一天，蓝箭航天、中科宇航等三家商业航天IPO“中止” - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WWFl6djRlaXNkT240UXVXdnRJMzRrYXRreVI0Y0cwRTFmblFaVk52THZIeTZiRi1ZOFkzZGdiV0xrcHFxYTRidmFjcG56emg4?oc=5"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "market",
+      "item_id": "d0d93da2f96dddd7",
+      "published_at": "2026-10-07T15:57:00Z",
+      "source_name": "搜狐网",
+      "title": "同一天，蓝箭航天、中科宇航等三家商业航天IPO “中止” - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdGhSazJaMk94TjgtanVwRkd5b1J1R2Jmcy1YdzZaSHl0UTdoUzRkR25HYmRaYXNJY045RkxSWmVjREVpa3Q2b2Q5VE04UVl6SmdyVUV5aGRQMUJnOTZXUmtwVldFa3pzMXVRMWxvclYyYXEwa1htT1VraHBBdG9hcGplLTJmUXU3VGJKUQ?oc=5"
     }
   ],
-  "total_items": 23
+  "total_items": 21
 }
