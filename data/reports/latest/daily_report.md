@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-10-08
 
-- Report ID: daily-2026-10-08-ca0e2750
-- Source run: f9d120a1-e1e8-4df4-864d-17a55461baf1
+- Report ID: daily-2026-10-09-1c551686
+- Source run: cd9028e7-7cf6-490b-b84b-2c2b1a98665f
 - Generation status: skipped_no_secret
 - Companies covered: 2
-- Total items: 15
+- Total items: 6
 
 ## Executive Summary
 
-2026-10-08 共收录 15 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
+2026-10-09 共收录 6 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
 
 ## Industry Chain Sections
 
@@ -31,21 +31,19 @@ No LLM summary.
 
 No LLM summary.
 
-- [Jeff Bezos says Blue Origin will likely pursue an IPO within several years - Quartz](https://news.google.com/rss/articles/CBMib0FVX3lxTE1lYjhmOTExdDAwWk5jRnc0MUI5Yzl3VGp2eEdqSVJEMFJQWUxUS1dBeW80UUtqV1U4TVpCQ2xPSm5fc0ZpWHYxdlF5Qk5HRG1jVjZSbnA2SWRCaDBZWVVLZmhoell0Mm8zT1JUUk8zVQ?oc=5) Blue Origin
-- [SpaceX Stock Drops as Musk Says Starlink Is Being Blocked From Huge Market by Oligarchs - Barron's](https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTdnWEY2NWJOUE52UHdwS0ZLOHR3eENtUjJ0cFBnSnExblM4T1p6blozQUd0M3BBUEpGYXhCRW9TbTk0dmdPZF9ZSnlzcWxGb1FNNG5FZ1VXdkNxTFF3aG1UcnFrRUtFV0JZQ2tNck05YXlCSnNkdmF2cmNFN2lWZFBUSFMwdy0yTkE?oc=5) SpaceX
-- [SpaceX reveals hundreds of Starlink near misses annually - Aerospace Global News](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYldRUnh1ci0zcDU5N1ozZzE2YzNVSm5LMFFsN3I2VWRLeW5FYTFpeG1PLV85Z3NaTjE3cWlheGxtMW9zcW13U25IaXNseHEtd3hwMlhEUjRYTWtBaFdVQmhhVEFrMkRaMy1ZUVVCRGo4UDdLWldoVENPYVRQcXppRjFfbEpoOEFjZEt0allvX3I2NFZy?oc=5) SpaceX
-- [SpaceX, Blue Origin, Relativity advance ambitious Space Coast launch plans - The Business Journals](https://news.google.com/rss/articles/CBMipwFBVV95cUxPanVoV01lcGpqZU95ajFpMWVibEFnN2g3d2hFT2hIOWVQQk5CMnFWb2tJT3NSemE5WkZNZXJhOE05Tl9NODFfNWdsR3RTRV8wN1JwZ3FNR2JDQWxVWDFPTmFqbjE1V3dLbWFfbFJFQnNJR01sQ3pHTl9UbmFCNWZmR0lyVG9tUjVBVUVPdFBXZnNTd3EtNUxVeUJtQWIzXzlUZTBybFRaQQ?oc=5) Blue Origin
-- [FCC’s 15,000-Satellite SpaceX Approval Moves Starlink Mobile Closer to a Standalone Wireless Service](https://spacewatch.global/2026/10/fccs-15000-satellite-spacex-approval-moves-starlink-mobile-closer-to-a-standalone-wireless-service) SpaceX
-- [Jeff Bezos Just Put Blue Origin's IPO on the Radar After $10 Billion Funding Round: 'It Probably Makes Sense' - TradingView](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNejFIMHZvdXcwcWZ6Znl6V1FxQm9RX3cyWFA3U1J0QVNGZFJfczNIMExHc0Zqb0RJcjlFR25aZWd0bTJvWjhQV1NmT3dYRUtlcG83UUxsX2h4amlOcWg1bjZaczFHUHY2aW1Vektzb1NxaHhSa1JQSEVFSW5PWm9nV0tBeFVtWHk2eUpBekVZV2tXY3NDdkVUTkNRZ05rMHdLSC1Ld0p5Y2QyVVN4SUhmSy1hWkYycGVkV0M4WFBjYXU5ZXlsdnVBc0I5VHpoa2VXdmtETEpWeWI3OXVQUnczdDlDTTRVejg3T1VPcXRCN2FUYUNEV0lZ?oc=5) Blue Origin
+- [SpaceX calls for better coordination in orbit after near-misses with Starlink - Ars Technica](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbUJxdmI4YjVhMkZVUjNDMF9xMkZpN2J0UDdDVlFQU3V3eHpHYm16bWdVMnN1YUZqSzdYTndKTGctbGpOT245N2ZrQm11MFlfQUFaa0dYSXFfVnBTbERuWkk5RnVfLTBlQTNERkFtNGxUUWNGYlNlUElhSFdoODFMdGJfNXZ0bHQ3MTdIcE03WDBrTC1Fb3BaYzZqc2xvNi04eDJpTnQ1TVFjR3lCaVRpbmNyQzdLOEE?oc=5) SpaceX
+- [SpaceX Moves to Acquire Nationwide Low-Band Spectrum for Starlink Mobile](https://www.satellitetoday.com/connectivity/2026/10/08/spacex-moves-to-acquire-nationwide-low-band-spectrum-for-starlink-mobile) SpaceX
+- [Elon Musk Can’t Get Starlink in India. What It Means for SpaceX Stock. - Barron's](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYUtfdFhkc0JjSjQ1S1BUUnhnLXZLay0zbmdTR0dJcV9NaXFwWk5vSnFQR1RiVG1qYmZlVGlqTEFnR2d1NW9jUU5YNWxZZThjRDNsMUNLRnRuV3M5a095MXNkdnZYZy1Ba0U3NXYyME9idmZNRVdnV195RXhqNVV6ZHhaRGdBQjRodzhr?oc=5) SpaceX
+- [Blue Origin IPO could come in next few years, Jeff Bezos says in wake of rocket disaster - New York Post](https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3QzbnJxNUIzS2U1czJLNEVhbTJYUkdlUFlmS2hiRnE4S1RHNUFLY0ljV0RTZnZFR3k1MGVYVVEtaVp1d25aYVZJNmFOS0VjTjVXVEx3MHI3R2xlZ2VMWHVtblJBc2VGWnRuOFJ4WXZMU1drU0lWY2I0U2F0Z2s4Tjh6ekh0dloxVkRvaXUtNF9pT3ZPa01Ia2pIdVdkUTJHMExaQWZOaVphdUViaDZMV1BuVTFmQjJJZWlzYTMzbzVNaldVZlE?oc=5) Blue Origin
+- [Amazon Hits 1,000 Sat Milestone; Blue Origin Bolsters Sat Manufacturing](https://www.satellitetoday.com/manufacturing/2026/10/08/amazon-hits-1000-sat-milestone-blue-origin-bolsters-sat-manufacturing) Blue Origin
 
 ## Top News
 
-- [Jeff Bezos says Blue Origin will likely pursue an IPO within several years - Quartz](https://news.google.com/rss/articles/CBMib0FVX3lxTE1lYjhmOTExdDAwWk5jRnc0MUI5Yzl3VGp2eEdqSVJEMFJQWUxUS1dBeW80UUtqV1U4TVpCQ2xPSm5fc0ZpWHYxdlF5Qk5HRG1jVjZSbnA2SWRCaDBZWVVLZmhoell0Mm8zT1JUUk8zVQ?oc=5) Blue Origin
-- [SpaceX Stock Drops as Musk Says Starlink Is Being Blocked From Huge Market by Oligarchs - Barron's](https://news.google.com/rss/articles/CBMiigFBVV95cUxQTTdnWEY2NWJOUE52UHdwS0ZLOHR3eENtUjJ0cFBnSnExblM4T1p6blozQUd0M3BBUEpGYXhCRW9TbTk0dmdPZF9ZSnlzcWxGb1FNNG5FZ1VXdkNxTFF3aG1UcnFrRUtFV0JZQ2tNck05YXlCSnNkdmF2cmNFN2lWZFBUSFMwdy0yTkE?oc=5) SpaceX
-- [SpaceX reveals hundreds of Starlink near misses annually - Aerospace Global News](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYldRUnh1ci0zcDU5N1ozZzE2YzNVSm5LMFFsN3I2VWRLeW5FYTFpeG1PLV85Z3NaTjE3cWlheGxtMW9zcW13U25IaXNseHEtd3hwMlhEUjRYTWtBaFdVQmhhVEFrMkRaMy1ZUVVCRGo4UDdLWldoVENPYVRQcXppRjFfbEpoOEFjZEt0allvX3I2NFZy?oc=5) SpaceX
-- [SpaceX, Blue Origin, Relativity advance ambitious Space Coast launch plans - The Business Journals](https://news.google.com/rss/articles/CBMipwFBVV95cUxPanVoV01lcGpqZU95ajFpMWVibEFnN2g3d2hFT2hIOWVQQk5CMnFWb2tJT3NSemE5WkZNZXJhOE05Tl9NODFfNWdsR3RTRV8wN1JwZ3FNR2JDQWxVWDFPTmFqbjE1V3dLbWFfbFJFQnNJR01sQ3pHTl9UbmFCNWZmR0lyVG9tUjVBVUVPdFBXZnNTd3EtNUxVeUJtQWIzXzlUZTBybFRaQQ?oc=5) Blue Origin
-- [FCC’s 15,000-Satellite SpaceX Approval Moves Starlink Mobile Closer to a Standalone Wireless Service](https://spacewatch.global/2026/10/fccs-15000-satellite-spacex-approval-moves-starlink-mobile-closer-to-a-standalone-wireless-service) SpaceX
-- [Jeff Bezos Just Put Blue Origin's IPO on the Radar After $10 Billion Funding Round: 'It Probably Makes Sense' - TradingView](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNejFIMHZvdXcwcWZ6Znl6V1FxQm9RX3cyWFA3U1J0QVNGZFJfczNIMExHc0Zqb0RJcjlFR25aZWd0bTJvWjhQV1NmT3dYRUtlcG83UUxsX2h4amlOcWg1bjZaczFHUHY2aW1Vektzb1NxaHhSa1JQSEVFSW5PWm9nV0tBeFVtWHk2eUpBekVZV2tXY3NDdkVUTkNRZ05rMHdLSC1Ld0p5Y2QyVVN4SUhmSy1hWkYycGVkV0M4WFBjYXU5ZXlsdnVBc0I5VHpoa2VXdmtETEpWeWI3OXVQUnczdDlDTTRVejg3T1VPcXRCN2FUYUNEV0lZ?oc=5) Blue Origin
+- [SpaceX calls for better coordination in orbit after near-misses with Starlink - Ars Technica](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbUJxdmI4YjVhMkZVUjNDMF9xMkZpN2J0UDdDVlFQU3V3eHpHYm16bWdVMnN1YUZqSzdYTndKTGctbGpOT245N2ZrQm11MFlfQUFaa0dYSXFfVnBTbERuWkk5RnVfLTBlQTNERkFtNGxUUWNGYlNlUElhSFdoODFMdGJfNXZ0bHQ3MTdIcE03WDBrTC1Fb3BaYzZqc2xvNi04eDJpTnQ1TVFjR3lCaVRpbmNyQzdLOEE?oc=5) SpaceX
+- [SpaceX Moves to Acquire Nationwide Low-Band Spectrum for Starlink Mobile](https://www.satellitetoday.com/connectivity/2026/10/08/spacex-moves-to-acquire-nationwide-low-band-spectrum-for-starlink-mobile) SpaceX
+- [Elon Musk Can’t Get Starlink in India. What It Means for SpaceX Stock. - Barron's](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYUtfdFhkc0JjSjQ1S1BUUnhnLXZLay0zbmdTR0dJcV9NaXFwWk5vSnFQR1RiVG1qYmZlVGlqTEFnR2d1NW9jUU5YNWxZZThjRDNsMUNLRnRuV3M5a095MXNkdnZYZy1Ba0U3NXYyME9idmZNRVdnV195RXhqNVV6ZHhaRGdBQjRodzhr?oc=5) SpaceX
+- [Blue Origin IPO could come in next few years, Jeff Bezos says in wake of rocket disaster - New York Post](https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3QzbnJxNUIzS2U1czJLNEVhbTJYUkdlUFlmS2hiRnE4S1RHNUFLY0ljV0RTZnZFR3k1MGVYVVEtaVp1d25aYVZJNmFOS0VjTjVXVEx3MHI3R2xlZ2VMWHVtblJBc2VGWnRuOFJ4WXZMU1drU0lWY2I0U2F0Z2s4Tjh6ekh0dloxVkRvaXUtNF9pT3ZPa01Ia2pIdVdkUTJHMExaQWZOaVphdUViaDZMV1BuVTFmQjJJZWlzYTMzbzVNaldVZlE?oc=5) Blue Origin
+- [Amazon Hits 1,000 Sat Milestone; Blue Origin Bolsters Sat Manufacturing](https://www.satellitetoday.com/manufacturing/2026/10/08/amazon-hits-1000-sat-milestone-blue-origin-bolsters-sat-manufacturing) Blue Origin
 
 ## Risks And Watchpoints
 
