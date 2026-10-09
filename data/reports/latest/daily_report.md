@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-10-09
 
-- Report ID: daily-2026-10-09-a9d5fded
-- Source run: 874f57dc-c16f-4a1a-9468-291fd470473a
+- Report ID: daily-2026-10-10-e6dc6f85
+- Source run: 95ae5977-e464-47ff-bbf6-40bcb48d12e0
 - Generation status: skipped_no_secret
-- Companies covered: 3
-- Total items: 16
+- Companies covered: 2
+- Total items: 7
 
 ## Executive Summary
 
-2026-10-09 共收录 16 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin、微纳星空。
+2026-10-10 共收录 7 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
 
 ## Industry Chain Sections
 
@@ -16,7 +16,6 @@
 
 No LLM summary.
 
-- [冲刺“民营商业卫星第一股”：微纳星空的“百亿故事”里，藏着一道没解完的题 - 新浪财经](https://news.google.com/rss/articles/CBMijgFBVV95cUxOSWNWcFV0RlQ0ek1hUDlCNHJwYUJHaEZFdWQ5alAzTG9YRzhuLVRiTUN2bmtxUnZ5QVNyeUhrWW45OTRiQ25JZHM2eDZfc0pFTW5QSFlJUmNYU2UyMzFGenU4Q2k5SENhTkl2bEx1VFVDYkFPc090bjcwZkd6aWJMRnRsYkZtZ29KMDBIQm5n?oc=5) 微纳星空
 
 ### 运载火箭与发射服务
 
@@ -32,22 +31,17 @@ No LLM summary.
 
 No LLM summary.
 
-- [Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?](https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine) SpaceX
-- [Blue Origin's potential IPO signals the countdown to a new phase of the space race - AOL.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUWJVUXNrLVhvOVdWV0lOcUs5UjZaVGZpV3Q4Qjg1TEpvRk0wNkVha1hURkx2bjRPbVhjWks5MjgyT2ZOcW1MeFhkNzYycjdPdWNaVXFBbzVZQ3llUkhFaDh5NkRqOV91WkhNbnhSYzJXYUxkTnlIU3pZX2wteDVBZ3Qxdy0?oc=5) Blue Origin
-- [Blue Origin confirms 2026 launch - Advanced Television](https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1dSc1RqTGFXQ0lVMlNpd1JDV0tFTjV5czgxci16UVZmcEFKeUlDaXU5cUxmUUVwenZCdW5ZMUtQQkxKMlBKMDJVbUx2ck1QeUVpeW9KWlE0LXFMLWU5WmExQnh2a3FVQXBCT2NkTktRS1dQWTlXV2xTdllFOEl0WGY5OUxiRWM?oc=5) Blue Origin
-- [SpaceX buys 800 MHz spectrum to launch Starlink Mobile carrier](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac8d96c58724f688b450409c5e6c91b&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fspacex-buys-800-mhz-spectrum-113411812.html&c=17115160711031821237&mkt=en-us) SpaceX
-- [SpaceX gets carried away after buying a bit more spectrum](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac8d96c58724f688b450409c5e6c91b&url=https%3A%2F%2Fwww.telecoms.com%2Fsatellite%2Fspacex-snaps-up-low-band-spectrum-from-tmus&c=17027629119841116358&mkt=en-us) SpaceX
-- [Blue Origin IPO could come in next few years, Jeff Bezos says in wake of rocket disaster - New York Post](https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3QzbnJxNUIzS2U1czJLNEVhbTJYUkdlUFlmS2hiRnE4S1RHNUFLY0ljV0RTZnZFR3k1MGVYVVEtaVp1d25aYVZJNmFOS0VjTjVXVEx3MHI3R2xlZ2VMWHVtblJBc2VGWnRuOFJ4WXZMU1drU0lWY2I0U2F0Z2s4Tjh6ekh0dloxVkRvaXUtNF9pT3ZPa01Ia2pIdVdkUTJHMExaQWZOaVphdUViaDZMV1BuVTFmQjJJZWlzYTMzbzVNaldVZlE?oc=5) Blue Origin
+- [SpaceX to make another attempt to launch 21 data satellites for Space Development Agency](https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency) SpaceX
+- [Blue Origin Commits $550M to Texas Satellite Complex as Jeff Bezos Confirms $10B Equity Round and IPO Roadmap](https://satnews.com/2026/10/09/blue-origin-commits-550m-to-texas-satellite-complex-as-jeff-bezos-confirms-10b-equity-round-and-ipo-roadmap) Blue Origin
+- [SpaceX Acquires Grain Management’s 800 MHz Spectrum Portfolio to Launch Standalone Starlink Mobile Carrier](https://satnews.com/2026/10/09/spacex-acquires-grain-managements-800-mhz-spectrum-portfolio-to-launch-standalone-starlink-mobile-carrier) SpaceX
+- [Midnight SpaceX launch could bring loud sonic booms to Southern California - KTLA](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUHlyS0ZPUEprM2lLLTRZb2VaeG9faGVoZWZkcmdXZENNeC1FM0F5MnNKcTN0Mks5Ykh4TE1BTFpvSlVPWHJkX0VGTWtzZkxHZUxiZEhkeFNZakhuM0toaGJvUWtjUWhLWmc3RGd6N05pbmFpOVhRc0NJOWtzUklyZXZSX01CY0Yzc3FpeDdBcVdvV3NsRkpDRWE3b3dWWjIxVUZsRjRuQW1tSE500gGyAUFVX3lxTE5NMHpzTjdHVUVIWml1UHVOaWFvWU9mVzd4V3piazhkNU1UbmNORHBDOGotMHNWY3pVUnJZVW5WaWV3VGJDRFZVWGtkUDN0RC1wQzRVOG5ndFhoekdSMVM3ZDA3QTB3OTVSWGk0R0hFU2hnQVU0VmdSQU5QSHh0bHA1VDZUanBxLWFQLXJzZ0dpRm9WOU01N3pxZmJrWFJEZ0dYT2locWk0MVpESEg4QVlyNHc?oc=5) SpaceX
 
 ## Top News
 
-- [Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?](https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine) SpaceX
-- [Blue Origin's potential IPO signals the countdown to a new phase of the space race - AOL.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUWJVUXNrLVhvOVdWV0lOcUs5UjZaVGZpV3Q4Qjg1TEpvRk0wNkVha1hURkx2bjRPbVhjWks5MjgyT2ZOcW1MeFhkNzYycjdPdWNaVXFBbzVZQ3llUkhFaDh5NkRqOV91WkhNbnhSYzJXYUxkTnlIU3pZX2wteDVBZ3Qxdy0?oc=5) Blue Origin
-- [Blue Origin confirms 2026 launch - Advanced Television](https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1dSc1RqTGFXQ0lVMlNpd1JDV0tFTjV5czgxci16UVZmcEFKeUlDaXU5cUxmUUVwenZCdW5ZMUtQQkxKMlBKMDJVbUx2ck1QeUVpeW9KWlE0LXFMLWU5WmExQnh2a3FVQXBCT2NkTktRS1dQWTlXV2xTdllFOEl0WGY5OUxiRWM?oc=5) Blue Origin
-- [SpaceX buys 800 MHz spectrum to launch Starlink Mobile carrier](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac8d96c58724f688b450409c5e6c91b&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fspacex-buys-800-mhz-spectrum-113411812.html&c=17115160711031821237&mkt=en-us) SpaceX
-- [SpaceX gets carried away after buying a bit more spectrum](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac8d96c58724f688b450409c5e6c91b&url=https%3A%2F%2Fwww.telecoms.com%2Fsatellite%2Fspacex-snaps-up-low-band-spectrum-from-tmus&c=17027629119841116358&mkt=en-us) SpaceX
-- [冲刺“民营商业卫星第一股”：微纳星空的“百亿故事”里，藏着一道没解完的题 - 新浪财经](https://news.google.com/rss/articles/CBMijgFBVV95cUxOSWNWcFV0RlQ0ek1hUDlCNHJwYUJHaEZFdWQ5alAzTG9YRzhuLVRiTUN2bmtxUnZ5QVNyeUhrWW45OTRiQ25JZHM2eDZfc0pFTW5QSFlJUmNYU2UyMzFGenU4Q2k5SENhTkl2bEx1VFVDYkFPc090bjcwZkd6aWJMRnRsYkZtZ29KMDBIQm5n?oc=5) 微纳星空
-- [Blue Origin IPO could come in next few years, Jeff Bezos says in wake of rocket disaster - New York Post](https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3QzbnJxNUIzS2U1czJLNEVhbTJYUkdlUFlmS2hiRnE4S1RHNUFLY0ljV0RTZnZFR3k1MGVYVVEtaVp1d25aYVZJNmFOS0VjTjVXVEx3MHI3R2xlZ2VMWHVtblJBc2VGWnRuOFJ4WXZMU1drU0lWY2I0U2F0Z2s4Tjh6ekh0dloxVkRvaXUtNF9pT3ZPa01Ia2pIdVdkUTJHMExaQWZOaVphdUViaDZMV1BuVTFmQjJJZWlzYTMzbzVNaldVZlE?oc=5) Blue Origin
+- [SpaceX to make another attempt to launch 21 data satellites for Space Development Agency](https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency) SpaceX
+- [Blue Origin Commits $550M to Texas Satellite Complex as Jeff Bezos Confirms $10B Equity Round and IPO Roadmap](https://satnews.com/2026/10/09/blue-origin-commits-550m-to-texas-satellite-complex-as-jeff-bezos-confirms-10b-equity-round-and-ipo-roadmap) Blue Origin
+- [SpaceX Acquires Grain Management’s 800 MHz Spectrum Portfolio to Launch Standalone Starlink Mobile Carrier](https://satnews.com/2026/10/09/spacex-acquires-grain-managements-800-mhz-spectrum-portfolio-to-launch-standalone-starlink-mobile-carrier) SpaceX
+- [Midnight SpaceX launch could bring loud sonic booms to Southern California - KTLA](https://news.google.com/rss/articles/CBMirAFBVV95cUxPUHlyS0ZPUEprM2lLLTRZb2VaeG9faGVoZWZkcmdXZENNeC1FM0F5MnNKcTN0Mks5Ykh4TE1BTFpvSlVPWHJkX0VGTWtzZkxHZUxiZEhkeFNZakhuM0toaGJvUWtjUWhLWmc3RGd6N05pbmFpOVhRc0NJOWtzUklyZXZSX01CY0Yzc3FpeDdBcVdvV3NsRkpDRWE3b3dWWjIxVUZsRjRuQW1tSE500gGyAUFVX3lxTE5NMHpzTjdHVUVIWml1UHVOaWFvWU9mVzd4V3piazhkNU1UbmNORHBDOGotMHNWY3pVUnJZVW5WaWV3VGJDRFZVWGtkUDN0RC1wQzRVOG5ndFhoekdSMVM3ZDA3QTB3OTVSWGk0R0hFU2hnQVU0VmdSQU5QSHh0bHA1VDZUanBxLWFQLXJzZ0dpRm9WOU01N3pxZmJrWFJEZ0dYT2locWk0MVpESEg4QVlyNHc?oc=5) SpaceX
 
 ## Risks And Watchpoints
 
