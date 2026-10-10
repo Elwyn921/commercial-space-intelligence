@@ -1,205 +1,205 @@
 {
-  "as_of_date": "2026-10-09",
+  "as_of_date": "2026-10-10",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 12,
-        "other": 4,
-        "regulation": 4
+        "launch": 10,
+        "market": 3,
+        "other": 14,
+        "regulation": 6
       },
-      "item_count": 20,
-      "latest_title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival"
+      "item_count": 33,
+      "latest_title": "SpaceX eyes 2 rocket launches in 3 days in California after scrubs - Ventura County Star"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_types": {
-        "launch": 6,
-        "market": 8,
+        "launch": 1,
+        "market": 3,
         "other": 1,
-        "product": 1
+        "product": 2
       },
-      "item_count": 16,
-      "latest_title": "Blue Origin IPO Could Change Amazon's Space Story - Amazon.com (NASDAQ:AMZN) - Benzinga"
+      "item_count": 7,
+      "latest_title": "Blue Origin expands in Texas as its founder contemplates an IPO - SpaceNews"
     },
     {
-      "company_id": "china_satnet",
-      "company_name": "中国星网",
+      "company_id": "minospace",
+      "company_name": "微纳星空",
       "event_types": {
-        "other": 2
+        "other": 1
       },
-      "item_count": 2,
-      "latest_title": "时延低于1秒，中国星网GW星座首次在轨验证成功 - 搜狐网"
+      "item_count": 1,
+      "latest_title": "冲刺“民营商业卫星第一股”：微纳星空的“百亿故事”里，藏着一道没解完的题 - 新浪财经"
+    },
+    {
+      "company_id": "galaxyspace",
+      "company_name": "银河航天",
+      "event_types": {
+        "market": 1
+      },
+      "item_count": 1,
+      "latest_title": "银河航天（北京）科技集团股份有限公司启动上市辅导 - Jiemian.com"
     }
   ],
-  "company_count": 3,
+  "company_count": 4,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 18,
-    "market": 8,
-    "other": 7,
-    "product": 1,
-    "regulation": 4
+    "launch": 11,
+    "market": 7,
+    "other": 16,
+    "product": 2,
+    "regulation": 6
   },
-  "generated_at": "2026-10-09T07:23:53.590961Z",
-  "period_end": "2026-10-08",
-  "period_start": "2026-10-08",
-  "report_date": "2026-10-08",
+  "generated_at": "2026-10-10T07:06:47.037854Z",
+  "period_end": "2026-10-09",
+  "period_start": "2026-10-09",
+  "report_date": "2026-10-09",
   "schema_version": "daily_document.v1",
-  "source_count": 27,
+  "source_count": 17,
   "source_counts": {
-    "Aerospace Global News": 1,
+    "AOL.com": 1,
+    "Advanced Television": 1,
+    "Ars Technica": 1,
     "Barron's": 1,
-    "Benzinga": 1,
-    "BigGo Finance": 1,
-    "Bloomberg.com": 1,
-    "Blue Origin": 1,
-    "C114通信网": 1,
-    "Central Oregon Daily": 1,
-    "Mashable": 1,
-    "NASA": 2,
+    "CoinGape": 1,
+    "Jiemian.com": 1,
+    "New York Post": 1,
     "PCMag": 1,
-    "Quartz": 1,
-    "Quartz India": 1,
-    "Seeking Alpha": 1,
-    "TechCrunch": 1,
-    "The Business Journals": 1,
-    "TradingView": 1,
-    "WESH": 1,
-    "Yahoo Finance UK": 1,
-    "bing.com": 10,
-    "satellitetoday.com": 1,
-    "satnews.com": 2,
-    "spaceintelreport.com": 1,
-    "spacewatch.global": 1,
-    "upi": 1,
-    "搜狐网": 1,
-    "디지털투데이": 1
+    "Reuters": 1,
+    "SpaceNews": 1,
+    "Ventura County Star": 1,
+    "arstechnica.com": 2,
+    "azcentral.com and The Arizona Republic": 1,
+    "bing.com": 23,
+    "satellitetoday.com": 3,
+    "satnews.com": 1,
+    "新浪财经": 1
   },
-  "summary": "2026-10-08 共归档 38 条新闻，覆盖 3 家公司、27 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、中国星网。",
+  "summary": "2026-10-09 共归档 42 条新闻，覆盖 4 家公司、17 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、微纳星空、银河航天。",
   "top_items": [
     {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "market",
+      "item_id": "b544a319f8388a92",
+      "published_at": "2026-10-09T10:28:11Z",
+      "source_name": "SpaceNews",
+      "title": "Blue Origin expands in Texas as its founder contemplates an IPO - SpaceNews",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSmVuWUJyLWM3dW1WbkI2ZUFCc3NRQThMYWw0MWNETThHQXhfQlkxQ09UOVhRM0k0U1FtSlBYMjZpdW1QeG5SUzFFWldNbUhGVExvdy1Ed2lMSkxEcHN1Z0o3WGF4N3dwVFg4N0RFWjlsOVRqeFY1RXhQeTQ1ZGszWjZxcGZTM2NhdjJEMVA3QQ?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "market",
+      "item_id": "9db371764cc546cb",
+      "published_at": "2026-10-09T10:00:00Z",
+      "source_name": "AOL.com",
+      "title": "Blue Origin's potential IPO signals the countdown to a new phase of the space race - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUWJVUXNrLVhvOVdWV0lOcUs5UjZaVGZpV3Q4Qjg1TEpvRk0wNkVha1hURkx2bjRPbVhjWks5MjgyT2ZOcW1MeFhkNzYycjdPdWNaVXFBbzVZQ3llUkhFaDh5NkRqOV91WkhNbnhSYzJXYUxkTnlIU3pZX2wteDVBZ3Qxdy0?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "market",
+      "item_id": "dd388eef7627c005",
+      "published_at": "2026-10-08T19:53:00Z",
+      "source_name": "New York Post",
+      "title": "Blue Origin IPO could come in next few years, Jeff Bezos says in wake of rocket disaster - New York Post",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3QzbnJxNUIzS2U1czJLNEVhbTJYUkdlUFlmS2hiRnE4S1RHNUFLY0ljV0RTZnZFR3k1MGVYVVEtaVp1d25aYVZJNmFOS0VjTjVXVEx3MHI3R2xlZ2VMWHVtblJBc2VGWnRuOFJ4WXZMU1drU0lWY2I0U2F0Z2s4Tjh6ekh0dloxVkRvaXUtNF9pT3ZPa01Ia2pIdVdkUTJHMExaQWZOaVphdUViaDZMV1BuVTFmQjJJZWlzYTMzbzVNaldVZlE?oc=5"
+    },
+    {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "20c6a6243d74aabf",
-      "published_at": "2026-10-07T21:16:42Z",
-      "source_name": "NASA",
-      "title": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival"
+      "item_id": "ebe308f454fde981",
+      "published_at": "2026-10-09T13:01:00Z",
+      "source_name": "Ventura County Star",
+      "title": "SpaceX eyes 2 rocket launches in 3 days in California after scrubs - Ventura County Star",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnRjQmpyamQ2TjdLejVMTDA2ckc4VXFieXdxQ0lXZERXZXdfUy1zQ2RlV2VLakJIWHlweEVpeWpJQ3lTY1dzcnlKSzRWTktwbVMyV20xX29LdzJjSjJ2QTBycy0tdC03LW44bk8zZU1uTjEtRm5nREFCakt0VHc3dEN3b1dKa085SWlLdnllMUZINHRCdk5VWkY4MHBabkpfNXIzNDE0bUVpcUh3YlVLbFdn?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "7aaf9ee0a7165a59",
-      "published_at": "2026-10-07T20:17:16Z",
-      "source_name": "NASA",
-      "title": "NASA’s SpaceX 35th Commercial Resupply Mission Overview",
-      "url": "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview"
+      "item_id": "557c6642c64de4b3",
+      "published_at": "2026-10-09T12:01:00Z",
+      "source_name": "azcentral.com and The Arizona Republic",
+      "title": "SpaceX could be planning near double-header rocket launch in 3 days - azcentral.com and The Arizona Republic",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTDNObklDSGFKRnctVDZZNGRtZVlsSXRJQzZNdkJKUnpJUUtaSlZuSGsxb1A2NnNJNFVGWWJFVFU4QUJiVU1CSjB4Q0dKRnZPeGdLbG1ZQ1lNRE82MXlkeDhpWGJtNVd4VDFNOEJJVGVueFBWN1U2b1ZWZnZsUTNUendXRndzUkF0UkxBWXNNck5YRUptMHBaeERFMnlsTU8zZzdrQjRRd3VUOVctNWlQc2pIUW95b3ZpTGc?oc=5"
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "market",
-      "item_id": "45edd8696d3d587f",
-      "published_at": "2026-10-08T14:17:25Z",
-      "source_name": "Benzinga",
-      "title": "Blue Origin IPO Could Change Amazon's Space Story - Amazon.com (NASDAQ:AMZN) - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWDhlWnRCNWZDRUJQUHdHNWl3MWhKUDNZNzB2amZmcWw4cWRPZ1ZzZ3Bza01FTWdYRi1vVlVOanZpYVhzNDgtWXpPbnNsYnZzeUlMUThaMEtVemZKWFE3eDdXcndqUFhyeGQteGpTYWF6V2dBN0h6a1Z6Y1A3NUxHa1NXY1F1bGxBalMyaWxPOGE?oc=5"
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "a0d5c487f0ac23cd",
+      "published_at": "2026-10-09T11:00:57Z",
+      "source_name": "arstechnica.com",
+      "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine"
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "market",
-      "item_id": "f4bb13e431212ff7",
-      "published_at": "2026-10-08T12:45:01Z",
-      "source_name": "Seeking Alpha",
-      "title": "Bezos sees Blue Origin IPO after $10B funding round (UFO:NASDAQ) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0lJcV9jMld2SDNwTEV0UENjaGFqcjR1RGFlcFVFTGxHMEd4dVNjQ3lBVTg4WlB0SzA2djBCT1U2RHp2bEEyR00yTWtsNHlSSExSRUdvTVA3WUlzRnhHa2doMXNsQ214VlgxZ3VyUzU2bV9YeHFIbTNRRm1wUE9qdUMzS0pQb1hEUl9TdHh6ZVVKQQ?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "market",
-      "item_id": "b462e4dd31fbc866",
-      "published_at": "2026-10-08T11:55:02Z",
-      "source_name": "Quartz",
-      "title": "Jeff Bezos says Blue Origin will likely pursue an IPO within several years - Quartz",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lYjhmOTExdDAwWk5jRnc0MUI5Yzl3VGp2eEdqSVJEMFJQWUxUS1dBeW80UUtqV1U4TVpCQ2xPSm5fc0ZpWHYxdlF5Qk5HRG1jVjZSbnA2SWRCaDBZWVVLZmhoell0Mm8zT1JUUk8zVQ?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "market",
-      "item_id": "88dd5b6f19fd8dfe",
-      "published_at": "2026-10-08T07:39:00Z",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "regulation",
+      "item_id": "7cc39bb58d7d0f71",
+      "published_at": "2026-10-09T10:01:00Z",
       "source_name": "bing.com",
-      "title": "Jeff Bezos Becomes World’s Second-Richest as Blue Origin Hits $140B Valuation",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac85bf303db487b90d0dca12a22c887&url=https%3A%2F%2Fwww.tipranks.com%2Fnews%2Fjeff-bezos-becomes-worlds-second-richest-as-blue-origin-hits-140b-valuation&c=4133496387929600650&mkt=en-us"
+      "title": "SpaceX says Starlink will \"become a major mobile carrier in the U.S.\"",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac962b073cb49c0aab50366f16722e1&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-says-starlink-will-become-a-major-mobile-carrier-in-the-us%2Far-AA2dU1ld&c=14244913534382703483&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "regulation",
+      "item_id": "77f78bd79d19ba5e",
+      "published_at": "2026-10-09T10:01:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX says Starlink will \"become a major mobile carrier in the U.S.\"",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac9a88d06c64a9ba4ddb0f27585b90f&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-says-starlink-will-become-a-major-mobile-carrier-in-the-us%2Far-AA2dU1ld&c=14244913534382703483&mkt=en-us"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
-      "event_type": "market",
-      "item_id": "60e3f35b1d677a43",
-      "published_at": "2026-10-08T07:39:00Z",
+      "event_type": "launch",
+      "item_id": "c166218da5dba97d",
+      "published_at": "2026-10-09T09:27:50Z",
+      "source_name": "Advanced Television",
+      "title": "Blue Origin confirms 2026 launch - Advanced Television",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1dSc1RqTGFXQ0lVMlNpd1JDV0tFTjV5czgxci16UVZmcEFKeUlDaXU5cUxmUUVwenZCdW5ZMUtQQkxKMlBKMDJVbUx2ck1QeUVpeW9KWlE0LXFMLWU5WmExQnh2a3FVQXBCT2NkTktRS1dQWTlXV2xTdllFOEl0WGY5OUxiRWM?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "product",
+      "item_id": "86a7e4cd1d0eb0b8",
+      "published_at": "2026-10-09T06:00:00Z",
       "source_name": "bing.com",
-      "title": "Jeff Bezos Becomes World’s Second-Richest as Blue Origin Hits $140B Valuation",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac819ff6b2e4b2c932d470b74266969&url=https%3A%2F%2Fwww.tipranks.com%2Fnews%2Fjeff-bezos-becomes-worlds-second-richest-as-blue-origin-hits-140b-valuation&c=4133496387929600650&mkt=en-us"
+      "title": "Blue Origin plans $555 million satellite factory in Hutto, Texas",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac962b92c8d4332a6c4ebccafea2725&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fblue-origin-plans-555-million-130048316.html&c=9011059905887161574&mkt=en-us"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "f3cfb52b2568838c",
-      "published_at": "2026-10-08T15:12:59Z",
-      "source_name": "TechCrunch",
-      "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVy1RY0g5UTJydjFKMndxOHNKYlpLMC1ta2RpUnBkYW5wbF9OaC1keTgtN2RhMWV3QkhfbFRtUmE5OHZoV3FORzE0ZU90UFNxektRYlFUbmxZWHVsbzFsN09NSDBoSjlONGJ5ZVRMZDJsTk5RY19ZNlJVS09Xem5DRGdFai1GaDJSSTRoYUlpUlBycURJTnhMYmdZNzFCVldVYXl6ZmZ6aw?oc=5"
+      "company_id": "galaxyspace",
+      "company_name": "银河航天",
+      "event_type": "market",
+      "item_id": "5570ef10d3a14d0a",
+      "published_at": "2026-10-08T16:37:02Z",
+      "source_name": "Jiemian.com",
+      "title": "银河航天（北京）科技集团股份有限公司启动上市辅导 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yYXpHRFN6UG9BaXBUdHZIekVrd2Nkamdtbm1EYndIZVJ3ZGNCVzhpWk1nSDgyR0dCMndYWFJVRGoyb0dhOG10MFFNb1ljQjNDOWptY3YwSWI?oc=5"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "5969ae77caf744dc",
-      "published_at": "2026-10-08T13:39:18Z",
-      "source_name": "upi",
-      "title": "Musk says Indian vested interests blocking launch of SpaceX's Starlink - upi",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3ZyQzI4TERXMm5XbjZRZDNiZGROSVlLQ0NNRzBmbm55ZkljcmtnX1JXM2o3TGV5RFlmQTBtMTNiWFdWWUhscXdEbjR0RXRwV0RZQ09JMWZzTW1lUFJGeWRYLVh2TC1Cd1E2RWRoUGJLYWc4U3dMeEl4OXY3bHpiTTRNX05pbXAwYWNIR0FxT0ZHV2NZU3l5R0NoOFlZaXh2a01NOEMwRnpTbUw0VFJFaE130gG3AUFVX3lxTE1Qc21TMnF5SXFOU3hxYTcyamNEQ29TNmZkUWxzd2VNaklvdUJHaVF1NVE3RjVMeFg0b1U0SlZpY213MG5ZM3phemhoRC14REJCQWh5NThhQlVOZkxLcmhTVjVNLVp4MmR2RWZ3TlZBdDdScXhudnB4MXRja1NQM0NJVEhLMGhaSFBDRUh3YjdQUWZHTVVQb21IcmQ3WFh6WjNxLVAxcmdtQ2diR05PUFRnZHdON014NA?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "54152a6896ee9922",
-      "published_at": "2026-10-08T12:25:02Z",
-      "source_name": "Quartz India",
-      "title": "Musk accused unnamed Indian billionaires of blocking Starlink's India launch - Quartz India",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CNUlEVnpSaGp0N29wS1puaDFkdE9NdEFicXhmb1NPYnJ3a1gzNXVaQ3BIdUtidnJ0T2VGYmRnaXlPVFdiTk1XaEtfd1AzQmVQVzNYSmI3bEU3b2tMQW1fWW40MDBjajFJTnZMTS12TXVzeXZfZ2dOQQ?oc=5"
-    },
-    {
-      "company_id": "china_satnet",
-      "company_name": "中国星网",
+      "company_id": "minospace",
+      "company_name": "微纳星空",
       "event_type": "other",
-      "item_id": "7e14326c930cc361",
-      "published_at": "2026-10-08T11:03:27Z",
-      "source_name": "搜狐网",
-      "title": "时延低于1秒，中国星网GW星座首次在轨验证成功 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2JMTklvUUJUOE5xZTR4NUF6T2V0QjQxRjJzY25IVFc0Qy1TS2NqSW9PSDVyRnlBNzFnTWVQMzhKQzBULUJzbHhhUnZLT2djUGJURnZQM0c2azBqVG9ZUDhQcVI0TEpRbXUteFVsczdDeS16UnltQmhyN3AtbTVTekpTNEF5b3pG?oc=5"
-    },
-    {
-      "company_id": "china_satnet",
-      "company_name": "中国星网",
-      "event_type": "other",
-      "item_id": "c07da9481dec13b0",
-      "published_at": "2026-10-08T13:25:00Z",
-      "source_name": "C114通信网",
-      "title": "30Mbps、时延低于1秒！中国星网完成跨极区通信在轨试验 - C114通信网",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zc3JQNnNIdlBBZnQ0TmU3RHBjZEdZNEZyOVRfSllycXVRUXpkVmRtYXJmTWZ1MnEtZ1ZwRkxFNU1GQlBETXBiRTBWdlRWTnNlY2c?oc=5"
+      "item_id": "0408d31e2c1b3d86",
+      "published_at": "2026-10-09T02:23:00Z",
+      "source_name": "新浪财经",
+      "title": "冲刺“民营商业卫星第一股”：微纳星空的“百亿故事”里，藏着一道没解完的题 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSWNWcFV0RlQ0ek1hUDlCNHJwYUJHaEZFdWQ5alAzTG9YRzhuLVRiTUN2bmtxUnZ5QVNyeUhrWW45OTRiQ25JZHM2eDZfc0pFTW5QSFlJUmNYU2UyMzFGenU4Q2k5SENhTkl2bEx1VFVDYkFPc090bjcwZkd6aWJMRnRsYkZtZ29KMDBIQm5n?oc=5"
     }
   ],
-  "total_items": 38
+  "total_items": 42
 }
