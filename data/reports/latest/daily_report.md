@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-10-11
 
-- Report ID: daily-2026-10-11-99897df3
-- Source run: 3968a257-b88e-4659-8bd3-3b4e1ec5b962
+- Report ID: daily-2026-10-11-99038e08
+- Source run: 8b14a9b8-d731-46bf-a14c-b3ff4534ea42
 - Generation status: skipped_no_secret
-- Companies covered: 2
+- Companies covered: 3
 - Total items: 6
 
 ## Executive Summary
 
-2026-10-11 共收录 6 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、星际荣耀。
+2026-10-11 共收录 6 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin、星际荣耀。
 
 ## Industry Chain Sections
 
@@ -32,15 +32,19 @@ No LLM summary.
 
 No LLM summary.
 
+- [Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight](https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn) Blue Origin
+- [Blue Origin Commits $550M to Texas Satellite Complex as Jeff Bezos Confirms $10B Equity Round and IPO Roadmap](https://satnews.com/2026/10/11/blue-origin-commits-550m-to-texas-satellite-complex-as-jeff-bezos-confirms-10b-equity-round-and-ipo-roadmap) Blue Origin
+- [SpaceX Acquires Grain Management’s 800 MHz Spectrum Portfolio to Launch Standalone Starlink Mobile Carrier](https://satnews.com/2026/10/11/spacex-acquires-grain-managements-800-mhz-spectrum-portfolio-to-launch-standalone-starlink-mobile-carrier) SpaceX
 - [Direct to Cell STARLINK-11444 [DTC] Holds 362 km Orbit Against Heavy Drag - KeepTrack](https://news.google.com/rss/articles/CBMibEFVX3lxTFBhRmFTSkFvVU9Rd1dtRkY3aVQ3MEgxajRReU9mZDF1SWJQOWFPQmdEa05rZDRTUmZVX0E4cGZqMkM2OHpuMEZKYU95bllCRHoxZXQyekdUVkpjYnFQVldlNmgzQ2NPMDFia3dXMg?oc=5) SpaceX
-- [Musk vows affordable Starlink in India days before Ambani's record Jio IPO - The Lufkin Daily News](https://news.google.com/rss/articles/CBMigwJBVV95cUxNcFVGSWFlajlIUzJxcWhzMkVSMXQ1LWlqNWxzLXpCUFE4dmMwS2wyd2I4VmFHdGIxR1hVZUdrSDBzTVZ5ODlFZTlzQzg5YnRYVUpYSTZ5MWVfcHFDTlFHTVc2LWszbWd2Q1BQRGgzSGR6a3R2TVdlSjZwdFo2c0M5d0dXSndWSjNzSGFMNnJZQk5KWmJIMDRYekhUS0VKS3J1cUx6bjJRMElKa2l0TWVqMTBmOVRVZG5rc1ppTVVvQXJoN1p4STVaUmtQcllyR1B6WXVkLS1kbXUyUTNONENNQkpSU2xNWWV4U29wYlJXMjczODN5VUMzMl9TQS1vRlUzZXNv?oc=5) SpaceX
-- [Elon Musk Pitches SpaceX's Starlink As An Affordable Option To Bring Internet To Indians Ahead Of Ambani's Jio IPO](http://www.bing.com/news/apiclick.aspx?aid=&tid=6acb75a284ef42f2b25bf96a1fdb60ed&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-pitches-spacexs-starlink-095636285.html&c=10669417299497097418&mkt=en-us) SpaceX
+- [Venezuela Authorizes SpaceX Starlink Satellite Internet Service Under New Deal - Yahoo Finance](https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFlvaE93RElwbFhDTVhJWmZseXM5aWdMVmZyZ0M0d3BvLUxMQVByczhqWU9VWUJRQ19TMEhzR0VlLWh1djBtc2VGaG9ocHl6d0ZzdlJuRHF2alZaRU5GY3JBOHY3Q0NLTzV5T3g0ckVoeGY5SEZkNW5NNjVyQmVXSFFKSTNzVE8zVi1IdVZhYkU1SWYxM3piQ2t2RUZKNkRMUVJDNmp6QmZOVmtlVXhYVw?oc=5) SpaceX
 
 ## Top News
 
+- [Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight](https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn) Blue Origin
+- [Blue Origin Commits $550M to Texas Satellite Complex as Jeff Bezos Confirms $10B Equity Round and IPO Roadmap](https://satnews.com/2026/10/11/blue-origin-commits-550m-to-texas-satellite-complex-as-jeff-bezos-confirms-10b-equity-round-and-ipo-roadmap) Blue Origin
+- [SpaceX Acquires Grain Management’s 800 MHz Spectrum Portfolio to Launch Standalone Starlink Mobile Carrier](https://satnews.com/2026/10/11/spacex-acquires-grain-managements-800-mhz-spectrum-portfolio-to-launch-standalone-starlink-mobile-carrier) SpaceX
 - [Direct to Cell STARLINK-11444 [DTC] Holds 362 km Orbit Against Heavy Drag - KeepTrack](https://news.google.com/rss/articles/CBMibEFVX3lxTFBhRmFTSkFvVU9Rd1dtRkY3aVQ3MEgxajRReU9mZDF1SWJQOWFPQmdEa05rZDRTUmZVX0E4cGZqMkM2OHpuMEZKYU95bllCRHoxZXQyekdUVkpjYnFQVldlNmgzQ2NPMDFia3dXMg?oc=5) SpaceX
-- [Musk vows affordable Starlink in India days before Ambani's record Jio IPO - The Lufkin Daily News](https://news.google.com/rss/articles/CBMigwJBVV95cUxNcFVGSWFlajlIUzJxcWhzMkVSMXQ1LWlqNWxzLXpCUFE4dmMwS2wyd2I4VmFHdGIxR1hVZUdrSDBzTVZ5ODlFZTlzQzg5YnRYVUpYSTZ5MWVfcHFDTlFHTVc2LWszbWd2Q1BQRGgzSGR6a3R2TVdlSjZwdFo2c0M5d0dXSndWSjNzSGFMNnJZQk5KWmJIMDRYekhUS0VKS3J1cUx6bjJRMElKa2l0TWVqMTBmOVRVZG5rc1ppTVVvQXJoN1p4STVaUmtQcllyR1B6WXVkLS1kbXUyUTNONENNQkpSU2xNWWV4U29wYlJXMjczODN5VUMzMl9TQS1vRlUzZXNv?oc=5) SpaceX
-- [Elon Musk Pitches SpaceX's Starlink As An Affordable Option To Bring Internet To Indians Ahead Of Ambani's Jio IPO](http://www.bing.com/news/apiclick.aspx?aid=&tid=6acb75a284ef42f2b25bf96a1fdb60ed&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-pitches-spacexs-starlink-095636285.html&c=10669417299497097418&mkt=en-us) SpaceX
+- [Venezuela Authorizes SpaceX Starlink Satellite Internet Service Under New Deal - Yahoo Finance](https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFlvaE93RElwbFhDTVhJWmZseXM5aWdMVmZyZ0M0d3BvLUxMQVByczhqWU9VWUJRQ19TMEhzR0VlLWh1djBtc2VGaG9ocHl6d0ZzdlJuRHF2alZaRU5GY3JBOHY3Q0NLTzV5T3g0ckVoeGY5SEZkNW5NNjVyQmVXSFFKSTNzVE8zVi1IdVZhYkU1SWYxM3piQ2t2RUZKNkRMUVJDNmp6QmZOVmtlVXhYVw?oc=5) SpaceX
 - [星际荣耀官宣重型型号“双曲线九号”火箭已启动预研 - 凤凰网科技](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LcE13ZzhXYXcycms0YkJ5VS1FcUowblNEMlRXUWZhc3NGQ3JrdkNMeWlPWTdwTzkwVWtHSXhKSmpadHlET3lvQW1hZHQ?oc=5) 星际荣耀
 
 ## Risks And Watchpoints
