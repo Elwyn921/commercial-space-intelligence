@@ -1,92 +1,264 @@
 {
-  "as_of_date": "2026-10-05",
+  "as_of_date": "2026-10-12",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 76,
-        "market": 6,
-        "order": 2,
-        "other": 46,
-        "product": 1
+        "launch": 64,
+        "market": 12,
+        "other": 60,
+        "regulation": 33
       },
-      "item_count": 131,
-      "latest_title": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency"
+      "item_count": 169,
+      "latest_title": "SpaceX to make another attempt to launch 21 data satellites for Space Development Agency"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_types": {
-        "funding": 2,
-        "launch": 33,
-        "other": 9
+        "launch": 32,
+        "market": 16,
+        "other": 2,
+        "product": 14
       },
-      "item_count": 44,
-      "latest_title": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_types": {
-        "launch": 2,
-        "market": 7,
-        "other": 8
-      },
-      "item_count": 17,
-      "latest_title": "蓝箭航天、中科宇航等3家商业航天公司科创板IPO中止 - 新浪财经"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_types": {
-        "market": 5,
-        "other": 1
-      },
-      "item_count": 6,
-      "latest_title": "蓝箭航天、中科宇航等3家商业航天公司科创板IPO中止 - 新浪财经"
-    },
-    {
-      "company_id": "minospace",
-      "company_name": "微纳星空",
-      "event_types": {
-        "market": 5
-      },
-      "item_count": 5,
-      "latest_title": "国星宇航、展芯半导体、微纳星空、国仪量子冲刺IPO，涉及四川多家机构投资 - 新浪财经"
+      "item_count": 64,
+      "latest_title": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight"
     },
     {
       "company_id": "china_satnet",
       "company_name": "中国星网",
       "event_types": {
+        "other": 4,
+        "regulation": 1
+      },
+      "item_count": 5,
+      "latest_title": "宇宙人(2079期）中国星网GW星座极区首试成功；SpaceX公开百万AI卫星计划；FCC放行星链1.5万颗直连星，境外可用14MHz扩展L波段 - 搜狐网"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_types": {
+        "market": 3,
+        "other": 2
+      },
+      "item_count": 5,
+      "latest_title": "同一天，蓝箭航天、中科宇航等三家商业航天IPO“中止” - 凤凰网财经"
+    },
+    {
+      "company_id": "i_space",
+      "company_name": "星际荣耀",
+      "event_types": {
+        "other": 3
+      },
+      "item_count": 3,
+      "latest_title": "星际荣耀官宣重型型号“双曲线九号”火箭已启动预研 - 泰伯网"
+    },
+    {
+      "company_id": "minospace",
+      "company_name": "微纳星空",
+      "event_types": {
+        "market": 1,
+        "other": 1
+      },
+      "item_count": 2,
+      "latest_title": "冲刺“民营商业卫星第一股”：微纳星空的“百亿故事”里，藏着一道没解完的题|上海证券交易所|IPO|数据|客户|收入 - 新浪财经"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_types": {
         "launch": 1
       },
       "item_count": 1,
-      "latest_title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest"
+      "latest_title": "Chinese satellite company SpaceSail opens up to new investors"
+    },
+    {
+      "company_id": "space_pioneer",
+      "company_name": "天兵科技",
+      "event_types": {
+        "launch": 1
+      },
+      "item_count": 1,
+      "latest_title": "天龙三号预计拟于4月2日首飞 - Jiemian.com"
     },
     {
       "company_id": "galactic_energy",
       "company_name": "星河动力",
       "event_types": {
-        "launch": 1
+        "other": 1
       },
       "item_count": 1,
-      "latest_title": "智神星一号首飞成功！揭秘这枚火箭的硬核技术 - 搜狐网"
+      "latest_title": "2026中关村论坛年会｜商业航天青春期|智神星一号|朱雀三号|蓝箭航天|火箭|蓝箭 - 新浪财经"
+    },
+    {
+      "company_id": "galaxyspace",
+      "company_name": "银河航天",
+      "event_types": {
+        "market": 1
+      },
+      "item_count": 1,
+      "latest_title": "银河航天（北京）科技集团股份有限公司启动上市辅导 - Jiemian.com"
     }
   ],
-  "company_count": 7,
+  "company_count": 10,
   "document_type": "weekly_news_report",
-  "event_count": 53,
+  "event_count": 86,
   "event_type_counts": {
-    "funding": 1,
-    "launch": 19,
-    "market": 9,
-    "order": 2,
-    "other": 20,
+    "launch": 30,
+    "market": 14,
+    "other": 33,
     "product": 1,
-    "regulation": 1
+    "regulation": 8
   },
   "events": [
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "f89d5672e1dc43a5",
+      "event_label": "发射与试验",
+      "event_type": "launch",
+      "headline": "SpaceX Acquires Grain Management’s 800 MHz Spectrum Portfolio to Launch Standalone Starlink Mobile Carrier",
+      "importance_score": 100,
+      "latest_at": "2026-10-11T13:00:00Z",
+      "latest_url": "https://satnews.com/2026/10/11/spacex-acquires-grain-managements-800-mhz-spectrum-portfolio-to-launch-standalone-starlink-mobile-carrier",
+      "source_count": 9,
+      "source_names": [
+        "CoinGape",
+        "Quartz India",
+        "SatNews Publishers",
+        "TechCrunch",
+        "Yahoo Finance UK",
+        "bing.com",
+        "satellitetoday.com",
+        "satnews.com",
+        "upi"
+      ],
+      "started_at": "2026-10-07T09:27:00Z",
+      "summary": "SpaceX的发射与试验事件，已汇集 18 篇报道、9 个来源。",
+      "weekly_article_count": 18
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_id": "061a31ec4a8a3a46",
+      "event_label": "股价与资本市场",
+      "event_type": "market",
+      "headline": "Blue Origin Commits $550M to Texas Satellite Complex as Jeff Bezos Confirms $10B Equity Round and IPO Roadmap",
+      "importance_score": 100,
+      "latest_at": "2026-10-11T13:00:00Z",
+      "latest_url": "https://satnews.com/2026/10/11/blue-origin-commits-550m-to-texas-satellite-complex-as-jeff-bezos-confirms-10b-equity-round-and-ipo-roadmap",
+      "source_count": 7,
+      "source_names": [
+        "BigGo Finance",
+        "New York Post",
+        "Quartz",
+        "Seeking Alpha",
+        "TradingView",
+        "bing.com",
+        "satnews.com"
+      ],
+      "started_at": "2026-10-07T17:58:22Z",
+      "summary": "Blue Origin的股价与资本市场事件，已汇集 8 篇报道、7 个来源。",
+      "weekly_article_count": 8
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "6a6d54ee1a2e209e",
+      "event_label": "其他动态",
+      "event_type": "other",
+      "headline": "SpaceX Moves to Acquire Nationwide Low-Band Spectrum for Starlink Mobile",
+      "importance_score": 100,
+      "latest_at": "2026-10-09T17:00:24Z",
+      "latest_url": "https://www.satellitetoday.com/connectivity/2026/10/08/spacex-moves-to-acquire-nationwide-low-band-spectrum-for-starlink-mobile",
+      "source_count": 3,
+      "source_names": [
+        "CBS News",
+        "bing.com",
+        "satellitetoday.com"
+      ],
+      "started_at": "2026-10-08T21:01:20Z",
+      "summary": "SpaceX的其他动态事件，已汇集 8 篇报道、3 个来源。",
+      "weekly_article_count": 8
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "000a3256d92b2dda",
+      "event_label": "监管与政策",
+      "event_type": "regulation",
+      "headline": "SpaceX Wins FCC Approval for Starlink Mobile’s Massive Next-Generation Direct-to-Cell Constellation",
+      "importance_score": 100,
+      "latest_at": "2026-10-09T08:33:00Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac962b0d034410db134f1cae844730c&url=https%3A%2F%2Fwww.rvmobileinternet.com%2Fspacex-wins-fcc-approval-for-starlink-mobiles-massive-next-generation-direct-to-cell-constellation%2F&c=2625205585862658425&mkt=en-us",
+      "source_count": 6,
+      "source_names": [
+        "PCMag",
+        "TechSpot",
+        "bing.com",
+        "satellitetoday.com",
+        "spacewatch.global",
+        "디지털투데이"
+      ],
+      "started_at": "2026-10-06T17:00:00Z",
+      "summary": "SpaceX的监管与政策事件，已汇集 32 篇报道、6 个来源。",
+      "weekly_article_count": 32
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_id": "0bb76fbbdc480c24",
+      "event_label": "产品与产能",
+      "event_type": "product",
+      "headline": "Blue Origin plans $555 million satellite factory in Hutto, Texas",
+      "importance_score": 100,
+      "latest_at": "2026-10-09T06:00:00Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6acb75b034554b33879515615256d99d&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fblue-origin-plans-555-million-130048316.html&c=9011059905887161574&mkt=en-us",
+      "source_count": 1,
+      "source_names": [
+        "bing.com"
+      ],
+      "started_at": "2026-10-08T09:22:00Z",
+      "summary": "Blue Origin的产品与产能事件，已汇集 14 篇报道、1 个来源。",
+      "weekly_article_count": 14
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_id": "1cbce9807ee6eedf",
+      "event_label": "发射与试验",
+      "event_type": "launch",
+      "headline": "ASTS stock eyes green week: Retail sees 'major catalysts' for new highs as Bezos targets Blue Origin's December return",
+      "importance_score": 100,
+      "latest_at": "2026-10-07T19:40:01Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac85bf303db487b90d0dca12a22c887&url=https%3A%2F%2Fwww.msn.com%2Fen-in%2Fnews%2Fother%2Fasts-stock-eyes-green-week-retail-sees-major-catalysts-for-new-highs-as-bezos-targets-blue-origin-s-december-return%2Far-AA2dMHLu&c=16045999670183931166&mkt=en-us",
+      "source_count": 1,
+      "source_names": [
+        "bing.com"
+      ],
+      "started_at": "2026-10-07T18:47:00Z",
+      "summary": "Blue Origin的发射与试验事件，已汇集 11 篇报道、1 个来源。",
+      "weekly_article_count": 11
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_id": "a77aeaf12b6a4e55",
+      "event_label": "发射与试验",
+      "event_type": "launch",
+      "headline": "Blue Origin lost New Glenn’s NG-4 booster during a seven-engine test",
+      "importance_score": 100,
+      "latest_at": "2026-10-06T11:12:56Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6acaa427f4a6459d94cce19516de9282&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fblue-origin-lost-new-glenn-s-ng-4-booster-during-a-seven-engine-test%2Fvi-AA2dHmxH&c=4894524901218464994&mkt=en-us",
+      "source_count": 1,
+      "source_names": [
+        "bing.com"
+      ],
+      "started_at": "2026-10-06T11:12:19Z",
+      "summary": "Blue Origin的发射与试验事件，已汇集 12 篇报道、1 个来源。",
+      "weekly_article_count": 12
+    },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
@@ -95,9 +267,9 @@
       "event_type": "launch",
       "headline": "Live coverage: SpaceX to launch 21 data transport satellites for the Space Development Agency",
       "importance_score": 100,
-      "latest_at": "2026-10-04T20:33:26Z",
+      "latest_at": "2026-10-05T19:33:18Z",
       "latest_url": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency",
-      "source_count": 17,
+      "source_count": 18,
       "source_names": [
         "Ars Technica",
         "Investor's Business Daily",
@@ -109,6 +281,7 @@
         "Spaceflight Now",
         "TechSpot",
         "Tesla Oracle",
+        "Ventura County Star",
         "Yahoo Finance",
         "arstechnica.com",
         "bing.com",
@@ -118,702 +291,568 @@
         "spacewatch.global"
       ],
       "started_at": "2026-09-25T20:26:14Z",
-      "summary": "SpaceX的发射与试验事件，已汇集 68 篇报道、17 个来源。",
-      "weekly_article_count": 62
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_id": "75c3d3dae6848a80",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "Blue Origin Wants to Launch New Glenn Up to 50 Times a Year - mediasat.info",
-      "importance_score": 100,
-      "latest_at": "2026-10-03T05:51:55Z",
-      "latest_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGNwbU5ldVV0cFlBVjYzdFFfQ2hmN0hjVDA5SFJFcDVBR0p1OXNoVDNPU3E1RkkzLTZQejRWVFlycDFwM2hvQTU3Q2FsRUk3eXRfZUp4MGVpLVFDM0pFbXVtNXhxYzNxZzdYSEgxLUVxTGFlSFIwY3liczBoTjFNaGxmZ0RVZDljOHA3U2JsRjZsclRPUXV4am1UVlg?oc=5",
-      "source_count": 6,
-      "source_names": [
-        "Advanced Television",
-        "Daytona Beach News-Journal",
-        "Florida Today",
-        "TalkOfTitusville.com",
-        "bing.com",
-        "mediasat.info"
-      ],
-      "started_at": "2026-09-29T09:00:00Z",
-      "summary": "Blue Origin的发射与试验事件，已汇集 26 篇报道、6 个来源。",
-      "weekly_article_count": 26
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_id": "9495997756781be9",
-      "event_label": "其他动态",
-      "event_type": "other",
-      "headline": "Blue Origin’s BE-4 Engine Gimble At Full Power During Hotfire Test",
-      "importance_score": 100,
-      "latest_at": "2026-10-02T10:15:00Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac0dc4d0eee408798a0fd48476a068c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fblue-origin-s-be-4-engine-gimble-at-full-power-during-hotfire-test%2Fvi-AA2dr5Av&c=629722391183229401&mkt=en-us",
-      "source_count": 1,
-      "source_names": [
-        "bing.com"
-      ],
-      "started_at": "2026-10-02T10:15:00Z",
-      "summary": "Blue Origin的其他动态事件，已汇集 9 篇报道、1 个来源。",
-      "weekly_article_count": 9
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_id": "221406dae77e1bf7",
-      "event_label": "股价与资本市场",
-      "event_type": "market",
-      "headline": "蓝箭航天、中科宇航等3家商业航天公司科创板IPO中止 - 新浪财经",
-      "importance_score": 100,
-      "latest_at": "2026-10-02T06:36:00Z",
-      "latest_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yckRKeWE2LUd3ak9hbzh4SG5kM0ctMTlDT0tvVHZmUEszeTRRQWdqTnJPejZzTlpYUF9nWVJqNUpaVC1vTHo4SmVOTFd6YnpQT05tc1ZFTnF3ekZneE9Kc3NDTENFUDBsMTFCS0VmbEdsYXZFY0tIeg?oc=5",
-      "source_count": 4,
-      "source_names": [
-        "Jiemian.com",
-        "k.sina.com.cn",
-        "新浪财经",
-        "观察者网"
-      ],
-      "started_at": "2026-09-30T10:03:00Z",
-      "summary": "中科宇航的股价与资本市场事件，已汇集 7 篇报道、4 个来源。",
-      "weekly_article_count": 7
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "e2f340594508caa6",
-      "event_label": "其他动态",
-      "event_type": "other",
-      "headline": "This company created an in-car signal booster for SpaceX's Starlink mobile",
-      "importance_score": 100,
-      "latest_at": "2026-10-01T14:33:52Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac0684ed15c40e790308f023280c1f3&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fthis-company-created-an-in-car-signal-booster-for-spacexs-starlink-mobile%2Far-AA2doT0M&c=5215615451792407745&mkt=en-us",
-      "source_count": 1,
-      "source_names": [
-        "bing.com"
-      ],
-      "started_at": "2026-10-01T14:33:00Z",
-      "summary": "SpaceX的其他动态事件，已汇集 11 篇报道、1 个来源。",
-      "weekly_article_count": 11
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "119162cdd5d66825",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "Live coverage: SpaceX to launch first Starlink V3 satellites to orbit on Starship",
-      "importance_score": 100,
-      "latest_at": "2026-10-01T02:32:55Z",
-      "latest_url": "https://spaceflightnow.com/2026/09/28/live-coverage-spacex-to-launch-first-starlink-v3-satellites-to-orbit-on-starship",
-      "source_count": 22,
-      "source_names": [
-        "CNBC",
-        "KeepTrack",
-        "Mashable",
-        "NASASpaceflight",
-        "PCMag",
-        "Reuters",
-        "Space",
-        "SpacePolicyOnline.com",
-        "Spaceflight Now",
-        "Startup Fortune",
-        "TechRepublic",
-        "TeslaNorth.com",
-        "Universe Space Tech",
-        "arstechnica.com",
-        "bdnews24.com",
-        "bing.com",
-        "facebook.com",
-        "fool.com",
-        "pcmag.com",
-        "space.com",
-        "spacewatch.global",
-        "tech-insider.org"
-      ],
-      "started_at": "2026-09-15T07:01:00Z",
-      "summary": "SpaceX的发射与试验事件，已汇集 161 篇报道、22 个来源。",
+      "summary": "SpaceX的发射与试验事件，已汇集 101 篇报道、18 个来源。",
       "weekly_article_count": 5
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_id": "12b3c0e3cb1e79d7",
-      "event_label": "其他动态",
-      "event_type": "other",
-      "headline": "Starship, Starlink, or xAI: Which part of SpaceX could move the stock most in 2027?",
-      "importance_score": 100,
-      "latest_at": "2026-09-29T10:23:00Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac022161a3a42f58f6a20c648ab1500&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Ftop-stocks%2Fstarship-starlink-or-xai-which-part-of-spacex-could-move-the-stock-most-in-2027%2Far-AA2ddkbz&c=9394684803318975990&mkt=en-us",
-      "source_count": 1,
-      "source_names": [
-        "bing.com"
-      ],
-      "started_at": "2026-09-28T20:23:00Z",
-      "summary": "SpaceX的其他动态事件，已汇集 12 篇报道、1 个来源。",
-      "weekly_article_count": 12
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_id": "63750e15b6f6bb55",
-      "event_label": "融资",
-      "event_type": "funding",
-      "headline": "Blue Origin's first outside funding round is oversubscribed, CEO says - qz.com",
-      "importance_score": 95,
-      "latest_at": "2026-10-01T12:04:50Z",
-      "latest_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vWC1rcy10X0gyRl9kVXpfVU1XZ005dzIyLVFlOFpYaVh4aDRTNHFFMXVNRzFfZUhzVzF6a3NvR25FbUdheDZuaW1Bam45c2MydDAtOFBoZlBJaHpodV8wTFZxNS1SS1NLelpGTjJuRzJOVlg2QXhEM0hn?oc=5",
-      "source_count": 4,
-      "source_names": [
-        "CNBC",
-        "Proactive financial news",
-        "Yahoo Finance",
-        "qz.com"
-      ],
-      "started_at": "2026-09-25T09:17:00Z",
-      "summary": "Blue Origin的融资事件，已汇集 4 篇报道、4 个来源。",
-      "weekly_article_count": 2
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "c7d411c012bc8701",
-      "event_label": "其他动态",
-      "event_type": "other",
-      "headline": "SpaceX’s Starlink Just Got More Powerful, and Cable Giants Comcast, Charter May Feel the Heat",
-      "importance_score": 83,
-      "latest_at": "2026-10-01T15:31:03Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac1626c79ac4529be997e0867f63542&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fspacex-starlink-just-got-more-153103554.html&c=16182280784161937757&mkt=en-us",
-      "source_count": 2,
-      "source_names": [
-        "Yahoo Finance",
-        "bing.com"
-      ],
-      "started_at": "2026-10-01T05:30:00Z",
-      "summary": "SpaceX的其他动态事件，已汇集 5 篇报道、2 个来源。",
-      "weekly_article_count": 5
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_id": "2661cfae1656ea0b",
+      "event_id": "3e9c1be45a0bba41",
       "event_label": "发射与试验",
       "event_type": "launch",
-      "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
-      "importance_score": 83,
-      "latest_at": "2026-09-30T23:23:10Z",
-      "latest_url": "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract",
+      "headline": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+      "importance_score": 91,
+      "latest_at": "2026-10-08T21:37:32Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac85beb5a84455a8d77f72163e30518&url=https%3A%2F%2Farstechnica.com%2Fspace%2F2026%2F10%2Fspacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink%2F&c=1265867914116569829&mkt=en-us",
       "source_count": 3,
       "source_names": [
-        "Aviation Week",
-        "NASA",
-        "SpaceNews"
+        "Ars Technica",
+        "arstechnica.com",
+        "bing.com"
       ],
-      "started_at": "2026-09-29T20:08:01Z",
-      "summary": "Blue Origin的发射与试验事件，已汇集 3 篇报道、3 个来源。",
+      "started_at": "2026-10-08T07:37:00Z",
+      "summary": "SpaceX的发射与试验事件，已汇集 4 篇报道、3 个来源。",
+      "weekly_article_count": 4
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "7e4bdbd02eeb11dd",
+      "event_label": "其他动态",
+      "event_type": "other",
+      "headline": "SpaceX is calling out other satellite operators for nearly crashing into Starlink - Business Insider",
+      "importance_score": 91,
+      "latest_at": "2026-10-07T10:55:00Z",
+      "latest_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVE3VGJxNURRVHpaQWVnOUd4bXhiTjZzR1c3SC1Gb2NBd2p1eDBwWWh3VDIzNUdVVUNVanUwX0NRUTlOSU5ZNDdvbXRXY0duNFZXTzJtQ3NFYXAzbjJyQW11LVBKQ3dVZnFaSGRNazltZlB4STdBSndVLUdnVXhObDJmX3ExWWhMdnlSMy1DVlNTV3Njc0Q1LTNQTkFVVFM3SWNHcmlfZDhfNlY5T0tR?oc=5",
+      "source_count": 4,
+      "source_names": [
+        "Business Insider",
+        "PCMag",
+        "PCMag Australia",
+        "bing.com"
+      ],
+      "started_at": "2026-10-06T11:05:00Z",
+      "summary": "SpaceX的其他动态事件，已汇集 5 篇报道、4 个来源。",
+      "weekly_article_count": 5
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "84770c8a0fa0423b",
+      "event_label": "股价与资本市场",
+      "event_type": "market",
+      "headline": "SpaceX spectrum deal to expand its Starlink network in the US sends telecom stocks tumbling",
+      "importance_score": 87,
+      "latest_at": "2026-10-09T08:28:00Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6acaf2d2a0f54a8bb2d1a870df972c58&url=https%3A%2F%2Fwww.businessinsider.com%2Fspacex-stock-starlink-spectrum-deal-elon-musk-spcx-vz-tmus-2026-10&c=4445936699510152506&mkt=en-us",
+      "source_count": 1,
+      "source_names": [
+        "bing.com"
+      ],
+      "started_at": "2026-10-09T08:28:00Z",
+      "summary": "SpaceX的股价与资本市场事件，已汇集 6 篇报道、1 个来源。",
+      "weekly_article_count": 6
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "a8c3e9fd369e9445",
+      "event_label": "其他动态",
+      "event_type": "other",
+      "headline": "Elon Musk Is Impatiently Trying to Offer Cheap Starlink Internet in India Ahead of Record Jio Public Offering. How Could This Impact SpaceX Stock?",
+      "importance_score": 83,
+      "latest_at": "2026-10-10T20:50:00Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6acb75a284ef42f2b25bf96a1fdb60ed&url=https%3A%2F%2Fwww.tipranks.com%2Fnews%2Felon-musk-is-impatiently-trying-to-offer-cheap-starlink-internet-in-india-ahead-of-record-jio-public-offering-how-could-this-impact-spacex-stock&c=10448091285030808829&mkt=en-us",
+      "source_count": 4,
+      "source_names": [
+        "Barron's",
+        "PCMag",
+        "Yahoo Finance",
+        "bing.com"
+      ],
+      "started_at": "2026-10-08T20:25:00Z",
+      "summary": "SpaceX的其他动态事件，已汇集 4 篇报道、4 个来源。",
+      "weekly_article_count": 4
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "bd10e0b5c4409c75",
+      "event_label": "发射与试验",
+      "event_type": "launch",
+      "headline": "SpaceX launches 21 data satellites for the Space Development Agency - Spaceflight Now",
+      "importance_score": 83,
+      "latest_at": "2026-10-10T08:26:33Z",
+      "latest_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcTNwSkFjSE1zZHBUT05GcTRKd3FkaHNySnZJblhYMEp4bUpQSXFfanpvXzVJUW9LSHk3OVF3ZVAtTE5BWktiZXU5S3pQZTRmaWI1TnFmOWlrMjBQeTBxdFdNdE5YQ3NRUTg5cVJxSzBOM3J5SUxqS2p1U1RnVkc3TjFDVGJOTXJ1dkFNNW1sNVVjdTR2RGQtQ2hKbXFXdGJDeFFRTUQ0dDEzanRxcURxNi0zbUtUeTJ5M0ZCODZEdElsSlFFTXc?oc=5",
+      "source_count": 3,
+      "source_names": [
+        "Space",
+        "Spaceflight Now",
+        "bing.com"
+      ],
+      "started_at": "2026-10-10T02:59:00Z",
+      "summary": "SpaceX的发射与试验事件，已汇集 3 篇报道、3 个来源。",
       "weekly_article_count": 3
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_id": "4ce4576aa69247ef",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "81510893562027b0",
       "event_label": "监管与政策",
       "event_type": "regulation",
-      "headline": "FAA license put Blue Origin’s New Glenn within reach of its first flight",
-      "importance_score": 75,
-      "latest_at": "2026-09-29T07:00:55Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6abc2eca0baa493baab314d1badb9979&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Faviation%2Ffaa-license-put-blue-origin-s-new-glenn-within-reach-of-its-first-flight%2Fvi-AA2dbFGg&c=17946786694582255732&mkt=en-us",
+      "headline": "SpaceX exec renews Starlink pitch as approvals lay pending",
+      "importance_score": 83,
+      "latest_at": "2026-10-06T23:27:00Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac708f76ee9422faa4c0a004450a47c&url=https%3A%2F%2Fwww.thehindu.com%2Fsci-tech%2Ftechnology%2Fspacex-exec-renews-starlink-pitch-as-approvals-lay-pending%2Farticle71554510.ece&c=580470806763469539&mkt=en-us",
       "source_count": 1,
       "source_names": [
         "bing.com"
       ],
-      "started_at": "2026-09-29T07:00:55Z",
-      "summary": "Blue Origin的监管与政策事件，已汇集 3 篇报道、1 个来源。",
-      "weekly_article_count": 3
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "65b8628f53e5627a",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "SpaceX Launches 130 Payloads On Transporter-18 Rideshare Mission",
-      "importance_score": 71,
-      "latest_at": "2026-10-02T06:00:00Z",
-      "latest_url": "https://spacewatch.global/2026/10/spacex-launches-130-payloads-on-transporter-18-rideshare-mission",
-      "source_count": 2,
-      "source_names": [
-        "satellitetoday.com",
-        "spacewatch.global"
-      ],
-      "started_at": "2026-10-01T20:13:17Z",
-      "summary": "SpaceX的发射与试验事件，已汇集 2 篇报道、2 个来源。",
-      "weekly_article_count": 2
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_id": "4241a12916f270b2",
-      "event_label": "股价与资本市场",
-      "event_type": "market",
-      "headline": "三家航天企业被中止IPO，并非终止上市！#商业航天#IPO#蓝箭航天#中科宇航#微纳星空 - 财富号",
-      "importance_score": 71,
-      "latest_at": "2026-10-01T15:44:00Z",
-      "latest_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pcFE5czNVUHBhUm85ak1sRGN2XzB2SjNKZmhxVXowX2x4NGU3SGJvQ0tfaEp6ZFVoVjV4NklFT0FJZ2lhZlJmdHVSRENkZmgweDdvNzUwVXJodS1pS0ItNVViTnRWQmoxUHI4?oc=5",
-      "source_count": 3,
-      "source_names": [
-        "Jiemian.com",
-        "东方财富",
-        "财富号"
-      ],
-      "started_at": "2026-10-01T03:27:17Z",
-      "summary": "蓝箭航天的股价与资本市场事件，已汇集 3 篇报道、3 个来源。",
-      "weekly_article_count": 3
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_id": "fd1f944bc4d353e4",
-      "event_label": "其他动态",
-      "event_type": "other",
-      "headline": "CAS Space Lihong-2 suborbital rocket slips to 2027: Merlin-class engine needs three-restart test",
-      "importance_score": 71,
-      "latest_at": "2026-10-01T11:02:52Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac2b80a59cd401dab1cc44eac51561c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fcas-space-lihong-2-suborbital-rocket-slips-to-2027-merlin-class-engine-needs-three-restart-test%2Far-AA2dmEae&c=14605925642436932575&mkt=en-us",
-      "source_count": 1,
-      "source_names": [
-        "bing.com"
-      ],
-      "started_at": "2026-10-01T11:02:52Z",
-      "summary": "中科宇航的其他动态事件，已汇集 4 篇报道、1 个来源。",
+      "started_at": "2026-10-06T23:27:00Z",
+      "summary": "SpaceX的监管与政策事件，已汇集 4 篇报道、1 个来源。",
       "weekly_article_count": 4
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
-      "event_id": "c9b18dc8abeb3773",
+      "event_id": "471749bf6c82153c",
       "event_label": "发射与试验",
       "event_type": "launch",
-      "headline": "Blue Origin CEO: 'We have a path to launch this year' amid pad rebuilding effort - Florida Today",
-      "importance_score": 71,
-      "latest_at": "2026-09-28T19:08:00Z",
-      "latest_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRHBTd0NWWndNSHhSMXlYanVCTmxTM3gwUGRKRnJzVkZzNTlYVzVjczRNMmZuX3lxLVQ4cFNGZlByNmpGSGZIZTc5OE1iZll2dVlsV0xGdGxLc2JWMUtnVDZveHhpTWFCNUtSSmRnZFhxdU5oeThPbmp3Nk9LZUdUbUZOYzNxOE92Y0xWeUFVX1hRZi02V2oxUzlvalZLVUFLSmtpdGs3QzgxYnF6emRvNjNDd0cwWVZBUFRUZGdUMEVHNXlkd2QyaGV6VU9TZTNFMkhHSUlSX0ozWEpRcl9EaUVJUUZrSmR4TnlsRHA1SFp4cU5KQjlWbWRFR3VWWXppbEpWTQ?oc=5",
-      "source_count": 2,
+      "headline": "Blue Origin’s New Glenn reached orbit, opening a new SpaceX rivalry",
+      "importance_score": 83,
+      "latest_at": "2026-10-06T11:12:19Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac56e80abd942ba9026f4b9ba75124a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-reached-orbit-opening-a-new-spacex-rivalry%2Fvi-AA2dHjNS&c=17512264719261705552&mkt=en-us",
+      "source_count": 1,
       "source_names": [
-        "Florida Today",
         "bing.com"
       ],
-      "started_at": "2026-09-28T08:25:00Z",
-      "summary": "Blue Origin的发射与试验事件，已汇集 2 篇报道、2 个来源。",
-      "weekly_article_count": 1
+      "started_at": "2026-10-06T11:12:19Z",
+      "summary": "Blue Origin的发射与试验事件，已汇集 4 篇报道、1 个来源。",
+      "weekly_article_count": 4
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_id": "8e668f33e2086688",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "TakeMe2Space Prepares MOI-1A Orbital Computing Satellite for SpaceX Falcon 9 Launch",
-      "importance_score": 71,
-      "latest_at": "2026-09-28T18:43:42Z",
-      "latest_url": "https://satnews.com/2026/09/28/takeme2space-prepares-moi-1a-orbital-computing-satellite-for-spacex-falcon-9-launch",
-      "source_count": 2,
-      "source_names": [
-        "satnews.com",
-        "spacewatch.global"
-      ],
-      "started_at": "2026-09-28T06:00:00Z",
-      "summary": "SpaceX的发射与试验事件，已汇集 2 篇报道、2 个来源。",
-      "weekly_article_count": 1
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_id": "c85f6989087454f3",
+      "event_id": "1cbbffe24772d1db",
       "event_label": "其他动态",
       "event_type": "other",
-      "headline": "全球民商火箭位次出炉：SpaceX第一、中科宇航第二 - 新浪财经",
-      "importance_score": 67,
-      "latest_at": "2026-10-02T04:23:00Z",
-      "latest_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRUdWS0ZOTkJlS09mTm1kZmtZb3JXeDRFYlk4THZJZGxoLUo0cGlwOGRMZjJOYTNCVEJQWjItU2RfQUN3YVE3dGxPMjFyRlhwUEhfY0FvTWdoTXllbXNEc2swNDJyR3Nrb2Z2SW9DNmVOVVI2RzZndDd5VDJndDhBNkRMQjNlNHM?oc=5",
-      "source_count": 2,
+      "headline": "T-Mobile CTO gives SpaceX a reality check on its Starlink mobile ambitions",
+      "importance_score": 79,
+      "latest_at": "2026-10-09T12:10:07Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6acaa41f7b0f471796e95746a515a7e5&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Ft-mobile-cto-gives-spacex-a-reality-check-on-its-starlink-mobile-ambitions%2Far-AA2dWhkv&c=18000832986013346023&mkt=en-us",
+      "source_count": 1,
       "source_names": [
-        "新浪财经",
-        "财联社"
+        "bing.com"
       ],
-      "started_at": "2026-10-01T13:22:00Z",
-      "summary": "中科宇航的其他动态事件，已汇集 3 篇报道、2 个来源。",
+      "started_at": "2026-10-09T12:10:00Z",
+      "summary": "SpaceX的其他动态事件，已汇集 5 篇报道、1 个来源。",
+      "weekly_article_count": 5
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "0c6a4f0b1f0e6fdb",
+      "event_label": "其他动态",
+      "event_type": "other",
+      "headline": "SpaceX Spectrum Deal Puts Starlink in Carrier Territory",
+      "importance_score": 79,
+      "latest_at": "2026-10-07T17:00:00Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6acaa41f7b0f471796e95746a515a7e5&url=https%3A%2F%2Fwww.gadgetreview.com%2Fspacex-spectrum-deal-puts-starlink-in-carrier-territory&c=17333258367936207534&mkt=en-us",
+      "source_count": 1,
+      "source_names": [
+        "bing.com"
+      ],
+      "started_at": "2026-10-07T17:00:00Z",
+      "summary": "SpaceX的其他动态事件，已汇集 5 篇报道、1 个来源。",
+      "weekly_article_count": 5
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "ba48b67ddad39ab0",
+      "event_label": "其他动态",
+      "event_type": "other",
+      "headline": "SpaceX's Starlink is using hardware security keys to fend off hacks",
+      "importance_score": 79,
+      "latest_at": "2026-10-06T08:31:35Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac708f76ee9422faa4c0a004450a47c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fcybersecurity%2Fspacex-s-starlink-is-using-hardware-security-keys-to-fend-off-hacks%2Far-AA2dI3k7&c=14329820953832046110&mkt=en-us",
+      "source_count": 1,
+      "source_names": [
+        "bing.com"
+      ],
+      "started_at": "2026-10-06T08:31:00Z",
+      "summary": "SpaceX的其他动态事件，已汇集 5 篇报道、1 个来源。",
+      "weekly_article_count": 5
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "eeff18dafa530561",
+      "event_label": "发射与试验",
+      "event_type": "launch",
+      "headline": "SpaceX Falcon 9 launches 21 military satellites into orbit",
+      "importance_score": 75,
+      "latest_at": "2026-10-10T01:34:00Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aca210475d54fac9611ef43b23a2cb5&url=https%3A%2F%2Fwww.thenews.com.pk%2Flatest%2F1419388-spacex-falcon-9-launches-21-military-satellites-into-orbit&c=4573268869653263523&mkt=en-us",
+      "source_count": 1,
+      "source_names": [
+        "bing.com"
+      ],
+      "started_at": "2026-10-10T01:34:00Z",
+      "summary": "SpaceX的发射与试验事件，已汇集 3 篇报道、1 个来源。",
       "weekly_article_count": 3
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_id": "819d2772bcfd38a7",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "Nokia, ICEYE take on SpaceX’s Starlink with sovereign LEO network for defense customers",
-      "importance_score": 67,
-      "latest_at": "2026-10-01T03:55:23Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac0684ed15c40e790308f023280c1f3&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fnokia-iceye-take-on-spacex-s-starlink-with-sovereign-leo-network-for-defense-customers%2Far-AA2dkQW3&c=15288438885752158992&mkt=en-us",
+      "event_id": "f146806db00303c3",
+      "event_label": "监管与政策",
+      "event_type": "regulation",
+      "headline": "SpaceX says Starlink will \"become a major mobile carrier in the U.S.\"",
+      "importance_score": 75,
+      "latest_at": "2026-10-09T10:01:00Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac962b073cb49c0aab50366f16722e1&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-says-starlink-will-become-a-major-mobile-carrier-in-the-us%2Far-AA2dU1ld&c=14244913534382703483&mkt=en-us",
       "source_count": 1,
       "source_names": [
         "bing.com"
       ],
-      "started_at": "2026-10-01T03:55:23Z",
-      "summary": "SpaceX的发射与试验事件，已汇集 2 篇报道、1 个来源。",
+      "started_at": "2026-10-09T10:01:00Z",
+      "summary": "SpaceX的监管与政策事件，已汇集 3 篇报道、1 个来源。",
+      "weekly_article_count": 3
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "d7f0fe85df89142f",
+      "event_label": "监管与政策",
+      "event_type": "regulation",
+      "headline": "SpaceX just scored a key Starlink approval that could shake up the wireless market",
+      "importance_score": 75,
+      "latest_at": "2026-10-07T13:36:45Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac78a115d8d4356aa994bb24fb435c6&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-just-scored-a-key-starlink-approval-that-could-shake-up-the-wireless-market%2Far-AA2dMqOO&c=11036607509074740180&mkt=en-us",
+      "source_count": 1,
+      "source_names": [
+        "bing.com"
+      ],
+      "started_at": "2026-10-07T13:36:45Z",
+      "summary": "SpaceX的监管与政策事件，已汇集 3 篇报道、1 个来源。",
+      "weekly_article_count": 3
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "bef4136bb3152b81",
+      "event_label": "发射与试验",
+      "event_type": "launch",
+      "headline": "SpaceX eyes near back-to-back rocket launches in California. Watch live - The Desert Sun",
+      "importance_score": 71,
+      "latest_at": "2026-10-09T16:01:00Z",
+      "latest_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHNCUS1vbHlUVnVnQjZ2VWt3elRDc2JLTldNWFR5UDhmd1Y3aWNCN3l0a0FfUGoxTzNKNW5tNHdsUFdxbnJ5LXgxSWhqV1NNYXk4bnVPeGFIaW5qeXlwbS1oMXhzSlByNmU0aEQxV2dfRjlNNjRnMnpDamRMU0tnQThkVGRyUGxBY2JsZWNnS29GdzlVWldib2VhaUNlNWlBcTNGd2I0TE9NM3NT?oc=5",
+      "source_count": 2,
+      "source_names": [
+        "The Desert Sun",
+        "Ventura County Star"
+      ],
+      "started_at": "2026-10-09T13:01:00Z",
+      "summary": "SpaceX的发射与试验事件，已汇集 2 篇报道、2 个来源。",
       "weekly_article_count": 2
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_id": "e605cebbd37de65b",
-      "event_label": "其他动态",
-      "event_type": "other",
-      "headline": "Elon Musk Renews Delta Feud After Airline Picks Amazon Leo Over Starlink",
-      "importance_score": 63,
-      "latest_at": "2026-10-04T04:54:00Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac2789b99df4e5f947910d635bb15a7&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-renews-delta-feud-115432173.html&c=11934920675918518823&mkt=en-us",
+      "event_id": "d776c843109840d6",
+      "event_label": "发射与试验",
+      "event_type": "launch",
+      "headline": "FILE PHOTO: SpaceX Falcon 9 rocket launch from California - The Lufkin Daily News",
+      "importance_score": 71,
+      "latest_at": "2026-10-08T15:22:10Z",
+      "latest_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOamRjTENZSXhzM3ZjeS1paXV2QTA1bmRENUFVaWNRN3NseE9ha0N1MmFuODQ2MklNeWZDTV9Qd09KQTRFOTU0MEN1enhoNWJEYmlQbUgwUnZBa1VFYVNzLW1zeXJaZF9NQnlxbzZ2WVFyZzhHeVA1OElpSXFxTTVKN0ZnY2gwY3ppX0lscHhLTkR0SjFOUEdJM05HMVhjc09rZGNybllZblcyb29FSnc3WU9uV2RLTGZSZDJ6MHhpLXZxM1FCQXF2Ny0xekpYaG9rRVBqa3czdWtib2FVRVp5V1d0MFYwcjRhN2c?oc=5",
+      "source_count": 2,
+      "source_names": [
+        "Mashable",
+        "The Lufkin Daily News"
+      ],
+      "started_at": "2026-10-08T09:59:48Z",
+      "summary": "SpaceX的发射与试验事件，已汇集 2 篇报道、2 个来源。",
+      "weekly_article_count": 2
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_id": "6403eb137189e31f",
+      "event_label": "股价与资本市场",
+      "event_type": "market",
+      "headline": "Jeff Bezos Becomes World’s Second-Richest as Blue Origin Hits $140B Valuation",
+      "importance_score": 71,
+      "latest_at": "2026-10-08T07:39:00Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aca67253ec24f429e5c01703ae3dcc5&url=https%3A%2F%2Fwww.tipranks.com%2Fnews%2Fjeff-bezos-becomes-worlds-second-richest-as-blue-origin-hits-140b-valuation&c=4133496387929600650&mkt=en-us",
       "source_count": 1,
       "source_names": [
         "bing.com"
       ],
-      "started_at": "2026-10-02T05:30:00Z",
-      "summary": "SpaceX的其他动态事件，已汇集 3 篇报道、1 个来源。",
+      "started_at": "2026-10-08T07:39:00Z",
+      "summary": "Blue Origin的股价与资本市场事件，已汇集 4 篇报道、1 个来源。",
+      "weekly_article_count": 4
+    },
+    {
+      "company_id": "i_space",
+      "company_name": "星际荣耀",
+      "event_id": "254500375f5c39ee",
+      "event_label": "其他动态",
+      "event_type": "other",
+      "headline": "星际荣耀官宣重型型号“双曲线九号”火箭已启动预研 - 泰伯网",
+      "importance_score": 67,
+      "latest_at": "2026-10-12T01:47:51Z",
+      "latest_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EQS1FX0FKMzBscVdRZVIwVWlrbWJKVUkza3B1VHY4NExQd0FMOU1wUm5rdlhuT2NYT3VYLTNzX0JhUklzcV9UdnR6cm1Ga1VleThV?oc=5",
+      "source_count": 2,
+      "source_names": [
+        "凤凰网科技",
+        "泰伯网"
+      ],
+      "started_at": "2026-10-11T02:22:16Z",
+      "summary": "星际荣耀的其他动态事件，已汇集 3 篇报道、2 个来源。",
       "weekly_article_count": 3
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_id": "e56482099276e95e",
+      "event_id": "0a51734801947174",
       "event_label": "其他动态",
       "event_type": "other",
-      "headline": "SpaceX donates 50 Starlink kits to Malaysia for disaster preparedness",
-      "importance_score": 63,
-      "latest_at": "2026-10-01T07:43:00Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6abe9979149d43adba4366910766d22c&url=https%3A%2F%2Ftribune.com.pk%2Fstory%2F2632449%2Fspacex-donates-50-starlink-kits-to-malaysia-for-disaster-preparedness&c=4047305086939467122&mkt=en-us",
-      "source_count": 1,
+      "headline": "Venezuela Authorizes SpaceX Starlink Satellite Internet Service Under New Deal - Yahoo Finance",
+      "importance_score": 67,
+      "latest_at": "2026-10-11T05:19:00Z",
+      "latest_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFlvaE93RElwbFhDTVhJWmZseXM5aWdMVmZyZ0M0d3BvLUxMQVByczhqWU9VWUJRQ19TMEhzR0VlLWh1djBtc2VGaG9ocHl6d0ZzdlJuRHF2alZaRU5GY3JBOHY3Q0NLTzV5T3g0ckVoeGY5SEZkNW5NNjVyQmVXSFFKSTNzVE8zVi1IdVZhYkU1SWYxM3piQ2t2RUZKNkRMUVJDNmp6QmZOVmtlVXhYVw?oc=5",
+      "source_count": 2,
       "source_names": [
+        "Yahoo Finance",
         "bing.com"
       ],
-      "started_at": "2026-09-30T12:37:00Z",
-      "summary": "SpaceX的其他动态事件，已汇集 3 篇报道、1 个来源。",
+      "started_at": "2026-10-09T17:01:05Z",
+      "summary": "SpaceX的其他动态事件，已汇集 3 篇报道、2 个来源。",
       "weekly_article_count": 3
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_id": "0e2a2ef37c1c8088",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "GomSpace Prepares 8U CubeSat GOMX-5 for SpaceX Transporter-18 Launch to Demonstrate Satellite Communications Technology",
-      "importance_score": 59,
-      "latest_at": "2026-10-04T20:01:16Z",
-      "latest_url": "https://satnews.com/2026/10/04/gomspace-prepares-8u-cubesat-gomx-5-for-spacex-transporter-18-launch-to-demonstrate-satellite-communications-technology",
+      "event_id": "a30e987ade1f3fa4",
+      "event_label": "监管与政策",
+      "event_type": "regulation",
+      "headline": "SpaceX Inches Closer to Becoming a U.S. Carrier",
+      "importance_score": 67,
+      "latest_at": "2026-10-09T16:01:00Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ac9a88d06c64a9ba4ddb0f27585b90f&url=https%3A%2F%2Fwww.macrumors.com%2F2026%2F10%2F09%2Fspacex-starlink-mobile-carrier%2F&c=1933497726945732276&mkt=en-us",
       "source_count": 1,
       "source_names": [
-        "satnews.com"
+        "bing.com"
       ],
-      "started_at": "2026-10-04T20:01:16Z",
-      "summary": "SpaceX的发射与试验事件，已汇集 1 篇报道、1 个来源。",
-      "weekly_article_count": 1
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_id": "2c53db19d245c131",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "“一箭9星”，中科宇航今年第6次发射成功 - 茉莉花新闻网",
-      "importance_score": 59,
-      "latest_at": "2026-10-03T13:13:03Z",
-      "latest_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBHUWM3ZE8yS3BfaHlUd0E0ZlpiZHowcjdpUk5IYktMOG1ibGV4ZExqeW93VzFqZ1hlZzRQaXVlWDJ2dDE0YUE?oc=5",
-      "source_count": 1,
-      "source_names": [
-        "茉莉花新闻网"
-      ],
-      "started_at": "2026-10-03T13:13:03Z",
-      "summary": "中科宇航的发射与试验事件，已汇集 1 篇报道、1 个来源。",
-      "weekly_article_count": 1
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "cac1efbe98e94508",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract",
-      "importance_score": 59,
-      "latest_at": "2026-10-02T13:54:34Z",
-      "latest_url": "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract",
-      "source_count": 1,
-      "source_names": [
-        "arstechnica.com"
-      ],
-      "started_at": "2026-10-02T13:54:34Z",
-      "summary": "SpaceX的发射与试验事件，已汇集 1 篇报道、1 个来源。",
-      "weekly_article_count": 1
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "7c43cd6831d6c239",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "SpaceX describes surgical intervention before launch of latest crew mission",
-      "importance_score": 59,
-      "latest_at": "2026-10-01T22:07:33Z",
-      "latest_url": "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission",
-      "source_count": 1,
-      "source_names": [
-        "arstechnica.com"
-      ],
-      "started_at": "2026-10-01T22:07:33Z",
-      "summary": "SpaceX的发射与试验事件，已汇集 1 篇报道、1 个来源。",
-      "weekly_article_count": 1
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "9568b354b86061c5",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "Falcon Heavy set to launch classified NROL-97 to high-energy orbit",
-      "importance_score": 59,
-      "latest_at": "2026-10-01T19:17:40Z",
-      "latest_url": "https://www.nasaspaceflight.com/2026/10/nrol97-launch",
-      "source_count": 1,
-      "source_names": [
-        "NASASpaceflight"
-      ],
-      "started_at": "2026-10-01T19:17:40Z",
-      "summary": "SpaceX的发射与试验事件，已汇集 1 篇报道、1 个来源。",
-      "weekly_article_count": 1
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "be6349a10e3638c8",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "Live coverage: AI datacenter prototypes, energy redirection demonstrators and more launching on SpaceX’s Transporter-18",
-      "importance_score": 59,
-      "latest_at": "2026-10-01T17:51:39Z",
-      "latest_url": "https://spaceflightnow.com/2026/10/01/live-coverage-ai-datacenter-prototypes-energy-redirection-demonstrators-and-more-launching-on-spacexs-transporter-18",
-      "source_count": 1,
-      "source_names": [
-        "Spaceflight Now"
-      ],
-      "started_at": "2026-10-01T17:51:39Z",
-      "summary": "SpaceX的发射与试验事件，已汇集 1 篇报道、1 个来源。",
-      "weekly_article_count": 1
+      "started_at": "2026-10-09T16:01:00Z",
+      "summary": "SpaceX的监管与政策事件，已汇集 2 篇报道、1 个来源。",
+      "weekly_article_count": 2
     },
     {
       "company_id": "china_satnet",
       "company_name": "中国星网",
-      "event_id": "cabe7e180d19fc65",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
-      "importance_score": 59,
-      "latest_at": "2026-10-01T12:46:32Z",
-      "latest_url": "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest",
-      "source_count": 1,
-      "source_names": [
-        "3?ds=true&seed=1791132060"
-      ],
-      "started_at": "2026-10-01T12:46:32Z",
-      "summary": "中国星网的发射与试验事件，已汇集 1 篇报道、1 个来源。",
-      "weekly_article_count": 1
-    },
-    {
-      "company_id": "minospace",
-      "company_name": "微纳星空",
-      "event_id": "f1e03ebde370f92f",
-      "event_label": "股价与资本市场",
-      "event_type": "market",
-      "headline": "蓝箭航天、中科宇航、微纳星空三家企业IPO状态同步变更为中止 - 东方财富",
-      "importance_score": 59,
-      "latest_at": "2026-10-01T08:16:35Z",
-      "latest_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LVS1reGJmZnpGSy1hZ0s5S2laenhNaWtnTUdpaDY3TlM1dTQ4V2g2ekFpM1RiQ0E3aTQ4amo5cWZvNTFMclNFNmJpY1ZyeVpiNUxGOGticmR0S2lzN3hSRA?oc=5",
+      "event_id": "a29a750db2442e13",
+      "event_label": "其他动态",
+      "event_type": "other",
+      "headline": "时延低于1秒，中国星网GW星座首次在轨验证成功 - 搜狐网",
+      "importance_score": 67,
+      "latest_at": "2026-10-08T13:25:00Z",
+      "latest_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV2JMTklvUUJUOE5xZTR4NUF6T2V0QjQxRjJzY25IVFc0Qy1TS2NqSW9PSDVyRnlBNzFnTWVQMzhKQzBULUJzbHhhUnZLT2djUGJURnZQM0c2azBqVG9ZUDhQcVI0TEpRbXUteFVsczdDeS16UnltQmhyN3AtbTVTekpTNEF5b3pG?oc=5",
       "source_count": 2,
       "source_names": [
-        "jiemian.com",
-        "东方财富"
+        "C114通信网",
+        "搜狐网"
       ],
-      "started_at": "2026-10-01T03:27:17Z",
-      "summary": "微纳星空的股价与资本市场事件，已汇集 2 篇报道、2 个来源。",
+      "started_at": "2026-10-08T11:03:27Z",
+      "summary": "中国星网的其他动态事件，已汇集 3 篇报道、2 个来源。",
+      "weekly_article_count": 3
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "e023d856ff0fd74e",
+      "event_label": "发射与试验",
+      "event_type": "launch",
+      "headline": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+      "importance_score": 67,
+      "latest_at": "2026-10-07T21:16:42Z",
+      "latest_url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival",
+      "source_count": 1,
+      "source_names": [
+        "NASA"
+      ],
+      "started_at": "2026-10-07T20:17:16Z",
+      "summary": "SpaceX的发射与试验事件，已汇集 2 篇报道、1 个来源。",
       "weekly_article_count": 2
     },
     {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_id": "67eba06e6dcafa04",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "智神星一号首飞成功！揭秘这枚火箭的硬核技术 - 搜狐网",
-      "importance_score": 59,
-      "latest_at": "2026-10-01T05:13:45Z",
-      "latest_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xZWhhRm5zVjNpLVRoc0lfYndUd2gwckxJY2VPeWw1b1RrQzMzQ0Vma00wN1F4WjFiSzBMUWkwaUhUU0RwMnRldks1WERvZmVvYzM0?oc=5",
-      "source_count": 1,
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_id": "59656a3196462485",
+      "event_label": "股价与资本市场",
+      "event_type": "market",
+      "headline": "同一天，蓝箭航天、中科宇航等三家商业航天IPO“中止” - 凤凰网财经",
+      "importance_score": 67,
+      "latest_at": "2026-10-07T15:57:38Z",
+      "latest_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WWFl6djRlaXNkT240UXVXdnRJMzRrYXRreVI0Y0cwRTFmblFaVk52THZIeTZiRi1ZOFkzZGdiV0xrcHFxYTRidmFjcG56emg4?oc=5",
+      "source_count": 2,
       "source_names": [
+        "凤凰网财经",
         "搜狐网"
       ],
-      "started_at": "2026-10-01T05:13:45Z",
-      "summary": "星河动力的发射与试验事件，已汇集 1 篇报道、1 个来源。",
-      "weekly_article_count": 1
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "46a24fee6a203aea",
-      "event_label": "订单与合同",
-      "event_type": "order",
-      "headline": "Ford government defends secret SpaceX payout after cancelling $100M Starlink deal over Trump tariff fight",
-      "importance_score": 59,
-      "latest_at": "2026-09-30T20:06:36Z",
-      "latest_url": "https://www.msn.com/en-ca/news/other/ford-government-defends-secret-spacex-payout-after-cancelling-100m-starlink-deal-over-trump-tariff-fight/ar-AA2djChK?ocid=BingNewsVerp",
-      "source_count": 1,
-      "source_names": [
-        "bing.com"
-      ],
-      "started_at": "2026-09-30T20:06:36Z",
-      "summary": "SpaceX的订单与合同事件，已汇集 1 篇报道、1 个来源。",
-      "weekly_article_count": 1
+      "started_at": "2026-10-07T15:11:46Z",
+      "summary": "蓝箭航天的股价与资本市场事件，已汇集 3 篇报道、2 个来源。",
+      "weekly_article_count": 3
     }
   ],
-  "generated_at": "2026-10-05T09:32:16.267963Z",
-  "period_end": "2026-10-05",
-  "period_start": "2026-09-29",
+  "generated_at": "2026-10-12T09:39:06.320471Z",
+  "period_end": "2026-10-12",
+  "period_start": "2026-10-06",
   "related_history": [
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "current_date": "2026-10-03",
-      "current_event_id": "75c3d3dae6848a80",
-      "current_headline": "Blue Origin Wants to Launch New Glenn Up to 50 Times a Year - mediasat.info",
-      "event_type": "launch",
-      "historical_date": "2026-07-08",
-      "historical_event_id": "911909733b985c72",
-      "historical_headline": "Blue Origin wants to launch New Glenn rocket by end of 2026. Can it?",
-      "relation_basis": "同公司、同事件类别且标题主题相近",
-      "relation_score": 0.3
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "current_date": "2026-10-02",
-      "current_event_id": "9495997756781be9",
-      "current_headline": "Blue Origin’s BE-4 Engine Gimble At Full Power During Hotfire Test",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "current_date": "2026-10-10",
+      "current_event_id": "6a6d54ee1a2e209e",
+      "current_headline": "SpaceX Moves to Acquire Nationwide Low-Band Spectrum for Starlink Mobile",
       "event_type": "other",
-      "historical_date": "2026-06-29",
-      "historical_event_id": "c01f0121f3db58d3",
-      "historical_headline": "Blue Origin’s BE-4 Engine Gimble At Full Power During Hotfire Test",
+      "historical_date": "2026-10-01",
+      "historical_event_id": "e2f340594508caa6",
+      "historical_headline": "This company created an in-car signal booster for SpaceX's Starlink mobile",
       "relation_basis": "同公司、同事件类别且标题主题相近",
-      "relation_score": 1.0
+      "relation_score": 0.231
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "current_date": "2026-10-01",
-      "current_event_id": "e2f340594508caa6",
-      "current_headline": "This company created an in-car signal booster for SpaceX's Starlink mobile",
+      "current_date": "2026-10-09",
+      "current_event_id": "000a3256d92b2dda",
+      "current_headline": "SpaceX Wins FCC Approval for Starlink Mobile’s Massive Next-Generation Direct-to-Cell Constellation",
+      "event_type": "regulation",
+      "historical_date": "2026-09-19",
+      "historical_event_id": "b7bb259c4ff6dea5",
+      "historical_headline": "FCC otorga a SpaceX autoridad para Starlink Mobile",
+      "relation_basis": "同公司、同事件类别且标题主题相近",
+      "relation_score": 0.231
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "current_date": "2026-10-06",
+      "current_event_id": "a77aeaf12b6a4e55",
+      "current_headline": "Blue Origin lost New Glenn’s NG-4 booster during a seven-engine test",
+      "event_type": "launch",
+      "historical_date": "2026-07-14",
+      "historical_event_id": "1b991ae3df5d4342",
+      "historical_headline": "Blue Origin’s New Glenn rocket exploded during a ground test, gutting its launch pad",
+      "relation_basis": "同公司、同事件类别且标题主题相近",
+      "relation_score": 0.308
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "current_date": "2026-10-09",
+      "current_event_id": "1cbbffe24772d1db",
+      "current_headline": "T-Mobile CTO gives SpaceX a reality check on its Starlink mobile ambitions",
       "event_type": "other",
-      "historical_date": "2026-08-31",
-      "historical_event_id": "e4fca8ea3fc37fec",
-      "historical_headline": "Starlink Mobile and AST? This Prepaid Carrier Wants to Offer Both",
+      "historical_date": "2026-09-17",
+      "historical_event_id": "93549fa7831fe95b",
+      "historical_headline": "Starlink Mobile vs T-Mobile: Musk's satellite strategy faces a new challenge",
       "relation_basis": "同公司、同事件类别且标题主题相近",
       "relation_score": 0.214
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "current_date": "2026-09-29",
-      "current_event_id": "12b3c0e3cb1e79d7",
-      "current_headline": "Starship, Starlink, or xAI: Which part of SpaceX could move the stock most in 2027?",
-      "event_type": "other",
-      "historical_date": "2026-09-16",
-      "historical_event_id": "fe5e570fe6d93046",
-      "historical_headline": "Not Starship. Not Starlink. This is the part of SpaceX's business that could lift it into the $3 trillion club.",
-      "relation_basis": "同公司、同事件类别且标题主题相近",
-      "relation_score": 0.222
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "current_date": "2026-10-01",
-      "current_event_id": "63750e15b6f6bb55",
-      "current_headline": "Blue Origin's first outside funding round is oversubscribed, CEO says - qz.com",
-      "event_type": "funding",
-      "historical_date": "2026-07-25",
-      "historical_event_id": "ac5d42d2dbe7fccc",
-      "historical_headline": "Jeff Bezos Put $2 Billion of His Own Money Into Blue Origin's First Outside Funding Round",
-      "relation_basis": "同公司、同事件类别且标题主题相近",
-      "relation_score": 0.25
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "current_date": "2026-10-01",
-      "current_event_id": "2661cfae1656ea0b",
-      "current_headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+      "current_date": "2026-10-10",
+      "current_event_id": "bef4136bb3152b81",
+      "current_headline": "SpaceX eyes near back-to-back rocket launches in California. Watch live - The Desert Sun",
       "event_type": "launch",
-      "historical_date": "2026-07-27",
-      "historical_event_id": "8cd459bc650baaf9",
-      "historical_headline": "NASA provides Blue Origin with an alternative for New Glenn tests",
+      "historical_date": "2026-06-25",
+      "historical_event_id": "fdb03c601c3c58c5",
+      "historical_headline": "SpaceX plans nighttime rocket launch in California. How to watch - The Desert Sun",
       "relation_basis": "同公司、同事件类别且标题主题相近",
-      "relation_score": 0.3
+      "relation_score": 0.333
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "current_date": "2026-10-08",
+      "current_event_id": "e023d856ff0fd74e",
+      "current_headline": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+      "event_type": "launch",
+      "historical_date": "2026-09-18",
+      "historical_event_id": "41f6cc11b1d61b9c",
+      "historical_headline": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
+      "relation_basis": "同公司、同事件类别且标题主题相近",
+      "relation_score": 0.4
     }
   ],
   "schema_version": "weekly_report.v1",
-  "source_count": 41,
+  "source_count": 59,
   "source_counts": {
-    "3?ds=true&seed=1791132060": 1,
+    "AOL.com": 1,
     "Advanced Television": 1,
+    "Aerospace Global News": 1,
     "Ars Technica": 1,
-    "Aviation Week": 1,
-    "CNBC": 1,
-    "ChinaTalk": 1,
-    "Daytona Beach News-Journal": 1,
-    "Florida Today": 2,
-    "Investor's Business Daily": 1,
+    "Barron's": 2,
+    "Benzinga": 1,
+    "BigGo Finance": 1,
+    "Bloomberg.com": 1,
+    "Blue Origin": 1,
+    "Business Insider": 2,
+    "C114通信网": 2,
+    "CBS News": 1,
+    "Central Oregon Daily": 1,
+    "CoinGape": 1,
     "Jiemian.com": 2,
-    "NASA": 4,
-    "NASASpaceflight": 3,
-    "PCMag": 1,
-    "Space": 2,
+    "KTLA": 1,
+    "KeepTrack": 1,
+    "Mashable": 1,
+    "NASA": 2,
+    "NASASpaceflight": 1,
+    "New York Post": 1,
+    "PCMag": 3,
+    "PCMag Australia": 1,
+    "Pandaily": 1,
+    "Quartz": 1,
+    "Quartz India": 1,
+    "Reuters": 1,
+    "SatNews Publishers": 1,
+    "Seeking Alpha": 1,
+    "Space": 1,
     "SpaceNews": 1,
-    "SpacePolicyOnline.com": 1,
-    "Spaceflight Now": 3,
-    "TalkOfTitusville.com": 1,
+    "Spaceflight Now": 2,
+    "TechCrunch": 1,
     "TechSpot": 1,
-    "Tesla Oracle": 1,
-    "The Economist": 1,
-    "Yahoo Finance": 2,
-    "arstechnica.com": 4,
-    "bing.com": 132,
-    "finance.ifeng.com": 1,
-    "jiemian.com": 1,
-    "k.sina.com.cn": 1,
-    "mediasat.info": 1,
-    "qz.com": 1,
-    "satellitetoday.com": 2,
-    "satnews.com": 4,
-    "spaceq.ca": 4,
-    "spacewatch.global": 2,
-    "东方财富": 2,
-    "北京市科学技术委员会": 1,
-    "搜狐网": 1,
-    "新浪财经": 11,
-    "茉莉花新闻网": 1,
-    "观察者网": 1,
-    "财富号": 1,
-    "财联社": 1
+    "The Business Journals": 1,
+    "The Desert Sun": 1,
+    "The Lufkin Daily News": 2,
+    "TradingView": 1,
+    "Ventura County Star": 1,
+    "WESH": 2,
+    "Yahoo Finance": 3,
+    "Yahoo Finance UK": 1,
+    "arstechnica.com": 2,
+    "azcentral.com and The Arizona Republic": 1,
+    "bgr.com": 1,
+    "bing.com": 163,
+    "edhat": 1,
+    "finance.sina.com.cn": 1,
+    "satellitetoday.com": 5,
+    "satnews.com": 8,
+    "spaceintelreport.com": 1,
+    "spacewatch.global": 1,
+    "upi": 1,
+    "凤凰网科技": 1,
+    "凤凰网财经": 1,
+    "搜狐网": 4,
+    "新浪财经": 4,
+    "泰伯网": 2,
+    "디지털투데이": 1
   },
-  "summary": "2026-09-29 至 2026-10-05 共归档 205 条新闻，形成 53 个事件，覆盖 7 家公司和 41 个来源。 新闻量较多的公司包括 SpaceX、Blue Origin、中科宇航、蓝箭航天、微纳星空。 其中 6 项动态可与更早的同公司同类事件关联回看。",
-  "total_items": 205
+  "summary": "2026-10-06 至 2026-10-12 共归档 252 条新闻，形成 86 个事件，覆盖 10 家公司和 59 个来源。 新闻量较多的公司包括 SpaceX、Blue Origin、中国星网、蓝箭航天、星际荣耀。 其中 6 项动态可与更早的同公司同类事件关联回看。",
+  "total_items": 252
 }
