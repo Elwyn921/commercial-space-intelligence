@@ -1,134 +1,141 @@
 {
-  "as_of_date": "2026-10-11",
+  "as_of_date": "2026-10-12",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 12,
-        "other": 3,
-        "regulation": 2
+        "launch": 2,
+        "market": 2,
+        "other": 3
       },
-      "item_count": 17,
-      "latest_title": "SpaceX to make another attempt to launch 21 data satellites for Space Development Agency"
+      "item_count": 7,
+      "latest_title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO - The Lufkin Daily News"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_types": {
+        "launch": 1,
         "market": 1
       },
-      "item_count": 1,
-      "latest_title": "Blue Origin Commits $550M to Texas Satellite Complex as Jeff Bezos Confirms $10B Equity Round and IPO Roadmap"
+      "item_count": 2,
+      "latest_title": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight"
     },
     {
-      "company_id": "minospace",
-      "company_name": "微纳星空",
+      "company_id": "i_space",
+      "company_name": "星际荣耀",
       "event_types": {
-        "market": 1
+        "other": 1
       },
       "item_count": 1,
-      "latest_title": "冲刺“民营商业卫星第一股”：微纳星空的“百亿故事”里，藏着一道没解完的题|上海证券交易所|IPO|数据|客户|收入 - 新浪财经"
+      "latest_title": "星际荣耀官宣重型型号“双曲线九号”火箭已启动预研 - 凤凰网科技"
     }
   ],
   "company_count": 3,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 12,
-    "market": 2,
-    "other": 3,
-    "regulation": 2
+    "launch": 3,
+    "market": 3,
+    "other": 4
   },
-  "generated_at": "2026-10-11T07:12:16.233600Z",
-  "period_end": "2026-10-10",
-  "period_start": "2026-10-10",
-  "report_date": "2026-10-10",
+  "generated_at": "2026-10-12T07:21:32.464471Z",
+  "period_end": "2026-10-11",
+  "period_start": "2026-10-11",
+  "report_date": "2026-10-11",
   "schema_version": "daily_document.v1",
-  "source_count": 10,
+  "source_count": 7,
   "source_counts": {
-    "CBS News": 1,
-    "KTLA": 1,
-    "SatNews Publishers": 1,
-    "Space": 1,
-    "Spaceflight Now": 2,
-    "The Desert Sun": 1,
-    "bing.com": 8,
-    "satellitetoday.com": 1,
+    "KeepTrack": 1,
+    "NASASpaceflight": 1,
+    "The Lufkin Daily News": 1,
+    "Yahoo Finance": 2,
+    "bing.com": 2,
     "satnews.com": 2,
-    "新浪财经": 1
+    "凤凰网科技": 1
   },
-  "summary": "2026-10-10 共归档 19 条新闻，覆盖 3 家公司、10 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、微纳星空。",
+  "summary": "2026-10-11 共归档 10 条新闻，覆盖 3 家公司、7 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、星际荣耀。",
   "top_items": [
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "3c8fc50dddf69dd7",
-      "published_at": "2026-10-09T21:41:30Z",
-      "source_name": "Spaceflight Now",
-      "title": "SpaceX to make another attempt to launch 21 data satellites for Space Development Agency",
-      "url": "https://spaceflightnow.com/2026/10/09/spacex-to-make-another-attempt-to-launch-21-data-satellites-for-space-development-agency"
+      "item_id": "8d9c3a0403944a93",
+      "published_at": "2026-10-11T14:29:52Z",
+      "source_name": "NASASpaceflight",
+      "title": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight",
+      "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "market",
-      "item_id": "8b3e182e505d93e5",
-      "published_at": "2026-10-09T21:23:11Z",
+      "item_id": "c3a55484515b0bfd",
+      "published_at": "2026-10-11T13:00:00Z",
       "source_name": "satnews.com",
       "title": "Blue Origin Commits $550M to Texas Satellite Complex as Jeff Bezos Confirms $10B Equity Round and IPO Roadmap",
-      "url": "https://satnews.com/2026/10/09/blue-origin-commits-550m-to-texas-satellite-complex-as-jeff-bezos-confirms-10b-equity-round-and-ipo-roadmap"
+      "url": "https://satnews.com/2026/10/11/blue-origin-commits-550m-to-texas-satellite-complex-as-jeff-bezos-confirms-10b-equity-round-and-ipo-roadmap"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "fcb302bd3e467a62",
-      "published_at": "2026-10-10T08:26:33Z",
-      "source_name": "Spaceflight Now",
-      "title": "SpaceX launches 21 data satellites for the Space Development Agency - Spaceflight Now",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcTNwSkFjSE1zZHBUT05GcTRKd3FkaHNySnZJblhYMEp4bUpQSXFfanpvXzVJUW9LSHk3OVF3ZVAtTE5BWktiZXU5S3pQZTRmaWI1TnFmOWlrMjBQeTBxdFdNdE5YQ3NRUTg5cVJxSzBOM3J5SUxqS2p1U1RnVkc3TjFDVGJOTXJ1dkFNNW1sNVVjdTR2RGQtQ2hKbXFXdGJDeFFRTUQ0dDEzanRxcURxNi0zbUtUeTJ5M0ZCODZEdElsSlFFTXc?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "545b45991813461c",
-      "published_at": "2026-10-10T08:03:18Z",
-      "source_name": "Space",
-      "title": "SpaceX launches 21 satellites to orbit for the US military after 5-day delay (video) - Space",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPclk4V3VJTVhwVlNuQndmejRuOVNVZnhpRjNnVXdHVkZBSE9JYVhoVE9VU1ZsdWItR2FKZGMtM2FKanNZZmQ1WUdBV0w4NGlOSFVoQXYyek5KQTdkVlpsMV9ELS1OWWdUZC1XT0dUUnlaQUs5UWJWdVhNTGpIMXlDeVlLUGEtTWRMVVpYT19SajMwOWVsX05aWlJWdklrLWZvUjJJcmNTLWJlZzZCeERXczFfSFRfUDdzTEU2ajZjWm1Ud0MxUjNITHc2c000V2ZmT0l6ZE9NVkxONnlDNXJZT1d2cEI?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "2500d536032ea122",
-      "published_at": "2026-10-10T02:59:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX 9 deploys 21 satellites for US military in fourth SDA Tranche 1 mission",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aca210475d54fac9611ef43b23a2cb5&url=https%3A%2F%2Fwww.cnbctv18.com%2Fworld%2Fspacex-9-deploys-21-satellites-for-us-military-in-fourth-sda-tranche-1-mission-20009025.htm&c=3775665161381764741&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "f3a75d804cc9b2b3",
-      "published_at": "2026-10-10T01:34:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX Falcon 9 launches 21 military satellites into orbit",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aca210475d54fac9611ef43b23a2cb5&url=https%3A%2F%2Fwww.thenews.com.pk%2Flatest%2F1419388-spacex-falcon-9-launches-21-military-satellites-into-orbit&c=4573268869653263523&mkt=en-us"
-    },
-    {
-      "company_id": "minospace",
-      "company_name": "微纳星空",
       "event_type": "market",
-      "item_id": "5496ab70a6bf6656",
-      "published_at": "2026-10-10T00:19:56Z",
-      "source_name": "新浪财经",
-      "title": "冲刺“民营商业卫星第一股”：微纳星空的“百亿故事”里，藏着一道没解完的题|上海证券交易所|IPO|数据|客户|收入 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxPV045ZnpscUJGaER1WEROejY5Z1B1RUxVVllGT09kZjJ1UEc2b29zdVVsVXA3Nlp2M2t5Qi1ON3RWenhVN1pxN2g5Nlc2QmRZUndzejM5b2kzMnRPc051SXNXT0VVUC1oR0VwellpTzlYaVlZd2dObzBBX09EakpiOGo3TkxaYWNlbHZkWkdoV0tuZG9BbXpxVmFXaVZrVGd1ME9JR1E2UkpCRG1HMmthTFpyR3ctTlU3V2dkcFpSVEZOZ2IyQ1JqdmVPbVJWSXg2ZkRDYTBNSnNNVDhmUDlxcU44eVdBa3VZZEJIUElVRXp2TWtfQ3JMYUxTcnpBbGpFaHdfenpvTzVVLVBlWUwxQ0xUSlV5aklJNjdMN3ZQQlJEOXI3LV9weUF5WmpzVTZxbl91MllzUWUweXJWOHdialF5cFlQUlhxdlFldDNGMnBXNHZEY0ZqN2RIZjJnb3g5dENUazRzbzE2WXpjZEZvUzgxR3c1dnRRdTFWX1pGQnZLZjZpSmZGVXBvT1Rnb21tdHRCZERvZnFoNEdYWWxnQndoQ1BEQ2JhYWVyUGIwN2lCdE9aTEtTNDRrWDZQODRpVWpqYVlpSm1yR1lqWWl4bDN6b2NQMTUycjR3S0c1RC1pd2tDTC1iekZKRjRDR1hmWURkWHdsVkYxNlNtczI4cFJzX210RE5IenBMWUduN3ZhQ3lXRHVWS0FzUnUwTDhrRkhPYlk2WUxIQkY2VHJ3NmZNSzFMeTlsZTZncFFhM3BLYklTRFB6VGlITWR6OXQ1aG1BaGlrVUw1blpQUks3VF80Qm5Nc0EyN2Z2TmxfcmtTc2ZXMzVuRl9tX3lHZ1cwU0JEUkpKSDJuU3d1d0Zj?oc=5"
+      "item_id": "18aa81c0a919e264",
+      "published_at": "2026-10-11T07:11:19Z",
+      "source_name": "The Lufkin Daily News",
+      "title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcFVGSWFlajlIUzJxcWhzMkVSMXQ1LWlqNWxzLXpCUFE4dmMwS2wyd2I4VmFHdGIxR1hVZUdrSDBzTVZ5ODlFZTlzQzg5YnRYVUpYSTZ5MWVfcHFDTlFHTVc2LWszbWd2Q1BQRGgzSGR6a3R2TVdlSjZwdFo2c0M5d0dXSndWSjNzSGFMNnJZQk5KWmJIMDRYekhUS0VKS3J1cUx6bjJRMElKa2l0TWVqMTBmOVRVZG5rc1ppTVVvQXJoN1p4STVaUmtQcllyR1B6WXVkLS1kbXUyUTNONENNQkpSU2xNWWV4U29wYlJXMjczODN5VUMzMl9TQS1vRlUzZXNv?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "market",
+      "item_id": "8ac588c415fac571",
+      "published_at": "2026-10-11T02:57:00Z",
+      "source_name": "bing.com",
+      "title": "Elon Musk Pitches SpaceX's Starlink As An Affordable Option To Bring Internet To Indians Ahead Of Ambani's Jio IPO",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6acb75a284ef42f2b25bf96a1fdb60ed&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-pitches-spacexs-starlink-095636285.html&c=10669417299497097418&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "93cb770921e17df3",
+      "published_at": "2026-10-11T13:00:00Z",
+      "source_name": "satnews.com",
+      "title": "SpaceX Acquires Grain Management’s 800 MHz Spectrum Portfolio to Launch Standalone Starlink Mobile Carrier",
+      "url": "https://satnews.com/2026/10/11/spacex-acquires-grain-managements-800-mhz-spectrum-portfolio-to-launch-standalone-starlink-mobile-carrier"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "12d67568403e7612",
+      "published_at": "2026-10-11T11:04:45Z",
+      "source_name": "KeepTrack",
+      "title": "Direct to Cell STARLINK-11444 [DTC] Holds 362 km Orbit Against Heavy Drag - KeepTrack",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhRmFTSkFvVU9Rd1dtRkY3aVQ3MEgxajRReU9mZDF1SWJQOWFPQmdEa05rZDRTUmZVX0E4cGZqMkM2OHpuMEZKYU95bllCRHoxZXQyekdUVkpjYnFQVldlNmgzQ2NPMDFia3dXMg?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "ca45e7df13607d42",
+      "published_at": "2026-10-11T05:19:00Z",
+      "source_name": "Yahoo Finance",
+      "title": "Venezuela Authorizes SpaceX Starlink Satellite Internet Service Under New Deal - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFlvaE93RElwbFhDTVhJWmZseXM5aWdMVmZyZ0M0d3BvLUxMQVByczhqWU9VWUJRQ19TMEhzR0VlLWh1djBtc2VGaG9ocHl6d0ZzdlJuRHF2alZaRU5GY3JBOHY3Q0NLTzV5T3g0ckVoeGY5SEZkNW5NNjVyQmVXSFFKSTNzVE8zVi1IdVZhYkU1SWYxM3piQ2t2RUZKNkRMUVJDNmp6QmZOVmtlVXhYVw?oc=5"
+    },
+    {
+      "company_id": "i_space",
+      "company_name": "星际荣耀",
+      "event_type": "other",
+      "item_id": "f3f1fd83a463a57c",
+      "published_at": "2026-10-11T02:22:16Z",
+      "source_name": "凤凰网科技",
+      "title": "星际荣耀官宣重型型号“双曲线九号”火箭已启动预研 - 凤凰网科技",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LcE13ZzhXYXcycms0YkJ5VS1FcUowblNEMlRXUWZhc3NGQ3JrdkNMeWlPWTdwTzkwVWtHSXhKSmpadHlET3lvQW1hZHQ?oc=5"
     }
   ],
-  "total_items": 19
+  "total_items": 10
 }
