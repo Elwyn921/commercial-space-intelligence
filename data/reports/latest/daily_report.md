@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-10-12
+# 每日新闻情报日报 - 2026-10-13
 
-- Report ID: daily-2026-10-13-0217ab41
-- Source run: 121edc0f-6ac4-46bc-a02d-4b1567528d48
+- Report ID: daily-2026-10-13-58aedf3c
+- Source run: 71268a88-bda8-49bf-b1ec-2080c40f3495
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 6
+- Total items: 11
 
 ## Executive Summary
 
-2026-10-13 共收录 6 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-10-13 共收录 11 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,15 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
-- [SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California](https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california) SpaceX
-- [SpaceX launching 6,300 pounds of cargo to the ISS on Oct. 13: Watch it live](https://www.space.com/space-exploration/international-space-station/spacex-crs-35-cargo-launch-international-space-station) SpaceX
-- [NASA’s SpaceX CRS-35 Mission to Launch Health Research](https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research) SpaceX
+- [SpaceX launches Falcon 9 Starlink mission for 1st time in more than 3 weeks (photo) - Space](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLW1VYk1FVnlMVHotOVZPaXRBcGdsbWFDZG1PNHh4bUpKVnN2TDZnMUVzX0tlV29jbmZ5cG5hc1Npc2w2NTVBRkVDeUZMdXJ2YnhnSnU2S0REZU1QeUlfV1RZdl9ORTJuczNNaVI0WXNrUXU0UVliUFBfd1FGNEdta2YyRl9QWWpwQ0pRMWNBN1J3ZGFrbkpxTURQNTA5c09mRFA4eWRvaWtXTlUzRGg4aldIOTN4bFFFOTVRT2hGTFpmd0lmZnVmWTFIQkp4cXhRdDNJaXpudDk?oc=5) SpaceX
+- [SpaceX Falcon 9 rocket launches 27 Starlink satellites from California - Spaceflight Now](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ0hvNUo2djRjcEY5SGZTOW9JY09FSGVoblg1Ym1Nakc5OUtPcl90VjdmbjN5UGh6NDc5R2NjSjFTU2x0bzJOSlNnV2xmYTRjdTNaQmZnZktVTXFucDV1NDg0NW03N2VXLUNpbExDUlVuVFNxbHdNNlVyaWRLUklENTlJVGFvSXBhWlRJTlY3b2xEU3BlNFpLV3dPbjR5RGluQXdHSUtfaG44SUJsRU1YVUNaYWV5cXQ2d3YxTnhB?oc=5) SpaceX
+- [Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station](https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station) SpaceX
 
 ## Top News
 
-- [SpaceX Falcon 9 rocket to launch 27 Starlink satellites into orbit from California](https://spaceflightnow.com/2026/10/12/spacex-falcon-9-rocket-to-launch-27-starlink-satellites-into-orbit-from-california) SpaceX
-- [SpaceX launching 6,300 pounds of cargo to the ISS on Oct. 13: Watch it live](https://www.space.com/space-exploration/international-space-station/spacex-crs-35-cargo-launch-international-space-station) SpaceX
-- [NASA’s SpaceX CRS-35 Mission to Launch Health Research](https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research) SpaceX
+- [SpaceX launches Falcon 9 Starlink mission for 1st time in more than 3 weeks (photo) - Space](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLW1VYk1FVnlMVHotOVZPaXRBcGdsbWFDZG1PNHh4bUpKVnN2TDZnMUVzX0tlV29jbmZ5cG5hc1Npc2w2NTVBRkVDeUZMdXJ2YnhnSnU2S0REZU1QeUlfV1RZdl9ORTJuczNNaVI0WXNrUXU0UVliUFBfd1FGNEdta2YyRl9QWWpwQ0pRMWNBN1J3ZGFrbkpxTURQNTA5c09mRFA4eWRvaWtXTlUzRGg4aldIOTN4bFFFOTVRT2hGTFpmd0lmZnVmWTFIQkp4cXhRdDNJaXpudDk?oc=5) SpaceX
+- [SpaceX Falcon 9 rocket launches 27 Starlink satellites from California - Spaceflight Now](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ0hvNUo2djRjcEY5SGZTOW9JY09FSGVoblg1Ym1Nakc5OUtPcl90VjdmbjN5UGh6NDc5R2NjSjFTU2x0bzJOSlNnV2xmYTRjdTNaQmZnZktVTXFucDV1NDg0NW03N2VXLUNpbExDUlVuVFNxbHdNNlVyaWRLUklENTlJVGFvSXBhWlRJTlY3b2xEU3BlNFpLV3dPbjR5RGluQXdHSUtfaG44SUJsRU1YVUNaYWV5cXQ2d3YxTnhB?oc=5) SpaceX
+- [Live coverage: NASA, SpaceX to launch new solar arrays, 6,300 pounds of cargo to the space station](https://spaceflightnow.com/2026/10/13/live-coverage-nasa-spacex-to-launch-new-solar-arrays-6300-pounds-of-cargo-to-the-space-station) SpaceX
 
 ## Risks And Watchpoints
 
