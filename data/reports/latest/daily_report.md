@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-10-13
+# 每日新闻情报日报 - 2026-10-14
 
-- Report ID: daily-2026-10-14-a8e57f1f
-- Source run: 7578e962-d3d0-4756-81d5-199bcf3943e0
+- Report ID: daily-2026-10-14-6bc57da6
+- Source run: 3e7ee105-db50-49c4-82bf-777b4630956b
 - Generation status: skipped_no_secret
-- Companies covered: 1
-- Total items: 2
+- Companies covered: 2
+- Total items: 4
 
 ## Executive Summary
 
-2026-10-14 共收录 2 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-10-14 共收录 4 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、中国星网。
 
 ## Industry Chain Sections
 
@@ -26,16 +26,20 @@ No LLM summary.
 
 No LLM summary.
 
+- [国家体育总局与中国星网在雄安签署战略合作框架协议 “北斗+”护航体育强国建设 - 国家体育总局](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJek9uWUpQZVJTZW1xUWlCZG03SjlQdnVSZm1PUW5falNLZVI4a1lBWFRIdnM5UzlTWnZLOHJDbTJBa0VsVERJRjR3YnVmOGhmeVZObmJHQWdqQ3ZFaVZRd1Z4VEVERW1XNEN1bXg5Zw?oc=5) 中国星网
 
 ### 国外大厂
 
 No LLM summary.
 
+- [Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week](https://www.nasaspaceflight.com/2026/10/launch-preview-101326) SpaceX
 - [Germany Arrests Two Suspects Over Arson Attack at Starlink Ground Station in Poland](https://satnews.com/2026/10/13/germany-arrests-two-suspects-over-arson-attack-at-starlink-ground-station-in-poland) SpaceX
 - [SpaceX rocket launch creates incredible 'space jellyfish' visible throughout US East Coast (photos)](https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-creates-incredible-space-jellyfish-visible-throughout-us-east-coast-photos) SpaceX
 
 ## Top News
 
+- [国家体育总局与中国星网在雄安签署战略合作框架协议 “北斗+”护航体育强国建设 - 国家体育总局](https://news.google.com/rss/articles/CBMib0FVX3lxTFBJek9uWUpQZVJTZW1xUWlCZG03SjlQdnVSZm1PUW5falNLZVI4a1lBWFRIdnM5UzlTWnZLOHJDbTJBa0VsVERJRjR3YnVmOGhmeVZObmJHQWdqQ3ZFaVZRd1Z4VEVERW1XNEN1bXg5Zw?oc=5) 中国星网
+- [Launch Preview: Falcon 9, ZhuQue-2E to launch during quiet week](https://www.nasaspaceflight.com/2026/10/launch-preview-101326) SpaceX
 - [Germany Arrests Two Suspects Over Arson Attack at Starlink Ground Station in Poland](https://satnews.com/2026/10/13/germany-arrests-two-suspects-over-arson-attack-at-starlink-ground-station-in-poland) SpaceX
 - [SpaceX rocket launch creates incredible 'space jellyfish' visible throughout US East Coast (photos)](https://www.space.com/space-exploration/launches-spacecraft/spacex-rocket-launch-creates-incredible-space-jellyfish-visible-throughout-us-east-coast-photos) SpaceX
 
@@ -47,4 +51,4 @@ No LLM summary.
 
 ## Source Health
 
-degraded: 13/26 sources succeeded.
+degraded: 15/26 sources succeeded.
