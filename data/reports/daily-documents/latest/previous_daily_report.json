@@ -1,223 +1,253 @@
 {
-  "as_of_date": "2026-10-16",
+  "as_of_date": "2026-10-17",
   "companies": [
     {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_types": {
+        "launch": 21,
+        "other": 1,
+        "product": 1
+      },
+      "item_count": 23,
+      "latest_title": "Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate"
+    },
+    {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 5,
-        "market": 1,
+        "launch": 6,
         "order": 1,
-        "other": 20
+        "other": 9
       },
-      "item_count": 27,
-      "latest_title": "SpaceX wants up to 456 Starship launches a year from Texas"
+      "item_count": 16,
+      "latest_title": "Live coverage: SpaceX to launch classified payload for U.S. Space Force"
     },
     {
       "company_id": "landspace",
       "company_name": "蓝箭航天",
       "event_types": {
-        "launch": 7,
-        "other": 1
+        "launch": 4
       },
-      "item_count": 8,
-      "latest_title": "朱雀二号一箭十星发射成功，国内商业航天叙事估值锚或上移至\"追赶兑现\"丨盘前线索 - 21财经"
+      "item_count": 4,
+      "latest_title": "朱雀二号一箭十星发射成功，国内商业航天叙事估值锚或上移至“追赶兑现”丨盘前线索 - 东方财富"
     },
     {
       "company_id": "china_satnet",
       "company_name": "中国星网",
       "event_types": {
-        "order": 3
-      },
-      "item_count": 3,
-      "latest_title": "国家体育总局、中国星网官宣，“卫星互联网+北斗”重磅签约 - 搜狐"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_types": {
-        "launch": 1
+        "order": 1
       },
       "item_count": 1,
-      "latest_title": "Blue Origin's New Glenn rocket nails first-ever droneship landing"
+      "latest_title": "国家体育总局与中国星网在雄安签署战略合作框架协议 - 中国雄安官网"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_types": {
+        "other": 1
+      },
+      "item_count": 1,
+      "latest_title": "中国公司追赶商业载荷返回，中科宇航把空间制药验证排到2027年 - 财富号"
     }
   ],
-  "company_count": 4,
+  "company_count": 5,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 13,
-    "market": 1,
-    "order": 4,
-    "other": 21
+    "launch": 31,
+    "order": 2,
+    "other": 11,
+    "product": 1
   },
-  "generated_at": "2026-10-16T05:52:25.354334Z",
-  "period_end": "2026-10-15",
-  "period_start": "2026-10-15",
-  "report_date": "2026-10-15",
+  "generated_at": "2026-10-17T05:36:29.428418Z",
+  "period_end": "2026-10-16",
+  "period_start": "2026-10-16",
+  "report_date": "2026-10-16",
   "schema_version": "daily_document.v1",
-  "source_count": 18,
+  "source_count": 19,
   "source_counts": {
-    "21财经": 1,
+    "Blue Origin": 1,
+    "CNBC": 1,
+    "Data Center Dynamics": 1,
     "Florida Today": 1,
-    "France 24": 1,
-    "Jiemian.com": 1,
-    "The Economist": 1,
-    "The New York Times": 1,
-    "TradingView": 1,
-    "bing.com": 17,
-    "satellitetoday.com": 1,
-    "satnews.com": 1,
-    "space.com": 3,
-    "spaceq.ca": 1,
-    "东方财富": 2,
-    "人民网": 1,
-    "台州新闻": 1,
-    "搜狐": 2,
-    "新华网河北频道": 2,
-    "西藏自治区科学技术厅": 1
+    "KeepTrack": 1,
+    "Reuters": 1,
+    "Sarasota Herald-Tribune": 1,
+    "SpaceNews": 1,
+    "Spaceflight Now": 3,
+    "WESH": 1,
+    "arstechnica.com": 1,
+    "bing.com": 23,
+    "satnews.com": 2,
+    "space.com": 1,
+    "spacewatch.global": 2,
+    "东方财富": 1,
+    "中国雄安官网": 1,
+    "新浪财经": 1,
+    "财富号": 1
   },
-  "summary": "2026-10-15 共归档 39 条新闻，覆盖 4 家公司、18 个信息来源。 新闻量较多的公司包括 SpaceX、蓝箭航天、中国星网、Blue Origin。",
+  "summary": "2026-10-16 共归档 45 条新闻，覆盖 5 家公司、19 个信息来源。 新闻量较多的公司包括 Blue Origin、SpaceX、蓝箭航天、中国星网。",
   "top_items": [
     {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "23ab6ba003c45ae1",
-      "published_at": "2026-10-15T01:12:00Z",
-      "source_name": "21财经",
-      "title": "朱雀二号一箭十星发射成功，国内商业航天叙事估值锚或上移至\"追赶兑现\"丨盘前线索 - 21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQT1lTdE9GNzNBb3V4SEkwd01kQnJkdFY0THRtTmN5aFFNMkhfZzR6RVRucUQ2eXVpeXlZNC13bXpIbldzZ1NkUEFjVmNFWndXbEQ3UmhObnNiTmRKTkc5cS1BeVREQ2U2WTVLdG9OLXFBMFQwZVRJT3F5VVNpWW9UZ19NZndGSXJFc0tPRjBLdw?oc=5"
+      "item_id": "4dec0a99edc3a188",
+      "published_at": "2026-10-16T13:17:28Z",
+      "source_name": "Spaceflight Now",
+      "title": "Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate",
+      "url": "https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "market",
-      "item_id": "209180b0aecad7f2",
-      "published_at": "2026-10-14T18:18:02Z",
-      "source_name": "spaceq.ca",
-      "title": "SpaceX wants up to 456 Starship launches a year from Texas",
-      "url": "https://spaceq.ca/starship-launches-456-a-year-starbase-faa-review"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "3256014066fe0fe4",
-      "published_at": "2026-10-15T14:17:00Z",
-      "source_name": "The New York Times",
-      "title": "What Is Starshield, SpaceX’s Military-Grade Satellite Internet Service Ukraine Relies On? - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGplSHNaMzZncXQyMGZhZmwtdlNwMmZYOVMwaU9mQ1c3SnVRaGgxOF9lZEQ4c3lmaU9WVGtOVmNzdzhaeWZJei1BOXExYVhkemZQa1NLM0Q4RkY5T3hHYkdMWFEwYTlpQVE4d1FPaVdpQnI1R0lJT1ByVnREMkNaVVBic0xZQ00zOXNVUnJ5Z2cxMXBOYk1xeTF1WTNfQk95?oc=5"
+      "event_type": "launch",
+      "item_id": "7568804d0f5d2b7e",
+      "published_at": "2026-10-15T19:11:45Z",
+      "source_name": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch classified payload for U.S. Space Force",
+      "url": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force"
     },
     {
       "company_id": "landspace",
       "company_name": "蓝箭航天",
       "event_type": "launch",
-      "item_id": "90a41f5a1c0288d4",
-      "published_at": "2026-10-15T14:11:39Z",
+      "item_id": "7b8d043660f3d7b3",
+      "published_at": "2026-10-16T08:38:36Z",
       "source_name": "东方财富",
-      "title": "朱雀二号改进型遥四运载火箭“一箭十星”发射成功 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wT0J4c2JOZVllTm1oSkpvSGkwd1VFeDNyRkJ5bXdRSmJROU81UHRiSDB1amhFS2RWSzc5OTdLYmRmTmgzQkZWMWZHZU5LVVhYTVFCTXNqd29YQWFkblVrbA?oc=5"
+      "title": "朱雀二号一箭十星发射成功，国内商业航天叙事估值锚或上移至“追赶兑现”丨盘前线索 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfVjVOeDFDZ2p5Q2lVQjRhTXBOQTNkQ3hpcFVsVnZpLWtoYjBSRGJTTUEzcWxhSGlQTDJTSXdtZWU5NU8tT2d5T1VSOVBjSDE3b251VTNUcTlESU11Nm9abkNSdU56Zw?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "d6cf84c2ca402aa2",
-      "published_at": "2026-10-15T13:44:33Z",
-      "source_name": "bing.com",
-      "title": "What is Starshield, SpaceX's military version of Starlink, and why is it so important to Ukraine?",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad1827988204ddb8d5bbb672657c356&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fcybersecurity%2Fwhat-is-starshield-spacex-s-military-version-of-starlink-and-why-is-it-so-important-to-ukraine%2Far-AA2ejHvJ&c=14008528870976228028&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "261769e84ee8e55c",
-      "published_at": "2026-10-15T13:38:00Z",
-      "source_name": "bing.com",
-      "title": "What to know about Starshield and why its disruption rattled Ukraine’s forces",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad1827988204ddb8d5bbb672657c356&url=https%3A%2F%2Fwww.washingtonpost.com%2Fbusiness%2F2026%2F10%2F15%2Fstarshield-starlink-spacex-ukraine-russia-war%2F60ebfca4-c8d8-11f1-aefb-abe4112d087e_story.html&c=13258387186333612002&mkt=en-us"
-    },
-    {
-      "company_id": "china_satnet",
-      "company_name": "中国星网",
-      "event_type": "order",
-      "item_id": "4acfa3223b0722f3",
-      "published_at": "2026-10-15T10:39:58Z",
-      "source_name": "搜狐",
-      "title": "国家体育总局、中国星网官宣，“卫星互联网+北斗”重磅签约 - 搜狐",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMFNWby1BVmJQV3ZPdnB3bGEwbUFLZmxSemRrYjhIU2tXcFR3VmtFSWdKNDRfNGJhLWMwNmZDZS1MTERZQ2daYW82SHh1VGUwcDRNcTZtWEJtXzJHdUhRM1Jxb2pmNUtCYTNkMDdzMFhtSHEwVXd5bXlxVjFaSmd6R240WXNyS1E3?oc=5"
+      "item_id": "ecfbd717bd892dd9",
+      "published_at": "2026-10-16T14:48:50Z",
+      "source_name": "Data Center Dynamics",
+      "title": "SpaceX’s Starlink encourages every satellite operator to share data with Stargaze platform, for safety - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUjBROHdKYXVic2xnMWpXTktiVkxhNk5zUjdIYjlqUFhxS2FJcU0yemp3SDVDR001WHlYbjZZLVlDelBFem9sNDJXSmUyUHBlRDFuT2lKbGFnV1NYVVUtMVhKUTlXRmFIb0E0SlJZajR2RGJNanRobTZ0X0dBWHFmR1ItQmJXN29CcGIzMVpkQm1KdW40cEZOcl9TM3BDRGw5NEt1dFB2c19YZjFEVWswb1A0Q0ZvdmE3bzNpanZHSXlidVJZdmhsLTZjQlV2YUZPV1ZSa3pMbUhidjRS?oc=5"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "a7bac6d6f0abd295",
-      "published_at": "2026-10-15T10:25:00Z",
+      "item_id": "ce5e56cbc7c0bb48",
+      "published_at": "2026-10-16T14:10:16Z",
+      "source_name": "CNBC",
+      "title": "Blue Origin plans $330 million Florida expansion to ramp New Glenn launches - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQzRzd0RqYXpVM1ZyNVo5UmVZSFduN2FLSURPeFU4aGFCTHp4R0swQm5JVkpSWmhfWWIxWmR0ckRKejdkZGpGVG9QcThvenVzMVlsVUxXZS13SWliRGdKaE8tMHZwWUxKS2toVm1ieHY5RzdxSmx0VXdXSEMySEVhOTBB0gGHAUFVX3lxTE95SGRZMVFlc1VSY0QyRTFJYmg3RkZNbWF2X1lpQk9pa3htdEtsWjFfUExYa0toYWY0ejI0X0hmZ0JKT1ZNNDM1UDZvT005dTV0VG5mVVk1TjFIeE43dXF5TzVLOUV5eTk5YTZsN0JyUjc4djEwYjlDUFBJZ0RWQ01SSXpJdkNCTQ?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "6f11826fe2cc4768",
+      "published_at": "2026-10-16T13:58:00Z",
       "source_name": "bing.com",
-      "title": "Blue Origin's New Glenn rocket nails first-ever droneship landing",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad1391f58ce4d2e855ea7c14bf81969&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fblue-origins-new-glenn-rocket-nails-first-ever-droneship-landing%2Fvi-AA2ejjXQ&c=13304982373185260414&mkt=en-us"
+      "title": "Blue Origin Unveils Plans for Massive Upgrade to Its Florida Facilities",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad2d2b0063d4556a4efeaa7c4fd9c38&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fblue-origin-unveils-plans-for-massive-upgrade-to-its-florida-facilities&c=12355984624708347847&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "7f2b03458117623d",
+      "published_at": "2026-10-16T13:23:00Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin’s Latest Move Shows How It’s Quietly Taking On SpaceX",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad2d2b0063d4556a4efeaa7c4fd9c38&url=https%3A%2F%2Fwww.barrons.com%2Farticles%2Fblue-origin-spacex-new-glenn-rocket-expansion-da658330&c=8565584758244737864&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "80d71bb9e5b2a46d",
+      "published_at": "2026-10-16T13:22:00Z",
+      "source_name": "Florida Today",
+      "title": "After blast, Blue Origin pushes for multiple weekly Florida rocket launches - Florida Today",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUWhmdm1XcDhZOENjbnYteXhhcGRYSE1pOGNTblJVVC1uRkp6V2hOSXViYlV1S0FNUFNrMnhnUEdpZnpVcnBvRlBwS0dZLV9qaXJrMmRleVhabVJDelFzQmNBNGdoc0NJQlNfZHEwZzdPWUpOS2ZEM1VPb2o2M2FDSWRva0VzblBNUEtUYmtwYkU3OWdoSzRBSkJIMTQwcUdiRl80aG4wV0R6WXJBMk4yTVdHX3dRV3VoXzBEWFpmMkpGTDVoV1ltbGtfbUpsZU9OaEVsZFhHTDd1R0NVaGhZMTBRT1VyTnhuZmwyRE82SmoyZVBzZ2lvWXZrcFFwVFBsaU9v?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "f580b65bae2d77b6",
-      "published_at": "2026-10-15T10:00:00Z",
-      "source_name": "space.com",
-      "title": "SpaceX wants to launch Starship more than 450 times per year from South Texas",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-wants-to-launch-starship-more-than-450-times-per-year-from-south-texas"
+      "event_type": "other",
+      "item_id": "baf5c4318963d0a9",
+      "published_at": "2026-10-16T11:58:00Z",
+      "source_name": "bing.com",
+      "title": "White House Directed Pentagon to Restrict Ukraine Starshield Speeds, Clarifying Chain of Command",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad2d2a8f4674c519f273ea9197c4c9f&url=https%3A%2F%2Fsatnews.com%2F2026%2F10%2F16%2Fwhite-house-directed-pentagon-to-restrict-ukraine-starshield-speeds-clarifying-chain-of-command%2F&c=14523409091787116080&mkt=en-us"
     },
     {
       "company_id": "landspace",
       "company_name": "蓝箭航天",
       "event_type": "launch",
-      "item_id": "148eeea77994208d",
-      "published_at": "2026-10-15T05:46:06Z",
-      "source_name": "台州新闻",
-      "title": "湖嘉造火箭台州组卫星朱雀二号改进型遥四运载火箭发射成功-台州频道 - 台州新闻",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10RWVvOEotSzZ3R3hTUEdaR3ZwZjJCdFNBcjczTHFKdEZ3Tm0xR01Ea3I4N1N1ZUdpRFdXcmxNdWVlQjhuQmJQVTE0dzR6eURJbUdsWnVWYTVHRzFkbGFNREc0N1FuVmR2M0JHSl9LVjlaT3lVRUluVW5B?oc=5"
+      "item_id": "3b7edc5203e317af",
+      "published_at": "2026-10-16T09:41:00Z",
+      "source_name": "新浪财经",
+      "title": "4家“成都投”企业携手完成朱雀二号一箭十星发射任务 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wQlZDenZKXzVsQ1BHV2x2c2QtQmtmZ1RvMnNfZ3A2Z3BubmY2NEFRU29obUpST2RzdUFWWW84VjB6aklGRlI1ZXlnTHRRbXdsQ3ZtMF9WT1d2RHJic3FTXzcyZkUxVkpBZV9HUW9kU2kxMTYtXy14U1VIMjVCOHc?oc=5"
     },
     {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "launch",
-      "item_id": "7d6c1176299daa93",
-      "published_at": "2026-10-15T02:24:39Z",
-      "source_name": "西藏自治区科学技术厅",
-      "title": "朱雀二号改进型火箭“一箭十星”发射成功 - 西藏自治区科学技术厅",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iT3lHNU1vTV82QXQxSFJEWDBGd1VBUWJ5OWVueEw3ZnVPOXJ1Vkd6OS1YcWN6dnM1SmEwbGJZZ1lOSDNhT0JvWjlSdXJ2VDAyQXdZV2RYRmRlNV9WWDhyNFJjT184UUhma0F1WDlXM3RxZw?oc=5"
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "ed2012b393f1d616",
+      "published_at": "2026-10-16T09:17:00Z",
+      "source_name": "bing.com",
+      "title": "What Starlink direct-to-cell can (and can't) actually do on your phone",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad2d2a8f4674c519f273ea9197c4c9f&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fwhat-starlink-direct-to-cell-can-and-cant-actually-do-on-your-phone%2Far-AA2eo6s4&c=3388073890859713277&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "70ab796ad18e8f3d",
+      "published_at": "2026-10-16T09:17:00Z",
+      "source_name": "bing.com",
+      "title": "What Starlink direct-to-cell can (and can't) actually do on your phone",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad2848dc77e4084bf58974c65a650d1&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fwhat-starlink-direct-to-cell-can-and-cant-actually-do-on-your-phone%2Far-AA2eo6s4&c=3388073890859713277&mkt=en-us"
     },
     {
       "company_id": "china_satnet",
       "company_name": "中国星网",
       "event_type": "order",
-      "item_id": "27dab5d99219bdd0",
-      "published_at": "2026-10-15T02:10:35Z",
-      "source_name": "新华网河北频道",
-      "title": "国家体育总局与中国星网签署战略合作框架协议 - 新华网河北频道",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWTlZV0VmZzRaS29LLUh6czhWdlJYa3Y0ZHJEYTdpWTFmOTVjZ2F3YnJENy1kSVJUaWpHdlJTbjlmSlRRSkJfZnFQeWRveGxoLWpJeFNxdGxKWUM0enVMclV4VWNkUVdkTlFITzNMWm8yUUVXZW11bUhVZm9TTTVwS0tR?oc=5"
-    },
-    {
-      "company_id": "china_satnet",
-      "company_name": "中国星网",
-      "event_type": "order",
-      "item_id": "1b63e28f2de4e360",
-      "published_at": "2026-10-15T02:10:35Z",
-      "source_name": "新华网河北频道",
-      "title": "国家体育总局与中国星网签署战略合作框架协议 - 新华网河北频道",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDOGw4d1JMZGpNWktLbjFsN0lOUkY1N2hTTFNTZVQ4MFVyMHBjdUVad0NqWEJlNHNBanpOR0xrMy16WHNxSGVVVlFROUduUk55Q2lTanpHSmx4cjVDS2ZvMUJrbWRIR0ZDYWRjdng3UnJtT0JS?oc=5"
+      "item_id": "66623888b9faf017",
+      "published_at": "2026-10-16T06:23:33Z",
+      "source_name": "中国雄安官网",
+      "title": "国家体育总局与中国星网在雄安签署战略合作框架协议 - 中国雄安官网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUxZRGN5YjBtLWpYdVZ3eGIxbjFjWTVNQzNSYjZ4R3MtWUhCbEhWYW83QWRZemQxSkVMdWNtRW83UXRSQkFJVkhKcXpoUEhpdW8yTmI2cTVNemh4WEpneV9fNGtjemZzdDR1TEZwRUZBckFhcGNzNmNLTUxlLXJ4OQ?oc=5"
     },
     {
       "company_id": "landspace",
       "company_name": "蓝箭航天",
       "event_type": "launch",
-      "item_id": "cc46797f03c18763",
-      "published_at": "2026-10-15T02:01:13Z",
-      "source_name": "Jiemian.com",
-      "title": "商业航天突发！朱雀二号“一箭十星”成功发射，SpaceX 申请年发射提至456次 - Jiemian.com",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iMGoxVEpHVHJka2pSdEhwc0NvMEhzNFJJQ3ppTGtidmNaSElGbE5MenFaa0c2NWk3WnZMY2phX0ZybWtGQVBqdXAzdDM1X3lqMDVJOUhmWTU?oc=5"
+      "item_id": "82e2c8cabed5a50f",
+      "published_at": "2026-10-16T06:00:00Z",
+      "source_name": "spacewatch.global",
+      "title": "China’s LandSpace Launches 10 Satellites to Advance Orbital Computing and Communications",
+      "url": "https://spacewatch.global/2026/10/chinas-landspace-launches-10-satellites-to-advance-orbital-computing-and-communications"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "launch",
+      "item_id": "87c3d3d471c25622",
+      "published_at": "2026-10-15T21:07:30Z",
+      "source_name": "satnews.com",
+      "title": "LandSpace Launches Zhuque-2E Carrying Eight ADAspace Orbital Data Center Satellites",
+      "url": "https://satnews.com/2026/10/15/landspace-launches-zhuque-2e-carrying-eight-adaspace-orbital-data-center-satellites"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "other",
+      "item_id": "e182c2b18d2594d2",
+      "published_at": "2026-10-15T21:13:00Z",
+      "source_name": "财富号",
+      "title": "中国公司追赶商业载荷返回，中科宇航把空间制药验证排到2027年 - 财富号",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xNzVLZ0hOamJzZm4xZUE4Z3l3endmTnQyTlh1QVZrNUJyQ2RTQVFYck13a1JvSWFldnI3QUxpdS1KelR1ZFQ0LV9DRW9kU3NtcjNLZnpvbWNMNnZhUjBRek5NNXJkQUNnenpV?oc=5"
     }
   ],
-  "total_items": 39
+  "total_items": 45
 }
