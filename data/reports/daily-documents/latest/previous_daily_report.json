@@ -1,253 +1,154 @@
 {
-  "as_of_date": "2026-10-17",
+  "as_of_date": "2026-10-18",
   "companies": [
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_types": {
-        "launch": 21,
-        "other": 1,
-        "product": 1
-      },
-      "item_count": 23,
-      "latest_title": "Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate"
-    },
-    {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 6,
-        "order": 1,
-        "other": 9
+        "other": 6
       },
-      "item_count": 16,
-      "latest_title": "Live coverage: SpaceX to launch classified payload for U.S. Space Force"
+      "item_count": 6,
+      "latest_title": "SpaceX satellite system not fully operational in Ukraine yet, Zelensky says"
     },
     {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
       "event_types": {
-        "launch": 4
+        "launch": 3
       },
-      "item_count": 4,
-      "latest_title": "朱雀二号一箭十星发射成功，国内商业航天叙事估值锚或上移至“追赶兑现”丨盘前线索 - 东方财富"
+      "item_count": 3,
+      "latest_title": "Blue Origin Invests More Than $3 Billion In Florida Infrastructure To Support Multiple Launches Per Week"
     },
     {
-      "company_id": "china_satnet",
-      "company_name": "中国星网",
+      "company_id": "i_space",
+      "company_name": "星际荣耀",
       "event_types": {
-        "order": 1
+        "product": 2
       },
-      "item_count": 1,
-      "latest_title": "国家体育总局与中国星网在雄安签署战略合作框架协议 - 中国雄安官网"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_types": {
-        "other": 1
-      },
-      "item_count": 1,
-      "latest_title": "中国公司追赶商业载荷返回，中科宇航把空间制药验证排到2027年 - 财富号"
+      "item_count": 2,
+      "latest_title": "“成都造”火箭加速上新！成都产投旗下重产基金投资企业星际荣耀超级工厂冲刺年底竣工 - 搜狐网"
     }
   ],
-  "company_count": 5,
+  "company_count": 3,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 31,
-    "order": 2,
-    "other": 11,
-    "product": 1
+    "launch": 3,
+    "other": 6,
+    "product": 2
   },
-  "generated_at": "2026-10-17T05:36:29.428418Z",
-  "period_end": "2026-10-16",
-  "period_start": "2026-10-16",
-  "report_date": "2026-10-16",
+  "generated_at": "2026-10-18T05:53:57.624970Z",
+  "period_end": "2026-10-17",
+  "period_start": "2026-10-17",
+  "report_date": "2026-10-17",
   "schema_version": "daily_document.v1",
-  "source_count": 19,
+  "source_count": 3,
   "source_counts": {
-    "Blue Origin": 1,
-    "CNBC": 1,
-    "Data Center Dynamics": 1,
-    "Florida Today": 1,
-    "KeepTrack": 1,
-    "Reuters": 1,
-    "Sarasota Herald-Tribune": 1,
-    "SpaceNews": 1,
-    "Spaceflight Now": 3,
-    "WESH": 1,
-    "arstechnica.com": 1,
-    "bing.com": 23,
-    "satnews.com": 2,
-    "space.com": 1,
-    "spacewatch.global": 2,
-    "东方财富": 1,
-    "中国雄安官网": 1,
-    "新浪财经": 1,
-    "财富号": 1
+    "bing.com": 8,
+    "satnews.com": 1,
+    "搜狐网": 2
   },
-  "summary": "2026-10-16 共归档 45 条新闻，覆盖 5 家公司、19 个信息来源。 新闻量较多的公司包括 Blue Origin、SpaceX、蓝箭航天、中国星网。",
+  "summary": "2026-10-17 共归档 11 条新闻，覆盖 3 家公司、3 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、星际荣耀。",
   "top_items": [
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "4dec0a99edc3a188",
-      "published_at": "2026-10-16T13:17:28Z",
-      "source_name": "Spaceflight Now",
-      "title": "Blue Origin to add new Florida launch pads, seeks aggressive increase in New Glenn flight rate",
-      "url": "https://spaceflightnow.com/2026/10/16/blue-origin-to-add-new-florida-launch-pads-seeks-aggressive-increase-in-new-glenn-flight-rate"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "7568804d0f5d2b7e",
-      "published_at": "2026-10-15T19:11:45Z",
-      "source_name": "Spaceflight Now",
-      "title": "Live coverage: SpaceX to launch classified payload for U.S. Space Force",
-      "url": "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "launch",
-      "item_id": "7b8d043660f3d7b3",
-      "published_at": "2026-10-16T08:38:36Z",
-      "source_name": "东方财富",
-      "title": "朱雀二号一箭十星发射成功，国内商业航天叙事估值锚或上移至“追赶兑现”丨盘前线索 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfVjVOeDFDZ2p5Q2lVQjRhTXBOQTNkQ3hpcFVsVnZpLWtoYjBSRGJTTUEzcWxhSGlQTDJTSXdtZWU5NU8tT2d5T1VSOVBjSDE3b251VTNUcTlESU11Nm9abkNSdU56Zw?oc=5"
-    },
-    {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "ecfbd717bd892dd9",
-      "published_at": "2026-10-16T14:48:50Z",
-      "source_name": "Data Center Dynamics",
-      "title": "SpaceX’s Starlink encourages every satellite operator to share data with Stargaze platform, for safety - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUjBROHdKYXVic2xnMWpXTktiVkxhNk5zUjdIYjlqUFhxS2FJcU0yemp3SDVDR001WHlYbjZZLVlDelBFem9sNDJXSmUyUHBlRDFuT2lKbGFnV1NYVVUtMVhKUTlXRmFIb0E0SlJZajR2RGJNanRobTZ0X0dBWHFmR1ItQmJXN29CcGIzMVpkQm1KdW40cEZOcl9TM3BDRGw5NEt1dFB2c19YZjFEVWswb1A0Q0ZvdmE3bzNpanZHSXlidVJZdmhsLTZjQlV2YUZPV1ZSa3pMbUhidjRS?oc=5"
+      "item_id": "dc99a106e2fae3e3",
+      "published_at": "2026-10-17T09:54:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX satellite system not fully operational in Ukraine yet, Zelensky says",
+      "url": "https://seekingalpha.com/news/4654041-spacex-satellite-system-not-fully-restored-ukraine"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "ce5e56cbc7c0bb48",
-      "published_at": "2026-10-16T14:10:16Z",
-      "source_name": "CNBC",
-      "title": "Blue Origin plans $330 million Florida expansion to ramp New Glenn launches - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQzRzd0RqYXpVM1ZyNVo5UmVZSFduN2FLSURPeFU4aGFCTHp4R0swQm5JVkpSWmhfWWIxWmR0ckRKejdkZGpGVG9QcThvenVzMVlsVUxXZS13SWliRGdKaE8tMHZwWUxKS2toVm1ieHY5RzdxSmx0VXdXSEMySEVhOTBB0gGHAUFVX3lxTE95SGRZMVFlc1VSY0QyRTFJYmg3RkZNbWF2X1lpQk9pa3htdEtsWjFfUExYa0toYWY0ejI0X0hmZ0JKT1ZNNDM1UDZvT005dTV0VG5mVVk1TjFIeE43dXF5TzVLOUV5eTk5YTZsN0JyUjc4djEwYjlDUFBJZ0RWQ01SSXpJdkNCTQ?oc=5"
+      "item_id": "3c86514b198fa309",
+      "published_at": "2026-10-17T05:44:00Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin Invests More Than $3 Billion In Florida Infrastructure To Support Multiple Launches Per Week",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad38687559b4e0bb944143fc89f1ce6&url=https%3A%2F%2Fpulse2.com%2Fblue-origin-invests-more-than-3-billion-in-florida-infrastructure-to-support-multiple-launches-per-week%2F&c=16164623016323572148&mkt=en-us"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "6f11826fe2cc4768",
-      "published_at": "2026-10-16T13:58:00Z",
+      "item_id": "205ad518fa75d715",
+      "published_at": "2026-10-17T05:44:00Z",
       "source_name": "bing.com",
-      "title": "Blue Origin Unveils Plans for Massive Upgrade to Its Florida Facilities",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad2d2b0063d4556a4efeaa7c4fd9c38&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fblue-origin-unveils-plans-for-massive-upgrade-to-its-florida-facilities&c=12355984624708347847&mkt=en-us"
+      "title": "Blue Origin Invests More Than $3 Billion In Florida Infrastructure To Support Multiple Launches Per Week",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad42368e5f14b76b268549a1c451ebb&url=https%3A%2F%2Fpulse2.com%2Fblue-origin-invests-more-than-3-billion-in-florida-infrastructure-to-support-multiple-launches-per-week%2F&c=16164623016323572148&mkt=en-us"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "7f2b03458117623d",
-      "published_at": "2026-10-16T13:23:00Z",
+      "item_id": "3b287a7f8d64441a",
+      "published_at": "2026-10-17T04:25:00Z",
       "source_name": "bing.com",
-      "title": "Blue Origin’s Latest Move Shows How It’s Quietly Taking On SpaceX",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad2d2b0063d4556a4efeaa7c4fd9c38&url=https%3A%2F%2Fwww.barrons.com%2Farticles%2Fblue-origin-spacex-new-glenn-rocket-expansion-da658330&c=8565584758244737864&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "80d71bb9e5b2a46d",
-      "published_at": "2026-10-16T13:22:00Z",
-      "source_name": "Florida Today",
-      "title": "After blast, Blue Origin pushes for multiple weekly Florida rocket launches - Florida Today",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQUWhmdm1XcDhZOENjbnYteXhhcGRYSE1pOGNTblJVVC1uRkp6V2hOSXViYlV1S0FNUFNrMnhnUEdpZnpVcnBvRlBwS0dZLV9qaXJrMmRleVhabVJDelFzQmNBNGdoc0NJQlNfZHEwZzdPWUpOS2ZEM1VPb2o2M2FDSWRva0VzblBNUEtUYmtwYkU3OWdoSzRBSkJIMTQwcUdiRl80aG4wV0R6WXJBMk4yTVdHX3dRV3VoXzBEWFpmMkpGTDVoV1ltbGtfbUpsZU9OaEVsZFhHTDd1R0NVaGhZMTBRT1VyTnhuZmwyRE82SmoyZVBzZ2lvWXZrcFFwVFBsaU9v?oc=5"
+      "title": "Blue Origin investing $330M in Florida to boost rocket launches",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad38687559b4e0bb944143fc89f1ce6&url=https%3A%2F%2Fwww.newsbytesapp.com%2Fnews%2Fscience%2Fblue-origin-plans-330m-florida-expansion-to-ramp-new-glenn-launches%2Fstory&c=1011202838251905330&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "baf5c4318963d0a9",
-      "published_at": "2026-10-16T11:58:00Z",
+      "item_id": "d7ec486f32cbbf18",
+      "published_at": "2026-10-17T04:00:00Z",
       "source_name": "bing.com",
-      "title": "White House Directed Pentagon to Restrict Ukraine Starshield Speeds, Clarifying Chain of Command",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad2d2a8f4674c519f273ea9197c4c9f&url=https%3A%2F%2Fsatnews.com%2F2026%2F10%2F16%2Fwhite-house-directed-pentagon-to-restrict-ukraine-starshield-speeds-clarifying-chain-of-command%2F&c=14523409091787116080&mkt=en-us"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "launch",
-      "item_id": "3b7edc5203e317af",
-      "published_at": "2026-10-16T09:41:00Z",
-      "source_name": "新浪财经",
-      "title": "4家“成都投”企业携手完成朱雀二号一箭十星发射任务 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wQlZDenZKXzVsQ1BHV2x2c2QtQmtmZ1RvMnNfZ3A2Z3BubmY2NEFRU29obUpST2RzdUFWWW84VjB6aklGRlI1ZXlnTHRRbXdsQ3ZtMF9WT1d2RHJic3FTXzcyZkUxVkpBZV9HUW9kU2kxMTYtXy14U1VIMjVCOHc?oc=5"
+      "title": "SpaceX Starlink Cuts Hobbled Ukraine Before Russian Bombardment",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad3d059a6724c2490c8053dc415ff18&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-10-17%2Fspacex-starlink-cuts-hobbled-ukraine-before-russian-bombardment&c=8654855889139184372&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "ed2012b393f1d616",
-      "published_at": "2026-10-16T09:17:00Z",
+      "item_id": "7338ee6de3722a19",
+      "published_at": "2026-10-17T03:00:00Z",
       "source_name": "bing.com",
-      "title": "What Starlink direct-to-cell can (and can't) actually do on your phone",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad2d2a8f4674c519f273ea9197c4c9f&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fwhat-starlink-direct-to-cell-can-and-cant-actually-do-on-your-phone%2Far-AA2eo6s4&c=3388073890859713277&mkt=en-us"
+      "title": "SpaceX buys $8 billion spectrum to expand Starlink mobile network",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad3d059a6724c2490c8053dc415ff18&url=https%3A%2F%2Fwww.newsbytesapp.com%2Fnews%2Fscience%2Fspacex-buys-8-billion-spectrum-to-expand-starlink-mobile-network%2Ftldr&c=15278651903235153736&mkt=en-us"
+    },
+    {
+      "company_id": "i_space",
+      "company_name": "星际荣耀",
+      "event_type": "product",
+      "item_id": "d8bb4f41d3bc2da0",
+      "published_at": "2026-10-17T02:32:00Z",
+      "source_name": "搜狐网",
+      "title": "“成都造”火箭加速上新！成都产投旗下重产基金投资企业星际荣耀超级工厂冲刺年底竣工 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BS2VUM1JJSnhRTDI2UVdLUnZQdGRVQ2RUczNzX2VfN290OVp4NHJuUmtkVG14SG9IbXkxRFJrM3BUNHpKTDBoOVdqcjVRaVlZVUE?oc=5"
+    },
+    {
+      "company_id": "i_space",
+      "company_name": "星际荣耀",
+      "event_type": "product",
+      "item_id": "6fbddfb1ad21b811",
+      "published_at": "2026-10-17T02:32:00Z",
+      "source_name": "搜狐网",
+      "title": "“成都造”火箭加速上新！成都产投旗下重产基金投资企业星际荣耀超级工厂冲刺年底竣工 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObl9xSk9OQjJOSUFSSHFaVUFvWVZDeXJVSmJjRkVkR0VJVHdXdE96TWFOTldwOTI0RjMwb2dXYktUMXdYVldzQjFoNVpOU0o4Q1VxODhLb0xrcjA4ZnZhSjNaaDhKcUlpYkRPc2E3cExfakZRcllMWFNkY3p6LVFWU2ZvUXdjLUtYd0NV?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "70ab796ad18e8f3d",
-      "published_at": "2026-10-16T09:17:00Z",
+      "item_id": "7d911730f1066b81",
+      "published_at": "2026-10-17T06:47:00Z",
       "source_name": "bing.com",
-      "title": "What Starlink direct-to-cell can (and can't) actually do on your phone",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad2848dc77e4084bf58974c65a650d1&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fwhat-starlink-direct-to-cell-can-and-cant-actually-do-on-your-phone%2Far-AA2eo6s4&c=3388073890859713277&mkt=en-us"
+      "title": "SpaceX Starlink cuts hobbled Ukraine before Russian bombardment",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad386793e2045a6a0c3e02d9c26d98f&url=https%3A%2F%2Fnationalpost.com%2Fnews%2Fworld%2Fspacex-starlink-cuts-hobbled-ukraine-before-russian-bombardment&c=8884745936111352354&mkt=en-us"
     },
     {
-      "company_id": "china_satnet",
-      "company_name": "中国星网",
-      "event_type": "order",
-      "item_id": "66623888b9faf017",
-      "published_at": "2026-10-16T06:23:33Z",
-      "source_name": "中国雄安官网",
-      "title": "国家体育总局与中国星网在雄安签署战略合作框架协议 - 中国雄安官网",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUxZRGN5YjBtLWpYdVZ3eGIxbjFjWTVNQzNSYjZ4R3MtWUhCbEhWYW83QWRZemQxSkVMdWNtRW83UXRSQkFJVkhKcXpoUEhpdW8yTmI2cTVNemh4WEpneV9fNGtjemZzdDR1TEZwRUZBckFhcGNzNmNLTUxlLXJ4OQ?oc=5"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "launch",
-      "item_id": "82e2c8cabed5a50f",
-      "published_at": "2026-10-16T06:00:00Z",
-      "source_name": "spacewatch.global",
-      "title": "China’s LandSpace Launches 10 Satellites to Advance Orbital Computing and Communications",
-      "url": "https://spacewatch.global/2026/10/chinas-landspace-launches-10-satellites-to-advance-orbital-computing-and-communications"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "launch",
-      "item_id": "87c3d3d471c25622",
-      "published_at": "2026-10-15T21:07:30Z",
-      "source_name": "satnews.com",
-      "title": "LandSpace Launches Zhuque-2E Carrying Eight ADAspace Orbital Data Center Satellites",
-      "url": "https://satnews.com/2026/10/15/landspace-launches-zhuque-2e-carrying-eight-adaspace-orbital-data-center-satellites"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "e182c2b18d2594d2",
-      "published_at": "2026-10-15T21:13:00Z",
-      "source_name": "财富号",
-      "title": "中国公司追赶商业载荷返回，中科宇航把空间制药验证排到2027年 - 财富号",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xNzVLZ0hOamJzZm4xZUE4Z3l3endmTnQyTlh1QVZrNUJyQ2RTQVFYck13a1JvSWFldnI3QUxpdS1KelR1ZFQ0LV9DRW9kU3NtcjNLZnpvbWNMNnZhUjBRek5NNXJkQUNnenpV?oc=5"
+      "item_id": "b11684b347bc3d63",
+      "published_at": "2026-10-17T00:22:00Z",
+      "source_name": "bing.com",
+      "title": "Trump Denies SpaceX’s Starlink Was Slowed Down Over Ukraine By Either White House Or Elon Musk: Report",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad3d059a6724c2490c8053dc415ff18&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fpolitics%2Farticles%2Ftrump-denies-spacex-starlink-slowed-072220589.html&c=3451672025080522714&mkt=en-us"
     }
   ],
-  "total_items": 45
+  "total_items": 11
 }
