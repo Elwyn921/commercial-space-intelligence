@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-10-17
+# 每日新闻情报日报 - 2026-10-18
 
-- Report ID: daily-2026-10-17-8d929c3c
-- Source run: d67911b2-817f-4d9b-add8-5992bb1561be
+- Report ID: daily-2026-10-18-ebdfe15b
+- Source run: 611dbe86-c690-44c4-af41-a813766aab95
 - Generation status: skipped_no_secret
-- Companies covered: 2
-- Total items: 4
+- Companies covered: 1
+- Total items: 1
 
 ## Executive Summary
 
-2026-10-17 共收录 4 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、星际荣耀。
+2026-10-18 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 蓝箭航天。
 
 ## Industry Chain Sections
 
@@ -21,7 +21,7 @@ No LLM summary.
 
 No LLM summary.
 
-- [“成都造”火箭加速上新！成都产投旗下重产基金投资企业星际荣耀超级工厂冲刺年底竣工 - 搜狐网](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BS2VUM1JJSnhRTDI2UVdLUnZQdGRVQ2RUczNzX2VfN290OVp4NHJuUmtkVG14SG9IbXkxRFJrM3BUNHpKTDBoOVdqcjVRaVlZVUE?oc=5) 星际荣耀
+- [国防军工行业周报：朱雀二号改进型遥四一箭十星_行业研究_研报 - 证券之星](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqLVJVTGZZOW93eUtyazRMZHJ1Qk15ZlhidlJLcnlmZWtOWDBPSTlReWJua2Y4QkNUSndTY0hZSXR0LVdmSWpEZnRvUTZ4d3ZnNG5zU0dzc2ZRSWZreVktZ1NB?oc=5) 蓝箭航天
 
 ### 卫星互联网服务
 
@@ -32,16 +32,10 @@ No LLM summary.
 
 No LLM summary.
 
-- [SpaceX Starlink Cuts Hobbled Ukraine Before Russian Bombardment](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad3d059a6724c2490c8053dc415ff18&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-10-17%2Fspacex-starlink-cuts-hobbled-ukraine-before-russian-bombardment&c=8654855889139184372&mkt=en-us) SpaceX
-- [SpaceX buys $8 billion spectrum to expand Starlink mobile network](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad3d059a6724c2490c8053dc415ff18&url=https%3A%2F%2Fwww.newsbytesapp.com%2Fnews%2Fscience%2Fspacex-buys-8-billion-spectrum-to-expand-starlink-mobile-network%2Ftldr&c=15278651903235153736&mkt=en-us) SpaceX
-- [Trump Denies SpaceX’s Starlink Was Slowed Down Over Ukraine By Either White House Or Elon Musk: Report](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad3d059a6724c2490c8053dc415ff18&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fpolitics%2Farticles%2Ftrump-denies-spacex-starlink-slowed-072220589.html&c=3451672025080522714&mkt=en-us) SpaceX
 
 ## Top News
 
-- [SpaceX Starlink Cuts Hobbled Ukraine Before Russian Bombardment](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad3d059a6724c2490c8053dc415ff18&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-10-17%2Fspacex-starlink-cuts-hobbled-ukraine-before-russian-bombardment&c=8654855889139184372&mkt=en-us) SpaceX
-- [SpaceX buys $8 billion spectrum to expand Starlink mobile network](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad3d059a6724c2490c8053dc415ff18&url=https%3A%2F%2Fwww.newsbytesapp.com%2Fnews%2Fscience%2Fspacex-buys-8-billion-spectrum-to-expand-starlink-mobile-network%2Ftldr&c=15278651903235153736&mkt=en-us) SpaceX
-- [“成都造”火箭加速上新！成都产投旗下重产基金投资企业星际荣耀超级工厂冲刺年底竣工 - 搜狐网](https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BS2VUM1JJSnhRTDI2UVdLUnZQdGRVQ2RUczNzX2VfN290OVp4NHJuUmtkVG14SG9IbXkxRFJrM3BUNHpKTDBoOVdqcjVRaVlZVUE?oc=5) 星际荣耀
-- [Trump Denies SpaceX’s Starlink Was Slowed Down Over Ukraine By Either White House Or Elon Musk: Report](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad3d059a6724c2490c8053dc415ff18&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fpolitics%2Farticles%2Ftrump-denies-spacex-starlink-slowed-072220589.html&c=3451672025080522714&mkt=en-us) SpaceX
+- [国防军工行业周报：朱雀二号改进型遥四一箭十星_行业研究_研报 - 证券之星](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqLVJVTGZZOW93eUtyazRMZHJ1Qk15ZlhidlJLcnlmZWtOWDBPSTlReWJua2Y4QkNUSndTY0hZSXR0LVdmSWpEZnRvUTZ4d3ZnNG5zU0dzc2ZRSWZreVktZ1NB?oc=5) 蓝箭航天
 
 ## Risks And Watchpoints
 
