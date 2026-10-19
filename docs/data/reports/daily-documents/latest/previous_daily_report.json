@@ -1,154 +1,147 @@
 {
-  "as_of_date": "2026-10-18",
+  "as_of_date": "2026-10-19",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "other": 6
+        "launch": 1,
+        "other": 5
       },
       "item_count": 6,
-      "latest_title": "SpaceX satellite system not fully operational in Ukraine yet, Zelensky says"
+      "latest_title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_types": {
-        "launch": 3
+        "launch": 2,
+        "market": 1
       },
       "item_count": 3,
-      "latest_title": "Blue Origin Invests More Than $3 Billion In Florida Infrastructure To Support Multiple Launches Per Week"
+      "latest_title": "Blue Origin Expands Florida Launch Pads To Challenge SpaceX Launch Dominance"
     },
     {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
       "event_types": {
-        "product": 2
+        "launch": 1
       },
-      "item_count": 2,
-      "latest_title": "“成都造”火箭加速上新！成都产投旗下重产基金投资企业星际荣耀超级工厂冲刺年底竣工 - 搜狐网"
+      "item_count": 1,
+      "latest_title": "国防军工行业周报：朱雀二号改进型遥四一箭十星_行业研究_研报 - 证券之星"
     }
   ],
   "company_count": 3,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 3,
-    "other": 6,
-    "product": 2
+    "launch": 4,
+    "market": 1,
+    "other": 5
   },
-  "generated_at": "2026-10-18T05:53:57.624970Z",
-  "period_end": "2026-10-17",
-  "period_start": "2026-10-17",
-  "report_date": "2026-10-17",
+  "generated_at": "2026-10-19T06:13:07.525303Z",
+  "period_end": "2026-10-18",
+  "period_start": "2026-10-18",
+  "report_date": "2026-10-18",
   "schema_version": "daily_document.v1",
-  "source_count": 3,
+  "source_count": 4,
   "source_counts": {
-    "bing.com": 8,
+    "Orlando Sentinel": 1,
+    "bing.com": 7,
     "satnews.com": 1,
-    "搜狐网": 2
+    "证券之星": 1
   },
-  "summary": "2026-10-17 共归档 11 条新闻，覆盖 3 家公司、3 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、星际荣耀。",
+  "summary": "2026-10-18 共归档 10 条新闻，覆盖 3 家公司、4 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、蓝箭航天。",
   "top_items": [
     {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "market",
+      "item_id": "38ace67e0117d93a",
+      "published_at": "2026-10-18T06:17:00Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin Expands Florida Launch Pads To Challenge SpaceX Launch Dominance",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad4de3551c14a3a9bc72ed01a338f96&url=https%3A%2F%2Ffinance.yahoo.com%2Fmarkets%2Fstocks%2Farticles%2Fblue-origin-expands-florida-launch-131725553.html&c=10141144988208808260&mkt=en-us"
+    },
+    {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "dc99a106e2fae3e3",
-      "published_at": "2026-10-17T09:54:00Z",
+      "item_id": "c3229285ff4e87fc",
+      "published_at": "2026-10-18T12:38:00Z",
       "source_name": "bing.com",
-      "title": "SpaceX satellite system not fully operational in Ukraine yet, Zelensky says",
-      "url": "https://seekingalpha.com/news/4654041-spacex-satellite-system-not-fully-restored-ukraine"
+      "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad521911b75413ab9f0eda1a9eef849&url=https%3A%2F%2Fwww.npr.org%2F2026%2F10%2F18%2Fnx-s1-6007382%2Fukraine-us-starshield-starlink-what-to-know-trump&c=264665149169218166&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "a9d6093e345ec4ba",
+      "published_at": "2026-10-18T11:43:22Z",
+      "source_name": "bing.com",
+      "title": "Rep. Turner calls for congressional probe into Starlink disruption",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad52191ee2c40d192f9a771cc085edb&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Frep-turner-calls-for-congressional-probe-into-starlink-disruption%2Far-AA2evf7G&c=3793746434998441055&mkt=en-us"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "3c86514b198fa309",
-      "published_at": "2026-10-17T05:44:00Z",
+      "item_id": "5b57496ff3aec213",
+      "published_at": "2026-10-18T11:02:18Z",
+      "source_name": "Orlando Sentinel",
+      "title": "Blue Origin expansion plans aim for multiple Space Coast launches a week - Orlando Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSlktQ01CNER1RExtUThKdXZXLXNjdEI4RzF6dUd4RjFIN01zeHBUOGhxSTgtNldzeTBUWlMydGFQdzlUc1EyX1lpSHp3MnlHR0xZVXIyRzNEbjVZQ0h0eVZEQW52X19DMGxJZTU5bXdoTDQwV1dkRTB4d0FIQjVSNFVFT0d2WjM2Ymk4WVRrUFNmcno2UkEzUkNzUm9RR3JraVdXb0Ftd3hvdTA?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "98d3021dee115008",
+      "published_at": "2026-10-18T08:17:00Z",
       "source_name": "bing.com",
-      "title": "Blue Origin Invests More Than $3 Billion In Florida Infrastructure To Support Multiple Launches Per Week",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad38687559b4e0bb944143fc89f1ce6&url=https%3A%2F%2Fpulse2.com%2Fblue-origin-invests-more-than-3-billion-in-florida-infrastructure-to-support-multiple-launches-per-week%2F&c=16164623016323572148&mkt=en-us"
+      "title": "How Many Starlink Satellites Are In Orbit Today?",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad52191ee2c40d192f9a771cc085edb&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fhow-many-starlink-satellites-are-in-orbit-today%2Far-AA2euRIU&c=9633417631829055202&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "3ffc3790e1482598",
+      "published_at": "2026-10-18T06:55:00Z",
+      "source_name": "bing.com",
+      "title": "Zelenskyy Says Starlink Restrictions Continue, Harms Ukraine's Military, People",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad4de2dd74a4e9bb854c7ee34d53b57&url=https%3A%2F%2Fwww.newsmax.com%2Fworld%2Fglobaltalk%2Fukraine-starlink-russia%2F2026%2F10%2F18%2Fid%2F1273170%2F&c=11526329941400504245&mkt=en-us"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "205ad518fa75d715",
-      "published_at": "2026-10-17T05:44:00Z",
+      "item_id": "c124e8386fc750e0",
+      "published_at": "2026-10-18T04:17:00Z",
       "source_name": "bing.com",
-      "title": "Blue Origin Invests More Than $3 Billion In Florida Infrastructure To Support Multiple Launches Per Week",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad42368e5f14b76b268549a1c451ebb&url=https%3A%2F%2Fpulse2.com%2Fblue-origin-invests-more-than-3-billion-in-florida-infrastructure-to-support-multiple-launches-per-week%2F&c=16164623016323572148&mkt=en-us"
+      "title": "Blue Origin expansion plans aim for multiple Space Coast launches a week",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad4de3551c14a3a9bc72ed01a338f96&url=https%3A%2F%2Fwww.sun-sentinel.com%2F2026%2F10%2F18%2Fblue-origin-expansion-plans-aim-for-weekly-space-coast-launches%2F&c=17057560126563629161&mkt=en-us"
     },
     {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "e94f04b81e610019",
+      "published_at": "2026-10-17T18:23:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX Is Buying Airwaves to Take On the Wireless Carriers. Is the Stock a Buy?",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad4de2dd74a4e9bb854c7ee34d53b57&url=https%3A%2F%2Fwww.fool.com%2Finvesting%2F2026%2F10%2F18%2Fspacex-is-buying-airwaves-to-take-on-the-wireless-carriers-is-the-stock-a-buy%2F&c=12274392196476650092&mkt=en-us"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
       "event_type": "launch",
-      "item_id": "3b287a7f8d64441a",
-      "published_at": "2026-10-17T04:25:00Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin investing $330M in Florida to boost rocket launches",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad38687559b4e0bb944143fc89f1ce6&url=https%3A%2F%2Fwww.newsbytesapp.com%2Fnews%2Fscience%2Fblue-origin-plans-330m-florida-expansion-to-ramp-new-glenn-launches%2Fstory&c=1011202838251905330&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "d7ec486f32cbbf18",
-      "published_at": "2026-10-17T04:00:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX Starlink Cuts Hobbled Ukraine Before Russian Bombardment",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad3d059a6724c2490c8053dc415ff18&url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-10-17%2Fspacex-starlink-cuts-hobbled-ukraine-before-russian-bombardment&c=8654855889139184372&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "7338ee6de3722a19",
-      "published_at": "2026-10-17T03:00:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX buys $8 billion spectrum to expand Starlink mobile network",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad3d059a6724c2490c8053dc415ff18&url=https%3A%2F%2Fwww.newsbytesapp.com%2Fnews%2Fscience%2Fspacex-buys-8-billion-spectrum-to-expand-starlink-mobile-network%2Ftldr&c=15278651903235153736&mkt=en-us"
-    },
-    {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
-      "event_type": "product",
-      "item_id": "d8bb4f41d3bc2da0",
-      "published_at": "2026-10-17T02:32:00Z",
-      "source_name": "搜狐网",
-      "title": "“成都造”火箭加速上新！成都产投旗下重产基金投资企业星际荣耀超级工厂冲刺年底竣工 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BS2VUM1JJSnhRTDI2UVdLUnZQdGRVQ2RUczNzX2VfN290OVp4NHJuUmtkVG14SG9IbXkxRFJrM3BUNHpKTDBoOVdqcjVRaVlZVUE?oc=5"
-    },
-    {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
-      "event_type": "product",
-      "item_id": "6fbddfb1ad21b811",
-      "published_at": "2026-10-17T02:32:00Z",
-      "source_name": "搜狐网",
-      "title": "“成都造”火箭加速上新！成都产投旗下重产基金投资企业星际荣耀超级工厂冲刺年底竣工 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObl9xSk9OQjJOSUFSSHFaVUFvWVZDeXJVSmJjRkVkR0VJVHdXdE96TWFOTldwOTI0RjMwb2dXYktUMXdYVldzQjFoNVpOU0o4Q1VxODhLb0xrcjA4ZnZhSjNaaDhKcUlpYkRPc2E3cExfakZRcllMWFNkY3p6LVFWU2ZvUXdjLUtYd0NV?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "7d911730f1066b81",
-      "published_at": "2026-10-17T06:47:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX Starlink cuts hobbled Ukraine before Russian bombardment",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad386793e2045a6a0c3e02d9c26d98f&url=https%3A%2F%2Fnationalpost.com%2Fnews%2Fworld%2Fspacex-starlink-cuts-hobbled-ukraine-before-russian-bombardment&c=8884745936111352354&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "b11684b347bc3d63",
-      "published_at": "2026-10-17T00:22:00Z",
-      "source_name": "bing.com",
-      "title": "Trump Denies SpaceX’s Starlink Was Slowed Down Over Ukraine By Either White House Or Elon Musk: Report",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad3d059a6724c2490c8053dc415ff18&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fpolitics%2Farticles%2Ftrump-denies-spacex-starlink-slowed-072220589.html&c=3451672025080522714&mkt=en-us"
+      "item_id": "2a619471bc49d5e4",
+      "published_at": "2026-10-17T23:45:00Z",
+      "source_name": "证券之星",
+      "title": "国防军工行业周报：朱雀二号改进型遥四一箭十星_行业研究_研报 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqLVJVTGZZOW93eUtyazRMZHJ1Qk15ZlhidlJLcnlmZWtOWDBPSTlReWJua2Y4QkNUSndTY0hZSXR0LVdmSWpEZnRvUTZ4d3ZnNG5zU0dzc2ZRSWZreVktZ1NB?oc=5"
     }
   ],
-  "total_items": 11
+  "total_items": 10
 }
