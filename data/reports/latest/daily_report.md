@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-10-20
 
-- Report ID: daily-2026-10-20-c1318b1c
-- Source run: f5b30cc6-2165-42bc-8f0d-d71bbc114abd
+- Report ID: daily-2026-10-21-10c7359d
+- Source run: aa3bd25d-2863-42dd-926c-5b760ba72075
 - Generation status: skipped_no_secret
 - Companies covered: 2
-- Total items: 8
+- Total items: 5
 
 ## Executive Summary
 
-2026-10-20 共收录 8 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
+2026-10-21 共收录 5 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
 
 ## Industry Chain Sections
 
@@ -31,17 +31,17 @@ No LLM summary.
 
 No LLM summary.
 
-- [LIVE: SpaceX Starlink launch - The Audubon County Advocate Journal](https://news.google.com/rss/articles/CBMihwFBVV95cUxNejVmcUtWRjdrVXpGLVNCUW4yZkxweUV1WXhCRzRFRDBiQ1Q5RTBVTXZMZS03bExBTW1CaGxVVW9pd1RqQmhxN2hOcjVTeWRCNVRiUC1kYi1mTlR1c2NkVndMU0VXU3p1aXFhUUc4eGg5S0gyY2doQ1FCRjZKcjd3M0ZtRzZTZ1k?oc=5) SpaceX
-- [Planet Labs Launches Pelican-12 Aboard SpaceX Bandwagon-5 to Test Orbital AI and Satellite Relays](https://satnews.com/2026/10/20/planet-labs-launches-pelican-12-aboard-spacex-bandwagon-5-to-test-orbital-ai-and-satellite-relays) SpaceX
-- [SpaceX's next rocket launch to tie California's 2025 record. Watch - Ventura County Star](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2ZiQW12aVQxU045d0JsWjVybU9PM1dTOWZEVzBfejlYQ0M3cXktckNZV1U5ZDNoWVN6YWw0YjZXWEt3T1BTNHl1UXBBckdiOHBhRk9aZ1pnNkhlNm1Xc3dMZmxfNnFsQ0RrTjBEdXdsRS15cWd0VGItVEE5dmNBX3I3VUJTWEFnWk1YNEZXbXdNR0lwRHlsbnVjeTh0WmZlRXZkc19manRodG9Ya3VFNDVPZ1dIZEJkWUxPQkU2SG9YcHF6OVplVGVn?oc=5) SpaceX
-- [Blue Origin’s P-Sampler Launches Aboard JAXA's Martian Moons eXploration Mission - Blue Origin](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQkVtNlVXRU1MeURXOGNIM1lpQWVHdWVJbmM5dXJ0VW56T09qaGgwSDRPY21GanNFMGQzMmllTzZlUmo5Yjc5alQ4UDhlaW5aNmlsOFlzTDhmT1lKTkRNY0g2R3BEM2lFQ3NyMUpER25NaTVlVjZxd1VVRUQ4T3Bob2d6Nlc5ODNjNzY2UFFiVkl6UVd5UndqQUJ6STVXcGplazBSNGoyYWJKa0dZ?oc=5) Blue Origin
+- [Starlink mission set to launch today from Vandenberg SFB - Lompoc Record](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOazh3ZTVsWGRLQjhjbWZ0YTcwT1podHhNaGJaNVpwSWd6VDBjdUE3Z3FveERvRjh2dnlZYTdTa19RVjZHcWd4UlVsYkNSRzd2dExpdDN3TVpQSFRCbnEyeW5yTG92dlJzN3l2UnlHT1ozODl0ZEtTVGFIRnNZdTF4V0o4T1RWUXA1QTJjcnNWNkVnUHFxWEg2d3Y5WXNiMVg2blEwY1pjVF9VOW1iaHVqVEd0Q0lDeVNSTGxiZ0RiVFBLTnRZRlVlQkdIWmdLeklmV05hRnVSNmlIOVZFSWV5VnBHTGRJLUhaVG1ZM3hJbHFjekFM?oc=5) SpaceX
+- [Four Democratic Senators Ask SpaceX for Answers on Starshield Restrictions](https://www.satellitetoday.com/government-military/2026/10/20/four-democratic-senators-ask-spacex-for-answers-on-starshield-restrictions) SpaceX
+- [32 Payloads Catch a Ride on Morning SpaceX Bandwagon Mission](https://www.satellitetoday.com/launch/2026/10/20/32-payloads-catch-a-ride-on-morning-spacex-bandwagon-mission) SpaceX
+- [Blue Origin Florida Infrastructure Investment Tops $3 Billion Ahead of High-Cadence New Glenn Operations](https://satnews.com/2026/10/20/blue-origin-florida-infrastructure-investment-tops-3-billion-ahead-of-high-cadence-new-glenn-operations) Blue Origin
 
 ## Top News
 
-- [LIVE: SpaceX Starlink launch - The Audubon County Advocate Journal](https://news.google.com/rss/articles/CBMihwFBVV95cUxNejVmcUtWRjdrVXpGLVNCUW4yZkxweUV1WXhCRzRFRDBiQ1Q5RTBVTXZMZS03bExBTW1CaGxVVW9pd1RqQmhxN2hOcjVTeWRCNVRiUC1kYi1mTlR1c2NkVndMU0VXU3p1aXFhUUc4eGg5S0gyY2doQ1FCRjZKcjd3M0ZtRzZTZ1k?oc=5) SpaceX
-- [Planet Labs Launches Pelican-12 Aboard SpaceX Bandwagon-5 to Test Orbital AI and Satellite Relays](https://satnews.com/2026/10/20/planet-labs-launches-pelican-12-aboard-spacex-bandwagon-5-to-test-orbital-ai-and-satellite-relays) SpaceX
-- [SpaceX's next rocket launch to tie California's 2025 record. Watch - Ventura County Star](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2ZiQW12aVQxU045d0JsWjVybU9PM1dTOWZEVzBfejlYQ0M3cXktckNZV1U5ZDNoWVN6YWw0YjZXWEt3T1BTNHl1UXBBckdiOHBhRk9aZ1pnNkhlNm1Xc3dMZmxfNnFsQ0RrTjBEdXdsRS15cWd0VGItVEE5dmNBX3I3VUJTWEFnWk1YNEZXbXdNR0lwRHlsbnVjeTh0WmZlRXZkc19manRodG9Ya3VFNDVPZ1dIZEJkWUxPQkU2SG9YcHF6OVplVGVn?oc=5) SpaceX
-- [Blue Origin’s P-Sampler Launches Aboard JAXA's Martian Moons eXploration Mission - Blue Origin](https://news.google.com/rss/articles/CBMirAFBVV95cUxQQkVtNlVXRU1MeURXOGNIM1lpQWVHdWVJbmM5dXJ0VW56T09qaGgwSDRPY21GanNFMGQzMmllTzZlUmo5Yjc5alQ4UDhlaW5aNmlsOFlzTDhmT1lKTkRNY0g2R3BEM2lFQ3NyMUpER25NaTVlVjZxd1VVRUQ4T3Bob2d6Nlc5ODNjNzY2UFFiVkl6UVd5UndqQUJ6STVXcGplazBSNGoyYWJKa0dZ?oc=5) Blue Origin
+- [Starlink mission set to launch today from Vandenberg SFB - Lompoc Record](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOazh3ZTVsWGRLQjhjbWZ0YTcwT1podHhNaGJaNVpwSWd6VDBjdUE3Z3FveERvRjh2dnlZYTdTa19RVjZHcWd4UlVsYkNSRzd2dExpdDN3TVpQSFRCbnEyeW5yTG92dlJzN3l2UnlHT1ozODl0ZEtTVGFIRnNZdTF4V0o4T1RWUXA1QTJjcnNWNkVnUHFxWEg2d3Y5WXNiMVg2blEwY1pjVF9VOW1iaHVqVEd0Q0lDeVNSTGxiZ0RiVFBLTnRZRlVlQkdIWmdLeklmV05hRnVSNmlIOVZFSWV5VnBHTGRJLUhaVG1ZM3hJbHFjekFM?oc=5) SpaceX
+- [Four Democratic Senators Ask SpaceX for Answers on Starshield Restrictions](https://www.satellitetoday.com/government-military/2026/10/20/four-democratic-senators-ask-spacex-for-answers-on-starshield-restrictions) SpaceX
+- [32 Payloads Catch a Ride on Morning SpaceX Bandwagon Mission](https://www.satellitetoday.com/launch/2026/10/20/32-payloads-catch-a-ride-on-morning-spacex-bandwagon-mission) SpaceX
+- [Blue Origin Florida Infrastructure Investment Tops $3 Billion Ahead of High-Cadence New Glenn Operations](https://satnews.com/2026/10/20/blue-origin-florida-infrastructure-investment-tops-3-billion-ahead-of-high-cadence-new-glenn-operations) Blue Origin
 
 ## Risks And Watchpoints
 
