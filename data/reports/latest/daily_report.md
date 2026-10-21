@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-10-20
+# 每日新闻情报日报 - 2026-10-21
 
-- Report ID: daily-2026-10-21-10c7359d
-- Source run: aa3bd25d-2863-42dd-926c-5b760ba72075
+- Report ID: daily-2026-10-21-9bb7f9b7
+- Source run: d4ae543c-e409-4f65-ad8a-d0e83c00d948
 - Generation status: skipped_no_secret
 - Companies covered: 2
-- Total items: 5
+- Total items: 10
 
 ## Executive Summary
 
-2026-10-21 共收录 5 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
+2026-10-21 共收录 10 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
 
 ## Industry Chain Sections
 
@@ -31,16 +31,16 @@ No LLM summary.
 
 No LLM summary.
 
-- [Starlink mission set to launch today from Vandenberg SFB - Lompoc Record](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOazh3ZTVsWGRLQjhjbWZ0YTcwT1podHhNaGJaNVpwSWd6VDBjdUE3Z3FveERvRjh2dnlZYTdTa19RVjZHcWd4UlVsYkNSRzd2dExpdDN3TVpQSFRCbnEyeW5yTG92dlJzN3l2UnlHT1ozODl0ZEtTVGFIRnNZdTF4V0o4T1RWUXA1QTJjcnNWNkVnUHFxWEg2d3Y5WXNiMVg2blEwY1pjVF9VOW1iaHVqVEd0Q0lDeVNSTGxiZ0RiVFBLTnRZRlVlQkdIWmdLeklmV05hRnVSNmlIOVZFSWV5VnBHTGRJLUhaVG1ZM3hJbHFjekFM?oc=5) SpaceX
-- [Four Democratic Senators Ask SpaceX for Answers on Starshield Restrictions](https://www.satellitetoday.com/government-military/2026/10/20/four-democratic-senators-ask-spacex-for-answers-on-starshield-restrictions) SpaceX
-- [32 Payloads Catch a Ride on Morning SpaceX Bandwagon Mission](https://www.satellitetoday.com/launch/2026/10/20/32-payloads-catch-a-ride-on-morning-spacex-bandwagon-mission) SpaceX
+- [SpaceX scrubs launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB - Spaceflight Now](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVGROSVRDU2ZpNE9XVzRtMWhKUFR1aWFLazlEaFdGanZxNTFWaTZScHY5cG5uT01HZGZwWldYOHNRcVRjdXZzSjhSdVdQbU50cmtvVmxaNHhTY2FWeElwN0s1NktlT3hhbjNmTVphMXV5UTE5MldBeElVSWp5UmJrdWtQcXhiT1ZVQklJTDhXZ0FfemRjd2lLazFjOGFZR29VMkYxUzJkTFBFeF9Oa1pLZ0RYSmc3NnBTSmUtWGZlMzFjMEMyTmp1NXNOY0U3UQ?oc=5) SpaceX
+- [SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says) SpaceX
+- [WATCH LIVE: SpaceX launches 27 Starlink satellites from California base - Fox News](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BLWxlQkhSbEFXMGpySjQ1b2pkdTFWbzl6ZUozbHQ3Z2NSTHVoVU8zeEZqcW9tOWRIWGM3UzhVZGJSOVpyVHdZMVZfY0U2WXZENnQtUXdR?oc=5) SpaceX
 - [Blue Origin Florida Infrastructure Investment Tops $3 Billion Ahead of High-Cadence New Glenn Operations](https://satnews.com/2026/10/20/blue-origin-florida-infrastructure-investment-tops-3-billion-ahead-of-high-cadence-new-glenn-operations) Blue Origin
 
 ## Top News
 
-- [Starlink mission set to launch today from Vandenberg SFB - Lompoc Record](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOazh3ZTVsWGRLQjhjbWZ0YTcwT1podHhNaGJaNVpwSWd6VDBjdUE3Z3FveERvRjh2dnlZYTdTa19RVjZHcWd4UlVsYkNSRzd2dExpdDN3TVpQSFRCbnEyeW5yTG92dlJzN3l2UnlHT1ozODl0ZEtTVGFIRnNZdTF4V0o4T1RWUXA1QTJjcnNWNkVnUHFxWEg2d3Y5WXNiMVg2blEwY1pjVF9VOW1iaHVqVEd0Q0lDeVNSTGxiZ0RiVFBLTnRZRlVlQkdIWmdLeklmV05hRnVSNmlIOVZFSWV5VnBHTGRJLUhaVG1ZM3hJbHFjekFM?oc=5) SpaceX
-- [Four Democratic Senators Ask SpaceX for Answers on Starshield Restrictions](https://www.satellitetoday.com/government-military/2026/10/20/four-democratic-senators-ask-spacex-for-answers-on-starshield-restrictions) SpaceX
-- [32 Payloads Catch a Ride on Morning SpaceX Bandwagon Mission](https://www.satellitetoday.com/launch/2026/10/20/32-payloads-catch-a-ride-on-morning-spacex-bandwagon-mission) SpaceX
+- [SpaceX scrubs launch of 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB - Spaceflight Now](https://news.google.com/rss/articles/CBMizgFBVV95cUxNVGROSVRDU2ZpNE9XVzRtMWhKUFR1aWFLazlEaFdGanZxNTFWaTZScHY5cG5uT01HZGZwWldYOHNRcVRjdXZzSjhSdVdQbU50cmtvVmxaNHhTY2FWeElwN0s1NktlT3hhbjNmTVphMXV5UTE5MldBeElVSWp5UmJrdWtQcXhiT1ZVQklJTDhXZ0FfemRjd2lLazFjOGFZR29VMkYxUzJkTFBFeF9Oa1pLZ0RYSmc3NnBTSmUtWGZlMzFjMEMyTmp1NXNOY0U3UQ?oc=5) SpaceX
+- [SpaceX will attempt 1st-ever double Starship rocket catch on next test launch, a 'profound technology milestone,' Elon Musk says](https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says) SpaceX
+- [WATCH LIVE: SpaceX launches 27 Starlink satellites from California base - Fox News](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BLWxlQkhSbEFXMGpySjQ1b2pkdTFWbzl6ZUozbHQ3Z2NSTHVoVU8zeEZqcW9tOWRIWGM3UzhVZGJSOVpyVHdZMVZfY0U2WXZENnQtUXdR?oc=5) SpaceX
 - [Blue Origin Florida Infrastructure Investment Tops $3 Billion Ahead of High-Cadence New Glenn Operations](https://satnews.com/2026/10/20/blue-origin-florida-infrastructure-investment-tops-3-billion-ahead-of-high-cadence-new-glenn-operations) Blue Origin
 
 ## Risks And Watchpoints
