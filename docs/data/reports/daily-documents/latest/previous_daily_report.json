@@ -1,255 +1,139 @@
 {
-  "as_of_date": "2026-10-22",
+  "as_of_date": "2026-10-23",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 10,
-        "order": 5,
-        "other": 12
+        "funding": 2,
+        "launch": 6,
+        "order": 2,
+        "other": 8,
+        "regulation": 2
       },
-      "item_count": 27,
-      "latest_title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB"
+      "item_count": 20,
+      "latest_title": "SpaceX Falcon 9 Starlink 15-15 Launch Rescheduled for Thursday Afternoon Liftoff from Vandenberg - edhat"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_types": {
+        "other": 1
+      },
+      "item_count": 1,
+      "latest_title": "亚马逊LEO和上海垣信卫星预计2027年进入哈萨克斯坦市场 - 哈通社"
     },
     {
       "company_id": "galactic_energy",
       "company_name": "星河动力",
       "event_types": {
-        "launch": 7,
-        "other": 1
-      },
-      "item_count": 8,
-      "latest_title": "谷神星一号海上发射告捷 全球首个低倾角遥感星座首星升空 - 东方财富"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_types": {
-        "launch": 3,
-        "other": 1
-      },
-      "item_count": 4,
-      "latest_title": "Blue Origin Plans Multiple Space Coast Launches per Week - Thomasnet"
-    },
-    {
-      "company_id": "china_satnet",
-      "company_name": "中国星网",
-      "event_types": {
-        "other": 1
-      },
-      "item_count": 1,
-      "latest_title": "丁薛祥调研中国星网 - 通信世界网"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_types": {
         "launch": 1
       },
       "item_count": 1,
-      "latest_title": "对话中科宇航副总裁樊娜：预计3到5年内，中国商业火箭发射成本将低于美国 - 中新经纬"
+      "latest_title": "谷神星一号海射型遥八运载火箭在日照海域成功发射 - 新浪财经"
     }
   ],
-  "company_count": 5,
+  "company_count": 3,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 21,
-    "order": 5,
-    "other": 15
+    "funding": 2,
+    "launch": 7,
+    "order": 2,
+    "other": 9,
+    "regulation": 2
   },
-  "generated_at": "2026-10-22T06:07:44.956750Z",
-  "period_end": "2026-10-21",
-  "period_start": "2026-10-21",
-  "report_date": "2026-10-21",
+  "generated_at": "2026-10-23T06:03:26.678744Z",
+  "period_end": "2026-10-22",
+  "period_start": "2026-10-22",
+  "report_date": "2026-10-22",
   "schema_version": "daily_document.v1",
-  "source_count": 22,
+  "source_count": 12,
   "source_counts": {
-    "21财经": 1,
-    "Drive Tesla Canada": 1,
-    "Fox News": 1,
-    "Lompoc Record": 1,
-    "Santa Maria Times": 1,
-    "SatNews Publishers": 1,
-    "Spaceflight Now": 2,
-    "The Desert Sun": 1,
-    "The Japan Times": 1,
-    "Thomasnet": 1,
-    "bing.com": 15,
-    "satellitetoday.com": 2,
-    "satnews.com": 2,
-    "space.com": 1,
-    "spaceintelreport.com": 1,
-    "东方财富": 2,
-    "中新经纬": 1,
-    "新浪财经": 2,
-    "第一财经": 1,
-    "经济观察网": 1,
-    "财联社电报": 1,
-    "通信世界网": 1
+    "Business Outreach Magazine": 1,
+    "CNBC": 1,
+    "Shoreline Media Group": 1,
+    "arstechnica.com": 1,
+    "bing.com": 11,
+    "edhat": 1,
+    "https://tech-insider.org/": 1,
+    "livetube.tv": 1,
+    "satellitetoday.com": 1,
+    "shattered.io": 1,
+    "哈通社": 1,
+    "新浪财经": 1
   },
-  "summary": "2026-10-21 共归档 41 条新闻，覆盖 5 家公司、22 个信息来源。 新闻量较多的公司包括 SpaceX、星河动力、Blue Origin、中国星网。",
+  "summary": "2026-10-22 共归档 22 条新闻，覆盖 3 家公司、12 个信息来源。 新闻量较多的公司包括 SpaceX、垣信卫星、星河动力。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "ab1abe4d3e07c938",
-      "published_at": "2026-10-20T21:18:11Z",
-      "source_name": "Spaceflight Now",
-      "title": "Live coverage: SpaceX to launch 27 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
-      "url": "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "launch",
-      "item_id": "ce11c8d93a853999",
-      "published_at": "2026-10-21T15:34:22Z",
-      "source_name": "东方财富",
-      "title": "谷神星一号海上发射告捷 全球首个低倾角遥感星座首星升空 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LOXdkRlpyWEhSVTNoOXNVUGdZOTJIeFRUSXkzNmxtR3pzeUdXbHN3endBd3FEbXBhR084VktaMmFEdFFUU04tSW1DSDVFeC1UV3VYQllyTVFlMS1qUEFGdWZKWlpFZw?oc=5"
+      "item_id": "4a124663e13b1a13",
+      "published_at": "2026-10-22T15:22:27Z",
+      "source_name": "edhat",
+      "title": "SpaceX Falcon 9 Starlink 15-15 Launch Rescheduled for Thursday Afternoon Liftoff from Vandenberg - edhat",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUWJtX2lzTnk5UVRhUlJZNzdJU29GV21pZ2VzUHQwcXFPWHR5ZEZIUENXZ0d1T3N0bHp0QmpsSkxtcW0tS0hwd000TFJnaE1jb0dSMWQtVFMwbEI4M0M4QnF5V1FfUlluVkRaSVlqQzJPTkJUcmtRaGM1NEY2Skw2WFV2NUFLdHNsQnhCbFdheUFndw?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "29e8794f61c9c1e6",
-      "published_at": "2026-10-21T15:30:13Z",
-      "source_name": "spaceintelreport.com",
-      "title": "Mobile satellite service/terminal provider Ovzon: SpaceX Starshield issue in Ukraine proves the need for autonomy",
-      "url": "https://www.spaceintelreport.com/mobile-satellite-service-terminal-provider-ovzon-spacex-starshield-issue-in-ukraine-proves-the-need-for-autonomy"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "other",
-      "item_id": "80df33c30732fb48",
-      "published_at": "2026-10-21T15:04:36Z",
-      "source_name": "东方财富",
-      "title": "谷神星一号海射成功，商业航天运力稳步迭代 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LaDRma25XdTh4V0NjRi1obWhsY01LTGlvYVhfdnRpREtMTUtXWTM3Sm45b1gzNkhyLTJxRlR1aVdXeGVRMmdOamt5dy10RFNWNTFYS0pRemY1dWpUdXhtTjUtSnpJUQ?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "6fef69a48c27a6f3",
-      "published_at": "2026-10-21T14:26:53Z",
-      "source_name": "satnews.com",
-      "title": "Starlink Surges to 13.6 Million Subscribers as GSMA Assesses TAM Penetration and Telco Defense",
-      "url": "https://satnews.com/2026/10/21/starlink-surges-to-13-6-million-subscribers-as-gsma-assesses-tam-penetration-and-telco-defense"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "7c4a5dd5027b58b1",
-      "published_at": "2026-10-21T12:50:52Z",
-      "source_name": "Thomasnet",
-      "title": "Blue Origin Plans Multiple Space Coast Launches per Week - Thomasnet",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tSm9yWjBqTHUtaWJQUmllM2pFczNObXk0V2FYNWpna0FrSHJJdDJtWS1nVXNtd2h1cS1saXpiY3BTaXpXTHRKQmtWR2kxTGVxYWpBa0NFMDFOSTJYWS1HbjJuaHc0R3lzZkYxNkU0YUdrYXVOd1dscA?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "2abd5917e2543385",
-      "published_at": "2026-10-21T08:52:00Z",
+      "event_type": "order",
+      "item_id": "50d580060d7ccc02",
+      "published_at": "2026-10-22T13:19:00Z",
       "source_name": "bing.com",
-      "title": "SpaceX Plans First Full Starship Catch As AI Revenue Passes Starlink",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad96ed4ac9e4f0fb7eb474e91de18a1&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjonmarkman%2F2026%2F10%2F21%2Fspacex-plans-first-full-starship-catch-as-ai-revenue-passes-starlink%2F&c=13923098810777694165&mkt=en-us"
+      "title": "Trump Asked Musk to Lift Starlink Curbs on Ukraine",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ada77e3ef86499ea8a369b8175408e2&url=https%3A%2F%2Fwww.newsmax.com%2Fpolitics%2Fstarlink-elon-musk-ukraine%2F2026%2F10%2F22%2Fid%2F1273703%2F&c=7862493379830843433&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "order",
+      "item_id": "e7d1f129b41e5cea",
+      "published_at": "2026-10-22T12:39:00Z",
+      "source_name": "bing.com",
+      "title": "Trump asks Musk to restore Starlink speeds in Ukraine amid Pentagon concerns: WSJ",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ada77e3ef86499ea8a369b8175408e2&url=https%3A%2F%2Fseekingalpha.com%2Fnews%2F4656134-trump-asks-musk-to-restore-starlink-speeds-in-ukraine-amid-pentagon-concerns-wsj&c=12318756121970615812&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "24722821acee731b",
-      "published_at": "2026-10-21T08:52:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX Plans First Full Starship Catch As AI Revenue Passes Starlink",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad9273a5a2c4d82bd01a2300b6c8d26&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fjonmarkman%2F2026%2F10%2F21%2Fspacex-plans-first-full-starship-catch-as-ai-revenue-passes-starlink%2F&c=13923098810777694165&mkt=en-us"
+      "item_id": "5f910ca189bbd622",
+      "published_at": "2026-10-22T09:34:25Z",
+      "source_name": "Business Outreach Magazine",
+      "title": "SpaceX Starlink Launch: 28 Satellites in Orbit in 2026 - Business Outreach Magazine",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03M0F2N2poYUlyVGM2bFpSSDhuNXJQN05LeEJwWVpoalUxbndQMkJBUFI0bTBvSlQ1cVo1RnVGQXJZTVNkTTB0R2Z5akE3SWdMd0t0T2Y2cHlqY01leHdoai1jckRLZ1hDYWY3X1FMMmMydVNyNjlSUQ?oc=5"
     },
     {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "launch",
-      "item_id": "4e3bb4ebb928d2aa",
-      "published_at": "2026-10-21T07:44:00Z",
-      "source_name": "经济观察网",
-      "title": "星河动力航天：谷神星一号海射型（遥八）运载火箭发射圆满成功 - 经济观察网",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85VVlTdGVXWVYxX0JYNHBOZWhzRXpOQkMwbDRrLWlsRnpLZFdVSmIwZ1RUbE5kZ1ltZTgtNFVtN250ZHc1cWhIRmhmT3d6NzRmbmRycnF1c1U?oc=5"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "1575139f4160fc6a",
-      "published_at": "2026-10-21T07:29:22Z",
-      "source_name": "中新经纬",
-      "title": "对话中科宇航副总裁樊娜：预计3到5年内，中国商业火箭发射成本将低于美国 - 中新经纬",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wVzlqZnNveWtOZmdOaUlCWWt0eDhGa2ZMd3RSMVMxZEx5b2VsLUFrVlJGUWYtalF4YkNDMmltZXhyZjNvVG1xanFvTzlSbG1CSzhaeG1QQ0FoVWJtTU5jZTNjd29IZk0?oc=5"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "launch",
-      "item_id": "f0155fc9f54a9a1c",
-      "published_at": "2026-10-21T07:24:09Z",
-      "source_name": "财联社电报",
-      "title": "谷神星一号海上发射告捷 全球首个低倾角遥感星座首星升空 - 财联社电报",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9acm56N3JhX09sNjNzMGJRRlZILW9wQWk1U0FBcGg5ZTNnbWtsa0x0MVVVbk1GUVFweUZ4cDZZRjF5YUJueFE?oc=5"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "launch",
-      "item_id": "83b5ae917309f48b",
-      "published_at": "2026-10-21T07:01:00Z",
-      "source_name": "21财经",
-      "title": "谷神星一号完成第7次海上发射，“五羊星座”先导星入轨 - 21财经",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0xHREJfR3FLTTdFRURRMlNxSXh5alZybm1xV0toYVd2cmdXbDFNQ3Z5NnVtLWlENGR2VEplRHpJQlBuMTdZLWtaejBtcWNYeEVYWkFMS1RXay1kcmZMQ1BOYWhoZXVVSnFURm5IeFltLTN2OVVTa19rN2FzV1hLdkpZMFBoYkg3NV9PblU5TQ?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "9dbd3a15dd0862be",
-      "published_at": "2026-10-21T02:47:18Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin’s New Glenn reached orbit before SpaceX’s Starship",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ad92742c26d49d8a62e1064aeec789f&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-reached-orbit-before-spacex-s-starship%2Fvi-AA2euyWq&c=17748920667294948434&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "c1cdb7bc8a1f392e",
-      "published_at": "2026-10-20T16:19:04Z",
-      "source_name": "satnews.com",
-      "title": "Blue Origin Florida Infrastructure Investment Tops $3 Billion Ahead of High-Cadence New Glenn Operations",
-      "url": "https://satnews.com/2026/10/20/blue-origin-florida-infrastructure-investment-tops-3-billion-ahead-of-high-cadence-new-glenn-operations"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
       "event_type": "other",
-      "item_id": "b047d020f1aeee62",
-      "published_at": "2026-10-20T16:19:04Z",
-      "source_name": "SatNews Publishers",
-      "title": "Blue Origin Florida Infrastructure Investment Tops $3 Billion Ahead of High-Cadence New Glenn Operations - SatNews Publishers",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNTlsdXI1RnBJbHdxUFV1SFdQZGs3a2xwSmNoaFpDZzFZdG5rQlRqcXQzRE5VdXZjdXp1Qi04UmktRERDenBGVXZkaFp5MGg5ci12ekRzbFBtcUV1MnpKUjJFdmMyWHRHU3ItYWYtZUVaUk9WLWpCM19wSHlzQWp6TGw5UnAtVUZqQUVpLWV4ejRybjNPRWw2VE5SaHpGRVhDTGJVT0cyd1RGcGVTMXUxMnFsNERRNk90SjRTZE45Wk40X3I5eUtPM1g4RGRUSjlq?oc=5"
+      "item_id": "fe524297527514b0",
+      "published_at": "2026-10-22T07:40:00Z",
+      "source_name": "哈通社",
+      "title": "亚马逊LEO和上海垣信卫星预计2027年进入哈萨克斯坦市场 - 哈通社",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5LTBHd2ZlYUJEcHF2OTBBUFozZW9rekNsaXdqcVpsYnFTUlI2Y3BYaU9IN2E2QlZHMFFUakNxUjVjZXRJVTVZY0NrZHVqSUhHRWM5Nm1xODduN0FobmdBLWNXRE4xeVdn0gFnQVVfeXFMTlp1RHlraU1TR0RVSk50MTRKQXUxa05HTUJfNUpMWTgxc0d2a2JxWFZ3TTBkN3d6OTROdlZmNVFSTEhvM0ZkQ01GNEVNMm9fN0xXSVdOUXYzZkx2ckNBZHk4OWlhVnFNOA?oc=5"
     },
     {
-      "company_id": "china_satnet",
-      "company_name": "中国星网",
-      "event_type": "other",
-      "item_id": "678509a78542764a",
-      "published_at": "2026-10-21T05:45:00Z",
-      "source_name": "通信世界网",
-      "title": "丁薛祥调研中国星网 - 通信世界网",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uQzZKVVJVNVJVNmJyS0djYnRoMGJoZndNUGdqRXB3T2ZtWGIzQ2pxNjFvbUNEMk94LUVQZjdydGtKVnA4eUs1dnZtbG80RmVYbHc?oc=5"
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "8d1e7b9ce51f5ba1",
+      "published_at": "2026-10-22T05:24:14Z",
+      "source_name": "https://tech-insider.org/",
+      "title": "SpaceX Falcon 9 Launches 28 Starlink Satellites [2026] - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdnRRaDJKT29KVjNJSDdta2RQdXJPSGlaN0hlb3lESGV3RTU1N1pPa3NZRTBjZFZaRmxES3pIV21tT0tJREdfemg2MGNHUk1XTUlVYzZfNDBOZkFqWlJkMWdqM3ZnSERvLWdWS1FiWnpWVDdWVzNFQTFxYURweUU5ZXFjb1A?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "launch",
+      "item_id": "db72435fafb546df",
+      "published_at": "2026-10-21T21:56:39Z",
+      "source_name": "新浪财经",
+      "title": "谷神星一号海射型遥八运载火箭在日照海域成功发射 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92OXRyMm5ZNjkzMnRtMGJ2SU9faGxKOXU4d3FxZXZUMDNFZ3JoZ1R3d3FTYkJJdzhUdEw4QktKYWExYTREQ093THVFM3RWcVZ4aE1CcHhTclNfX09KSU9tVE13eFVNMC1QLThPWXViNkp3b0RMT1hfZg?oc=5"
     }
   ],
-  "total_items": 41
+  "total_items": 22
 }
