@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-10-23
 
-- Report ID: daily-2026-10-23-7617156e
-- Source run: 78aac7cb-074b-402c-96fd-66808d2a70fd
+- Report ID: daily-2026-10-23-ac2e2fbc
+- Source run: c8bb597c-b509-4e2d-8481-afa27b65be63
 - Generation status: skipped_no_secret
 - Companies covered: 2
-- Total items: 8
+- Total items: 13
 
 ## Executive Summary
 
-2026-10-23 共收录 8 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
+2026-10-23 共收录 13 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
 
 ## Industry Chain Sections
 
@@ -31,16 +31,16 @@ No LLM summary.
 
 No LLM summary.
 
-- [Europe moves to box in Starlink with new satellite spectrum rules](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adb3880da7040079f625f006626f779&url=https%3A%2F%2Fcryptobriefing.com%2Feurope-starlink-spectrum-allocation-fight%2F&c=278796458155740619&mkt=en-us) SpaceX
-- [AT&T, Verizon, T-Mobile Shares Slip As SpaceX Reportedly Holds Cell Tower Talks For Starlink Mobile](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adb3880da7040079f625f006626f779&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fat-t-verizon-t-mobile-shares-slip-as-spacex-reportedly-holds-cell-tower-talks-for-starlink-mobile%2Far-AA2fUmNK&c=14080575734702459294&mkt=en-us) SpaceX
-- [SpaceX Falcon 9 Aborts Starlink 15-15 Launch at Vandenberg - BASENOR](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3dIQm1kaW5ObXJULUhUYm5PX1ltTlVyNjN5bzZDYVdIVlFvMGdla2E0bjA4X1RkSkRxN3lNcFpvYU9iSXdJcUQzOS1CeHRkaFdmcFZhUFJSWjZ4SVNKLWViS0dhWXN1dzFFSjU0aDhQUFU1SDF5QXJmQTh3cnhlRXA3YjUwdHBNTEFqSjVtallHSGFxQUFUQw?oc=5) SpaceX
+- [Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready](https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready) SpaceX
+- [Despite Trump Outreach to Musk, Starlink Speeds Still Restricted in Ukraine](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adb843f33b54013b7418f5c1aaa2d52&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdespite-trump-outreach-to-musk-starlink-speeds-still-restricted-in-ukraine&c=11800565301740812205&mkt=en-us) SpaceX
+- [Explainer - What is going on with SpaceX's Starlink and Starshield in Ukraine?](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adb843f33b54013b7418f5c1aaa2d52&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fexplainer-what-is-going-on-with-spacexs-starlink-and-starshield-in-ukraine%2Far-AA2fW9sP&c=14262169605749662523&mkt=en-us) SpaceX
 - [Blue Origin asks to increase New Glenn launches to 50 per year - WKMG](https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3VxTGhmVHVjaW5WRWNmN05zYkdyS0hjMGswY0dNQW5nRDl1Y3VPSTBybVVsWURZOHlxbW1HcWFXUzl5NlNfZFR2Tkh0RXM2S2Rkak5RNk5Wc0tuV2VMUktlTlRqTDlGaGZjcktldTlCeEpaMEhnVERkNUxETWJKbDV1ZlpLckhkQUw1TUhqM0hsYWZTQ2xkWnhJSHJ6dHNfYmo5bFAyZzFSdkFRSWcwaUFCSWw?oc=5) Blue Origin
 
 ## Top News
 
-- [Europe moves to box in Starlink with new satellite spectrum rules](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adb3880da7040079f625f006626f779&url=https%3A%2F%2Fcryptobriefing.com%2Feurope-starlink-spectrum-allocation-fight%2F&c=278796458155740619&mkt=en-us) SpaceX
-- [AT&T, Verizon, T-Mobile Shares Slip As SpaceX Reportedly Holds Cell Tower Talks For Starlink Mobile](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adb3880da7040079f625f006626f779&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fat-t-verizon-t-mobile-shares-slip-as-spacex-reportedly-holds-cell-tower-talks-for-starlink-mobile%2Far-AA2fUmNK&c=14080575734702459294&mkt=en-us) SpaceX
-- [SpaceX Falcon 9 Aborts Starlink 15-15 Launch at Vandenberg - BASENOR](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3dIQm1kaW5ObXJULUhUYm5PX1ltTlVyNjN5bzZDYVdIVlFvMGdla2E0bjA4X1RkSkRxN3lNcFpvYU9iSXdJcUQzOS1CeHRkaFdmcFZhUFJSWjZ4SVNKLWViS0dhWXN1dzFFSjU0aDhQUFU1SDF5QXJmQTh3cnhlRXA3YjUwdHBNTEFqSjVtallHSGFxQUFUQw?oc=5) SpaceX
+- [Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready](https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready) SpaceX
+- [Despite Trump Outreach to Musk, Starlink Speeds Still Restricted in Ukraine](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adb843f33b54013b7418f5c1aaa2d52&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdespite-trump-outreach-to-musk-starlink-speeds-still-restricted-in-ukraine&c=11800565301740812205&mkt=en-us) SpaceX
+- [Explainer - What is going on with SpaceX's Starlink and Starshield in Ukraine?](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adb843f33b54013b7418f5c1aaa2d52&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fexplainer-what-is-going-on-with-spacexs-starlink-and-starshield-in-ukraine%2Far-AA2fW9sP&c=14262169605749662523&mkt=en-us) SpaceX
 - [Blue Origin asks to increase New Glenn launches to 50 per year - WKMG](https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3VxTGhmVHVjaW5WRWNmN05zYkdyS0hjMGswY0dNQW5nRDl1Y3VPSTBybVVsWURZOHlxbW1HcWFXUzl5NlNfZFR2Tkh0RXM2S2Rkak5RNk5Wc0tuV2VMUktlTlRqTDlGaGZjcktldTlCeEpaMEhnVERkNUxETWJKbDV1ZlpLckhkQUw1TUhqM0hsYWZTQ2xkWnhJSHJ6dHNfYmo5bFAyZzFSdkFRSWcwaUFCSWw?oc=5) Blue Origin
 
 ## Risks And Watchpoints
