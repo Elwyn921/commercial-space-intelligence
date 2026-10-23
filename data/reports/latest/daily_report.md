@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-10-23
 
-- Report ID: daily-2026-10-23-ac2e2fbc
-- Source run: c8bb597c-b509-4e2d-8481-afa27b65be63
+- Report ID: daily-2026-10-23-ec5ca9d2
+- Source run: 2a3c7b5d-a946-4092-8a52-dbbfcc629d8d
 - Generation status: skipped_no_secret
-- Companies covered: 2
-- Total items: 13
+- Companies covered: 3
+- Total items: 16
 
 ## Executive Summary
 
-2026-10-23 共收录 13 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
+2026-10-23 共收录 16 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin、星河动力。
 
 ## Industry Chain Sections
 
@@ -21,6 +21,7 @@ No LLM summary.
 
 No LLM summary.
 
+- [顺利将“西光肆号01星”送入近地轨道谷神星一号海射型（遥八）运载火箭发射成功_科技前沿 - 北京经济技术开发区](https://news.google.com/rss/articles/CBMigwFBVV95cUxONG82QW5wWjBveENacVNPaTlibjZULThySTdvaWJ1RDNkaGphcURoMHVDdUx0c3BmMkZfSWVXUi01cXFFaHdkTzk1SkZtVlNwTVRLRGZRSV9NeFlBUm43NGlxeG4xb0VsVk8tWkRSRDJCZEQySDVLYXdYTklOZ0lEeHkzQQ?oc=5) 星河动力
 
 ### 卫星互联网服务
 
@@ -31,16 +32,17 @@ No LLM summary.
 
 No LLM summary.
 
+- [Elon Musk Says Ukraine's Elites Profit From War as Starlink Restrictions Disrupt Ukrainian Drones](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adbc6b2da5742f3984c7e0aa29774fb&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fpolitics%2Farticles%2Felon-musk-says-ukraines-elites-193007240.html&c=14533300471636762486&mkt=en-us) SpaceX
 - [Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready](https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready) SpaceX
-- [Despite Trump Outreach to Musk, Starlink Speeds Still Restricted in Ukraine](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adb843f33b54013b7418f5c1aaa2d52&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdespite-trump-outreach-to-musk-starlink-speeds-still-restricted-in-ukraine&c=11800565301740812205&mkt=en-us) SpaceX
-- [Explainer - What is going on with SpaceX's Starlink and Starshield in Ukraine?](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adb843f33b54013b7418f5c1aaa2d52&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fexplainer-what-is-going-on-with-spacexs-starlink-and-starshield-in-ukraine%2Far-AA2fW9sP&c=14262169605749662523&mkt=en-us) SpaceX
+- [Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adbc6b2da5742f3984c7e0aa29774fb&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fmarkets%2Fmusks-spacex-is-still-restricting-starlink-in-ukraine-and-the-toll-is-rising%2Far-AA2fWwQS&c=792762716288465572&mkt=en-us) SpaceX
 - [Blue Origin asks to increase New Glenn launches to 50 per year - WKMG](https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3VxTGhmVHVjaW5WRWNmN05zYkdyS0hjMGswY0dNQW5nRDl1Y3VPSTBybVVsWURZOHlxbW1HcWFXUzl5NlNfZFR2Tkh0RXM2S2Rkak5RNk5Wc0tuV2VMUktlTlRqTDlGaGZjcktldTlCeEpaMEhnVERkNUxETWJKbDV1ZlpLckhkQUw1TUhqM0hsYWZTQ2xkWnhJSHJ6dHNfYmo5bFAyZzFSdkFRSWcwaUFCSWw?oc=5) Blue Origin
 
 ## Top News
 
+- [Elon Musk Says Ukraine's Elites Profit From War as Starlink Restrictions Disrupt Ukrainian Drones](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adbc6b2da5742f3984c7e0aa29774fb&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fpolitics%2Farticles%2Felon-musk-says-ukraines-elites-193007240.html&c=14533300471636762486&mkt=en-us) SpaceX
 - [Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready](https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready) SpaceX
-- [Despite Trump Outreach to Musk, Starlink Speeds Still Restricted in Ukraine](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adb843f33b54013b7418f5c1aaa2d52&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fdespite-trump-outreach-to-musk-starlink-speeds-still-restricted-in-ukraine&c=11800565301740812205&mkt=en-us) SpaceX
-- [Explainer - What is going on with SpaceX's Starlink and Starshield in Ukraine?](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adb843f33b54013b7418f5c1aaa2d52&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fexplainer-what-is-going-on-with-spacexs-starlink-and-starshield-in-ukraine%2Far-AA2fW9sP&c=14262169605749662523&mkt=en-us) SpaceX
+- [Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adbc6b2da5742f3984c7e0aa29774fb&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fmarkets%2Fmusks-spacex-is-still-restricting-starlink-in-ukraine-and-the-toll-is-rising%2Far-AA2fWwQS&c=792762716288465572&mkt=en-us) SpaceX
+- [顺利将“西光肆号01星”送入近地轨道谷神星一号海射型（遥八）运载火箭发射成功_科技前沿 - 北京经济技术开发区](https://news.google.com/rss/articles/CBMigwFBVV95cUxONG82QW5wWjBveENacVNPaTlibjZULThySTdvaWJ1RDNkaGphcURoMHVDdUx0c3BmMkZfSWVXUi01cXFFaHdkTzk1SkZtVlNwTVRLRGZRSV9NeFlBUm43NGlxeG4xb0VsVk8tWkRSRDJCZEQySDVLYXdYTklOZ0lEeHkzQQ?oc=5) 星河动力
 - [Blue Origin asks to increase New Glenn launches to 50 per year - WKMG](https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3VxTGhmVHVjaW5WRWNmN05zYkdyS0hjMGswY0dNQW5nRDl1Y3VPSTBybVVsWURZOHlxbW1HcWFXUzl5NlNfZFR2Tkh0RXM2S2Rkak5RNk5Wc0tuV2VMUktlTlRqTDlGaGZjcktldTlCeEpaMEhnVERkNUxETWJKbDV1ZlpLckhkQUw1TUhqM0hsYWZTQ2xkWnhJSHJ6dHNfYmo5bFAyZzFSdkFRSWcwaUFCSWw?oc=5) Blue Origin
 
 ## Risks And Watchpoints
