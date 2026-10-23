@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-10-22
+# 每日新闻情报日报 - 2026-10-23
 
-- Report ID: daily-2026-10-23-bdfa3169
-- Source run: 7f7a6906-ca2a-4fcb-b492-65f0c8c96ff1
+- Report ID: daily-2026-10-23-6b516239
+- Source run: 9ace38d7-97c8-41ff-84d9-38b71616f2e3
 - Generation status: skipped_no_secret
-- Companies covered: 1
-- Total items: 3
+- Companies covered: 2
+- Total items: 6
 
 ## Executive Summary
 
-2026-10-23 共收录 3 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-10-23 共收录 6 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
 
 ## Industry Chain Sections
 
@@ -31,15 +31,17 @@ No LLM summary.
 
 No LLM summary.
 
+- [SpaceX Falcon 9 Aborts Starlink 15-15 Launch at Vandenberg - BASENOR](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3dIQm1kaW5ObXJULUhUYm5PX1ltTlVyNjN5bzZDYVdIVlFvMGdla2E0bjA4X1RkSkRxN3lNcFpvYU9iSXdJcUQzOS1CeHRkaFdmcFZhUFJSWjZ4SVNKLWViS0dhWXN1dzFFSjU0aDhQUFU1SDF5QXJmQTh3cnhlRXA3YjUwdHBNTEFqSjVtallHSGFxQUFUQw?oc=5) SpaceX
+- [Latest estimate for Starship launches required to support a Moon landing? 22.](https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22) SpaceX
+- [Blue Origin asks to increase New Glenn launches to 50 per year - WKMG](https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3VxTGhmVHVjaW5WRWNmN05zYkdyS0hjMGswY0dNQW5nRDl1Y3VPSTBybVVsWURZOHlxbW1HcWFXUzl5NlNfZFR2Tkh0RXM2S2Rkak5RNk5Wc0tuV2VMUktlTlRqTDlGaGZjcktldTlCeEpaMEhnVERkNUxETWJKbDV1ZlpLckhkQUw1TUhqM0hsYWZTQ2xkWnhJSHJ6dHNfYmo5bFAyZzFSdkFRSWcwaUFCSWw?oc=5) Blue Origin
 - [After Starshield interruption, Ukraine wants to build its own satellite communication network with ICEYE and Nokia](https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia) SpaceX
-- [FCC Approves SpaceX Deal for Tristar's AWS-3 Spectrum to Expand Starlink Direct-to-Device Service - Drive Tesla Canada](https://news.google.com/rss/articles/CBMiggFBVV95cUxPZmo2SXdOVmJBZ1ZkcWVBN2J4T0pfU3ozNU9QQVFXQUVzaF94a3FfbF9DR0ZBSjRTQWZPcXp3MW42emVBdDJnbU1BUHJmSklYVGpRMmM3N2lPUS1KRjBneTlIcFZNQU55Yko3ZEtST1g4UmNOb0ViYmlzNFdZU1kyV0xn?oc=5) SpaceX
-- [Space Force Reassigns Six National Security Launches to SpaceX Amid Vulcan Grounding](https://satnews.com/2026/10/22/space-force-reassigns-six-national-security-launches-to-spacex-amid-vulcan-grounding) SpaceX
 
 ## Top News
 
+- [SpaceX Falcon 9 Aborts Starlink 15-15 Launch at Vandenberg - BASENOR](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3dIQm1kaW5ObXJULUhUYm5PX1ltTlVyNjN5bzZDYVdIVlFvMGdla2E0bjA4X1RkSkRxN3lNcFpvYU9iSXdJcUQzOS1CeHRkaFdmcFZhUFJSWjZ4SVNKLWViS0dhWXN1dzFFSjU0aDhQUFU1SDF5QXJmQTh3cnhlRXA3YjUwdHBNTEFqSjVtallHSGFxQUFUQw?oc=5) SpaceX
+- [Latest estimate for Starship launches required to support a Moon landing? 22.](https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22) SpaceX
+- [Blue Origin asks to increase New Glenn launches to 50 per year - WKMG](https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3VxTGhmVHVjaW5WRWNmN05zYkdyS0hjMGswY0dNQW5nRDl1Y3VPSTBybVVsWURZOHlxbW1HcWFXUzl5NlNfZFR2Tkh0RXM2S2Rkak5RNk5Wc0tuV2VMUktlTlRqTDlGaGZjcktldTlCeEpaMEhnVERkNUxETWJKbDV1ZlpLckhkQUw1TUhqM0hsYWZTQ2xkWnhJSHJ6dHNfYmo5bFAyZzFSdkFRSWcwaUFCSWw?oc=5) Blue Origin
 - [After Starshield interruption, Ukraine wants to build its own satellite communication network with ICEYE and Nokia](https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia) SpaceX
-- [FCC Approves SpaceX Deal for Tristar's AWS-3 Spectrum to Expand Starlink Direct-to-Device Service - Drive Tesla Canada](https://news.google.com/rss/articles/CBMiggFBVV95cUxPZmo2SXdOVmJBZ1ZkcWVBN2J4T0pfU3ozNU9QQVFXQUVzaF94a3FfbF9DR0ZBSjRTQWZPcXp3MW42emVBdDJnbU1BUHJmSklYVGpRMmM3N2lPUS1KRjBneTlIcFZNQU55Yko3ZEtST1g4UmNOb0ViYmlzNFdZU1kyV0xn?oc=5) SpaceX
-- [Space Force Reassigns Six National Security Launches to SpaceX Amid Vulcan Grounding](https://satnews.com/2026/10/22/space-force-reassigns-six-national-security-launches-to-spacex-amid-vulcan-grounding) SpaceX
 
 ## Risks And Watchpoints
 
