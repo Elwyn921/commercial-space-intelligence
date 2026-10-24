@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-10-23
+# 每日新闻情报日报 - 2026-10-24
 
-- Report ID: daily-2026-10-23-ec5ca9d2
-- Source run: 2a3c7b5d-a946-4092-8a52-dbbfcc629d8d
+- Report ID: daily-2026-10-24-f80ec6b4
+- Source run: ca296426-ded4-4b92-bc26-a0770a4d9bba
 - Generation status: skipped_no_secret
-- Companies covered: 3
-- Total items: 16
+- Companies covered: 1
+- Total items: 4
 
 ## Executive Summary
 
-2026-10-23 共收录 16 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin、星河动力。
+2026-10-24 共收录 4 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -21,7 +21,6 @@ No LLM summary.
 
 No LLM summary.
 
-- [顺利将“西光肆号01星”送入近地轨道谷神星一号海射型（遥八）运载火箭发射成功_科技前沿 - 北京经济技术开发区](https://news.google.com/rss/articles/CBMigwFBVV95cUxONG82QW5wWjBveENacVNPaTlibjZULThySTdvaWJ1RDNkaGphcURoMHVDdUx0c3BmMkZfSWVXUi01cXFFaHdkTzk1SkZtVlNwTVRLRGZRSV9NeFlBUm43NGlxeG4xb0VsVk8tWkRSRDJCZEQySDVLYXdYTklOZ0lEeHkzQQ?oc=5) 星河动力
 
 ### 卫星互联网服务
 
@@ -32,18 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
-- [Elon Musk Says Ukraine's Elites Profit From War as Starlink Restrictions Disrupt Ukrainian Drones](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adbc6b2da5742f3984c7e0aa29774fb&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fpolitics%2Farticles%2Felon-musk-says-ukraines-elites-193007240.html&c=14533300471636762486&mkt=en-us) SpaceX
-- [Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready](https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready) SpaceX
-- [Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adbc6b2da5742f3984c7e0aa29774fb&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fmarkets%2Fmusks-spacex-is-still-restricting-starlink-in-ukraine-and-the-toll-is-rising%2Far-AA2fWwQS&c=792762716288465572&mkt=en-us) SpaceX
-- [Blue Origin asks to increase New Glenn launches to 50 per year - WKMG](https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3VxTGhmVHVjaW5WRWNmN05zYkdyS0hjMGswY0dNQW5nRDl1Y3VPSTBybVVsWURZOHlxbW1HcWFXUzl5NlNfZFR2Tkh0RXM2S2Rkak5RNk5Wc0tuV2VMUktlTlRqTDlGaGZjcktldTlCeEpaMEhnVERkNUxETWJKbDV1ZlpLckhkQUw1TUhqM0hsYWZTQ2xkWnhJSHJ6dHNfYmo5bFAyZzFSdkFRSWcwaUFCSWw?oc=5) Blue Origin
+- [SpaceX Launches 27 Starlink Satellites from Vandenberg - BASENOR](https://news.google.com/rss/articles/CBMikwFBVV95cUxNc0lFSzNpUzY3SG5HTVFFbzlEQlpudGROZnE3RXV6TEZGNmxBTGs0QzVRajVjMjI5X0NIT1ZieEM5eUU1TTZNOHJXdndTblRVb2J1UG5mMTNFNjVFYS1UVlgzbjdVbWlCaThCcG0xUUQ4Q2FrLUpjc0FOajliaDFHMnJ3Nk03NzdtN3JtSUt6d1JIRTA?oc=5) SpaceX
+- [SpaceX launches 27 Starlink satellites from California — Space.com - UA.NEWS](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmI2dkdWb3R0dHF4Vk94RUcwa3lIS2hWSUlQRFRxYXBockhISVlBNkxaTGdnZlFET3NQc1hpc24wZFpWaGlTS0dhS3huN3dRSVRaX0tEeFdhN3Z5MWFCWTZkV1pyWVNXZ0pfZUdjdWFyWnE5RnJkdmRZOW11RkJ3NzBYTGdCc2twNXR0S20ycmd3X2NFQTZKMGhtb1c?oc=5) SpaceX
+- [SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (photos)](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly) SpaceX
 
 ## Top News
 
-- [Elon Musk Says Ukraine's Elites Profit From War as Starlink Restrictions Disrupt Ukrainian Drones](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adbc6b2da5742f3984c7e0aa29774fb&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fpolitics%2Farticles%2Felon-musk-says-ukraines-elites-193007240.html&c=14533300471636762486&mkt=en-us) SpaceX
-- [Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready](https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready) SpaceX
-- [Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adbc6b2da5742f3984c7e0aa29774fb&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fmarkets%2Fmusks-spacex-is-still-restricting-starlink-in-ukraine-and-the-toll-is-rising%2Far-AA2fWwQS&c=792762716288465572&mkt=en-us) SpaceX
-- [顺利将“西光肆号01星”送入近地轨道谷神星一号海射型（遥八）运载火箭发射成功_科技前沿 - 北京经济技术开发区](https://news.google.com/rss/articles/CBMigwFBVV95cUxONG82QW5wWjBveENacVNPaTlibjZULThySTdvaWJ1RDNkaGphcURoMHVDdUx0c3BmMkZfSWVXUi01cXFFaHdkTzk1SkZtVlNwTVRLRGZRSV9NeFlBUm43NGlxeG4xb0VsVk8tWkRSRDJCZEQySDVLYXdYTklOZ0lEeHkzQQ?oc=5) 星河动力
-- [Blue Origin asks to increase New Glenn launches to 50 per year - WKMG](https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3VxTGhmVHVjaW5WRWNmN05zYkdyS0hjMGswY0dNQW5nRDl1Y3VPSTBybVVsWURZOHlxbW1HcWFXUzl5NlNfZFR2Tkh0RXM2S2Rkak5RNk5Wc0tuV2VMUktlTlRqTDlGaGZjcktldTlCeEpaMEhnVERkNUxETWJKbDV1ZlpLckhkQUw1TUhqM0hsYWZTQ2xkWnhJSHJ6dHNfYmo5bFAyZzFSdkFRSWcwaUFCSWw?oc=5) Blue Origin
+- [SpaceX Launches 27 Starlink Satellites from Vandenberg - BASENOR](https://news.google.com/rss/articles/CBMikwFBVV95cUxNc0lFSzNpUzY3SG5HTVFFbzlEQlpudGROZnE3RXV6TEZGNmxBTGs0QzVRajVjMjI5X0NIT1ZieEM5eUU1TTZNOHJXdndTblRVb2J1UG5mMTNFNjVFYS1UVlgzbjdVbWlCaThCcG0xUUQ4Q2FrLUpjc0FOajliaDFHMnJ3Nk03NzdtN3JtSUt6d1JIRTA?oc=5) SpaceX
+- [SpaceX launches 27 Starlink satellites from California — Space.com - UA.NEWS](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmI2dkdWb3R0dHF4Vk94RUcwa3lIS2hWSUlQRFRxYXBockhISVlBNkxaTGdnZlFET3NQc1hpc24wZFpWaGlTS0dhS3huN3dRSVRaX0tEeFdhN3Z5MWFCWTZkV1pyWVNXZ0pfZUdjdWFyWnE5RnJkdmRZOW11RkJ3NzBYTGdCc2twNXR0S20ycmd3X2NFQTZKMGhtb1c?oc=5) SpaceX
+- [SpaceX launches Starlink satellites from California as Falcon 9 cadence slows (photos)](https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly) SpaceX
 
 ## Risks And Watchpoints
 
