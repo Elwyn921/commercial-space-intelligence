@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-10-25
 
-- Report ID: daily-2026-10-25-2291747f
-- Source run: 845abf0a-279f-421f-92db-c5b93b34d549
+- Report ID: daily-2026-10-25-51b88f72
+- Source run: c102bdd2-6d18-4942-84a8-ba7e69a39ada
 - Generation status: skipped_no_secret
 - Companies covered: 2
-- Total items: 10
+- Total items: 12
 
 ## Executive Summary
 
-2026-10-25 共收录 10 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、蓝箭航天。
+2026-10-25 共收录 12 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、蓝箭航天。
 
 ## Industry Chain Sections
 
@@ -32,16 +32,16 @@ No LLM summary.
 
 No LLM summary.
 
-- [Starlink Group 15-15: 27 Satellites Launched [2026] - tech-insider.org](https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXdEVDVKWU1GckhBeTdFTFUzSVZzZWRXNnJNNElYSmxmOWRkREVaeXUySVpJb2dqclk0QWE2YzRGS0p2Q21vdE1TWU5BRnM1dWNBYks5S2hDSndIQ3VES1NGZGtmcVVJRmlnWU1nS3hWWVBMdzZYWTJKX1MzQTM1cWRn?oc=5) SpaceX
-- [Why is Ukraine so reliant on Starlink and can Europe plug the gap? - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tdWhQQlR3VEdTQ3h4aVVoVExPdzdDbUJmTmczR1RNOTVmVlA3b1BqeWRNUW1GV2l0VTBabXBkdnJlQjU5TlFGc1FGUnk2ZWhrVE1ST2N4MV83b1k?oc=5) SpaceX
-- [Starlink continues to expand its satellite network... SpaceX launches a new batch of internet satellites - صوت الإمارات](https://news.google.com/rss/articles/CBMitAJBVV95cUxQVGVYVTVXMkZjODZNajNpWGZ1Y011M1ZkVzNvWDRlZDJyaENqaDgtS2RLZk4tUXRJRmJOaWxZbjJ0bERqV1ZTVXdmVnA4SVFXYWNpUm56QU5fWk9ZRnd5UmkxNGMtUFhFakZ3OFhUNG9GaWhpWHB4TGxhZzJHYnJTMHN0Z1FfWUQxNGo2dG5mdVhTMkJmT3pPTUJTUFJKM2xpU0t1c0t6WFFJQV8tTlg3cmdpd0p1cHRCQ3B6WVdsOTNjNlYzbk9RZGxEMGxEbzdPNy0zZi1CeGVTcXptNDc0NWNaOHhiWTU3SEZ4d25IUTVYNlQ2MUV3X20zVDM1dTc5elp4NU1JQi1rYms1NGlqSDFtcGRReXFOdDVyMHViYnQwQ0J6NkhNY2FZWnprbWVLYjAxeQ?oc=5) SpaceX
+- [Elon Musk confirms SpaceX throttled Ukraine Starlink access over service restrictions](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ade1b0251f64e93bf87b78890a5cc81&url=https%3A%2F%2Fwww.thenews.com.pk%2Flatest%2F1421251-elon-musk-confirms-spacex-throttled-ukraine-starlink-access-over-service-restrictions&c=6411483752678194163&mkt=en-ca) SpaceX
+- [Starlink Group 15-15: 27 Satellites Launched [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXdEVDVKWU1GckhBeTdFTFUzSVZzZWRXNnJNNElYSmxmOWRkREVaeXUySVpJb2dqclk0QWE2YzRGS0p2Q21vdE1TWU5BRnM1dWNBYks5S2hDSndIQ3VES1NGZGtmcVVJRmlnWU1nS3hWWVBMdzZYWTJKX1MzQTM1cWRn?oc=5) SpaceX
+- [Elon Musk reveals reason behind Starlink slowdown as speeds restored in Ukraine](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ade1b0251f64e93bf87b78890a5cc81&url=https%3A%2F%2Fjang.com.pk%2Fen%2F75184-elon-musk-reveals-reason-behind-starlink-slowdown-as-speeds-restored-in-ukraine-news&c=14270934340280406145&mkt=en-ca) SpaceX
 
 ## Top News
 
 - [张昉深山试车千次助蓝箭航天升空 - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTE91eGsyNzFwWHZZc1E4WDhicm5CeTJFVEtRQXk4V1dpbUhQaUtwWlo2TnhhZnlzMkZqMm9GSUk4S3UtUVR3UF9GS1liYkVPa3NhV3BpRXJqY1Z3MUtoWEhkVFFpVTNSTWJPb2lNYXR5VGItNnVwYzAzbw?oc=5) 蓝箭航天
-- [Starlink Group 15-15: 27 Satellites Launched [2026] - tech-insider.org](https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXdEVDVKWU1GckhBeTdFTFUzSVZzZWRXNnJNNElYSmxmOWRkREVaeXUySVpJb2dqclk0QWE2YzRGS0p2Q21vdE1TWU5BRnM1dWNBYks5S2hDSndIQ3VES1NGZGtmcVVJRmlnWU1nS3hWWVBMdzZYWTJKX1MzQTM1cWRn?oc=5) SpaceX
-- [Why is Ukraine so reliant on Starlink and can Europe plug the gap? - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tdWhQQlR3VEdTQ3h4aVVoVExPdzdDbUJmTmczR1RNOTVmVlA3b1BqeWRNUW1GV2l0VTBabXBkdnJlQjU5TlFGc1FGUnk2ZWhrVE1ST2N4MV83b1k?oc=5) SpaceX
-- [Starlink continues to expand its satellite network... SpaceX launches a new batch of internet satellites - صوت الإمارات](https://news.google.com/rss/articles/CBMitAJBVV95cUxQVGVYVTVXMkZjODZNajNpWGZ1Y011M1ZkVzNvWDRlZDJyaENqaDgtS2RLZk4tUXRJRmJOaWxZbjJ0bERqV1ZTVXdmVnA4SVFXYWNpUm56QU5fWk9ZRnd5UmkxNGMtUFhFakZ3OFhUNG9GaWhpWHB4TGxhZzJHYnJTMHN0Z1FfWUQxNGo2dG5mdVhTMkJmT3pPTUJTUFJKM2xpU0t1c0t6WFFJQV8tTlg3cmdpd0p1cHRCQ3B6WVdsOTNjNlYzbk9RZGxEMGxEbzdPNy0zZi1CeGVTcXptNDc0NWNaOHhiWTU3SEZ4d25IUTVYNlQ2MUV3X20zVDM1dTc5elp4NU1JQi1rYms1NGlqSDFtcGRReXFOdDVyMHViYnQwQ0J6NkhNY2FZWnprbWVLYjAxeQ?oc=5) SpaceX
+- [Elon Musk confirms SpaceX throttled Ukraine Starlink access over service restrictions](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ade1b0251f64e93bf87b78890a5cc81&url=https%3A%2F%2Fwww.thenews.com.pk%2Flatest%2F1421251-elon-musk-confirms-spacex-throttled-ukraine-starlink-access-over-service-restrictions&c=6411483752678194163&mkt=en-ca) SpaceX
+- [Starlink Group 15-15: 27 Satellites Launched [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXdEVDVKWU1GckhBeTdFTFUzSVZzZWRXNnJNNElYSmxmOWRkREVaeXUySVpJb2dqclk0QWE2YzRGS0p2Q21vdE1TWU5BRnM1dWNBYks5S2hDSndIQ3VES1NGZGtmcVVJRmlnWU1nS3hWWVBMdzZYWTJKX1MzQTM1cWRn?oc=5) SpaceX
+- [Elon Musk reveals reason behind Starlink slowdown as speeds restored in Ukraine](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ade1b0251f64e93bf87b78890a5cc81&url=https%3A%2F%2Fjang.com.pk%2Fen%2F75184-elon-musk-reveals-reason-behind-starlink-slowdown-as-speeds-restored-in-ukraine-news&c=14270934340280406145&mkt=en-ca) SpaceX
 
 ## Risks And Watchpoints
 
