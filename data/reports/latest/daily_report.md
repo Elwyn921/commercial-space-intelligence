@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-10-25
 
-- Report ID: daily-2026-10-25-711e40f0
-- Source run: 7df89b62-9c7e-4ff2-aa43-477d0ac0d72b
+- Report ID: daily-2026-10-25-2291747f
+- Source run: 845abf0a-279f-421f-92db-c5b93b34d549
 - Generation status: skipped_no_secret
-- Companies covered: 1
-- Total items: 4
+- Companies covered: 2
+- Total items: 10
 
 ## Executive Summary
 
-2026-10-25 共收录 4 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-10-25 共收录 10 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、蓝箭航天。
 
 ## Industry Chain Sections
 
@@ -21,6 +21,7 @@ No LLM summary.
 
 No LLM summary.
 
+- [张昉深山试车千次助蓝箭航天升空 - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTE91eGsyNzFwWHZZc1E4WDhicm5CeTJFVEtRQXk4V1dpbUhQaUtwWlo2TnhhZnlzMkZqMm9GSUk4S3UtUVR3UF9GS1liYkVPa3NhV3BpRXJqY1Z3MUtoWEhkVFFpVTNSTWJPb2lNYXR5VGItNnVwYzAzbw?oc=5) 蓝箭航天
 
 ### 卫星互联网服务
 
@@ -31,15 +32,16 @@ No LLM summary.
 
 No LLM summary.
 
-- [Ukraine says Starshield back to normal, Musk says Kyiv violated terms - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5) SpaceX
-- [SpaceX Returns to Profitability With $4.4 Billion Third Quarter on Starlink and Compute Growth](https://satnews.com/2026/10/24/spacex-returns-to-profitability-with-4-4-billion-third-quarter-on-starlink-and-compute-growth) SpaceX
-- ['Violated terms of service': Musk explains why Starlink services were restricted in Ukraine](http://www.bing.com/news/apiclick.aspx?aid=&tid=6add60fbd06649f6a9487c3fada67116&url=https%3A%2F%2Fwww.indiatvnews.com%2Fnews%2Fworld%2Felon-musk-explains-why-starlink-services-were-restricted-in-ukraine-violated-terms-of-service-2026-10-25-1057845&c=16503964365063817599&mkt=en-us) SpaceX
+- [Starlink Group 15-15: 27 Satellites Launched [2026] - tech-insider.org](https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXdEVDVKWU1GckhBeTdFTFUzSVZzZWRXNnJNNElYSmxmOWRkREVaeXUySVpJb2dqclk0QWE2YzRGS0p2Q21vdE1TWU5BRnM1dWNBYks5S2hDSndIQ3VES1NGZGtmcVVJRmlnWU1nS3hWWVBMdzZYWTJKX1MzQTM1cWRn?oc=5) SpaceX
+- [Why is Ukraine so reliant on Starlink and can Europe plug the gap? - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tdWhQQlR3VEdTQ3h4aVVoVExPdzdDbUJmTmczR1RNOTVmVlA3b1BqeWRNUW1GV2l0VTBabXBkdnJlQjU5TlFGc1FGUnk2ZWhrVE1ST2N4MV83b1k?oc=5) SpaceX
+- [Starlink continues to expand its satellite network... SpaceX launches a new batch of internet satellites - صوت الإمارات](https://news.google.com/rss/articles/CBMitAJBVV95cUxQVGVYVTVXMkZjODZNajNpWGZ1Y011M1ZkVzNvWDRlZDJyaENqaDgtS2RLZk4tUXRJRmJOaWxZbjJ0bERqV1ZTVXdmVnA4SVFXYWNpUm56QU5fWk9ZRnd5UmkxNGMtUFhFakZ3OFhUNG9GaWhpWHB4TGxhZzJHYnJTMHN0Z1FfWUQxNGo2dG5mdVhTMkJmT3pPTUJTUFJKM2xpU0t1c0t6WFFJQV8tTlg3cmdpd0p1cHRCQ3B6WVdsOTNjNlYzbk9RZGxEMGxEbzdPNy0zZi1CeGVTcXptNDc0NWNaOHhiWTU3SEZ4d25IUTVYNlQ2MUV3X20zVDM1dTc5elp4NU1JQi1rYms1NGlqSDFtcGRReXFOdDVyMHViYnQwQ0J6NkhNY2FZWnprbWVLYjAxeQ?oc=5) SpaceX
 
 ## Top News
 
-- [Ukraine says Starshield back to normal, Musk says Kyiv violated terms - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxPVklsWE9QVlFHcHRES2xGTXNTVEtudENYZTR6aFRMZmVuaENzXzBCb0twTjdadFhWY3V3Nkw4aWZTLVJmYjF4OTVmR0haOERYVGlFSFB0a1lsQUUyVDM2UF9lZ3QyeTJ3QzVGN0J0eEF5UEsyanhKaUNHZmpaZnA1eVFsWkVKdHhkdVJjTWZrSGtHOHN0aC1JN0JkbTByTE1vaG5vc2dPWUswNkZxYTN3aFV2WkJZbVlwNlJtZU1R?oc=5) SpaceX
-- [SpaceX Returns to Profitability With $4.4 Billion Third Quarter on Starlink and Compute Growth](https://satnews.com/2026/10/24/spacex-returns-to-profitability-with-4-4-billion-third-quarter-on-starlink-and-compute-growth) SpaceX
-- ['Violated terms of service': Musk explains why Starlink services were restricted in Ukraine](http://www.bing.com/news/apiclick.aspx?aid=&tid=6add60fbd06649f6a9487c3fada67116&url=https%3A%2F%2Fwww.indiatvnews.com%2Fnews%2Fworld%2Felon-musk-explains-why-starlink-services-were-restricted-in-ukraine-violated-terms-of-service-2026-10-25-1057845&c=16503964365063817599&mkt=en-us) SpaceX
+- [张昉深山试车千次助蓝箭航天升空 - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTE91eGsyNzFwWHZZc1E4WDhicm5CeTJFVEtRQXk4V1dpbUhQaUtwWlo2TnhhZnlzMkZqMm9GSUk4S3UtUVR3UF9GS1liYkVPa3NhV3BpRXJqY1Z3MUtoWEhkVFFpVTNSTWJPb2lNYXR5VGItNnVwYzAzbw?oc=5) 蓝箭航天
+- [Starlink Group 15-15: 27 Satellites Launched [2026] - tech-insider.org](https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXdEVDVKWU1GckhBeTdFTFUzSVZzZWRXNnJNNElYSmxmOWRkREVaeXUySVpJb2dqclk0QWE2YzRGS0p2Q21vdE1TWU5BRnM1dWNBYks5S2hDSndIQ3VES1NGZGtmcVVJRmlnWU1nS3hWWVBMdzZYWTJKX1MzQTM1cWRn?oc=5) SpaceX
+- [Why is Ukraine so reliant on Starlink and can Europe plug the gap? - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tdWhQQlR3VEdTQ3h4aVVoVExPdzdDbUJmTmczR1RNOTVmVlA3b1BqeWRNUW1GV2l0VTBabXBkdnJlQjU5TlFGc1FGUnk2ZWhrVE1ST2N4MV83b1k?oc=5) SpaceX
+- [Starlink continues to expand its satellite network... SpaceX launches a new batch of internet satellites - صوت الإمارات](https://news.google.com/rss/articles/CBMitAJBVV95cUxQVGVYVTVXMkZjODZNajNpWGZ1Y011M1ZkVzNvWDRlZDJyaENqaDgtS2RLZk4tUXRJRmJOaWxZbjJ0bERqV1ZTVXdmVnA4SVFXYWNpUm56QU5fWk9ZRnd5UmkxNGMtUFhFakZ3OFhUNG9GaWhpWHB4TGxhZzJHYnJTMHN0Z1FfWUQxNGo2dG5mdVhTMkJmT3pPTUJTUFJKM2xpU0t1c0t6WFFJQV8tTlg3cmdpd0p1cHRCQ3B6WVdsOTNjNlYzbk9RZGxEMGxEbzdPNy0zZi1CeGVTcXptNDc0NWNaOHhiWTU3SEZ4d25IUTVYNlQ2MUV3X20zVDM1dTc5elp4NU1JQi1rYms1NGlqSDFtcGRReXFOdDVyMHViYnQwQ0J6NkhNY2FZWnprbWVLYjAxeQ?oc=5) SpaceX
 
 ## Risks And Watchpoints
 

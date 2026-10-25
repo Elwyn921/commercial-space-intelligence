@@ -1,10 +1,13 @@
 {
   "as_of_date": "2026-10-25",
-  "generated_at": "2026-10-25T06:08:09.876252Z",
+  "generated_at": "2026-10-25T10:16:29.201461Z",
   "market_data_source": {
     "delay_notice": "中国航天航空指数来自东方财富；美国板块为等权篮子。行情可能延迟，不构成投资建议。",
+    "errors": {
+      "industry_index": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
     "expected_instruments": 21,
-    "quoted_instruments": 21,
+    "quoted_instruments": 20,
     "request_count": 2,
     "source_id": "multi_source_market_data",
     "source_name": "新浪财经 + 东方财富",
@@ -17,12 +20,12 @@
       },
       {
         "expected_instruments": 1,
-        "quoted_instruments": 1,
+        "quoted_instruments": 0,
         "source_id": "eastmoney",
         "source_name": "东方财富行情"
       }
     ],
-    "status": "current"
+    "status": "partial"
   },
   "markets": {
     "china": {
@@ -42,7 +45,7 @@
       "index_source_name": "东方财富",
       "index_source_timestamp": "2026-10-23 15:39:30",
       "index_source_url": "https://quote.eastmoney.com/bk/90.BK0480.html",
-      "index_status": "current",
+      "index_status": "stale_previous",
       "index_value": 49509.41,
       "industry_index": {
         "change_amount": 1028.83,
@@ -60,7 +63,7 @@
         "source_name": "航天航空",
         "source_timestamp": "2026-10-23 15:39:30",
         "source_url": "https://quote.eastmoney.com/bk/90.BK0480.html",
-        "status": "current",
+        "status": "stale_previous",
         "symbol": "BK0480",
         "ticker": "BK0480",
         "turnover": 20908672424.0,
@@ -229,10 +232,10 @@
           "volume": 10376712.0
         }
       ],
-      "quoted_instrument_count": 11,
+      "quoted_instrument_count": 10,
       "quoted_member_count": 10,
       "sector_id": "china",
-      "status": "current",
+      "status": "partial",
       "unchanged": 0
     },
     "united_states": {
@@ -435,7 +438,7 @@
   "news_activity": {
     "as_of_date": "2026-10-25",
     "base_value": 100,
-    "baseline_average": 64.63,
+    "baseline_average": 65.17,
     "baseline_days": 30,
     "heat_label": "低热",
     "history": [
@@ -569,302 +572,302 @@
         "baseline_average": 180.1,
         "date": "2026-09-14",
         "heat_label": "常态",
-        "index_value": 107.7,
-        "news_count": 194
+        "index_value": 108.3,
+        "news_count": 195
       },
       {
-        "baseline_average": 186.17,
+        "baseline_average": 186.2,
         "date": "2026-09-15",
         "heat_label": "偏低",
-        "index_value": 73.1,
+        "index_value": 73.0,
         "news_count": 136
       },
       {
-        "baseline_average": 190.3,
+        "baseline_average": 190.33,
         "date": "2026-09-16",
         "heat_label": "活跃",
-        "index_value": 143.5,
-        "news_count": 273
+        "index_value": 144.5,
+        "news_count": 275
       },
       {
-        "baseline_average": 195.47,
+        "baseline_average": 195.57,
         "date": "2026-09-17",
         "heat_label": "偏低",
         "index_value": 63.9,
         "news_count": 125
       },
       {
-        "baseline_average": 191.77,
+        "baseline_average": 191.87,
         "date": "2026-09-18",
         "heat_label": "低热",
         "index_value": 25.0,
         "news_count": 48
       },
       {
-        "baseline_average": 171.13,
+        "baseline_average": 171.23,
         "date": "2026-09-19",
         "heat_label": "低热",
         "index_value": 35.6,
         "news_count": 61
       },
       {
-        "baseline_average": 164.23,
+        "baseline_average": 164.33,
         "date": "2026-09-20",
         "heat_label": "活跃",
-        "index_value": 137.0,
+        "index_value": 136.9,
         "news_count": 225
       },
       {
-        "baseline_average": 163.3,
+        "baseline_average": 163.4,
         "date": "2026-09-21",
         "heat_label": "低热",
         "index_value": 25.7,
         "news_count": 42
       },
       {
-        "baseline_average": 161.93,
+        "baseline_average": 162.03,
         "date": "2026-09-22",
         "heat_label": "偏低",
         "index_value": 77.8,
         "news_count": 126
       },
       {
-        "baseline_average": 160.27,
+        "baseline_average": 160.37,
         "date": "2026-09-23",
         "heat_label": "低热",
         "index_value": 7.5,
         "news_count": 12
       },
       {
-        "baseline_average": 156.57,
+        "baseline_average": 156.67,
         "date": "2026-09-24",
         "heat_label": "低热",
         "index_value": 18.5,
         "news_count": 29
       },
       {
-        "baseline_average": 144.27,
+        "baseline_average": 144.37,
         "date": "2026-09-25",
         "heat_label": "低热",
         "index_value": 38.8,
         "news_count": 56
       },
       {
-        "baseline_average": 133.13,
+        "baseline_average": 133.23,
         "date": "2026-09-26",
         "heat_label": "低热",
-        "index_value": 39.1,
+        "index_value": 39.0,
         "news_count": 52
       },
       {
-        "baseline_average": 134.27,
+        "baseline_average": 134.37,
         "date": "2026-09-27",
         "heat_label": "低热",
         "index_value": 6.0,
         "news_count": 8
       },
       {
-        "baseline_average": 133.9,
+        "baseline_average": 134.0,
         "date": "2026-09-28",
         "heat_label": "常态",
-        "index_value": 97.1,
+        "index_value": 97.0,
         "news_count": 130
       },
       {
-        "baseline_average": 137.47,
+        "baseline_average": 137.57,
         "date": "2026-09-29",
         "heat_label": "偏低",
         "index_value": 64.7,
         "news_count": 89
       },
       {
-        "baseline_average": 139.27,
+        "baseline_average": 139.37,
         "date": "2026-09-30",
         "heat_label": "偏低",
-        "index_value": 66.1,
+        "index_value": 66.0,
         "news_count": 92
       },
       {
-        "baseline_average": 136.93,
+        "baseline_average": 137.03,
         "date": "2026-10-01",
         "heat_label": "偏低",
-        "index_value": 59.9,
+        "index_value": 59.8,
         "news_count": 82
       },
       {
-        "baseline_average": 117.33,
+        "baseline_average": 117.43,
         "date": "2026-10-02",
         "heat_label": "偏低",
         "index_value": 54.5,
         "news_count": 64
       },
       {
-        "baseline_average": 106.3,
+        "baseline_average": 106.4,
         "date": "2026-10-03",
         "heat_label": "低热",
         "index_value": 4.7,
         "news_count": 5
       },
       {
-        "baseline_average": 93.4,
+        "baseline_average": 93.5,
         "date": "2026-10-04",
         "heat_label": "低热",
-        "index_value": 23.6,
+        "index_value": 23.5,
         "news_count": 22
       },
       {
-        "baseline_average": 87.87,
+        "baseline_average": 87.97,
         "date": "2026-10-05",
         "heat_label": "低热",
         "index_value": 33.0,
         "news_count": 29
       },
       {
-        "baseline_average": 84.17,
+        "baseline_average": 84.27,
         "date": "2026-10-06",
         "heat_label": "偏低",
         "index_value": 65.3,
         "news_count": 55
       },
       {
-        "baseline_average": 81.97,
+        "baseline_average": 82.07,
         "date": "2026-10-07",
         "heat_label": "偏低",
-        "index_value": 58.6,
+        "index_value": 58.5,
         "news_count": 48
       },
       {
-        "baseline_average": 82.47,
+        "baseline_average": 82.57,
         "date": "2026-10-08",
         "heat_label": "活跃",
-        "index_value": 178.3,
-        "news_count": 147
-      },
-      {
-        "baseline_average": 85.23,
-        "date": "2026-10-09",
-        "heat_label": "活跃",
-        "index_value": 173.6,
+        "index_value": 179.2,
         "news_count": 148
       },
       {
-        "baseline_average": 88.97,
+        "baseline_average": 85.37,
+        "date": "2026-10-09",
+        "heat_label": "活跃",
+        "index_value": 174.5,
+        "news_count": 149
+      },
+      {
+        "baseline_average": 89.13,
         "date": "2026-10-10",
         "heat_label": "低热",
-        "index_value": 27.0,
+        "index_value": 26.9,
         "news_count": 24
       },
       {
-        "baseline_average": 83.8,
+        "baseline_average": 83.97,
         "date": "2026-10-11",
         "heat_label": "低热",
-        "index_value": 21.5,
+        "index_value": 21.4,
         "news_count": 18
       },
       {
-        "baseline_average": 79.07,
+        "baseline_average": 79.23,
         "date": "2026-10-12",
         "heat_label": "低热",
-        "index_value": 29.1,
-        "news_count": 23
+        "index_value": 30.3,
+        "news_count": 24
       },
       {
-        "baseline_average": 79.4,
+        "baseline_average": 79.6,
         "date": "2026-10-13",
         "heat_label": "高热",
-        "index_value": 224.2,
-        "news_count": 178
+        "index_value": 226.1,
+        "news_count": 180
       },
       {
-        "baseline_average": 84.7,
+        "baseline_average": 84.97,
         "date": "2026-10-14",
         "heat_label": "活跃",
-        "index_value": 133.4,
-        "news_count": 113
+        "index_value": 134.2,
+        "news_count": 114
       },
       {
-        "baseline_average": 82.0,
+        "baseline_average": 82.27,
         "date": "2026-10-15",
         "heat_label": "活跃",
-        "index_value": 161.0,
-        "news_count": 132
+        "index_value": 162.9,
+        "news_count": 134
       },
       {
-        "baseline_average": 81.87,
+        "baseline_average": 82.2,
         "date": "2026-10-16",
         "heat_label": "活跃",
-        "index_value": 145.4,
-        "news_count": 119
+        "index_value": 146.0,
+        "news_count": 120
       },
       {
-        "baseline_average": 76.73,
+        "baseline_average": 77.03,
         "date": "2026-10-17",
         "heat_label": "低热",
-        "index_value": 33.9,
+        "index_value": 33.8,
         "news_count": 26
       },
       {
-        "baseline_average": 73.43,
+        "baseline_average": 73.73,
         "date": "2026-10-18",
         "heat_label": "低热",
-        "index_value": 36.8,
+        "index_value": 36.6,
         "news_count": 27
       },
       {
-        "baseline_average": 72.73,
+        "baseline_average": 73.03,
         "date": "2026-10-19",
         "heat_label": "偏低",
-        "index_value": 53.6,
+        "index_value": 53.4,
         "news_count": 39
       },
       {
-        "baseline_average": 72.0,
+        "baseline_average": 72.3,
         "date": "2026-10-20",
         "heat_label": "偏低",
-        "index_value": 75.0,
-        "news_count": 54
+        "index_value": 76.1,
+        "news_count": 55
       },
       {
-        "baseline_average": 66.3,
+        "baseline_average": 66.63,
         "date": "2026-10-21",
         "heat_label": "常态",
-        "index_value": 84.5,
+        "index_value": 84.0,
         "news_count": 56
       },
       {
-        "baseline_average": 66.77,
+        "baseline_average": 67.1,
         "date": "2026-10-22",
         "heat_label": "低热",
-        "index_value": 41.9,
-        "news_count": 28
+        "index_value": 43.2,
+        "news_count": 29
       },
       {
-        "baseline_average": 63.5,
+        "baseline_average": 63.87,
         "date": "2026-10-23",
-        "heat_label": "偏低",
-        "index_value": 78.7,
-        "news_count": 50
+        "heat_label": "常态",
+        "index_value": 84.6,
+        "news_count": 54
       },
       {
-        "baseline_average": 64.77,
+        "baseline_average": 65.27,
         "date": "2026-10-24",
         "heat_label": "低热",
-        "index_value": 38.6,
-        "news_count": 25
+        "index_value": 39.8,
+        "news_count": 26
       },
       {
-        "baseline_average": 64.63,
+        "baseline_average": 65.17,
         "date": "2026-10-25",
         "heat_label": "低热",
-        "index_value": 6.2,
-        "news_count": 4
+        "index_value": 19.9,
+        "news_count": 13
       }
     ],
     "index_name": "SDATA 新闻活跃度指数",
-    "index_value": 6.2,
+    "index_value": 19.9,
     "is_partial_day": true,
     "methodology": "当日去重新闻数 ÷ 前 30 个自然日日均新闻数 × 100",
-    "news_count": 4
+    "news_count": 13
   },
   "schema_version": "aerospace_index_snapshot.v4"
 }
