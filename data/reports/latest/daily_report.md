@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-10-25
+# 每日新闻情报日报 - 2026-10-26
 
-- Report ID: daily-2026-10-25-28778a02
-- Source run: 521a35da-18d1-4072-880a-628de39b9738
+- Report ID: daily-2026-10-26-88fcd0f6
+- Source run: b53b153b-f7ac-43dd-a09b-44715e693d9a
 - Generation status: skipped_no_secret
-- Companies covered: 2
-- Total items: 12
+- Companies covered: 1
+- Total items: 1
 
 ## Executive Summary
 
-2026-10-25 共收录 12 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、蓝箭航天。
+2026-10-26 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -21,7 +21,6 @@ No LLM summary.
 
 No LLM summary.
 
-- [张昉深山试车千次助蓝箭航天升空 - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTE91eGsyNzFwWHZZc1E4WDhicm5CeTJFVEtRQXk4V1dpbUhQaUtwWlo2TnhhZnlzMkZqMm9GSUk4S3UtUVR3UF9GS1liYkVPa3NhV3BpRXJqY1Z3MUtoWEhkVFFpVTNSTWJPb2lNYXR5VGItNnVwYzAzbw?oc=5) 蓝箭航天
 
 ### 卫星互联网服务
 
@@ -32,16 +31,11 @@ No LLM summary.
 
 No LLM summary.
 
-- [Elon Musk says SpaceX was behind restrictions to Ukraine's Starlink access](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ade6089a1fa46a688bbbf31eb36d72f&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Ftech-companies%2Felon-musk-says-spacex-was-behind-restrictions-to-ukraine-s-starlink-access%2Far-AA2g2uV7&c=11874981794172413241&mkt=en-us) SpaceX
-- [Starlink 15-15: 27 Satellites, 11,000+ in Orbit [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXdEVDVKWU1GckhBeTdFTFUzSVZzZWRXNnJNNElYSmxmOWRkREVaeXUySVpJb2dqclk0QWE2YzRGS0p2Q21vdE1TWU5BRnM1dWNBYks5S2hDSndIQ3VES1NGZGtmcVVJRmlnWU1nS3hWWVBMdzZYWTJKX1MzQTM1cWRn?oc=5) SpaceX
-- [Why is Ukraine so reliant on Starlink and can Europe plug the gap? - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tdWhQQlR3VEdTQ3h4aVVoVExPdzdDbUJmTmczR1RNOTVmVlA3b1BqeWRNUW1GV2l0VTBabXBkdnJlQjU5TlFGc1FGUnk2ZWhrVE1ST2N4MV83b1k?oc=5) SpaceX
+- [Elon Musk confirms SpaceX thwarted Ukraine's Starlink access as he slams 'evil warmongers'](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adeb2da9e8d45778da99dcda8f56fa7&url=https%3A%2F%2Fwww.aol.com%2Farticles%2Felon-musk-confirms-spacex-thwarted-003500000.html&c=13813654233747415788&mkt=en-us) SpaceX
 
 ## Top News
 
-- [Elon Musk says SpaceX was behind restrictions to Ukraine's Starlink access](http://www.bing.com/news/apiclick.aspx?aid=&tid=6ade6089a1fa46a688bbbf31eb36d72f&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Ftech-companies%2Felon-musk-says-spacex-was-behind-restrictions-to-ukraine-s-starlink-access%2Far-AA2g2uV7&c=11874981794172413241&mkt=en-us) SpaceX
-- [张昉深山试车千次助蓝箭航天升空 - 新浪财经](https://news.google.com/rss/articles/CBMieEFVX3lxTE91eGsyNzFwWHZZc1E4WDhicm5CeTJFVEtRQXk4V1dpbUhQaUtwWlo2TnhhZnlzMkZqMm9GSUk4S3UtUVR3UF9GS1liYkVPa3NhV3BpRXJqY1Z3MUtoWEhkVFFpVTNSTWJPb2lNYXR5VGItNnVwYzAzbw?oc=5) 蓝箭航天
-- [Starlink 15-15: 27 Satellites, 11,000+ in Orbit [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXdEVDVKWU1GckhBeTdFTFUzSVZzZWRXNnJNNElYSmxmOWRkREVaeXUySVpJb2dqclk0QWE2YzRGS0p2Q21vdE1TWU5BRnM1dWNBYks5S2hDSndIQ3VES1NGZGtmcVVJRmlnWU1nS3hWWVBMdzZYWTJKX1MzQTM1cWRn?oc=5) SpaceX
-- [Why is Ukraine so reliant on Starlink and can Europe plug the gap? - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tdWhQQlR3VEdTQ3h4aVVoVExPdzdDbUJmTmczR1RNOTVmVlA3b1BqeWRNUW1GV2l0VTBabXBkdnJlQjU5TlFGc1FGUnk2ZWhrVE1ST2N4MV83b1k?oc=5) SpaceX
+- [Elon Musk confirms SpaceX thwarted Ukraine's Starlink access as he slams 'evil warmongers'](http://www.bing.com/news/apiclick.aspx?aid=&tid=6adeb2da9e8d45778da99dcda8f56fa7&url=https%3A%2F%2Fwww.aol.com%2Farticles%2Felon-musk-confirms-spacex-thwarted-003500000.html&c=13813654233747415788&mkt=en-us) SpaceX
 
 ## Risks And Watchpoints
 
