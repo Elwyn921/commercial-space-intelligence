@@ -1,111 +1,109 @@
 {
-  "as_of_date": "2026-10-25",
+  "as_of_date": "2026-10-26",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 8,
-        "other": 16
+        "launch": 5,
+        "other": 27
       },
-      "item_count": 24,
-      "latest_title": "Elon Musk says Ukraine broke Starlink rules with drone strikes"
+      "item_count": 32,
+      "latest_title": "Ukraine disputes Musk’s claim Starlink was used for offensive drone strikes"
     },
     {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
       "event_types": {
-        "launch": 1
+        "other": 1
       },
       "item_count": 1,
-      "latest_title": "谷神星一号海射型遥八运载火箭发射成功 - 新浪财经"
+      "latest_title": "张昉深山试车千次助蓝箭航天升空 - 新浪财经"
     }
   ],
   "company_count": 2,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 9,
-    "other": 16
+    "launch": 5,
+    "other": 28
   },
-  "generated_at": "2026-10-25T06:08:05.822932Z",
-  "period_end": "2026-10-24",
-  "period_start": "2026-10-24",
-  "report_date": "2026-10-24",
+  "generated_at": "2026-10-26T06:13:32.482702Z",
+  "period_end": "2026-10-25",
+  "period_start": "2026-10-25",
+  "report_date": "2026-10-25",
   "schema_version": "daily_document.v1",
-  "source_count": 9,
+  "source_count": 7,
   "source_counts": {
-    "Around Prague": 1,
-    "BASENOR - Tesla Accessories": 1,
-    "KeepTrack": 1,
-    "Space": 1,
-    "UA.NEWS": 1,
-    "X": 1,
-    "bing.com": 17,
-    "space.com": 1,
+    "BBC": 1,
+    "Reuters": 1,
+    "bing.com": 27,
+    "https://tech-insider.org/": 1,
+    "satnews.com": 1,
+    "صوت الإمارات": 1,
     "新浪财经": 1
   },
-  "summary": "2026-10-24 共归档 25 条新闻，覆盖 2 家公司、9 个信息来源。 新闻量较多的公司包括 SpaceX、星河动力。",
+  "summary": "2026-10-25 共归档 33 条新闻，覆盖 2 家公司、7 个信息来源。 新闻量较多的公司包括 SpaceX、蓝箭航天。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "467a946d5796f086",
-      "published_at": "2026-10-24T14:30:01Z",
-      "source_name": "bing.com",
-      "title": "Elon Musk says Ukraine broke Starlink rules with drone strikes",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6add60fbd06649f6a9487c3fada67116&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Felon-musk-says-ukraine-broke-starlink-rules-with-drone-strikes%2Far-AA2g049U&c=10084713525625316371&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "60324ff25bf1db21",
-      "published_at": "2026-10-24T13:52:00Z",
-      "source_name": "bing.com",
-      "title": "Musk Says He Was Behind Starlink Speed Restriction After Service In Ukraine Is Restored",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6add60fbd06649f6a9487c3fada67116&url=https%3A%2F%2Fwww.huffpost.com%2Fentry%2Frussia-ukraine-war-starlink-elon-musk_n_6add1961e4b027da9ae6dcb0&c=13184543513894317055&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "b9116075fe6b5b7f",
-      "published_at": "2026-10-24T11:32:00Z",
-      "source_name": "bing.com",
-      "title": "Starlink fully restored as Musk says Ukraine violated terms of service",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6add60fbd06649f6a9487c3fada67116&url=https%3A%2F%2Fwww.upi.com%2FTop_News%2FWorld-News%2F2026%2F10%2F24%2Fukraine-starlink-access-restored-musk%2F5241792880471%2F&c=1564012280787763818&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "cc2ebcd025c8ebe9",
-      "published_at": "2026-10-24T09:30:00Z",
-      "source_name": "bing.com",
-      "title": "Ukraine Says Starlink Is Back to Full Power",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6add0cc79a1f4883b86caebf78316bc4&url=https%3A%2F%2Fgizmodo.com%2Fukraine-says-starlink-is-back-to-full-speed-2000830270&c=1587751865663138994&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "0a37e4dce05f1b56",
-      "published_at": "2026-10-24T07:06:00Z",
-      "source_name": "bing.com",
-      "title": "Report: Biden, Trump Asked Musk to Alter Starlink Access",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6add0cc79a1f4883b86caebf78316bc4&url=https%3A%2F%2Fwww.newsmax.com%2Fnewsfront%2Fukraine-starlink-russia%2F2026%2F10%2F24%2Fid%2F1273903%2F&c=15153403811660841363&mkt=en-us"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
       "event_type": "launch",
-      "item_id": "851f6471d3ae9061",
-      "published_at": "2026-10-24T03:45:00Z",
+      "item_id": "e9e799242ead3a4a",
+      "published_at": "2026-10-25T13:46:00Z",
+      "source_name": "bing.com",
+      "title": "Ukraine disputes Musk’s claim Starlink was used for offensive drone strikes",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6adeb2da9e8d45778da99dcda8f56fa7&url=https%3A%2F%2Fwjactv.com%2Fnews%2Fnation-world%2Fukraine-disputes-musks-claim-starlink-was-used-for-offensive-drone-strikes&c=10933585786633608423&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "cdb30d75868e901e",
+      "published_at": "2026-10-25T07:05:11Z",
+      "source_name": "https://tech-insider.org/",
+      "title": "Starlink 15-15: 27 Satellites, 11,000+ in Orbit [2026] - https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXdEVDVKWU1GckhBeTdFTFUzSVZzZWRXNnJNNElYSmxmOWRkREVaeXUySVpJb2dqclk0QWE2YzRGS0p2Q21vdE1TWU5BRnM1dWNBYks5S2hDSndIQ3VES1NGZGtmcVVJRmlnWU1nS3hWWVBMdzZYWTJKX1MzQTM1cWRn?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "94e2ada72db35f14",
+      "published_at": "2026-10-25T07:02:00Z",
+      "source_name": "bing.com",
+      "title": "Elon Musk reveals reason behind Starlink slowdown as speeds restored in Ukraine",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ade1b0251f64e93bf87b78890a5cc81&url=https%3A%2F%2Fjang.com.pk%2Fen%2F75184-elon-musk-reveals-reason-behind-starlink-slowdown-as-speeds-restored-in-ukraine-news&c=14270934340280406145&mkt=en-ca"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "2984c4fbc084b2ff",
+      "published_at": "2026-10-25T05:34:38Z",
+      "source_name": "bing.com",
+      "title": "SpaceX launches Starlink satellites and nails rocket landing",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ade1b030966455da13198fab7d830c7&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fvideo%2Fother%2Fspacex-launches-starlink-satellites-and-nails-rocket-landing%2Fvi-AA2g1Pj3&c=18344190866937724045&mkt=en-ca"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "e1e3213c74cd31aa",
+      "published_at": "2026-10-25T04:30:11Z",
+      "source_name": "صوت الإمارات",
+      "title": "Starlink continues to expand its satellite network... SpaceX launches a new batch of internet satellites - صوت الإمارات",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQVGVYVTVXMkZjODZNajNpWGZ1Y011M1ZkVzNvWDRlZDJyaENqaDgtS2RLZk4tUXRJRmJOaWxZbjJ0bERqV1ZTVXdmVnA4SVFXYWNpUm56QU5fWk9ZRnd5UmkxNGMtUFhFakZ3OFhUNG9GaWhpWHB4TGxhZzJHYnJTMHN0Z1FfWUQxNGo2dG5mdVhTMkJmT3pPTUJTUFJKM2xpU0t1c0t6WFFJQV8tTlg3cmdpd0p1cHRCQ3B6WVdsOTNjNlYzbk9RZGxEMGxEbzdPNy0zZi1CeGVTcXptNDc0NWNaOHhiWTU3SEZ4d25IUTVYNlQ2MUV3X20zVDM1dTc5elp4NU1JQi1rYms1NGlqSDFtcGRReXFOdDVyMHViYnQwQ0J6NkhNY2FZWnprbWVLYjAxeQ?oc=5"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "other",
+      "item_id": "8d606516723f1d50",
+      "published_at": "2026-10-25T08:37:10Z",
       "source_name": "新浪财经",
-      "title": "谷神星一号海射型遥八运载火箭发射成功 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sZzkwVWtXMjlQYk1HTW1xODlHQkJuMDNVa2ZrYkJnSE1zRXZ3b1hIWFZ1bUZyWi1wTWZ4Rkp6a2F0QTNuMUg5eGlSQnpVb0ZVaHd0NC1QVzU5RGo3THlTdldKRVFPNXRSdmtGbVJCa09aNXdYRk9NMA?oc=5"
+      "title": "张昉深山试车千次助蓝箭航天升空 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91eGsyNzFwWHZZc1E4WDhicm5CeTJFVEtRQXk4V1dpbUhQaUtwWlo2TnhhZnlzMkZqMm9GSUk4S3UtUVR3UF9GS1liYkVPa3NhV3BpRXJqY1Z3MUtoWEhkVFFpVTNSTWJPb2lNYXR5VGItNnVwYzAzbw?oc=5"
     }
   ],
-  "total_items": 25
+  "total_items": 33
 }
