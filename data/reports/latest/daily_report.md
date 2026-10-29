@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-10-29
 
-- Report ID: daily-2026-10-30-f51a2e4e
-- Source run: ab587214-6eea-4f7f-b709-e412fd62c409
+- Report ID: daily-2026-10-30-58b183b2
+- Source run: bb8e8798-5981-47dd-aa56-c85275c039f1
 - Generation status: skipped_no_secret
-- Companies covered: 1
-- Total items: 1
+- Companies covered: 2
+- Total items: 3
 
 ## Executive Summary
 
-2026-10-30 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-10-30 共收录 3 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
 
 ## Industry Chain Sections
 
@@ -31,11 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
-- [California to build off record 72nd launch with next SpaceX mission - Ventura County Star](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdjY2Zlc5bXlqR3BDWklyallTM0tmUUk4Z0p3NDNnN0pLRzJvX0JycTN4S0JoeGRUTzZPdzF1NzVxamxpZ1hnOTRoTnp0VHdMRV82SjdHN004UkpIR0R6U2dxeGxNdFhWOUJZODk4TWZERWxUV1ZJX1VYOERLX1NPTXpQcEhmaDhFaDBhaGtQSVRZZDJfdzAtM3Uya3ZpNUoxRmk5VjQ4Q0M1aVR6U1A0WkNSMDhERmRfQ3FB?oc=5) SpaceX
+- [Telesat: 3-month delay in 1st Lightspeed launch to be followed by 15 Falcon 9s in 45 weeks; initial service in March 2028](https://www.spaceintelreport.com/telesat-3-month-delay-in-1st-lightspeed-launch-to-be-followed-by-15-falcon-9s-in-45-weeks-initial-service-in-march-2028) SpaceX
+- [Two Russian Starlink Rival Satellites Are Now Set to Fall from Orbit - 19FortyFive](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNblh4ekRueDJtR2x4cEl4SEVCc04wR2VDM2VNVEJHSlU1THlYeVZseUplMHRxUTZXUG1mWDAxLXJHNUtOVC1lbkZzNWJnQW1rQVNia3BLYTdoTzk0bm1jZmRmVnp5YTdZXzFHemlfRmJ5OG0takNSOWh2ZDJoaWJCSU5Lc3R1dVZya2c5M0pJRmdfT0FIQWR3WGh4WmJ4UlB0TlhqMzdEMXk?oc=5) SpaceX
+- [Blue Origin launches apprenticeship program to build space workforce - The Business Journals](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXlSWDFTQ0x0LXhydUFlZUZPSnV2VVhqazBGUThoTzAtZ3FfV3hNWm5OODEwdmE4ZTBIRG96VUNPSlZxWkFSQ214aWNYY3pJN1p2MUR2T0g3ZkU2YkQzdXlwMFVDU05ZUzNXeHBlQ3ZmbGpjWHJzckloQzlyYzFlZWtnRS1kOGlIVVpGSmxpcUN3TEpvaElNMDVHV0k5bk9lSUNzU0p4aw?oc=5) Blue Origin
 
 ## Top News
 
-- [California to build off record 72nd launch with next SpaceX mission - Ventura County Star](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdjY2Zlc5bXlqR3BDWklyallTM0tmUUk4Z0p3NDNnN0pLRzJvX0JycTN4S0JoeGRUTzZPdzF1NzVxamxpZ1hnOTRoTnp0VHdMRV82SjdHN004UkpIR0R6U2dxeGxNdFhWOUJZODk4TWZERWxUV1ZJX1VYOERLX1NPTXpQcEhmaDhFaDBhaGtQSVRZZDJfdzAtM3Uya3ZpNUoxRmk5VjQ4Q0M1aVR6U1A0WkNSMDhERmRfQ3FB?oc=5) SpaceX
+- [Telesat: 3-month delay in 1st Lightspeed launch to be followed by 15 Falcon 9s in 45 weeks; initial service in March 2028](https://www.spaceintelreport.com/telesat-3-month-delay-in-1st-lightspeed-launch-to-be-followed-by-15-falcon-9s-in-45-weeks-initial-service-in-march-2028) SpaceX
+- [Two Russian Starlink Rival Satellites Are Now Set to Fall from Orbit - 19FortyFive](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNblh4ekRueDJtR2x4cEl4SEVCc04wR2VDM2VNVEJHSlU1THlYeVZseUplMHRxUTZXUG1mWDAxLXJHNUtOVC1lbkZzNWJnQW1rQVNia3BLYTdoTzk0bm1jZmRmVnp5YTdZXzFHemlfRmJ5OG0takNSOWh2ZDJoaWJCSU5Lc3R1dVZya2c5M0pJRmdfT0FIQWR3WGh4WmJ4UlB0TlhqMzdEMXk?oc=5) SpaceX
+- [Blue Origin launches apprenticeship program to build space workforce - The Business Journals](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXlSWDFTQ0x0LXhydUFlZUZPSnV2VVhqazBGUThoTzAtZ3FfV3hNWm5OODEwdmE4ZTBIRG96VUNPSlZxWkFSQ214aWNYY3pJN1p2MUR2T0g3ZkU2YkQzdXlwMFVDU05ZUzNXeHBlQ3ZmbGpjWHJzckloQzlyYzFlZWtnRS1kOGlIVVpGSmxpcUN3TEpvaElNMDVHV0k5bk9lSUNzU0p4aw?oc=5) Blue Origin
 
 ## Risks And Watchpoints
 
