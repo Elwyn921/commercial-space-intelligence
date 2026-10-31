@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-10-31
 
-- Report ID: daily-2026-10-31-e4d86ab5
-- Source run: b0f6ae7b-ff86-46cb-a547-a82992901c07
+- Report ID: daily-2026-10-31-1439bda9
+- Source run: 8d7d5411-c3e2-4609-8aec-5ae90f7b2390
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 4
+- Total items: 6
 
 ## Executive Summary
 
-2026-10-31 共收录 4 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-10-31 共收录 6 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,15 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
-- [SpaceX Sends 27 More Starlink Satellites Into Orbit on a Halloween Launch - Around Prague](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVM0Y2d4ZHRXOUlmZ0IzM1RMNEhkdHFmclBXdGltbjlTRUlCbllWNENnT3JpTDF5Y2IwcE9zM3BYcFFlVUE5cnBoOFRZYzM3SDdLUlNXdUZMSnNJbDhkMHcyNF9XNXRybUp2TGY3MkNpWkxBQ1ZJREZBeXMzQ0ZQUEdnZlcxVGxNUGN2Z0pwbWhCckNkSWxWTGctNGNQem1JMG55cF9PMGpBb2ppa2pFbVRsTQ?oc=5) SpaceX
-- [Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California - Space](https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXhmUXBPR3Z0NEszbXVIUk1taFl1U09tUDZNbFY1WXo1emtHRHNFYzVXX3NNalk1eGVfZWlHWGQ5NzhOQjlrN0xkUjREQ0tVa09XUng1Um9CX1doT2pJVUk5dUJpYzI3OTF3X1RuZnVveHMxbHlCS3RWdVNuWGY1NmlkLWVTRDgwZC1NWTNndGk4QlFld2VsUjBWNFJtMkJVUmE0Tlk3dlBlQzdYM0VFbDZMc0d2enB6Q0E?oc=5) SpaceX
-- [LIFTOFF! SpaceX launches 27 Starlink satellites from California, sticks landing - Starlust.org](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yNFJVLUlfZExsLVIxQ1RiejdPcGtCOEtLZ2V6TU9ORmU1bzNFaS1MdS1jbTFQdWp4MFkzbGcwV2hhWDI4dGJYRl9OWTZsVHlTd1JF?oc=5) SpaceX
+- [SpaceX Falcon 9 reaches 700th launch with starlink satellites in historic feat - The News International](https://news.google.com/rss/articles/CBMivAFBVV95cUxQLVNUS29fZVpzbDljZ2ZXbU52VVRRZnlBSm1uclpfS2lOQURWTHlfdU0zMnZpYVpsRUlQSENQaUtGVzJrd3daeC01WFZVbjBvUUdSU0YyV3h5eWVBNXlleklzZUFGY2lMZDJ0bDJIclhVa1RVU2doNk9Qa2NNa1dNM3gzb2JzU1FOQUZjeU5HWWZHZjJMU0g4N2pyREFwMi1DMEVNdTJSWGRuc1VwM0ZqRzA1ajNfM2NsdE1ka9IBuAFBVV95cUxPQ2xtWDJxNFZwNVNpVzZwRFFfQ1otZGVyNXVQMW1fa1Q0VkhfNk1kcWNnYTZ3R192MkNubzVQZW9zMXJYTmlGZHJSclcwUXd1ZXR5eDVDbFZISjk3OE9EQ3FhSnUzTUZCLVNLOXNCb3ZTaGw4SExaWEVqQzZLb0xOd3g0bVprNXBpcnljUi1VTTZ6ZlhjQ0ZmYlV0VXpvV0g3WW5PdW5CWkVYUVBUeEVkaXJ5c0YwSnN3?oc=5) SpaceX
+- [Starlink Launch: 27 Satellites, B1093 Flight 18 [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMijAFBVV95cUxQeE5UTVE4anV4TXprZjJRbzZaOWxCNkt0VVF0aHdnU0hXWWlVX2FzMzVuZ3hPdnZ3OXpDOExNb2ZrOFlsWkxQX0oxNVpnWG9kWDNMSGhBNTUtcHAxVVZIelg0WmR4SE8tN1BRMWVuM0EzUVdWTlFlNktucnk4UWh5M0hlbENIbG1HdDVYcg?oc=5) SpaceX
+- [SpaceX Starlink 15-18: 27 Satellites Launched [2026] - shattered.io](https://news.google.com/rss/articles/CBMilwFBVV95cUxOazd5bC1rNl95eDh1X2pOZ2pVa1RnRjc4dzc1UFRjNHAzZU1TODh6UE9JbzZYR0Mxd3JzcjBBUThhS2tQVm9EblhBMURJTVZvWUdnSjNrN3VpS2ZIbTdZcW0yWk9idVV6TThVQmVOdXNneDRFcDg1VjV3NmF1eU5MQ2p1UU41djhOWXFqZHlzVXBwN1JIdUdZ?oc=5) SpaceX
 
 ## Top News
 
-- [SpaceX Sends 27 More Starlink Satellites Into Orbit on a Halloween Launch - Around Prague](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVM0Y2d4ZHRXOUlmZ0IzM1RMNEhkdHFmclBXdGltbjlTRUlCbllWNENnT3JpTDF5Y2IwcE9zM3BYcFFlVUE5cnBoOFRZYzM3SDdLUlNXdUZMSnNJbDhkMHcyNF9XNXRybUp2TGY3MkNpWkxBQ1ZJREZBeXMzQ0ZQUEdnZlcxVGxNUGN2Z0pwbWhCckNkSWxWTGctNGNQem1JMG55cF9PMGpBb2ppa2pFbVRsTQ?oc=5) SpaceX
-- [Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California - Space](https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXhmUXBPR3Z0NEszbXVIUk1taFl1U09tUDZNbFY1WXo1emtHRHNFYzVXX3NNalk1eGVfZWlHWGQ5NzhOQjlrN0xkUjREQ0tVa09XUng1Um9CX1doT2pJVUk5dUJpYzI3OTF3X1RuZnVveHMxbHlCS3RWdVNuWGY1NmlkLWVTRDgwZC1NWTNndGk4QlFld2VsUjBWNFJtMkJVUmE0Tlk3dlBlQzdYM0VFbDZMc0d2enB6Q0E?oc=5) SpaceX
-- [LIFTOFF! SpaceX launches 27 Starlink satellites from California, sticks landing - Starlust.org](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yNFJVLUlfZExsLVIxQ1RiejdPcGtCOEtLZ2V6TU9ORmU1bzNFaS1MdS1jbTFQdWp4MFkzbGcwV2hhWDI4dGJYRl9OWTZsVHlTd1JF?oc=5) SpaceX
+- [SpaceX Falcon 9 reaches 700th launch with starlink satellites in historic feat - The News International](https://news.google.com/rss/articles/CBMivAFBVV95cUxQLVNUS29fZVpzbDljZ2ZXbU52VVRRZnlBSm1uclpfS2lOQURWTHlfdU0zMnZpYVpsRUlQSENQaUtGVzJrd3daeC01WFZVbjBvUUdSU0YyV3h5eWVBNXlleklzZUFGY2lMZDJ0bDJIclhVa1RVU2doNk9Qa2NNa1dNM3gzb2JzU1FOQUZjeU5HWWZHZjJMU0g4N2pyREFwMi1DMEVNdTJSWGRuc1VwM0ZqRzA1ajNfM2NsdE1ka9IBuAFBVV95cUxPQ2xtWDJxNFZwNVNpVzZwRFFfQ1otZGVyNXVQMW1fa1Q0VkhfNk1kcWNnYTZ3R192MkNubzVQZW9zMXJYTmlGZHJSclcwUXd1ZXR5eDVDbFZISjk3OE9EQ3FhSnUzTUZCLVNLOXNCb3ZTaGw4SExaWEVqQzZLb0xOd3g0bVprNXBpcnljUi1VTTZ6ZlhjQ0ZmYlV0VXpvV0g3WW5PdW5CWkVYUVBUeEVkaXJ5c0YwSnN3?oc=5) SpaceX
+- [Starlink Launch: 27 Satellites, B1093 Flight 18 [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMijAFBVV95cUxQeE5UTVE4anV4TXprZjJRbzZaOWxCNkt0VVF0aHdnU0hXWWlVX2FzMzVuZ3hPdnZ3OXpDOExNb2ZrOFlsWkxQX0oxNVpnWG9kWDNMSGhBNTUtcHAxVVZIelg0WmR4SE8tN1BRMWVuM0EzUVdWTlFlNktucnk4UWh5M0hlbENIbG1HdDVYcg?oc=5) SpaceX
+- [SpaceX Starlink 15-18: 27 Satellites Launched [2026] - shattered.io](https://news.google.com/rss/articles/CBMilwFBVV95cUxOazd5bC1rNl95eDh1X2pOZ2pVa1RnRjc4dzc1UFRjNHAzZU1TODh6UE9JbzZYR0Mxd3JzcjBBUThhS2tQVm9EblhBMURJTVZvWUdnSjNrN3VpS2ZIbTdZcW0yWk9idVV6TThVQmVOdXNneDRFcDg1VjV3NmF1eU5MQ2p1UU41djhOWXFqZHlzVXBwN1JIdUdZ?oc=5) SpaceX
 
 ## Risks And Watchpoints
 

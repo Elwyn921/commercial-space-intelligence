@@ -3,7 +3,7 @@
   "count": 26,
   "fetch_statuses": [
     {
-      "article_count": 54,
+      "article_count": 63,
       "company_id": "spacex",
       "company_name": "SpaceX",
       "error_message": null,
@@ -28,8 +28,8 @@
         "https://www.space.com/feeds.xml"
       ],
       "final_status": "success",
-      "finished_at": "2026-10-31T11:17:52.673586Z",
-      "item_count": 54,
+      "finished_at": "2026-10-31T16:22:56.944500Z",
+      "item_count": 63,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
       "metadata": {
@@ -61,10 +61,10 @@
         "partial_run": true,
         "per_feed_limit": 8,
         "provider_id": "rss_provider,spaceflight_news_provider",
-        "scheduled_slot": "open-sources-2026-10-31T11",
-        "source_count": 25,
+        "scheduled_slot": "open-sources-2026-10-31T16",
+        "source_count": 27,
         "stale_fallback_available": false,
-        "warning_count": 2
+        "warning_count": 1
       },
       "partial_run": true,
       "provider_id": "rss_provider",
@@ -79,7 +79,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": false,
       "source_id": "rss_provider",
       "source_type": "rss",
@@ -87,7 +87,6 @@
       "status": "success",
       "successful_query_count": 0,
       "warnings": [
-        "https://www.bing.com/news/search?q=SpaceX+Starlink&format=rss: ParseError: not well-formed (invalid token): line 1, column 41",
         "https://www.bing.com/news/search?q=Falcon+9+Starlink+satellites&format=rss: ParseError: not well-formed (invalid token): line 1, column 41"
       ]
     },
@@ -98,7 +97,7 @@
       "error_message": null,
       "error_type": null,
       "final_status": "success",
-      "finished_at": "2026-10-31T11:17:53.138839Z",
+      "finished_at": "2026-10-31T16:22:57.350867Z",
       "item_count": 15,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
@@ -114,7 +113,7 @@
         ],
         "query_count": 1,
         "rate_limit_seconds": 6.2,
-        "scheduled_slot": "open-sources-2026-10-31T11",
+        "scheduled_slot": "open-sources-2026-10-31T16",
         "stale_fallback_available": false,
         "successful_query_count": 1,
         "warning_count": 0
@@ -135,7 +134,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": false,
       "source_id": "spaceflight_news_provider",
       "source_type": "search_api",
@@ -145,7 +144,7 @@
       "warnings": []
     },
     {
-      "article_count": 100,
+      "article_count": 99,
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "error_message": null,
@@ -172,8 +171,8 @@
         "https://www.space.com/feeds.xml"
       ],
       "final_status": "success",
-      "finished_at": "2026-10-31T11:17:56.729543Z",
-      "item_count": 100,
+      "finished_at": "2026-10-31T16:23:00.382961Z",
+      "item_count": 99,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
       "metadata": {
@@ -207,10 +206,10 @@
         "partial_run": true,
         "per_feed_limit": 8,
         "provider_id": "rss_provider,spaceflight_news_provider",
-        "scheduled_slot": "open-sources-2026-10-31T11",
-        "source_count": 36,
+        "scheduled_slot": "open-sources-2026-10-31T16",
+        "source_count": 35,
         "stale_fallback_available": false,
-        "warning_count": 2
+        "warning_count": 3
       },
       "partial_run": true,
       "provider_id": "rss_provider",
@@ -225,7 +224,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": false,
       "source_id": "rss_provider",
       "source_type": "rss",
@@ -233,6 +232,7 @@
       "status": "success",
       "successful_query_count": 0,
       "warnings": [
+        "https://www.bing.com/news/search?q=Blue+Origin+New+Glenn&format=rss: ParseError: not well-formed (invalid token): line 1, column 41",
         "https://www.bing.com/news/search?q=Blue+Origin+Blue+Ring+TeraWave&format=rss: ParseError: not well-formed (invalid token): line 1, column 41",
         "https://www.bing.com/news/search?q=Blue+Origin+BE-4+engine&format=rss: ParseError: not well-formed (invalid token): line 1, column 41"
       ]
@@ -244,7 +244,7 @@
       "error_message": null,
       "error_type": null,
       "final_status": "success",
-      "finished_at": "2026-10-31T11:17:59.184425Z",
+      "finished_at": "2026-10-31T16:23:04.097974Z",
       "item_count": 15,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
@@ -260,7 +260,7 @@
         ],
         "query_count": 1,
         "rate_limit_seconds": 6.2,
-        "scheduled_slot": "open-sources-2026-10-31T11",
+        "scheduled_slot": "open-sources-2026-10-31T16",
         "stale_fallback_available": false,
         "successful_query_count": 1,
         "warning_count": 0
@@ -281,7 +281,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": false,
       "source_id": "spaceflight_news_provider",
       "source_type": "search_api",
@@ -291,7 +291,7 @@
       "warnings": []
     },
     {
-      "article_count": 100,
+      "article_count": 97,
       "company_id": "yuanxin_satellite",
       "company_name": "垣信卫星",
       "error_message": null,
@@ -342,8 +342,8 @@
         "https://www.space.com/feeds.xml"
       ],
       "final_status": "success",
-      "finished_at": "2026-10-31T11:18:09.751206Z",
-      "item_count": 100,
+      "finished_at": "2026-10-31T16:23:12.954259Z",
+      "item_count": 97,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
       "metadata": {
@@ -401,10 +401,10 @@
         "partial_run": true,
         "per_feed_limit": 8,
         "provider_id": "rss_provider,spaceflight_news_provider",
-        "scheduled_slot": "open-sources-2026-10-31T11",
-        "source_count": 54,
+        "scheduled_slot": "open-sources-2026-10-31T16",
+        "source_count": 51,
         "stale_fallback_available": false,
-        "warning_count": 0
+        "warning_count": 1
       },
       "partial_run": true,
       "provider_id": "rss_provider",
@@ -419,14 +419,16 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": false,
       "source_id": "rss_provider",
       "source_type": "rss",
       "started_at": null,
       "status": "success",
       "successful_query_count": 0,
-      "warnings": []
+      "warnings": [
+        "https://www.bing.com/news/search?q=SpaceSail+Qianfan+satellite&format=rss: ParseError: not well-formed (invalid token): line 1, column 41"
+      ]
     },
     {
       "article_count": 0,
@@ -435,7 +437,7 @@
       "error_message": null,
       "error_type": null,
       "final_status": "no_results",
-      "finished_at": "2026-10-31T11:18:10.996097Z",
+      "finished_at": "2026-10-31T16:23:13.541472Z",
       "item_count": 0,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
@@ -451,7 +453,7 @@
         ],
         "query_count": 1,
         "rate_limit_seconds": 6.2,
-        "scheduled_slot": "open-sources-2026-10-31T11",
+        "scheduled_slot": "open-sources-2026-10-31T16",
         "stale_fallback_available": false,
         "successful_query_count": 1,
         "warning_count": 0
@@ -472,7 +474,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": true,
       "source_id": "spaceflight_news_provider",
       "source_type": "search_api",
@@ -482,7 +484,7 @@
       "warnings": []
     },
     {
-      "article_count": 60,
+      "article_count": 54,
       "company_id": "china_satnet",
       "company_name": "中国星网",
       "error_message": null,
@@ -532,8 +534,8 @@
         "https://www.space.com/feeds.xml"
       ],
       "final_status": "success",
-      "finished_at": "2026-10-31T11:18:21.668791Z",
-      "item_count": 60,
+      "finished_at": "2026-10-31T16:23:23.393340Z",
+      "item_count": 54,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
       "metadata": {
@@ -590,10 +592,10 @@
         "partial_run": true,
         "per_feed_limit": 8,
         "provider_id": "rss_provider,spaceflight_news_provider",
-        "scheduled_slot": "open-sources-2026-10-31T11",
-        "source_count": 41,
+        "scheduled_slot": "open-sources-2026-10-31T16",
+        "source_count": 39,
         "stale_fallback_available": false,
-        "warning_count": 0
+        "warning_count": 1
       },
       "partial_run": true,
       "provider_id": "rss_provider",
@@ -608,14 +610,16 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": false,
       "source_id": "rss_provider",
       "source_type": "rss",
       "started_at": null,
       "status": "success",
       "successful_query_count": 0,
-      "warnings": []
+      "warnings": [
+        "https://www.bing.com/news/search?q=China+SatNet+Guowang+satellite+constellation&format=rss: ParseError: not well-formed (invalid token): line 1, column 41"
+      ]
     },
     {
       "article_count": 0,
@@ -624,7 +628,7 @@
       "error_message": null,
       "error_type": null,
       "final_status": "no_results",
-      "finished_at": "2026-10-31T11:18:22.042651Z",
+      "finished_at": "2026-10-31T16:23:23.642708Z",
       "item_count": 0,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
@@ -640,7 +644,7 @@
         ],
         "query_count": 1,
         "rate_limit_seconds": 6.2,
-        "scheduled_slot": "open-sources-2026-10-31T11",
+        "scheduled_slot": "open-sources-2026-10-31T16",
         "stale_fallback_available": false,
         "successful_query_count": 1,
         "warning_count": 0
@@ -661,7 +665,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": true,
       "source_id": "spaceflight_news_provider",
       "source_type": "search_api",
@@ -671,7 +675,7 @@
       "warnings": []
     },
     {
-      "article_count": 76,
+      "article_count": 74,
       "company_id": "landspace",
       "company_name": "蓝箭航天",
       "error_message": null,
@@ -711,8 +715,8 @@
         "https://www.space.com/feeds.xml"
       ],
       "final_status": "success",
-      "finished_at": "2026-10-31T11:18:28.900967Z",
-      "item_count": 76,
+      "finished_at": "2026-10-31T16:23:29.895267Z",
+      "item_count": 74,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
       "metadata": {
@@ -759,8 +763,8 @@
         "partial_run": true,
         "per_feed_limit": 8,
         "provider_id": "rss_provider,spaceflight_news_provider",
-        "scheduled_slot": "open-sources-2026-10-31T11",
-        "source_count": 45,
+        "scheduled_slot": "open-sources-2026-10-31T16",
+        "source_count": 44,
         "stale_fallback_available": false,
         "warning_count": 1
       },
@@ -777,7 +781,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": false,
       "source_id": "rss_provider",
       "source_type": "rss",
@@ -795,7 +799,7 @@
       "error_message": null,
       "error_type": null,
       "final_status": "no_results",
-      "finished_at": "2026-10-31T11:18:29.194028Z",
+      "finished_at": "2026-10-31T16:23:30.087187Z",
       "item_count": 0,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
@@ -811,7 +815,7 @@
         ],
         "query_count": 1,
         "rate_limit_seconds": 6.2,
-        "scheduled_slot": "open-sources-2026-10-31T11",
+        "scheduled_slot": "open-sources-2026-10-31T16",
         "stale_fallback_available": false,
         "successful_query_count": 1,
         "warning_count": 0
@@ -832,7 +836,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": true,
       "source_id": "spaceflight_news_provider",
       "source_type": "search_api",
@@ -842,7 +846,7 @@
       "warnings": []
     },
     {
-      "article_count": 75,
+      "article_count": 72,
       "company_id": "cas_space",
       "company_name": "中科宇航",
       "error_message": null,
@@ -882,8 +886,8 @@
         "https://www.space.com/feeds.xml"
       ],
       "final_status": "success",
-      "finished_at": "2026-10-31T11:18:35.264749Z",
-      "item_count": 75,
+      "finished_at": "2026-10-31T16:23:35.180780Z",
+      "item_count": 72,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
       "metadata": {
@@ -930,8 +934,8 @@
         "partial_run": true,
         "per_feed_limit": 8,
         "provider_id": "rss_provider,spaceflight_news_provider",
-        "scheduled_slot": "open-sources-2026-10-31T11",
-        "source_count": 46,
+        "scheduled_slot": "open-sources-2026-10-31T16",
+        "source_count": 44,
         "stale_fallback_available": false,
         "warning_count": 1
       },
@@ -948,7 +952,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": false,
       "source_id": "rss_provider",
       "source_type": "rss",
@@ -966,7 +970,7 @@
       "error_message": null,
       "error_type": null,
       "final_status": "no_results",
-      "finished_at": "2026-10-31T11:18:35.494061Z",
+      "finished_at": "2026-10-31T16:23:36.497770Z",
       "item_count": 0,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
@@ -982,7 +986,7 @@
         ],
         "query_count": 1,
         "rate_limit_seconds": 6.2,
-        "scheduled_slot": "open-sources-2026-10-31T11",
+        "scheduled_slot": "open-sources-2026-10-31T16",
         "stale_fallback_available": false,
         "successful_query_count": 1,
         "warning_count": 0
@@ -1003,7 +1007,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": true,
       "source_id": "spaceflight_news_provider",
       "source_type": "search_api",
@@ -1053,7 +1057,7 @@
         "https://www.space.com/feeds.xml"
       ],
       "final_status": "success",
-      "finished_at": "2026-10-31T11:18:40.921721Z",
+      "finished_at": "2026-10-31T16:23:40.864392Z",
       "item_count": 41,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
@@ -1101,7 +1105,7 @@
         "partial_run": true,
         "per_feed_limit": 8,
         "provider_id": "rss_provider,spaceflight_news_provider",
-        "scheduled_slot": "open-sources-2026-10-31T11",
+        "scheduled_slot": "open-sources-2026-10-31T16",
         "source_count": 28,
         "stale_fallback_available": false,
         "warning_count": 1
@@ -1119,7 +1123,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": false,
       "source_id": "rss_provider",
       "source_type": "rss",
@@ -1137,7 +1141,7 @@
       "error_message": null,
       "error_type": null,
       "final_status": "no_results",
-      "finished_at": "2026-10-31T11:18:41.750595Z",
+      "finished_at": "2026-10-31T16:23:42.470054Z",
       "item_count": 0,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
@@ -1153,7 +1157,7 @@
         ],
         "query_count": 1,
         "rate_limit_seconds": 6.2,
-        "scheduled_slot": "open-sources-2026-10-31T11",
+        "scheduled_slot": "open-sources-2026-10-31T16",
         "stale_fallback_available": false,
         "successful_query_count": 1,
         "warning_count": 0
@@ -1174,7 +1178,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": true,
       "source_id": "spaceflight_news_provider",
       "source_type": "search_api",
@@ -1184,7 +1188,7 @@
       "warnings": []
     },
     {
-      "article_count": 47,
+      "article_count": 50,
       "company_id": "i_space",
       "company_name": "星际荣耀",
       "error_message": null,
@@ -1224,8 +1228,8 @@
         "https://www.space.com/feeds.xml"
       ],
       "final_status": "success",
-      "finished_at": "2026-10-31T11:18:47.322748Z",
-      "item_count": 47,
+      "finished_at": "2026-10-31T16:23:46.914338Z",
+      "item_count": 50,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
       "metadata": {
@@ -1272,8 +1276,8 @@
         "partial_run": true,
         "per_feed_limit": 8,
         "provider_id": "rss_provider,spaceflight_news_provider",
-        "scheduled_slot": "open-sources-2026-10-31T11",
-        "source_count": 31,
+        "scheduled_slot": "open-sources-2026-10-31T16",
+        "source_count": 32,
         "stale_fallback_available": false,
         "warning_count": 1
       },
@@ -1290,7 +1294,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": false,
       "source_id": "rss_provider",
       "source_type": "rss",
@@ -1308,7 +1312,7 @@
       "error_message": null,
       "error_type": null,
       "final_status": "no_results",
-      "finished_at": "2026-10-31T11:18:47.964043Z",
+      "finished_at": "2026-10-31T16:23:48.987327Z",
       "item_count": 0,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
@@ -1324,7 +1328,7 @@
         ],
         "query_count": 1,
         "rate_limit_seconds": 6.2,
-        "scheduled_slot": "open-sources-2026-10-31T11",
+        "scheduled_slot": "open-sources-2026-10-31T16",
         "stale_fallback_available": false,
         "successful_query_count": 1,
         "warning_count": 0
@@ -1345,7 +1349,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": true,
       "source_id": "spaceflight_news_provider",
       "source_type": "search_api",
@@ -1355,7 +1359,7 @@
       "warnings": []
     },
     {
-      "article_count": 58,
+      "article_count": 68,
       "company_id": "galactic_energy",
       "company_name": "星河动力",
       "error_message": null,
@@ -1395,8 +1399,8 @@
         "https://www.space.com/feeds.xml"
       ],
       "final_status": "success",
-      "finished_at": "2026-10-31T11:18:53.048895Z",
-      "item_count": 58,
+      "finished_at": "2026-10-31T16:23:53.812123Z",
+      "item_count": 68,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
       "metadata": {
@@ -1443,10 +1447,10 @@
         "partial_run": true,
         "per_feed_limit": 8,
         "provider_id": "rss_provider,spaceflight_news_provider",
-        "scheduled_slot": "open-sources-2026-10-31T11",
-        "source_count": 37,
+        "scheduled_slot": "open-sources-2026-10-31T16",
+        "source_count": 40,
         "stale_fallback_available": false,
-        "warning_count": 1
+        "warning_count": 0
       },
       "partial_run": true,
       "provider_id": "rss_provider",
@@ -1461,16 +1465,14 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": false,
       "source_id": "rss_provider",
       "source_type": "rss",
       "started_at": null,
       "status": "success",
       "successful_query_count": 0,
-      "warnings": [
-        "https://www.bing.com/news/search?q=Galactic+Energy+Ceres-1+Pallas-1&format=rss: ParseError: not well-formed (invalid token): line 1, column 41"
-      ]
+      "warnings": []
     },
     {
       "article_count": 0,
@@ -1479,7 +1481,7 @@
       "error_message": null,
       "error_type": null,
       "final_status": "no_results",
-      "finished_at": "2026-10-31T11:19:06.993773Z",
+      "finished_at": "2026-10-31T16:23:54.953266Z",
       "item_count": 0,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
@@ -1495,7 +1497,7 @@
         ],
         "query_count": 1,
         "rate_limit_seconds": 6.2,
-        "scheduled_slot": "open-sources-2026-10-31T11",
+        "scheduled_slot": "open-sources-2026-10-31T16",
         "stale_fallback_available": false,
         "successful_query_count": 1,
         "warning_count": 0
@@ -1516,7 +1518,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": true,
       "source_id": "spaceflight_news_provider",
       "source_type": "search_api",
@@ -1526,7 +1528,7 @@
       "warnings": []
     },
     {
-      "article_count": 20,
+      "article_count": 19,
       "company_id": "yushi_space",
       "company_name": "宇石空间",
       "error_message": null,
@@ -1569,8 +1571,8 @@
         "https://www.space.com/feeds.xml"
       ],
       "final_status": "success",
-      "finished_at": "2026-10-31T11:19:13.514292Z",
-      "item_count": 20,
+      "finished_at": "2026-10-31T16:24:00.560696Z",
+      "item_count": 19,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
       "metadata": {
@@ -1620,8 +1622,8 @@
         "partial_run": true,
         "per_feed_limit": 8,
         "provider_id": "rss_provider,spaceflight_news_provider",
-        "scheduled_slot": "open-sources-2026-10-31T11",
-        "source_count": 14,
+        "scheduled_slot": "open-sources-2026-10-31T16",
+        "source_count": 13,
         "stale_fallback_available": false,
         "warning_count": 0
       },
@@ -1638,7 +1640,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": false,
       "source_id": "rss_provider",
       "source_type": "rss",
@@ -1654,7 +1656,7 @@
       "error_message": null,
       "error_type": null,
       "final_status": "no_results",
-      "finished_at": "2026-10-31T11:19:14.980757Z",
+      "finished_at": "2026-10-31T16:24:01.209965Z",
       "item_count": 0,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
@@ -1670,7 +1672,7 @@
         ],
         "query_count": 1,
         "rate_limit_seconds": 6.2,
-        "scheduled_slot": "open-sources-2026-10-31T11",
+        "scheduled_slot": "open-sources-2026-10-31T16",
         "stale_fallback_available": false,
         "successful_query_count": 1,
         "warning_count": 0
@@ -1691,7 +1693,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": true,
       "source_id": "spaceflight_news_provider",
       "source_type": "search_api",
@@ -1701,7 +1703,7 @@
       "warnings": []
     },
     {
-      "article_count": 35,
+      "article_count": 34,
       "company_id": "hongqing_technology",
       "company_name": "蓝箭鸿擎",
       "error_message": null,
@@ -1746,8 +1748,8 @@
         "https://www.space.com/feeds.xml"
       ],
       "final_status": "success",
-      "finished_at": "2026-10-31T11:19:21.693366Z",
-      "item_count": 35,
+      "finished_at": "2026-10-31T16:24:07.032146Z",
+      "item_count": 34,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
       "metadata": {
@@ -1799,8 +1801,8 @@
         "partial_run": true,
         "per_feed_limit": 8,
         "provider_id": "rss_provider,spaceflight_news_provider",
-        "scheduled_slot": "open-sources-2026-10-31T11",
-        "source_count": 17,
+        "scheduled_slot": "open-sources-2026-10-31T16",
+        "source_count": 18,
         "stale_fallback_available": false,
         "warning_count": 0
       },
@@ -1817,7 +1819,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": false,
       "source_id": "rss_provider",
       "source_type": "rss",
@@ -1833,7 +1835,7 @@
       "error_message": null,
       "error_type": null,
       "final_status": "no_results",
-      "finished_at": "2026-10-31T11:19:21.851750Z",
+      "finished_at": "2026-10-31T16:24:07.289030Z",
       "item_count": 0,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
@@ -1849,7 +1851,7 @@
         ],
         "query_count": 1,
         "rate_limit_seconds": 6.2,
-        "scheduled_slot": "open-sources-2026-10-31T11",
+        "scheduled_slot": "open-sources-2026-10-31T16",
         "stale_fallback_available": false,
         "successful_query_count": 1,
         "warning_count": 0
@@ -1870,7 +1872,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": true,
       "source_id": "spaceflight_news_provider",
       "source_type": "search_api",
@@ -1880,7 +1882,7 @@
       "warnings": []
     },
     {
-      "article_count": 75,
+      "article_count": 73,
       "company_id": "galaxyspace",
       "company_name": "银河航天",
       "error_message": null,
@@ -1925,8 +1927,8 @@
         "https://www.space.com/feeds.xml"
       ],
       "final_status": "success",
-      "finished_at": "2026-10-31T11:19:29.734531Z",
-      "item_count": 75,
+      "finished_at": "2026-10-31T16:24:13.541265Z",
+      "item_count": 73,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
       "metadata": {
@@ -1978,8 +1980,8 @@
         "partial_run": true,
         "per_feed_limit": 8,
         "provider_id": "rss_provider,spaceflight_news_provider",
-        "scheduled_slot": "open-sources-2026-10-31T11",
-        "source_count": 39,
+        "scheduled_slot": "open-sources-2026-10-31T16",
+        "source_count": 37,
         "stale_fallback_available": false,
         "warning_count": 1
       },
@@ -1996,7 +1998,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": false,
       "source_id": "rss_provider",
       "source_type": "rss",
@@ -2014,7 +2016,7 @@
       "error_message": null,
       "error_type": null,
       "final_status": "no_results",
-      "finished_at": "2026-10-31T11:19:29.942665Z",
+      "finished_at": "2026-10-31T16:24:13.843601Z",
       "item_count": 0,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
@@ -2030,7 +2032,7 @@
         ],
         "query_count": 1,
         "rate_limit_seconds": 6.2,
-        "scheduled_slot": "open-sources-2026-10-31T11",
+        "scheduled_slot": "open-sources-2026-10-31T16",
         "stale_fallback_available": false,
         "successful_query_count": 1,
         "warning_count": 0
@@ -2051,7 +2053,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": true,
       "source_id": "spaceflight_news_provider",
       "source_type": "search_api",
@@ -2061,7 +2063,7 @@
       "warnings": []
     },
     {
-      "article_count": 49,
+      "article_count": 50,
       "company_id": "minospace",
       "company_name": "微纳星空",
       "error_message": null,
@@ -2101,8 +2103,8 @@
         "https://www.space.com/feeds.xml"
       ],
       "final_status": "success",
-      "finished_at": "2026-10-31T11:19:35.060703Z",
-      "item_count": 49,
+      "finished_at": "2026-10-31T16:24:18.961388Z",
+      "item_count": 50,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
       "metadata": {
@@ -2149,10 +2151,10 @@
         "partial_run": true,
         "per_feed_limit": 8,
         "provider_id": "rss_provider,spaceflight_news_provider",
-        "scheduled_slot": "open-sources-2026-10-31T11",
+        "scheduled_slot": "open-sources-2026-10-31T16",
         "source_count": 26,
         "stale_fallback_available": false,
-        "warning_count": 1
+        "warning_count": 0
       },
       "partial_run": true,
       "provider_id": "rss_provider",
@@ -2167,16 +2169,14 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": false,
       "source_id": "rss_provider",
       "source_type": "rss",
       "started_at": null,
       "status": "success",
       "successful_query_count": 0,
-      "warnings": [
-        "https://www.bing.com/news/search?q=MinoSpace+commercial+satellite+manufacturer&format=rss: ParseError: not well-formed (invalid token): line 1, column 41"
-      ]
+      "warnings": []
     },
     {
       "article_count": 0,
@@ -2185,7 +2185,7 @@
       "error_message": null,
       "error_type": null,
       "final_status": "no_results",
-      "finished_at": "2026-10-31T11:19:36.056213Z",
+      "finished_at": "2026-10-31T16:24:20.296364Z",
       "item_count": 0,
       "max_gdelt_queries": null,
       "merge_policy": "A5_stale_latest_merge",
@@ -2201,7 +2201,7 @@
         ],
         "query_count": 1,
         "rate_limit_seconds": 6.2,
-        "scheduled_slot": "open-sources-2026-10-31T11",
+        "scheduled_slot": "open-sources-2026-10-31T16",
         "stale_fallback_available": false,
         "successful_query_count": 1,
         "warning_count": 0
@@ -2222,7 +2222,7 @@
       "retry_count": 0,
       "scheduled_company_id": null,
       "scheduled_provider_id": "rss_provider,spaceflight_news_provider",
-      "scheduled_slot": "open-sources-2026-10-31T11",
+      "scheduled_slot": "open-sources-2026-10-31T16",
       "should_fallback": true,
       "source_id": "spaceflight_news_provider",
       "source_type": "search_api",
@@ -2232,7 +2232,7 @@
       "warnings": []
     }
   ],
-  "generated_at": "2026-10-31T11:19:36.594332Z",
-  "run_id": "b0f6ae7b-ff86-46cb-a547-a82992901c07",
+  "generated_at": "2026-10-31T16:24:20.899229Z",
+  "run_id": "8d7d5411-c3e2-4609-8aec-5ae90f7b2390",
   "schema_version": "satellite_news.v1"
 }
