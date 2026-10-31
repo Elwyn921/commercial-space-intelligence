@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-10-31
 
-- Report ID: daily-2026-10-31-734bc6e9
-- Source run: 07d428dd-a7de-4d03-8f7a-ce48c3f2e3bc
+- Report ID: daily-2026-10-31-e4d86ab5
+- Source run: b0f6ae7b-ff86-46cb-a547-a82992901c07
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 2
+- Total items: 4
 
 ## Executive Summary
 
-2026-10-31 共收录 2 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-10-31 共收录 4 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,13 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
-- [SPCX Finds A Spot On BofA’s Top Stock Picks List As Falcon 9 Delivers 27 Starlink Satellites To Orbit - Stocktwits](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLU96YWlpdDFrMzlOV3NDc2w3X0lLQ0stWGpjeFJNWlFvY09aWTg1V2M2SzZRVDA0Vk9ZZFhOemxkVm9RRHBENzBXVFdjaXVZMmw5SVdLSTdqbE55RDZwanVFR2c0YTM2N19GdGFnS0pSelIyRWdBYU8yS3hGa0xJWWljdXBsR0F1ZUVsd3pkSUkyQzVHWXV0QzVPb1lQVTdHcmhLYm8wSmlvNlJISk1zRWlnbVZpRkVSZmplUXJnbE1fT1p6ZzZfdEVfMlZWYWpqLTdIX0ZTR29MRVlNc1VMcFZJTFdxU0lxbTM5d0IwZjBTdGtS?oc=5) SpaceX
-- [Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch](https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch) SpaceX
+- [SpaceX Sends 27 More Starlink Satellites Into Orbit on a Halloween Launch - Around Prague](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVM0Y2d4ZHRXOUlmZ0IzM1RMNEhkdHFmclBXdGltbjlTRUlCbllWNENnT3JpTDF5Y2IwcE9zM3BYcFFlVUE5cnBoOFRZYzM3SDdLUlNXdUZMSnNJbDhkMHcyNF9XNXRybUp2TGY3MkNpWkxBQ1ZJREZBeXMzQ0ZQUEdnZlcxVGxNUGN2Z0pwbWhCckNkSWxWTGctNGNQem1JMG55cF9PMGpBb2ppa2pFbVRsTQ?oc=5) SpaceX
+- [Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California - Space](https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXhmUXBPR3Z0NEszbXVIUk1taFl1U09tUDZNbFY1WXo1emtHRHNFYzVXX3NNalk1eGVfZWlHWGQ5NzhOQjlrN0xkUjREQ0tVa09XUng1Um9CX1doT2pJVUk5dUJpYzI3OTF3X1RuZnVveHMxbHlCS3RWdVNuWGY1NmlkLWVTRDgwZC1NWTNndGk4QlFld2VsUjBWNFJtMkJVUmE0Tlk3dlBlQzdYM0VFbDZMc0d2enB6Q0E?oc=5) SpaceX
+- [LIFTOFF! SpaceX launches 27 Starlink satellites from California, sticks landing - Starlust.org](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yNFJVLUlfZExsLVIxQ1RiejdPcGtCOEtLZ2V6TU9ORmU1bzNFaS1MdS1jbTFQdWp4MFkzbGcwV2hhWDI4dGJYRl9OWTZsVHlTd1JF?oc=5) SpaceX
 
 ## Top News
 
-- [SPCX Finds A Spot On BofA’s Top Stock Picks List As Falcon 9 Delivers 27 Starlink Satellites To Orbit - Stocktwits](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLU96YWlpdDFrMzlOV3NDc2w3X0lLQ0stWGpjeFJNWlFvY09aWTg1V2M2SzZRVDA0Vk9ZZFhOemxkVm9RRHBENzBXVFdjaXVZMmw5SVdLSTdqbE55RDZwanVFR2c0YTM2N19GdGFnS0pSelIyRWdBYU8yS3hGa0xJWWljdXBsR0F1ZUVsd3pkSUkyQzVHWXV0QzVPb1lQVTdHcmhLYm8wSmlvNlJISk1zRWlnbVZpRkVSZmplUXJnbE1fT1p6ZzZfdEVfMlZWYWpqLTdIX0ZTR29MRVlNc1VMcFZJTFdxU0lxbTM5d0IwZjBTdGtS?oc=5) SpaceX
-- [Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch](https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch) SpaceX
+- [SpaceX Sends 27 More Starlink Satellites Into Orbit on a Halloween Launch - Around Prague](https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVM0Y2d4ZHRXOUlmZ0IzM1RMNEhkdHFmclBXdGltbjlTRUlCbllWNENnT3JpTDF5Y2IwcE9zM3BYcFFlVUE5cnBoOFRZYzM3SDdLUlNXdUZMSnNJbDhkMHcyNF9XNXRybUp2TGY3MkNpWkxBQ1ZJREZBeXMzQ0ZQUEdnZlcxVGxNUGN2Z0pwbWhCckNkSWxWTGctNGNQem1JMG55cF9PMGpBb2ppa2pFbVRsTQ?oc=5) SpaceX
+- [Happy Halloween! SpaceX launches 27 Starlink satellites to orbit from California - Space](https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXhmUXBPR3Z0NEszbXVIUk1taFl1U09tUDZNbFY1WXo1emtHRHNFYzVXX3NNalk1eGVfZWlHWGQ5NzhOQjlrN0xkUjREQ0tVa09XUng1Um9CX1doT2pJVUk5dUJpYzI3OTF3X1RuZnVveHMxbHlCS3RWdVNuWGY1NmlkLWVTRDgwZC1NWTNndGk4QlFld2VsUjBWNFJtMkJVUmE0Tlk3dlBlQzdYM0VFbDZMc0d2enB6Q0E?oc=5) SpaceX
+- [LIFTOFF! SpaceX launches 27 Starlink satellites from California, sticks landing - Starlust.org](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yNFJVLUlfZExsLVIxQ1RiejdPcGtCOEtLZ2V6TU9ORmU1bzNFaS1MdS1jbTFQdWp4MFkzbGcwV2hhWDI4dGJYRl9OWTZsVHlTd1JF?oc=5) SpaceX
 
 ## Risks And Watchpoints
 
