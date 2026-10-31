@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-10-30
+# 每日新闻情报日报 - 2026-10-31
 
-- Report ID: daily-2026-10-31-c1dc3605
-- Source run: 0795ab74-00fb-4d59-9367-785103d5add3
+- Report ID: daily-2026-10-31-734bc6e9
+- Source run: 07d428dd-a7de-4d03-8f7a-ce48c3f2e3bc
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 1
+- Total items: 2
 
 ## Executive Summary
 
-2026-10-31 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-10-31 共收录 2 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,11 +31,13 @@ No LLM summary.
 
 No LLM summary.
 
-- [SpaceX to conduct next California rocket launch after record-setter - The Desert Sun](https://news.google.com/rss/articles/CBMitgFBVV95cUxORWFvUV84S1N0U05yS3ZuV3I1ODJKYkRmY3lNLVhUTGxKRTJuRHBFaXFpU2JNcWFDU0hZZ3VFM1JBTXBKbzNzQkJ3T2hxM2k4dzhTOUQ0VHJINDZ6NjgxNUhCS1VLWGJqRjJMNXRUSjRPM01xNEFMR3ZkY1FyYWZKbmJEcXZjYllJcjM0WGlSSnl6NTQydGZtOWx4WEVxTnpPSV9MZy1SN0dBRlNEaXl4V3VCU0Nxdw?oc=5) SpaceX
+- [SPCX Finds A Spot On BofA’s Top Stock Picks List As Falcon 9 Delivers 27 Starlink Satellites To Orbit - Stocktwits](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLU96YWlpdDFrMzlOV3NDc2w3X0lLQ0stWGpjeFJNWlFvY09aWTg1V2M2SzZRVDA0Vk9ZZFhOemxkVm9RRHBENzBXVFdjaXVZMmw5SVdLSTdqbE55RDZwanVFR2c0YTM2N19GdGFnS0pSelIyRWdBYU8yS3hGa0xJWWljdXBsR0F1ZUVsd3pkSUkyQzVHWXV0QzVPb1lQVTdHcmhLYm8wSmlvNlJISk1zRWlnbVZpRkVSZmplUXJnbE1fT1p6ZzZfdEVfMlZWYWpqLTdIX0ZTR29MRVlNc1VMcFZJTFdxU0lxbTM5d0IwZjBTdGtS?oc=5) SpaceX
+- [Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch](https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch) SpaceX
 
 ## Top News
 
-- [SpaceX to conduct next California rocket launch after record-setter - The Desert Sun](https://news.google.com/rss/articles/CBMitgFBVV95cUxORWFvUV84S1N0U05yS3ZuV3I1ODJKYkRmY3lNLVhUTGxKRTJuRHBFaXFpU2JNcWFDU0hZZ3VFM1JBTXBKbzNzQkJ3T2hxM2k4dzhTOUQ0VHJINDZ6NjgxNUhCS1VLWGJqRjJMNXRUSjRPM01xNEFMR3ZkY1FyYWZKbmJEcXZjYllJcjM0WGlSSnl6NTQydGZtOWx4WEVxTnpPSV9MZy1SN0dBRlNEaXl4V3VCU0Nxdw?oc=5) SpaceX
+- [SPCX Finds A Spot On BofA’s Top Stock Picks List As Falcon 9 Delivers 27 Starlink Satellites To Orbit - Stocktwits](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLU96YWlpdDFrMzlOV3NDc2w3X0lLQ0stWGpjeFJNWlFvY09aWTg1V2M2SzZRVDA0Vk9ZZFhOemxkVm9RRHBENzBXVFdjaXVZMmw5SVdLSTdqbE55RDZwanVFR2c0YTM2N19GdGFnS0pSelIyRWdBYU8yS3hGa0xJWWljdXBsR0F1ZUVsd3pkSUkyQzVHWXV0QzVPb1lQVTdHcmhLYm8wSmlvNlJISk1zRWlnbVZpRkVSZmplUXJnbE1fT1p6ZzZfdEVfMlZWYWpqLTdIX0ZTR29MRVlNc1VMcFZJTFdxU0lxbTM5d0IwZjBTdGtS?oc=5) SpaceX
+- [Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch](https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch) SpaceX
 
 ## Risks And Watchpoints
 
