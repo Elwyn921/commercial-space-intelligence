@@ -1,246 +1,217 @@
 {
-  "as_of_date": "2026-10-30",
+  "as_of_date": "2026-10-31",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 6,
+        "launch": 12,
         "order": 1,
-        "other": 7
+        "other": 4,
+        "regulation": 1
       },
-      "item_count": 14,
-      "latest_title": "T-Mobile CEO rules out letting SpaceX's Starlink Mobile run on its network"
+      "item_count": 18,
+      "latest_title": "SpaceX Falcon 9 Rocket Launch Set for Friday Night at Vandenberg Space Force Base - edhat"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_types": {
-        "launch": 3,
-        "product": 1
+        "launch": 4
       },
       "item_count": 4,
-      "latest_title": "Blue Origin Launches Earth's First Space Manufacturing Apprenticeship Program - Blue Origin"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_types": {
-        "launch": 2,
-        "order": 2
-      },
-      "item_count": 4,
-      "latest_title": "成飞研究所“某飞行器运载火箭发射服务”中标候选人公示：蓝箭航天、中科宇航入围 - 东方财富"
+      "latest_title": "Blue Origin's New Glenn static-fire test damages booster"
     },
     {
       "company_id": "cas_space",
       "company_name": "中科宇航",
       "event_types": {
-        "launch": 2
+        "launch": 1,
+        "other": 1
       },
       "item_count": 2,
-      "latest_title": "成飞研究所“某飞行器运载火箭发射服务”中标候选人公示：蓝箭航天、中科宇航入围 - 东方财富"
+      "latest_title": "太空制造成果齐聚大湾区科学论坛，中科宇航构建“商业航天+”新生态 - 未来天玑"
     },
     {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
+      "company_id": "china_satnet",
+      "company_name": "中国星网",
       "event_types": {
         "other": 1
       },
       "item_count": 1,
-      "latest_title": "一年多没发火箭的民商火箭公司星际荣耀，押注可复用型号双曲线三号 - 搜狐网"
+      "latest_title": "长春理工大学科研团队助力中国星网-中国吉林网 - 第一新闻"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_types": {
+        "launch": 1
+      },
+      "item_count": 1,
+      "latest_title": "影响市场重大事件：成飞研究所“某飞行器运载火箭发射服务”中标公示：蓝箭航天、中科宇航入围；阿里巴巴关联公司入股绳驱柔性太空机器人研发商弦引未来 - 东方财富"
     }
   ],
   "company_count": 5,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 13,
-    "order": 3,
-    "other": 8,
-    "product": 1
+    "launch": 18,
+    "order": 1,
+    "other": 6,
+    "regulation": 1
   },
-  "generated_at": "2026-10-30T07:05:56.391092Z",
-  "period_end": "2026-10-29",
-  "period_start": "2026-10-29",
-  "report_date": "2026-10-29",
+  "generated_at": "2026-10-31T07:00:16.441022Z",
+  "period_end": "2026-10-30",
+  "period_start": "2026-10-30",
+  "report_date": "2026-10-30",
   "schema_version": "daily_document.v1",
-  "source_count": 12,
+  "source_count": 13,
   "source_counts": {
-    "Aviation Week": 1,
-    "Blue Origin": 1,
-    "SatNews Publishers": 1,
-    "Stocktwits": 1,
-    "The Globe and Mail": 1,
-    "The Motley Fool": 1,
-    "bing.com": 10,
-    "space.com": 2,
+    "19FortyFive": 1,
+    "Diario AS": 1,
+    "KSBY News": 1,
+    "Santa Maria Times": 1,
+    "The Business Journals": 1,
+    "Ventura County Star": 1,
+    "bing.com": 13,
+    "edhat": 1,
+    "spaceintelreport.com": 1,
+    "spacewatch.global": 1,
     "东方财富": 2,
-    "手机网易网": 1,
-    "搜狐网": 3,
-    "新浪财经": 1
+    "未来天玑": 1,
+    "第一新闻": 1
   },
-  "summary": "2026-10-29 共归档 25 条新闻，覆盖 5 家公司、12 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、蓝箭航天、中科宇航。",
+  "summary": "2026-10-30 共归档 26 条新闻，覆盖 5 家公司、13 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、中科宇航、中国星网。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "b623d8bc9909d5e8",
-      "published_at": "2026-10-29T15:59:00Z",
-      "source_name": "bing.com",
-      "title": "T-Mobile CEO rules out letting SpaceX's Starlink Mobile run on its network",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae409870d794610934afe4eb3bf0a79&url=https%3A%2F%2Fwww.gsmarena.com%2Ftmobile_ceo_rules_out_letting_spacex_run_on_its_network-news-75272.php&c=17105966363837802321&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "9ff1cb409801dd4f",
-      "published_at": "2026-10-29T15:46:48Z",
-      "source_name": "Blue Origin",
-      "title": "Blue Origin Launches Earth's First Space Manufacturing Apprenticeship Program - Blue Origin",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTTNObXQ4WWxZYWlNMDI2dnNBaE9aVFlONmh1cHh3NTVyNEZ6X0lHNW1yLVFDNVZBd0tHNG1CU21UY29ubkE3RUhXalhMUmZWbFFPQ0xMdXQ3cHNpRTNKLWRQdWUtX0NmREtaMHpIa3NaRmN0aUtPY0s1dkl1bjhISWxKZ1VWU2hHd1IyUG9OMG9kcXUwNEpEeU4tRQ?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "21625df221ca4382",
-      "published_at": "2026-10-29T14:27:51Z",
-      "source_name": "SatNews Publishers",
-      "title": "Blue Origin Reconstructs Launch Complex 36 Tower, Targets November Return to Flight for New Glenn - SatNews Publishers",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObTdtakowM0h3S2VGdXRld0JTS18wRzRIRUk4SzNrSkVPdDFucGx5QmRUdHFnYXhvMWhqZGpIU3Q5VDdkQ3ZIWmxnd3dLVHlobW10WENGSVVQaDUyWDZvbXh5QllIR1h2TlA5Nk1UeFFDRHQ0aWN0VzZ0WXNXMXlOMkloZzJaYWFjTVNpb2RYd2dDdWItWFZYMldRNUFYMXhIc2Rjc1JBTUxSRS13WGRaU2U4TmhlQzJ2ak9qOFhkaE1VamJhNlVB?oc=5"
+      "item_id": "54b08739a456f129",
+      "published_at": "2026-10-30T15:40:12Z",
+      "source_name": "edhat",
+      "title": "SpaceX Falcon 9 Rocket Launch Set for Friday Night at Vandenberg Space Force Base - edhat",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQelAxbGpzX3hSanRIN3V5M2RvQ3Mwa3ZTR2VTN09rRXpGb01lZENVNHhRNk5WSE5fM1NPNnZOX0M3YV9uOURjWVRPejVkYVMyYWc1aTVubVZneHN2OXo3eHVvSXZ3NVY3UENoNmU3azh4djlpZ0dEVFFTQXM1eGtySDBSYUNkd01yNF9XS0NUNEhqWTg?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "c62fe043cf09f44a",
-      "published_at": "2026-10-29T13:00:00Z",
-      "source_name": "space.com",
-      "title": "SpaceX fires up Starship upper stage ahead of landmark Flight 15 test launch (video)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video"
+      "item_id": "e4cbe21ead1d3ba5",
+      "published_at": "2026-10-30T14:59:25Z",
+      "source_name": "Diario AS",
+      "title": "SpaceX’s Falcon 9 launch scheduled for tonight: What time can you see it in the U.S.? - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY3Q1R1ZBVGxBNFdZbVBfX01hZkJ1aW1YWVlKUmw2YXVNQ0hEVk0tSFVOQ1dVRHYtMlF2QUdBU28wbGdfRGJPeVBGd3ZvYzJCdjc3YVFrUVVjUThYN3JRM1RRRUQ4N0pTMWVqUnZoMlF4V3QyUWRlWVE5dkZIQ2dYTkpDVEpTNV9OWFpfNHQ2MWJMc3VfZDZOVEVzZDlyRlA5U1Y0a0ZRV0NzZ3dGZWtvS1RETUlRTzhicVBTYkxR?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "7bf7bc390217539b",
+      "published_at": "2026-10-30T13:00:00Z",
+      "source_name": "bing.com",
+      "title": "Track next Vandenberg rocket launch after SpaceX helps set record",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae50fb2229442e484386b43adfce5be&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Flocal%2Fcalifornia%2F2026%2F10%2F30%2Fspacex-california-rocket-launch-today-track-time-liftoff-scrubs%2F92478646007%2F&c=4476839318109706204&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "1a4bea29858d73d8",
+      "published_at": "2026-10-30T13:00:00Z",
+      "source_name": "bing.com",
+      "title": "Track next Vandenberg rocket launch after SpaceX helps set record",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae557db78d04b5a971d4efefec21555&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Flocal%2Fcalifornia%2F2026%2F10%2F30%2Fspacex-california-rocket-launch-today-track-time-liftoff-scrubs%2F92478646007%2F&c=4476839318109706204&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "dfe8c47222b1b627",
+      "published_at": "2026-10-30T07:59:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX’s Falcon 9 launch scheduled for tonight: What time can you see it in the U.S.?",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae557db576c46808df48bda0903c51d&url=https%3A%2F%2Fen.as.com%2Flatest_news%2Fspacexs-falcon-9-launch-scheduled-for-tonight-what-time-can-you-see-it-in-the-us-f202610-n%2F&c=9925857783069743513&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "e8b16d6177ea017d",
+      "published_at": "2026-10-30T07:08:48Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin's New Glenn static-fire test damages booster",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae50fb9a86f41acbe6a5e6cda453c8c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fblue-origins-new-glenn-static-fire-test-damages-booster%2Fvi-AA2aPpqt&c=10090948770790235812&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "be81d66df49604d0",
+      "published_at": "2026-10-30T07:08:48Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin's New Glenn static-fire test damages booster",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae4d15f223c420385be6df73b4297f6&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fgeneral%2Fblue-origin-s-new-glenn-static-fire-test-damages-booster%2Fvi-AA2aPpqt&c=6041760190919002429&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "6e56081e89316c51",
+      "published_at": "2026-10-30T07:08:48Z",
+      "source_name": "bing.com",
+      "title": "Blue Origin's New Glenn static-fire test damages booster",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae557e3e6d342b9bf257b9225f8b21d&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fblue-origins-new-glenn-static-fire-test-damages-booster%2Fvi-AA2aPpqt&c=10090948770790235812&mkt=en-us"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "other",
+      "item_id": "82680c715e0abc25",
+      "published_at": "2026-10-30T02:31:35Z",
+      "source_name": "未来天玑",
+      "title": "太空制造成果齐聚大湾区科学论坛，中科宇航构建“商业航天+”新生态 - 未来天玑",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9id3d4cTJROFk0SVh3b204R2xXMWtMUzN4dEpEb05lWFhyN2h5SzhBR0I4ZUo4Zk9UVFNUQkxsV2tKNXVhTkFvWDFoLTZwcVNzVnc?oc=5"
     },
     {
       "company_id": "cas_space",
       "company_name": "中科宇航",
       "event_type": "launch",
-      "item_id": "40c40077023d74f0",
-      "published_at": "2026-10-29T12:22:39Z",
+      "item_id": "2e325bd36e7d65af",
+      "published_at": "2026-10-29T22:56:41Z",
       "source_name": "东方财富",
-      "title": "成飞研究所“某飞行器运载火箭发射服务”中标候选人公示：蓝箭航天、中科宇航入围 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JLTR0S0JuOXZUcUxJNmszc2lLdXFPQWx3WVE4NFU2VEJVRy1YQmZSOVliaW5jYjE5eE5lejFVNUl6WUZZVll3S1FDbFJhMVF0VnlVZWUzTTY3R0l5eDBsNEptRFAwQQ?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "96d642ba83291800",
-      "published_at": "2026-10-29T10:47:00Z",
-      "source_name": "bing.com",
-      "title": "Falcon 9 Launch of Starlink Satellites Scheduled For Late Friday Into Early Saturday",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae40988d2cc4d5595058268554569b4&url=https%3A%2F%2Fkeyt.com%2Fvandenberg-space-base%2F2026%2F10%2F29%2Ffalcon-9-launch-of-starlink-satellites-scheduled-for-late-friday-into-early-saturday%2F&c=11686580869937562582&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "6d4f5c627d2fc842",
-      "published_at": "2026-10-29T10:00:00Z",
-      "source_name": "space.com",
-      "title": "SpaceX's Starfall capsule delivers cargo for US Air Force in landmark 'point to point' space mission",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starfall-capsule-delivers-cargo-for-us-air-force-in-landmark-point-to-point-space-mission"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "f8ffe287a1360eff",
-      "published_at": "2026-10-29T09:50:00Z",
-      "source_name": "bing.com",
-      "title": "Get ready for the ‘Year of Starlink’ as airlines battle over superfast WiFi",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae384dfdb384db28917bac9f8a7c2d3&url=https%3A%2F%2Fwww.marketwatch.com%2Fstory%2Fget-ready-for-the-year-of-starlink-as-airlines-battle-over-superfast-wifi-6bce32c1&c=1120969591287196425&mkt=en-us"
+      "title": "影响市场重大事件：成飞研究所“某飞行器运载火箭发射服务”中标公示：蓝箭航天、中科宇航入围；阿里巴巴关联公司入股绳驱柔性太空机器人研发商弦引未来 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tdUZ5dDNjM3g2MkxtNzBCcm4wNkNDa2NuNmdOc1kwT2RSdUNCa0N2dGt4Ti1XWFZZemtXNndBQlZjcGNHN0twZXNXQmRXcTJFRkFoVzhwU0ZPNzhBNUNLcll4TQ?oc=5"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "42859894184d5955",
-      "published_at": "2026-10-29T08:16:00Z",
-      "source_name": "bing.com",
-      "title": "Bezos’ Blue Origin is growing with new facility in Des Moines",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae4098f4e804b509f1d3c92ab5bce49&url=https%3A%2F%2Fwww.seattletimes.com%2Fbusiness%2Fboeing-aerospace%2Fbezos-blue-origin-is-growing-with-new-facility-in-des-moines%2F&c=12770376280818904892&mkt=en-us"
+      "item_id": "51c3fbe694f9ccd6",
+      "published_at": "2026-10-29T17:50:00Z",
+      "source_name": "The Business Journals",
+      "title": "Blue Origin launches apprenticeship program to build space workforce - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXlSWDFTQ0x0LXhydUFlZUZPSnV2VVhqazBGUThoTzAtZ3FfV3hNWm5OODEwdmE4ZTBIRG96VUNPSlZxWkFSQ214aWNYY3pJN1p2MUR2T0g3ZkU2YkQzdXlwMFVDU05ZUzNXeHBlQ3ZmbGpjWHJzckloQzlyYzFlZWtnRS1kOGlIVVpGSmxpcUN3TEpvaElNMDVHV0k5bk9lSUNzU0p4aw?oc=5"
     },
     {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "923a3bf761d9a132",
-      "published_at": "2026-10-29T05:19:00Z",
-      "source_name": "新浪财经",
-      "title": "成飞研究所“某飞行器运载火箭发射服务”中标候选人公示：蓝箭航天、中科宇航入围 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02R0pESTJJaVZic2FUcVJ2N2p1UHFtb09BdmNHbjlNRnVQcUY1X094ajVRalNtaF9NdlVtU092djdRV1RWN1c5RXhERzMyNm5lOHNHWExqMEIzMjNmZWk5cWF2Sm9jVV9xNi1lWXpiUk9sWEtHXzkzeg?oc=5"
-    },
-    {
-      "company_id": "i_space",
-      "company_name": "星际荣耀",
+      "company_id": "china_satnet",
+      "company_name": "中国星网",
       "event_type": "other",
-      "item_id": "d600383e4c4c9d62",
-      "published_at": "2026-10-29T03:05:13Z",
-      "source_name": "搜狐网",
-      "title": "一年多没发火箭的民商火箭公司星际荣耀，押注可复用型号双曲线三号 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ2YtUE90WXVZTVlMN1dqQnZQWjk0b0RwODVKMTZLNktIS1NWR0ZTd2sxWkZFaldCYkdXOTZyYnZDRGZLS2xfSU5sRXRWWFpQWnlXdllqMVR1RjlaOE5ZWnZlcDJHdThFZjdLWE9qTUhTN3Q5SElTWFl4NWVNWnNSS1A4U0hJV0VxRk55MA?oc=5"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "product",
-      "item_id": "a86640a786fabfb7",
-      "published_at": "2026-10-28T17:34:45Z",
-      "source_name": "Aviation Week",
-      "title": "Debrief: New Glenn Debut, Take 2 - Aviation Week",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRmpGZHFrY1U4aGwwU2R2Tk9ubWxwc09yYUZkeVZXM0xuZU9lNlM3dFc3dzlfM21WN1VCUEdWeXRCUWZveWVESThSY2VYZkZDbkVaQml5UXRIc2g0d1JsS0RMYWh0MlBNdC1FTGd5X3JISUVjcDBzemxTNm8yeTVZblVLSDZKLURtdmg4YUhLU0RJQQ?oc=5"
+      "item_id": "3d4ebab8b86e9b19",
+      "published_at": "2026-10-30T07:23:00Z",
+      "source_name": "第一新闻",
+      "title": "长春理工大学科研团队助力中国星网-中国吉林网 - 第一新闻",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zc1dzVUk2Mmd2bFhCTTFIbWpHNmdlRGxyUjdxcU9veVZYZHNERXhvVzhmWjYyNTBlQ3FRNDRTbWRCTnl4WjR5N2xrSjFfc3FkMUlZYVVSN1RNSklFb2JN?oc=5"
     },
     {
       "company_id": "landspace",
       "company_name": "蓝箭航天",
       "event_type": "launch",
-      "item_id": "49689422e70685c4",
-      "published_at": "2026-10-29T12:22:39Z",
+      "item_id": "4be79836ae9d6d28",
+      "published_at": "2026-10-29T22:56:41Z",
       "source_name": "东方财富",
-      "title": "成飞研究所“某飞行器运载火箭发射服务”中标候选人公示：蓝箭航天、中科宇航入围 - 东方财富",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JLTR0S0JuOXZUcUxJNmszc2lLdXFPQWx3WVE4NFU2VEJVRy1YQmZSOVliaW5jYjE5eE5lejFVNUl6WUZZVll3S1FDbFJhMVF0VnlVZWUzTTY3R0l5eDBsNEptRFAwQQ?oc=5"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "order",
-      "item_id": "762b9b9ab7f54397",
-      "published_at": "2026-10-29T10:49:35Z",
-      "source_name": "搜狐网",
-      "title": "蓝箭航天、中科宇航，中标候选 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWXd2d1pkY292UEVMbklUSENPUlhrVTdwRWU0UDlZekxhdEVnUUhHNjgwRXprSHdXOURSbXFTUC15ZEdiSnl5eG9nM1hENmQ5R1l3cEpZc2VBM2xGUmIzdURRaXlpOFdYMTY4OGRaVzBiQ0cyUjVER0VreVRlZnVLUERzX2JxOWZrTlkyUg?oc=5"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "order",
-      "item_id": "1eca22777c23facf",
-      "published_at": "2026-10-29T10:49:35Z",
-      "source_name": "搜狐网",
-      "title": "蓝箭航天、中科宇航，中标候选 - 搜狐网",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY2NfeUtoeUJjbFpvOGtJX3F3REh3d2dFaEc5MlFoR1paaGtEbkFFSFM4c3lTckJwU2FWUC1QN1FSQ1RmVm9vd3p1LVdZVUJPZkJuRHMxRGZMV1pxX3N5WjZzTUdsLWNrOVVCMERaZEE0aG5HSkZ3UzRuOVh5YzNrOE9iSDF2TmVTM1J0MG14RQ?oc=5"
-    },
-    {
-      "company_id": "landspace",
-      "company_name": "蓝箭航天",
-      "event_type": "launch",
-      "item_id": "b1461e8a9252d330",
-      "published_at": "2026-10-29T05:12:04Z",
-      "source_name": "手机网易网",
-      "title": "蓝箭航天成功中标“昊龙飞船”发射任务！ - 手机网易网",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zSnhlT0VkZkJqVHVyU0FoR0xsRWc5VEJEMldBTGlFa0c3Q0lwbF9sbFdobU8tVUVsNVpwYlcxUE9yVV95RFJKSGExLW9EZGVwTld3ZEswWHRocUhDNHhIaHZ3?oc=5"
+      "title": "影响市场重大事件：成飞研究所“某飞行器运载火箭发射服务”中标公示：蓝箭航天、中科宇航入围；阿里巴巴关联公司入股绳驱柔性太空机器人研发商弦引未来 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tdUZ5dDNjM3g2MkxtNzBCcm4wNkNDa2NuNmdOc1kwT2RSdUNCa0N2dGt4Ti1XWFZZemtXNndBQlZjcGNHN0twZXNXQmRXcTJFRkFoVzhwU0ZPNzhBNUNLcll4TQ?oc=5"
     }
   ],
-  "total_items": 25
+  "total_items": 26
 }
