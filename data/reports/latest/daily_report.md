@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-10-31
+# 每日新闻情报日报 - 2026-11-01
 
-- Report ID: daily-2026-11-01-4b206000
-- Source run: e675a1c1-7787-4ddb-883d-56ead13ea663
+- Report ID: daily-2026-11-01-fc564bf4
+- Source run: 677b20d1-6f89-4732-a91a-9caae1fe521e
 - Generation status: skipped_no_secret
 - Companies covered: 1
 - Total items: 1
 
 ## Executive Summary
 
-2026-11-01 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 Blue Origin。
+2026-11-01 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,11 +31,11 @@ No LLM summary.
 
 No LLM summary.
 
-- [New Glenn could return in November, report says - NeoTeo](https://news.google.com/rss/articles/CBMifEFVX3lxTE5FZVNzVnBoYVhFbzllQUp4QUlGckhnOGo1elVJUGE5Njhsb0NUTkdzR1lITElETmtXLThqZ1NUN2Jzb0ZHTkN0UUJvWnFmQlUzN2hHTkdFb0R4aFNOYmY4MDdiUnBFQWNybzBsaVlXNkdYYy1xQWFra2hDM00?oc=5) Blue Origin
+- [Starship Commercial Payloads: $715M a Year or Loss [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMlFUUDR3OVhIclZWRWVydGVndGJkd2RyT2N2UjhwSm9wS2tpTVBRMjQyY3hhTHpaU2tsVzB1VjJHMHd1REhEQ1cxbDgtSFZrcVVPWGlJNDF3NE9leUkzYkxUbjMyclIxZkpXTTRpcGJlWG45c3llWHhaQ2pWUVR6b1BmRzhJd3lCZVFzMXVQSmtOWjh0VGlv?oc=5) SpaceX
 
 ## Top News
 
-- [New Glenn could return in November, report says - NeoTeo](https://news.google.com/rss/articles/CBMifEFVX3lxTE5FZVNzVnBoYVhFbzllQUp4QUlGckhnOGo1elVJUGE5Njhsb0NUTkdzR1lITElETmtXLThqZ1NUN2Jzb0ZHTkN0UUJvWnFmQlUzN2hHTkdFb0R4aFNOYmY4MDdiUnBFQWNybzBsaVlXNkdYYy1xQWFra2hDM00?oc=5) Blue Origin
+- [Starship Commercial Payloads: $715M a Year or Loss [2026] - https://tech-insider.org/](https://news.google.com/rss/articles/CBMilwFBVV95cUxPMlFUUDR3OVhIclZWRWVydGVndGJkd2RyT2N2UjhwSm9wS2tpTVBRMjQyY3hhTHpaU2tsVzB1VjJHMHd1REhEQ1cxbDgtSFZrcVVPWGlJNDF3NE9leUkzYkxUbjMyclIxZkpXTTRpcGJlWG45c3llWHhaQ2pWUVR6b1BmRzhJd3lCZVFzMXVQSmtOWjh0VGlv?oc=5) SpaceX
 
 ## Risks And Watchpoints
 
