@@ -1,114 +1,149 @@
 {
-  "as_of_date": "2026-11-01",
+  "as_of_date": "2026-11-02",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 13,
-        "regulation": 1
+        "launch": 4,
+        "other": 7
       },
-      "item_count": 14,
-      "latest_title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch"
+      "item_count": 11,
+      "latest_title": "EasyJet bets on Starlink for full-fleet connectivity by 2027"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_types": {
-        "launch": 1
+        "launch": 3,
+        "other": 2
       },
-      "item_count": 1,
-      "latest_title": "Blue Origin New Glenn explosion damages Launch Complex 36"
+      "item_count": 5,
+      "latest_title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority"
     }
   ],
   "company_count": 2,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 14,
-    "regulation": 1
+    "launch": 7,
+    "other": 9
   },
-  "generated_at": "2026-11-01T07:31:45.902287Z",
-  "period_end": "2026-10-31",
-  "period_start": "2026-10-31",
-  "report_date": "2026-10-31",
+  "generated_at": "2026-11-02T07:41:22.748238Z",
+  "period_end": "2026-11-01",
+  "period_start": "2026-11-01",
+  "report_date": "2026-11-01",
   "schema_version": "daily_document.v1",
-  "source_count": 12,
+  "source_count": 6,
   "source_counts": {
-    "Around Prague": 1,
-    "Breakingthenews.net": 1,
-    "Space": 1,
-    "Spaceflight Now": 1,
-    "Starlust.org": 1,
-    "Stocktwits": 1,
-    "The Desert Sun": 1,
-    "The News International": 1,
-    "bing.com": 4,
-    "https://tech-insider.org/": 1,
+    "NASASpaceflight": 1,
+    "NeoTeo": 2,
+    "bing.com": 9,
+    "https://tech-insider.org/": 2,
     "shattered.io": 1,
-    "space.com": 1
+    "صوت الإمارات": 1
   },
-  "summary": "2026-10-31 共归档 15 条新闻，覆盖 2 家公司、12 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin。",
+  "summary": "2026-11-01 共归档 16 条新闻，覆盖 2 家公司、6 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin。",
   "top_items": [
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "f4a75b01fa2ddcbe",
+      "published_at": "2026-11-01T03:36:55Z",
+      "source_name": "NASASpaceflight",
+      "title": "Isaacman outlines Artemis III multi-launch checkout sequence and Blue Origin priority",
+      "url": "https://www.nasaspaceflight.com/2026/10/isaacman-artemis-launch-sequence-blue-priority"
+    },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "7792ba881809a33b",
-      "published_at": "2026-10-30T22:46:02Z",
-      "source_name": "Spaceflight Now",
-      "title": "Live coverage: SpaceX to close out October with Halloween eve Falcon 9 launch",
-      "url": "https://spaceflightnow.com/2026/10/30/live-coverage-spacex-to-close-out-october-with-halloween-eve-falcon-9-launch"
+      "event_type": "other",
+      "item_id": "61b9f7c56226ca60",
+      "published_at": "2026-11-01T12:23:00Z",
+      "source_name": "bing.com",
+      "title": "EasyJet bets on Starlink for full-fleet connectivity by 2027",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae7fb1b9e714193b52012c16ea29cac&url=https%3A%2F%2Fwww.digitimes.com%2Fnews%2Fa20261102PD203%2Fstarlink-uk-low-cost-2027-spacex.html&c=4490531254458152165&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "34558da3a066381e",
-      "published_at": "2026-10-31T15:24:00Z",
-      "source_name": "The News International",
-      "title": "SpaceX Falcon 9 reaches 700th launch with starlink satellites in historic feat - The News International",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLVNUS29fZVpzbDljZ2ZXbU52VVRRZnlBSm1uclpfS2lOQURWTHlfdU0zMnZpYVpsRUlQSENQaUtGVzJrd3daeC01WFZVbjBvUUdSU0YyV3h5eWVBNXlleklzZUFGY2lMZDJ0bDJIclhVa1RVU2doNk9Qa2NNa1dNM3gzb2JzU1FOQUZjeU5HWWZHZjJMU0g4N2pyREFwMi1DMEVNdTJSWGRuc1VwM0ZqRzA1ajNfM2NsdE1ka9IBuAFBVV95cUxPQ2xtWDJxNFZwNVNpVzZwRFFfQ1otZGVyNXVQMW1fa1Q0VkhfNk1kcWNnYTZ3R192MkNubzVQZW9zMXJYTmlGZHJSclcwUXd1ZXR5eDVDbFZISjk3OE9EQ3FhSnUzTUZCLVNLOXNCb3ZTaGw4SExaWEVqQzZLb0xOd3g0bVprNXBpcnljUi1VTTZ6ZlhjQ0ZmYlV0VXpvV0g3WW5PdW5CWkVYUVBUeEVkaXJ5c0YwSnN3?oc=5"
+      "item_id": "15a5eaa597aa69fa",
+      "published_at": "2026-11-01T05:20:44Z",
+      "source_name": "صوت الإمارات",
+      "title": "SpaceX boosts its Starlink satellite fleet with the launch of 27 new satellites - صوت الإمارات",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY3dXR0lqTm55aWo5TzRNV3Fqb0F0cFZLd2VURmVYRTBBelFVTlZ4WHVjRnNaY08tUk1HRkZZbldiaWZJLVB4V05pdW1adnlOdmJabUFNNmVkdGFfcy0wVkNOREFDWG11WERXX2xoNDFuMzdEaV9FNmZ1b2Y5M1dCa0ktWllLM3BiNzQtTnRtdlZFZ1NOV2w5bEw3UXg3R3lBUlp3NHc3cjhCT0h1OHY1TFpiTlZRQThmNXQ3NWNyRk9MeHhRdDAzajFSTnplVHJ0cGxXcmRNYmdvQ0E?oc=5"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "3897b2c2ad20af81",
-      "published_at": "2026-10-31T14:20:49Z",
+      "item_id": "d2431f642aead67b",
+      "published_at": "2026-11-01T05:05:13Z",
       "source_name": "bing.com",
-      "title": "Blue Origin New Glenn explosion damages Launch Complex 36",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae6a794e51240248638ed7488583800&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fblue-origin-new-glenn-explosion-damages-launch-complex-36%2Fvi-AA24ytdr&c=11957132885422815723&mkt=en-us"
+      "title": "Throwback to Blue Origin’s New Glenn static fire failure",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae7ae2be7084b33a9c1c7b82402731e&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fgeneral%2Fthrowback-to-blue-origin-s-new-glenn-static-fire-failure%2Fvi-AA26q6E4&c=15605173705244488129&mkt=en-us"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "launch",
+      "item_id": "8b3a504dafbd0533",
+      "published_at": "2026-11-01T05:05:13Z",
+      "source_name": "bing.com",
+      "title": "Throwback to Blue Origin’s New Glenn static fire failure",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae7fb23b6cf4d73b7c849a3b52389d1&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fgeneral%2Fthrowback-to-blue-origin-s-new-glenn-static-fire-failure%2Fvi-AA26q6E4&c=15605173705244488129&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "2000350b11b07670",
-      "published_at": "2026-10-31T11:49:33Z",
-      "source_name": "https://tech-insider.org/",
-      "title": "Starlink Launch: 27 Satellites, B1093 Flight 18 [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeE5UTVE4anV4TXprZjJRbzZaOWxCNkt0VVF0aHdnU0hXWWlVX2FzMzVuZ3hPdnZ3OXpDOExNb2ZrOFlsWkxQX0oxNVpnWG9kWDNMSGhBNTUtcHAxVVZIelg0WmR4SE8tN1BRMWVuM0EzUVdWTlFlNktucnk4UWh5M0hlbENIbG1HdDVYcg?oc=5"
+      "item_id": "f4e8229dbc4f8670",
+      "published_at": "2026-10-31T18:22:08Z",
+      "source_name": "bing.com",
+      "title": "SpaceX group 15-18 brings Starlink to polar latitudes no other shell can serve",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae72b646b4d4567b986de122dbf87b3&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-group-15-18-brings-starlink-to-polar-latitudes-no-other-shell-can-serve%2Far-AA2gvhBq&c=15752995572263604703&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "963af49db7c603a0",
+      "published_at": "2026-10-31T18:22:08Z",
+      "source_name": "bing.com",
+      "title": "SpaceX group 15-18 brings Starlink to polar latitudes no other shell can serve",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6ae7ae225dde4413a17b5e56e914882c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fspacex-group-15-18-brings-starlink-to-polar-latitudes-no-other-shell-can-serve%2Far-AA2gvhBq&c=11952498680270957951&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
       "item_id": "bdcd5348248e36bb",
-      "published_at": "2026-10-31T11:24:57Z",
+      "published_at": "2026-10-31T18:11:00Z",
       "source_name": "shattered.io",
       "title": "SpaceX Starlink 15-18: 27 Satellites Launched [2026] - shattered.io",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOazd5bC1rNl95eDh1X2pOZ2pVa1RnRjc4dzc1UFRjNHAzZU1TODh6UE9JbzZYR0Mxd3JzcjBBUThhS2tQVm9EblhBMURJTVZvWUdnSjNrN3VpS2ZIbTdZcW0yWk9idVV6TThVQmVOdXNneDRFcDg1VjV3NmF1eU5MQ2p1UU41djhOWXFqZHlzVXBwN1JIdUdZ?oc=5"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "489be1a6120bd62f",
-      "published_at": "2026-10-31T08:45:22Z",
-      "source_name": "Around Prague",
-      "title": "SpaceX Sends 27 More Starlink Satellites Into Orbit on a Halloween Launch - Around Prague",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVM0Y2d4ZHRXOUlmZ0IzM1RMNEhkdHFmclBXdGltbjlTRUlCbllWNENnT3JpTDF5Y2IwcE9zM3BYcFFlVUE5cnBoOFRZYzM3SDdLUlNXdUZMSnNJbDhkMHcyNF9XNXRybUp2TGY3MkNpWkxBQ1ZJREZBeXMzQ0ZQUEdnZlcxVGxNUGN2Z0pwbWhCckNkSWxWTGctNGNQem1JMG55cF9PMGpBb2ppa2pFbVRsTQ?oc=5"
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "other",
+      "item_id": "22c2191c410ce5b4",
+      "published_at": "2026-11-01T13:58:01Z",
+      "source_name": "NeoTeo",
+      "title": "New Glenn return to flight: November target reported - NeoTeo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUZud1JNMHBFdFJYQjVySmVhVXl3T0Q0V0VudHpYS1FkQ1kwc2JuWmdpVzg2NDExdXg2V1FfQlhJeHF1T3F5Z2ctbkpZRGYxcVdjQVhjbVp3M3lReDhjQWNET3EyTWRXc29oTm45SE14UEV3RW5MM3VyTENRaG9sRWFjUllBUjY4N04xRg?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "other",
+      "item_id": "4b30f47f11ec74c2",
+      "published_at": "2026-10-31T19:43:28Z",
+      "source_name": "NeoTeo",
+      "title": "New Glenn could return in November, report says - NeoTeo",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FZVNzVnBoYVhFbzllQUp4QUlGckhnOGo1elVJUGE5Njhsb0NUTkdzR1lITElETmtXLThqZ1NUN2Jzb0ZHTkN0UUJvWnFmQlUzN2hHTkdFb0R4aFNOYmY4MDdiUnBFQWNybzBsaVlXNkdYYy1xQWFra2hDM00?oc=5"
     }
   ],
-  "total_items": 15
+  "total_items": 16
 }
