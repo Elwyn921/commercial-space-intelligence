@@ -1,16 +1,30 @@
 {
   "artifact_version": 1,
-  "day_count": 555,
+  "day_count": 556,
   "days": [
     {
-      "company_count": 4,
+      "company_count": 2,
       "company_ids": [
+        "cas_space",
+        "spacex"
+      ],
+      "count": 3,
+      "date": "2026-11-04",
+      "inferred_date_count": 0,
+      "source_types": [
+        "rss"
+      ]
+    },
+    {
+      "company_count": 5,
+      "company_ids": [
+        "blue_origin",
         "cas_space",
         "china_satnet",
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 34,
+      "count": 45,
       "date": "2026-11-03",
       "inferred_date_count": 0,
       "source_types": [
@@ -25,7 +39,7 @@
         "i_space",
         "spacex"
       ],
-      "count": 17,
+      "count": 18,
       "date": "2026-11-02",
       "inferred_date_count": 0,
       "source_types": [
@@ -86,7 +100,7 @@
         "landspace",
         "spacex"
       ],
-      "count": 37,
+      "count": 40,
       "date": "2026-10-29",
       "inferred_date_count": 0,
       "source_types": [
@@ -94,10 +108,9 @@
       ]
     },
     {
-      "company_count": 5,
+      "company_count": 4,
       "company_ids": [
         "blue_origin",
-        "cas_space",
         "landspace",
         "spacex",
         "yuanxin_satellite"
@@ -119,7 +132,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 111,
+      "count": 114,
       "date": "2026-10-27",
       "inferred_date_count": 0,
       "source_types": [
@@ -136,7 +149,7 @@
         "i_space",
         "spacex"
       ],
-      "count": 52,
+      "count": 53,
       "date": "2026-10-26",
       "inferred_date_count": 0,
       "source_types": [
@@ -180,7 +193,7 @@
         "galaxyspace",
         "spacex"
       ],
-      "count": 122,
+      "count": 123,
       "date": "2026-10-23",
       "inferred_date_count": 0,
       "source_types": [
@@ -261,7 +274,7 @@
         "landspace",
         "spacex"
       ],
-      "count": 29,
+      "count": 30,
       "date": "2026-10-18",
       "inferred_date_count": 0,
       "source_types": [
@@ -293,7 +306,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 158,
+      "count": 159,
       "date": "2026-10-16",
       "inferred_date_count": 0,
       "source_types": [
@@ -311,7 +324,7 @@
         "landspace",
         "spacex"
       ],
-      "count": 187,
+      "count": 189,
       "date": "2026-10-15",
       "inferred_date_count": 0,
       "source_types": [
@@ -348,7 +361,7 @@
         "spacex",
         "yuanxin_satellite"
       ],
-      "count": 227,
+      "count": 229,
       "date": "2026-10-13",
       "inferred_date_count": 0,
       "source_types": [
@@ -413,7 +426,7 @@
         "space_pioneer",
         "spacex"
       ],
-      "count": 191,
+      "count": 192,
       "date": "2026-10-09",
       "inferred_date_count": 0,
       "source_types": [
@@ -427,7 +440,7 @@
         "china_satnet",
         "spacex"
       ],
-      "count": 176,
+      "count": 177,
       "date": "2026-10-08",
       "inferred_date_count": 0,
       "source_types": [
@@ -486,7 +499,7 @@
         "landspace",
         "spacex"
       ],
-      "count": 37,
+      "count": 38,
       "date": "2026-10-04",
       "inferred_date_count": 0,
       "source_types": [
@@ -569,7 +582,7 @@
         "cas_space",
         "spacex"
       ],
-      "count": 92,
+      "count": 93,
       "date": "2026-09-29",
       "inferred_date_count": 0,
       "source_types": [
@@ -585,7 +598,7 @@
         "galaxyspace",
         "spacex"
       ],
-      "count": 153,
+      "count": 154,
       "date": "2026-09-28",
       "inferred_date_count": 0,
       "source_types": [
@@ -7513,10 +7526,10 @@
       ]
     }
   ],
-  "generated_at": "2026-11-03T13:06:47.698254Z",
+  "generated_at": "2026-11-03T22:39:29.055640Z",
   "inferred_date_count": 1,
-  "run_id": "05caa246-bc06-4fd7-a79d-ccde798b87cb",
+  "run_id": "09942c4b-0f7d-45e9-98f7-c645c9bd1d4a",
   "schema_version": "daily_news_index.v1",
   "timezone": "Asia/Shanghai",
-  "total_items": 15177
+  "total_items": 15211
 }
