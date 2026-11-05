@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-11-05
 
-- Report ID: daily-2026-11-05-8ac6bd8f
-- Source run: a2534607-db0a-46ba-b32e-3f395e28fe55
+- Report ID: daily-2026-11-06-fbce764e
+- Source run: 29a5da27-384f-469d-82d2-1edcf8634c27
 - Generation status: skipped_no_secret
 - Companies covered: 3
-- Total items: 4
+- Total items: 12
 
 ## Executive Summary
 
-2026-11-05 共收录 4 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin、银河航天。
+2026-11-06 共收录 12 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 Blue Origin、SpaceX、银河航天。
 
 ## Industry Chain Sections
 
@@ -26,22 +26,24 @@ No LLM summary.
 
 No LLM summary.
 
-- [Chinese commercial space firm partners with Indonesian provider on satellite internet trial](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aec8b16dec9443c90ebb8ccae333f72&url=https%3A%2F%2Fwww.globaltimes.cn%2Fpage%2F202611%2F1373719.shtml&c=15386423150340507711&mkt=en-us) 银河航天
+- [【环球财经】银河航天在印尼完成低轨卫星互联网应用验证演示 - 东方财富](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qU0tTRWJUbEF1N2MzTzJ6azlYNk0zOUdqQ1p3RU81bkFTaS1FY2x3NTNFUHp3bTNBekRXSmVkV09VZ3EyMHpWM0Q5N2JvNC1qRmRNZVhOX01lU2pDbXg4UGxWS09yUQ?oc=5) 银河航天
 
 ### 国外大厂
 
 No LLM summary.
 
-- [Throwback to Blue Origin's New Glenn and SpaceX Starship ground tests](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aec861afe184436b9d7b3e7c03a351f&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fthrowback-to-blue-origin-s-new-glenn-and-spacex-starship-ground-tests%2Fvi-AA21b3M5&c=7707458287380871520&mkt=en-us) Blue Origin
-- [SpaceX to Use Qualcomm's Dragonwing Tech to Help Launch Starlink Mobile](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aec85e2378e4d30918bfa55db9f7a79&url=https%3A%2F%2Fme.pcmag.com%2Fen%2Fold-wireless-carriers%2F38535%2Fspacex-to-use-qualcomms-dragonwing-tech-to-help-launch-starlink-mobile&c=8686829593435171332&mkt=en-us) SpaceX
-- [SpaceX Strikes Deal with Qualcomm for Terrestrial Component of Starlink Mobile Network](https://www.satellitetoday.com/connectivity/2026/11/04/spacex-strikes-deal-with-qualcomm-for-terrestrial-component-of-starlink-mobile-network) SpaceX
+- [Blue Origin unveils Northstar booster engine, with Huntsville in manufacturing plans - rocketcitynow.com](https://news.google.com/rss/articles/CBMingJBVV95cUxOLVZrakkyMnJ4Sm1QbmNxYjZ3aXhod3FnWk9lN0o0Z0IzbXlpSktNaTdpZXUzWFNXOVc1YnhUT0lLcVE0SUZZMm9kdHc2azExSjJFZzRMVmlMV3hDMGpuTlFtLVhqUnBha2xrX1paM1FmdXRURzlkbjItdDZ6OUE4QXFZTkF0U3lmNlM3LWtQRlVoSVl2M1JuOThvX0I0emJkZHhNbXJ5djRpZEJiaHY3ZkN3ZTAtRVVHQUtBcEE2UTlCVVRfRGpxbVA3ZUFGS182bnVmSWlvVF9aWGxBdTZNTWFFMmtncDZyc0xPWEctYkJfR0FnRVludjc4T2pEdVY3WllLQ3RFRTlBb0oyRGdrc3FrVHJVcjdlZThNNDNR?oc=5) Blue Origin
+- [Blue Origin reveals new kick stage, engines for its New Glenn rockets](https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets) Blue Origin
+- [Blue Origin develops third stage for New Glenn rocket — Space.com - UA.NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaXRUWVB3bFg4VmhDdnpIUTlmMzhyYzJNOWhtWHlhS1pTVlZBQzllM2o4cW5YZ3o1S3NhQjIzMHBDamRYUWtDNE41VnFzMVdDUk9HZlRnT1JEd3o0VXY2X0Q4aHVIOWp4RUM3b3JOakhOV19pME5DN00yODZoVldHSDVEWnFwRnloV3dIZExDQ08wMDdZaW54SU1LeTM3TUdIZ0E?oc=5) Blue Origin
+- [SpaceX Selects Qualcomm to Supply Terrestrial Base Stations for Starlink Mobile Network](https://satnews.com/2026/11/05/spacex-selects-qualcomm-to-supply-terrestrial-base-stations-for-starlink-mobile-network) SpaceX
 
 ## Top News
 
-- [Throwback to Blue Origin's New Glenn and SpaceX Starship ground tests](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aec861afe184436b9d7b3e7c03a351f&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fthrowback-to-blue-origin-s-new-glenn-and-spacex-starship-ground-tests%2Fvi-AA21b3M5&c=7707458287380871520&mkt=en-us) Blue Origin
-- [SpaceX to Use Qualcomm's Dragonwing Tech to Help Launch Starlink Mobile](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aec85e2378e4d30918bfa55db9f7a79&url=https%3A%2F%2Fme.pcmag.com%2Fen%2Fold-wireless-carriers%2F38535%2Fspacex-to-use-qualcomms-dragonwing-tech-to-help-launch-starlink-mobile&c=8686829593435171332&mkt=en-us) SpaceX
-- [SpaceX Strikes Deal with Qualcomm for Terrestrial Component of Starlink Mobile Network](https://www.satellitetoday.com/connectivity/2026/11/04/spacex-strikes-deal-with-qualcomm-for-terrestrial-component-of-starlink-mobile-network) SpaceX
-- [Chinese commercial space firm partners with Indonesian provider on satellite internet trial](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aec8b16dec9443c90ebb8ccae333f72&url=https%3A%2F%2Fwww.globaltimes.cn%2Fpage%2F202611%2F1373719.shtml&c=15386423150340507711&mkt=en-us) 银河航天
+- [Blue Origin unveils Northstar booster engine, with Huntsville in manufacturing plans - rocketcitynow.com](https://news.google.com/rss/articles/CBMingJBVV95cUxOLVZrakkyMnJ4Sm1QbmNxYjZ3aXhod3FnWk9lN0o0Z0IzbXlpSktNaTdpZXUzWFNXOVc1YnhUT0lLcVE0SUZZMm9kdHc2azExSjJFZzRMVmlMV3hDMGpuTlFtLVhqUnBha2xrX1paM1FmdXRURzlkbjItdDZ6OUE4QXFZTkF0U3lmNlM3LWtQRlVoSVl2M1JuOThvX0I0emJkZHhNbXJ5djRpZEJiaHY3ZkN3ZTAtRVVHQUtBcEE2UTlCVVRfRGpxbVA3ZUFGS182bnVmSWlvVF9aWGxBdTZNTWFFMmtncDZyc0xPWEctYkJfR0FnRVludjc4T2pEdVY3WllLQ3RFRTlBb0oyRGdrc3FrVHJVcjdlZThNNDNR?oc=5) Blue Origin
+- [Blue Origin reveals new kick stage, engines for its New Glenn rockets](https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets) Blue Origin
+- [Blue Origin develops third stage for New Glenn rocket — Space.com - UA.NEWS](https://news.google.com/rss/articles/CBMiogFBVV95cUxQaXRUWVB3bFg4VmhDdnpIUTlmMzhyYzJNOWhtWHlhS1pTVlZBQzllM2o4cW5YZ3o1S3NhQjIzMHBDamRYUWtDNE41VnFzMVdDUk9HZlRnT1JEd3o0VXY2X0Q4aHVIOWp4RUM3b3JOakhOV19pME5DN00yODZoVldHSDVEWnFwRnloV3dIZExDQ08wMDdZaW54SU1LeTM3TUdIZ0E?oc=5) Blue Origin
+- [【环球财经】银河航天在印尼完成低轨卫星互联网应用验证演示 - 东方财富](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qU0tTRWJUbEF1N2MzTzJ6azlYNk0zOUdqQ1p3RU81bkFTaS1FY2x3NTNFUHp3bTNBekRXSmVkV09VZ3EyMHpWM0Q5N2JvNC1qRmRNZVhOX01lU2pDbXg4UGxWS09yUQ?oc=5) 银河航天
+- [SpaceX Selects Qualcomm to Supply Terrestrial Base Stations for Starlink Mobile Network](https://satnews.com/2026/11/05/spacex-selects-qualcomm-to-supply-terrestrial-base-stations-for-starlink-mobile-network) SpaceX
 
 ## Risks And Watchpoints
 
@@ -51,4 +53,4 @@ No LLM summary.
 
 ## Source Health
 
-degraded: 14/26 sources succeeded.
+degraded: 15/26 sources succeeded.
