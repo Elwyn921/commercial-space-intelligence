@@ -1,187 +1,253 @@
 {
-  "as_of_date": "2026-11-06",
+  "as_of_date": "2026-11-07",
   "companies": [
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_types": {
-        "launch": 6,
-        "other": 3
+        "funding": 1,
+        "launch": 11,
+        "other": 10,
+        "product": 5
       },
-      "item_count": 9,
-      "latest_title": "Blue Origin's New Glenn launch delay will continue into 2027"
+      "item_count": 27,
+      "latest_title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 2,
+        "order": 1,
         "other": 2
       },
-      "item_count": 4,
-      "latest_title": "SpaceX to Use Qualcomm's Dragonwing Tech to Help Launch Starlink Mobile - PCMag Middle East"
+      "item_count": 3,
+      "latest_title": "The White House said Elon Musk’s Starlink donated its services to the government. Trump paid him $1.2M"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_types": {
+        "market": 3
+      },
+      "item_count": 3,
+      "latest_title": "往太空送“快递”，北京商业航天企业星河动力IPO有新进展 - 国际科技创新中心"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_types": {
+        "launch": 1
+      },
+      "item_count": 1,
+      "latest_title": "通信行业专题研究点评：力箭二号一箭18星发射圆满成功，关注商业航天降本受益行业_行业研究_研报 - 证券之星"
+    },
+    {
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_types": {
+        "other": 1
+      },
+      "item_count": 1,
+      "latest_title": "阿里，投了垣信卫星 - 新浪网"
     },
     {
       "company_id": "galaxyspace",
       "company_name": "银河航天",
       "event_types": {
-        "launch": 3,
         "other": 1
       },
-      "item_count": 4,
-      "latest_title": "Chinese commercial space firm partners with Indonesian provider on satellite internet trial"
+      "item_count": 1,
+      "latest_title": "【环球财经】银河航天在印尼完成低轨卫星互联网应用验证演示 - 东方财富"
     }
   ],
-  "company_count": 3,
+  "company_count": 6,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 11,
-    "other": 6
+    "funding": 1,
+    "launch": 12,
+    "market": 3,
+    "order": 1,
+    "other": 14,
+    "product": 5
   },
-  "generated_at": "2026-11-06T07:56:02.111299Z",
-  "period_end": "2026-11-05",
-  "period_start": "2026-11-05",
-  "report_date": "2026-11-05",
+  "generated_at": "2026-11-07T07:10:29.737316Z",
+  "period_end": "2026-11-06",
+  "period_start": "2026-11-06",
+  "report_date": "2026-11-06",
   "schema_version": "daily_document.v1",
-  "source_count": 4,
+  "source_count": 28,
   "source_counts": {
-    "Global Times": 1,
-    "PCMag Middle East": 1,
-    "bing.com": 14,
-    "satellitetoday.com": 1
+    "Ars Technica": 1,
+    "Bloomberg.com": 1,
+    "Blue Origin": 1,
+    "CNBC": 1,
+    "Financial Times": 1,
+    "Florida Today": 1,
+    "Interesting Engineering": 1,
+    "Jiemian.com": 1,
+    "Mezha": 1,
+    "NASASpaceflight": 1,
+    "Space": 1,
+    "SpaceNews": 1,
+    "Spaceflight Now": 1,
+    "The Daily Galaxy": 1,
+    "The Seattle Times": 1,
+    "UA.NEWS": 1,
+    "WESH": 1,
+    "arstechnica.com": 1,
+    "bing.com": 9,
+    "rocketcitynow.com": 1,
+    "satnews.com": 1,
+    "space.com": 1,
+    "Українські Національні Новини (УНН)": 1,
+    "东方财富": 1,
+    "国际科技创新中心": 1,
+    "新浪网": 1,
+    "证券之星": 1,
+    "财联社": 1
   },
-  "summary": "2026-11-05 共归档 17 条新闻，覆盖 3 家公司、4 个信息来源。 新闻量较多的公司包括 Blue Origin、SpaceX、银河航天。",
+  "summary": "2026-11-06 共归档 36 条新闻，覆盖 6 家公司、28 个信息来源。 新闻量较多的公司包括 Blue Origin、SpaceX、星河动力、中科宇航。",
   "top_items": [
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
+      "event_type": "other",
+      "item_id": "a721dad772baecf5",
+      "published_at": "2026-11-05T22:34:58Z",
+      "source_name": "Spaceflight Now",
+      "title": "Blue Origin reveals new kick stage, engines for its New Glenn rockets",
+      "url": "https://spaceflightnow.com/2026/11/05/blue-origin-reveals-new-kick-stage-engines-for-its-new-glenn-rockets"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
       "event_type": "launch",
-      "item_id": "94d9d7ded9a4c675",
-      "published_at": "2026-11-05T14:10:09Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin's New Glenn launch delay will continue into 2027",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aed4e1b74174ae08f1d5e2fe56d801e&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-launch-delay-will-continue-into-2027%2Far-AA2gQZm2&c=12597433363536467792&mkt=en-us"
+      "item_id": "f28f94a3a29df1c7",
+      "published_at": "2026-11-06T07:44:00Z",
+      "source_name": "证券之星",
+      "title": "通信行业专题研究点评：力箭二号一箭18星发射圆满成功，关注商业航天降本受益行业_行业研究_研报 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zM2FlYkhpNGZvZlFfVXlBOXA1aFdBVWtiS1FzZWIxR2JvTEJWMXZFamdjWXlfN2pTNDhuSkFqQnJSQU1UZnN0NW5XdFZtTV9Pb0dwRFNLcVlCMTQtLXMyWXFn?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "market",
+      "item_id": "7e26f0b3f6e73e66",
+      "published_at": "2026-11-06T07:15:57Z",
+      "source_name": "国际科技创新中心",
+      "title": "往太空送“快递”，北京商业航天企业星河动力IPO有新进展 - 国际科技创新中心",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5faWlpMUxjUUoyTTFxazRTbkU0UDQyYnZuOEZWY0ppSV9pOV9vRTcxemRIdEREMm1zbW5RMEs1UjJIVXZOM3pPTU42dmVMVkZhSVVfSlFVTDlTdEI5TG9teXY5RUZlcmN2MTZyZm1JVUw?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "market",
+      "item_id": "2257bb9600818fb2",
+      "published_at": "2026-11-06T02:05:43Z",
+      "source_name": "Jiemian.com",
+      "title": "星河动力更换IPO辅导券商 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51WkZ3WHJVVWppUFVjZkJvTGU4OW0tMnpuWGEwNktaRGdZTUdLRk9wbU5iN3E3bW9fNHg2WWVLNXhpQndvQ09aYVhndjlZMW9VMnQxNnR5RFg?oc=5"
+    },
+    {
+      "company_id": "galactic_energy",
+      "company_name": "星河动力",
+      "event_type": "market",
+      "item_id": "85ee825c2a1bc3de",
+      "published_at": "2026-11-06T02:00:35Z",
+      "source_name": "财联社",
+      "title": "09:58:21【星河动力更换IPO辅导券商】 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1La3Jza3ZCWi1ZSC1LTlhkZ1NKd2trcDR2TGxuMThCaDNTMDRlOFNiUEozMGkxME5RdVpvUEZicDBDMW5SSENKOQ?oc=5"
+    },
+    {
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_type": "funding",
+      "item_id": "0ba82d673fdf23ff",
+      "published_at": "2026-11-06T13:33:20Z",
+      "source_name": "arstechnica.com",
+      "title": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "other",
-      "item_id": "3c53fcc998087b21",
-      "published_at": "2026-11-05T13:15:00Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin to develop New Glenn third stage, new booster engine",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aed4e1b74174ae08f1d5e2fe56d801e&url=https%3A%2F%2Fspacenews.com%2Fblue-origin-to-develop-new-glenn-third-stage-new-booster-engine%2F&c=10717326799382853026&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "other",
-      "item_id": "2c04106ad6db6388",
-      "published_at": "2026-11-05T13:15:00Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin to develop New Glenn third stage, new booster engine",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aed09f777d54286a6f9ea09741a50b0&url=https%3A%2F%2Fspacenews.com%2Fblue-origin-to-develop-new-glenn-third-stage-new-booster-engine%2F&c=10717326799382853026&mkt=en-us"
+      "item_id": "129f9fa8207c766d",
+      "published_at": "2026-11-06T12:18:50Z",
+      "source_name": "Interesting Engineering",
+      "title": "Blue Origin’s new rocket engine is stronger, lighter and mostly 3D-printed - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN01BTUotN3M2Y1Z4LWsxbUxJRG1qdFgtUEMxY3dQTE16bWtRRHNsTDJTejFDaFpGQ1JlbEZFNHBSZTE4Zm9zdEExU0ZKN0xwblN2TWljV0dmbWRQZXVnNmFNZjM3bVdjTk9mVUFKcmRmT3Q1SG9jU2djcXRHd292SUNmYWJzX0xfVkhEZWVxVHZJd1ZaeFppcDRwUUdOZXJaYlp0VThBX0xyM2p4bGx2WjVjV08?oc=5"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "0a037daf7e93e0b3",
-      "published_at": "2026-11-05T12:55:15Z",
+      "item_id": "9d8f96da12667c7a",
+      "published_at": "2026-11-06T11:09:00Z",
       "source_name": "bing.com",
-      "title": "Blue Origin announces 3rd stage for its powerful New Glenn rocket — and a new engine",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aed4e1bec324126b2e9c17899d94378&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine%2Far-AA2gQQud&c=1933379030190315990&mkt=en-us"
+      "title": "Watch CNBC's full interview with Blue Origin CEO Dave Limp",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aee54731f964000894dc18a53037df7&url=https%3A%2F%2Fwww.cnbc.com%2Fvideo%2F2026%2F11%2F06%2Fwatch-cnbcs-full-interview-with-blue-origin-ceo-dave-limp.html&c=6510632786829619992&mkt=en-us"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_type": "launch",
-      "item_id": "22a049b53beeea6b",
-      "published_at": "2026-11-05T12:47:00Z",
+      "item_id": "768fa35063432af0",
+      "published_at": "2026-11-06T11:09:00Z",
       "source_name": "bing.com",
-      "title": "Blue Origin’s next launch now won’t happen until 2027",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aed09f777d54286a6f9ea09741a50b0&url=https%3A%2F%2Fwww.theverge.com%2Fscience%2F1028178%2Fblue-origins-next-launch-now-wont-happen-until-2027&c=9554652224704319415&mkt=en-us"
+      "title": "Watch CNBC's full interview with Blue Origin CEO Dave Limp",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aee994a1cca4c718c63fde9fd4e5ca7&url=https%3A%2F%2Fwww.cnbc.com%2Fvideo%2F2026%2F11%2F06%2Fwatch-cnbcs-full-interview-with-blue-origin-ceo-dave-limp.html&c=6510632786829619992&mkt=en-us"
     },
     {
-      "company_id": "galaxyspace",
-      "company_name": "银河航天",
-      "event_type": "launch",
-      "item_id": "d1449babbd381238",
-      "published_at": "2026-11-05T09:48:00Z",
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "order",
+      "item_id": "65e0c9bce908d846",
+      "published_at": "2026-11-06T08:32:00Z",
       "source_name": "bing.com",
-      "title": "Chinese commercial space firm partners with Indonesian provider on satellite internet trial",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aed4e62aab845f3a7c3c57186844afc&url=https%3A%2F%2Fwww.globaltimes.cn%2Fpage%2F202611%2F1373719.shtml&c=15386423150340507711&mkt=en-us"
+      "title": "The White House said Elon Musk’s Starlink donated its services to the government. Trump paid him $1.2M",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aee546cf29b42b8bf0dad4c445e8546&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fpolitics%2Farticles%2Fwhite-house-said-elon-musk-162431290.html&c=13107917979597338065&mkt=en-us"
     },
     {
-      "company_id": "galaxyspace",
-      "company_name": "银河航天",
-      "event_type": "launch",
-      "item_id": "9924a0436d167dc1",
-      "published_at": "2026-11-05T09:48:00Z",
-      "source_name": "bing.com",
-      "title": "Chinese commercial space firm partners with Indonesian provider on satellite internet trial",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aed0a401d094af5b493d4ab8ea9faaa&url=https%3A%2F%2Fwww.globaltimes.cn%2Fpage%2F202611%2F1373719.shtml&c=15386423150340507711&mkt=en-us"
-    },
-    {
-      "company_id": "galaxyspace",
-      "company_name": "银河航天",
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
       "event_type": "other",
-      "item_id": "4379a1d4f0e9a686",
-      "published_at": "2026-11-05T09:47:00Z",
-      "source_name": "Global Times",
-      "title": "Chinese, Indonesian firms conduct satellite internet trial - Global Times",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tNS1yNExRSnBKQ0RtR3VweVUySHdKa2dlS1NEb3ZLQUdMbGNQVVNpM205ZWstaTBoZDVDbWhFVVVrMEphY0dWeGluckhsejVid0hyWmNKYXFpa0hlNnZLRm53?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "fce9222b7b8422ae",
-      "published_at": "2026-11-05T03:49:33Z",
-      "source_name": "PCMag Middle East",
-      "title": "SpaceX to Use Qualcomm's Dragonwing Tech to Help Launch Starlink Mobile - PCMag Middle East",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMmhxQ2dxRVp6a2N2T1pGaE5PbFpLVVl3dDJjQjJxei1ZWE1yeE43b0F2aC1iR25oVzFlTlp3eG5kSm5nMENXREhqenZTZm5EbHc4LTNQMEJFb2RFUlM0U19rMTBUbmhLVldyVWsyNlVuaVBsVUhHWkx5bFdjTWtqcFNGV04tbldXck1BZVBoZ0xzWjNyTGhIUlE5TkpfcF9ST0RQQTNRSHlmeTFTem9FR2Y4Uk0zSzVqN1BQNDJjYw?oc=5"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "21fe58d6c6b021e8",
-      "published_at": "2026-11-04T23:49:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX to Use Qualcomm's Dragonwing Tech to Help Launch Starlink Mobile",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aec85e2378e4d30918bfa55db9f7a79&url=https%3A%2F%2Fme.pcmag.com%2Fen%2Fold-wireless-carriers%2F38535%2Fspacex-to-use-qualcomms-dragonwing-tech-to-help-launch-starlink-mobile&c=8686829593435171332&mkt=en-us"
+      "item_id": "9401fe330094d2f5",
+      "published_at": "2026-11-05T18:46:46Z",
+      "source_name": "新浪网",
+      "title": "阿里，投了垣信卫星 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNUWlxLUFqVkQ1T1l0RVI2djh4YnlsODhVV3Y4U2RwQkJCdXdGYndDYld0RGVvXzNLSC1pcHlDTVRtYmxoYy1VLUh4WXYtQUlYSEJfSHlxZjJQTHU2bmJIUlRNc2V6dlUyYm12MWNPa1FaX3VTZzl4dEpHVE1fcWNrQW9qd3FyZlVjanQ4M1Y2b2hERHhNOHkyYmRCcldmMnBLcmRIYU1nTmlGS1dGVmxhWmRfbk9felRRNGt0bnpIell5TkFrRkVPdlNlWU1VMGFXNzNRVTdvRW5NNy1pNllkRjlXeXFVQlpQSVJCeVN5a2VjTldVUFM5X0pyaXNZZnlNbldiNkx2VDA4Y0hlQUs0bVBMeVlXT1NVVlRkRFlQVTJ3MFZVNEFF?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "1fe893ec117a7953",
-      "published_at": "2026-11-04T20:45:11Z",
-      "source_name": "satellitetoday.com",
-      "title": "SpaceX Strikes Deal with Qualcomm for Terrestrial Component of Starlink Mobile Network",
-      "url": "https://www.satellitetoday.com/connectivity/2026/11/04/spacex-strikes-deal-with-qualcomm-for-terrestrial-component-of-starlink-mobile-network"
-    },
-    {
-      "company_id": "galaxyspace",
-      "company_name": "银河航天",
-      "event_type": "launch",
-      "item_id": "9603e9117a711aa4",
-      "published_at": "2026-11-04T19:46:00Z",
-      "source_name": "bing.com",
-      "title": "Chinese commercial space firm partners with Indonesian provider on satellite internet trial",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aec8b16dec9443c90ebb8ccae333f72&url=https%3A%2F%2Fwww.globaltimes.cn%2Fpage%2F202611%2F1373719.shtml&c=15386423150340507711&mkt=en-us"
+      "item_id": "1ea94157fae56e1a",
+      "published_at": "2026-11-05T18:15:51Z",
+      "source_name": "satnews.com",
+      "title": "SpaceX Selects Qualcomm to Supply Terrestrial Base Stations for Starlink Mobile Network",
+      "url": "https://satnews.com/2026/11/05/spacex-selects-qualcomm-to-supply-terrestrial-base-stations-for-starlink-mobile-network"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "c8c2add91f29f274",
-      "published_at": "2026-11-05T13:43:00Z",
+      "item_id": "8e1bb46052057269",
+      "published_at": "2026-11-06T09:16:00Z",
       "source_name": "bing.com",
-      "title": "T-Mobile's Parent 'Irritated' That Starlink Mobile Is Viewed As Threat So Soon",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aed09f066384c6caa391a56b590938f&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Ft-mobiles-parent-irritated-that-starlink-mobile-is-viewed-as-threat-so&c=3144901859709250983&mkt=en-us"
+      "title": "SpaceX stock gains as Starlink Mobile execution comes into focus",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aee9943b7db482fa6eb7b179f49fef6&url=https%3A%2F%2Fwww.ad-hoc-news.de%2Fboerse%2Fnews%2Fcorporate-news%2Fspacex-stock-gains-as-starlink-mobile-execution-comes-into-focus%2F70471045&c=13305742420393740965&mkt=en-us"
+    },
+    {
+      "company_id": "galaxyspace",
+      "company_name": "银河航天",
+      "event_type": "other",
+      "item_id": "38f30ebcc2c52975",
+      "published_at": "2026-11-05T18:17:38Z",
+      "source_name": "东方财富",
+      "title": "【环球财经】银河航天在印尼完成低轨卫星互联网应用验证演示 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qU0tTRWJUbEF1N2MzTzJ6azlYNk0zOUdqQ1p3RU81bkFTaS1FY2x3NTNFUHp3bTNBekRXSmVkV09VZ3EyMHpWM0Q5N2JvNC1qRmRNZVhOX01lU2pDbXg4UGxWS09yUQ?oc=5"
     }
   ],
-  "total_items": 17
+  "total_items": 36
 }
