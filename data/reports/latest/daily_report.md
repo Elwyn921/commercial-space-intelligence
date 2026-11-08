@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-11-07
+# 每日新闻情报日报 - 2026-11-08
 
-- Report ID: daily-2026-11-07-4d13ad8e
-- Source run: d37c0fd6-0171-4ecd-8cef-126cbf587f7a
+- Report ID: daily-2026-11-08-533540c5
+- Source run: 7595fb41-dc54-48a1-a025-693d0cb5af02
 - Generation status: skipped_no_secret
-- Companies covered: 4
-- Total items: 13
+- Companies covered: 1
+- Total items: 1
 
 ## Executive Summary
 
-2026-11-07 共收录 13 条新闻，覆盖 4 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin、星河动力。
+2026-11-08 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 垣信卫星。
 
 ## Industry Chain Sections
 
@@ -21,37 +21,21 @@ No LLM summary.
 
 No LLM summary.
 
-- [谷神星二号一箭四星发射成功，星河动力完善商业发射布局 - 21财经](https://news.google.com/rss/articles/CBMijwFBVV95cUxPR1BCVk5RR0ZaNkp4ZmN0MmRvRExJbmJqdDQyYzRmZXpSOXdxUmlaZXFrRktJRjU4d09TcVRRa0M1UUhPR2JxUURJclhQbnFVaVhCVEMxMWZuNVlFS1FtT201VlUtRlhlc01sZGtXYlRYcTkzZDF2N1l4LTJpZU9SSEZpYmN0dUFtekR2NkNsdw?oc=5) 星河动力
-- [Pakistan paves way for satellite internet services as six companies register with SECPPublished on: November 7, 2026 3:45 PM](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aef938e85dd456a8afea9bb96f68c33&url=https%3A%2F%2Fwww.msn.com%2Fen-xl%2Ftechnology%2Fgeneral%2Fpakistan-paves-way-for-satellite-internet-services-as-six-companies-register-with-secppublished-on-november-7-2026-3-45-pm%2Far-AA2gXiJD&c=17643787094927587073&mkt=en-us) 银河航天
-- [Galactic Energy deploys 4 satellites in successful flight of Ceres 2 rocket - China Daily Global Edition](https://news.google.com/rss/articles/CBMiggFBVV95cUxQV1lRU21KNjJhQWZIUjdhalluNWRHa1duekxNa3NKYkpjT0dfQzZubTc1elpSLWNPRjVsZk5zWlZtX05JWFBCS3R4X2Y2c1NScW1xdTNZd3gxZEw5RmJNLXJ3eXhjSktfUHdWWllXdEVvbEE2cXB4alZkMEpuS1JadzNR?oc=5) 星河动力
 
 ### 卫星互联网服务
 
 No LLM summary.
 
-- [【环球财经】银河航天在印尼完成低轨卫星互联网应用验证演示 - 东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UVGkxdEF2NTd1cExiWERLNkdid2RXZGlCNVFYZ0RPWm9EdUdGc2RLaDljUldMQmhqT05Dc1pwamVTMmtZVG9IRkt6SWxtSWpLdktUams1SWczako2U2J0QQ?oc=5) 银河航天
+- [对标星链，千帆星座闯商业化：上海各区错位布局织密卫星互联网产业链 - 上观新闻](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oTWk0Z2daMzNsMTBlaGZwa0NSUzhaMXFlMU5uOGZzd2wyOUJfTXlOMDNSclFJS05nelc2NVYwYnNodXVwaU9nb2oySmdRdFpWSU1pM0lkNWhXZw?oc=5) 垣信卫星
 
 ### 国外大厂
 
 No LLM summary.
 
-- [SpaceX Starlink satellites swarm like 'cosmic fireflies' in time-lapse from space](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aef933d6eca436ab369b3390154174a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-starlink-satellites-swarm-like-cosmic-fireflies-in-time-lapse-from-space%2Fvi-AA2gYhbe&c=11863640988947615923&mkt=en-us) SpaceX
-- [Elon Musk says SpaceX could buy a major US wireless carrier as Starlink expands](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aef933d6eca436ab369b3390154174a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Felon-musk-says-spacex-could-buy-a-major-us-wireless-carrier-as-starlink-expands%2Far-AA2gYtyA&c=5006288854490405261&mkt=en-us) SpaceX
-- [Blue Origin Unveils Northstar Rocket Engine - Raksha Anirveda](https://news.google.com/rss/articles/CBMifEFVX3lxTFBkOFNvU2sxSndIZEZqeUdqOVVFZHJTdW1iN1JwVk5YN3V0a0w3bDdyUGowODFzaXdTSjJ1b2Fxb2g0TGkxNUV5QndkNUFZUmZoc2ZtOWl2SE1DZVNmRkduVkZ5cGZmRVJpa1daYWxqdFkwZkR4UGNTb3JKN3Y?oc=5) Blue Origin
-- [Blue Origin Unveils Powerful New Rocket Engine and Third Stage for New Glenn Program](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aef93447d944fb4b195908cf8dc5ac7&url=https%3A%2F%2Fspacecoastdaily.com%2F2026%2F11%2Fblue-origin-unveils-powerful-new-rocket-engine-and-third-stage-for-new-glenn-program%2F&c=8845021633289432422&mkt=en-us) Blue Origin
-- [SpaceX launched a secret mission for the U.S. military - Українські Національні Новини (УНН)](https://news.google.com/rss/articles/CBMigAFBVV95cUxNZnFTakhzWmtKYjE0dXNxMWRpLXk5ZExzeFIwajZ2MnpvV0pTUHpZZmU2TFdSeTFZVVBWRmJqQ1lIeWItYlhlNnVfaUdYV0F0Ymh5akdZTE9ScDBPZFJjaHBKcEdZWGV6MDBhaS1CUTRMQmN6cmx6YmlZTWlwS0dGStIBf0FVX3lxTE40Y3VmSm95bjJPRlN0YkxZcWpXdFdLeVZxOHRrSUE1ZHU1dW5WTjlJWGNIV0Q0UkVoMGV0VW00dW5nU09ibk1ERm5VaXF0RXBmUl9MME4xdmFYUHl4MTVPWGRMY0tPUlZRby1tWXFpM3VRdVhoYnJqV0hwaXVLdlk?oc=5) SpaceX
 
 ## Top News
 
-- [SpaceX Starlink satellites swarm like 'cosmic fireflies' in time-lapse from space](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aef933d6eca436ab369b3390154174a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-starlink-satellites-swarm-like-cosmic-fireflies-in-time-lapse-from-space%2Fvi-AA2gYhbe&c=11863640988947615923&mkt=en-us) SpaceX
-- [Elon Musk says SpaceX could buy a major US wireless carrier as Starlink expands](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aef933d6eca436ab369b3390154174a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Felon-musk-says-spacex-could-buy-a-major-us-wireless-carrier-as-starlink-expands%2Far-AA2gYtyA&c=5006288854490405261&mkt=en-us) SpaceX
-- [Blue Origin Unveils Northstar Rocket Engine - Raksha Anirveda](https://news.google.com/rss/articles/CBMifEFVX3lxTFBkOFNvU2sxSndIZEZqeUdqOVVFZHJTdW1iN1JwVk5YN3V0a0w3bDdyUGowODFzaXdTSjJ1b2Fxb2g0TGkxNUV5QndkNUFZUmZoc2ZtOWl2SE1DZVNmRkduVkZ5cGZmRVJpa1daYWxqdFkwZkR4UGNTb3JKN3Y?oc=5) Blue Origin
-- [Blue Origin Unveils Powerful New Rocket Engine and Third Stage for New Glenn Program](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aef93447d944fb4b195908cf8dc5ac7&url=https%3A%2F%2Fspacecoastdaily.com%2F2026%2F11%2Fblue-origin-unveils-powerful-new-rocket-engine-and-third-stage-for-new-glenn-program%2F&c=8845021633289432422&mkt=en-us) Blue Origin
-- [谷神星二号一箭四星发射成功，星河动力完善商业发射布局 - 21财经](https://news.google.com/rss/articles/CBMijwFBVV95cUxPR1BCVk5RR0ZaNkp4ZmN0MmRvRExJbmJqdDQyYzRmZXpSOXdxUmlaZXFrRktJRjU4d09TcVRRa0M1UUhPR2JxUURJclhQbnFVaVhCVEMxMWZuNVlFS1FtT201VlUtRlhlc01sZGtXYlRYcTkzZDF2N1l4LTJpZU9SSEZpYmN0dUFtekR2NkNsdw?oc=5) 星河动力
-- [Pakistan paves way for satellite internet services as six companies register with SECPPublished on: November 7, 2026 3:45 PM](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aef938e85dd456a8afea9bb96f68c33&url=https%3A%2F%2Fwww.msn.com%2Fen-xl%2Ftechnology%2Fgeneral%2Fpakistan-paves-way-for-satellite-internet-services-as-six-companies-register-with-secppublished-on-november-7-2026-3-45-pm%2Far-AA2gXiJD&c=17643787094927587073&mkt=en-us) 银河航天
-- [SpaceX launched a secret mission for the U.S. military - Українські Національні Новини (УНН)](https://news.google.com/rss/articles/CBMigAFBVV95cUxNZnFTakhzWmtKYjE0dXNxMWRpLXk5ZExzeFIwajZ2MnpvV0pTUHpZZmU2TFdSeTFZVVBWRmJqQ1lIeWItYlhlNnVfaUdYV0F0Ymh5akdZTE9ScDBPZFJjaHBKcEdZWGV6MDBhaS1CUTRMQmN6cmx6YmlZTWlwS0dGStIBf0FVX3lxTE40Y3VmSm95bjJPRlN0YkxZcWpXdFdLeVZxOHRrSUE1ZHU1dW5WTjlJWGNIV0Q0UkVoMGV0VW00dW5nU09ibk1ERm5VaXF0RXBmUl9MME4xdmFYUHl4MTVPWGRMY0tPUlZRby1tWXFpM3VRdVhoYnJqV0hwaXVLdlk?oc=5) SpaceX
-- [Galactic Energy deploys 4 satellites in successful flight of Ceres 2 rocket - China Daily Global Edition](https://news.google.com/rss/articles/CBMiggFBVV95cUxQV1lRU21KNjJhQWZIUjdhalluNWRHa1duekxNa3NKYkpjT0dfQzZubTc1elpSLWNPRjVsZk5zWlZtX05JWFBCS3R4X2Y2c1NScW1xdTNZd3gxZEw5RmJNLXJ3eXhjSktfUHdWWllXdEVvbEE2cXB4alZkMEpuS1JadzNR?oc=5) 星河动力
-- [【环球财经】银河航天在印尼完成低轨卫星互联网应用验证演示 - 东方财富](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UVGkxdEF2NTd1cExiWERLNkdid2RXZGlCNVFYZ0RPWm9EdUdGc2RLaDljUldMQmhqT05Dc1pwamVTMmtZVG9IRkt6SWxtSWpLdktUams1SWczako2U2J0QQ?oc=5) 银河航天
+- [对标星链，千帆星座闯商业化：上海各区错位布局织密卫星互联网产业链 - 上观新闻](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oTWk0Z2daMzNsMTBlaGZwa0NSUzhaMXFlMU5uOGZzd2wyOUJfTXlOMDNSclFJS05nelc2NVYwYnNodXVwaU9nb2oySmdRdFpWSU1pM0lkNWhXZw?oc=5) 垣信卫星
 
 ## Risks And Watchpoints
 
