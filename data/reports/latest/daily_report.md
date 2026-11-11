@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-11-11
 
-- Report ID: daily-2026-11-11-08c55c26
-- Source run: d323f131-40b6-4007-b5fd-0cc8689ee92c
+- Report ID: daily-2026-11-11-029201d4
+- Source run: 5ab07e8d-f4f8-4bb4-a953-30dadfcee270
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 4
+- Total items: 10
 
 ## Executive Summary
 
-2026-11-11 共收录 4 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-11-11 共收录 10 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,15 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
-- [SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)](https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos) SpaceX
-- [SpaceX unveils Starlink Mini 2 satellite broadband terminal with built-in battery and Wi-Fi support - Tesla Oracle](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVEFGMUo2bmFsZlpnUjBTUksyYmpKa1hONzNqYmVsS01iNjZCWmhFSUxuSEFYSU5uOUJ0YjktcWxhY3pNMEc2M1hDUU9NUjRLcFh6azJFM004eHdkOExnLXRlNGw3eXRhNFRnX0ZwQUZYaUdUWVJRMEZGUnMzbUw5aFlIMWxlMDBmdEU0TWJJTHVMNXlRb2UtNVNzaXJaUUQwRmtTd0lXNV85R3JVVE9VU1AtVGxCcjd3d2ZTWFVvdDZFeFVrSGViaWFLOUpDYk5hOFNHbXh3?oc=5) SpaceX
-- [SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test](https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt) SpaceX
+- [Starship Flight 15 to attempt first catch of both stages](https://spaceq.ca/starship-flight-15-catch-both-stages-preview) SpaceX
+- [What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time) SpaceX
+- [SpaceX wins Pentagon deal to test Starlink lasers for missile tracking - The Defence Blog](https://news.google.com/rss/articles/CBMinAFBVV95cUxQUVBNQ0tZaDFhZjZiYlNaTEprd2R6cTFPUnRtZkpXbHA3RkEwS2h1ZnE2SkNEYzRrXzNxd0lXaDZTT05sR1JPVzM1bnY0Ym85QmxNV3QtRWlNcWlaQXc0eFdKN01BVGhEOVR4OV91U0tTcEdWVUMyaTFBS1hZZ0RzdFZGVXRmdmpfTm80Q1E3Qkd3cGJaOEtGWE51MlfSAaIBQVVfeXFMTXZNMjI3WUkxc1lUSHdoZHA3MHcwRWVGUHd0eU1mZ09JZi1fZTZxSzBmUGhxSU1QQU9HRmpXaW5mYUw3ejZoMXQtajdfc2Y5dFh3WklIaS1HbFZzekxNOUVhSEUtRzI2X0lhOFJXQzQ3RWE4bkp2NjU2UDZ0dU02aDdHc0VWVTdlbzFVZ1hOcGhqLXNFUWdZT3VOei1Nel8zeU13?oc=5) SpaceX
 
 ## Top News
 
-- [SpaceX moves Starship Flight 15 booster to launch pad for 'squeeze test' ahead of epic double-catch attempt (photos)](https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos) SpaceX
-- [SpaceX unveils Starlink Mini 2 satellite broadband terminal with built-in battery and Wi-Fi support - Tesla Oracle](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVEFGMUo2bmFsZlpnUjBTUksyYmpKa1hONzNqYmVsS01iNjZCWmhFSUxuSEFYSU5uOUJ0YjktcWxhY3pNMEc2M1hDUU9NUjRLcFh6azJFM004eHdkOExnLXRlNGw3eXRhNFRnX0ZwQUZYaUdUWVJRMEZGUnMzbUw5aFlIMWxlMDBmdEU0TWJJTHVMNXlRb2UtNVNzaXJaUUQwRmtTd0lXNV85R3JVVE9VU1AtVGxCcjd3d2ZTWFVvdDZFeFVrSGViaWFLOUpDYk5hOFNHbXh3?oc=5) SpaceX
-- [SpaceX Starship Flight 15 live updates: Super Heavy rocket moved to launch pad for 1st Starship double landing test](https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-10-2026-starship-first-double-landing-attempt) SpaceX
+- [Starship Flight 15 to attempt first catch of both stages](https://spaceq.ca/starship-flight-15-catch-both-stages-preview) SpaceX
+- [What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time) SpaceX
+- [SpaceX wins Pentagon deal to test Starlink lasers for missile tracking - The Defence Blog](https://news.google.com/rss/articles/CBMinAFBVV95cUxQUVBNQ0tZaDFhZjZiYlNaTEprd2R6cTFPUnRtZkpXbHA3RkEwS2h1ZnE2SkNEYzRrXzNxd0lXaDZTT05sR1JPVzM1bnY0Ym85QmxNV3QtRWlNcWlaQXc0eFdKN01BVGhEOVR4OV91U0tTcEdWVUMyaTFBS1hZZ0RzdFZGVXRmdmpfTm80Q1E3Qkd3cGJaOEtGWE51MlfSAaIBQVVfeXFMTXZNMjI3WUkxc1lUSHdoZHA3MHcwRWVGUHd0eU1mZ09JZi1fZTZxSzBmUGhxSU1QQU9HRmpXaW5mYUw3ejZoMXQtajdfc2Y5dFh3WklIaS1HbFZzekxNOUVhSEUtRzI2X0lhOFJXQzQ3RWE4bkp2NjU2UDZ0dU02aDdHc0VWVTdlbzFVZ1hOcGhqLXNFUWdZT3VOei1Nel8zeU13?oc=5) SpaceX
 
 ## Risks And Watchpoints
 
