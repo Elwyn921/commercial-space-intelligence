@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-11-11
 
-- Report ID: daily-2026-11-11-029201d4
-- Source run: 5ab07e8d-f4f8-4bb4-a953-30dadfcee270
+- Report ID: daily-2026-11-12-72037662
+- Source run: 20714a76-97ce-476e-877c-8415628c23d0
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 10
+- Total items: 1
 
 ## Executive Summary
 
-2026-11-11 共收录 10 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-11-12 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,15 +31,11 @@ No LLM summary.
 
 No LLM summary.
 
-- [Starship Flight 15 to attempt first catch of both stages](https://spaceq.ca/starship-flight-15-catch-both-stages-preview) SpaceX
-- [What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time) SpaceX
-- [SpaceX wins Pentagon deal to test Starlink lasers for missile tracking - The Defence Blog](https://news.google.com/rss/articles/CBMinAFBVV95cUxQUVBNQ0tZaDFhZjZiYlNaTEprd2R6cTFPUnRtZkpXbHA3RkEwS2h1ZnE2SkNEYzRrXzNxd0lXaDZTT05sR1JPVzM1bnY0Ym85QmxNV3QtRWlNcWlaQXc0eFdKN01BVGhEOVR4OV91U0tTcEdWVUMyaTFBS1hZZ0RzdFZGVXRmdmpfTm80Q1E3Qkd3cGJaOEtGWE51MlfSAaIBQVVfeXFMTXZNMjI3WUkxc1lUSHdoZHA3MHcwRWVGUHd0eU1mZ09JZi1fZTZxSzBmUGhxSU1QQU9HRmpXaW5mYUw3ejZoMXQtajdfc2Y5dFh3WklIaS1HbFZzekxNOUVhSEUtRzI2X0lhOFJXQzQ3RWE4bkp2NjU2UDZ0dU02aDdHc0VWVTdlbzFVZ1hOcGhqLXNFUWdZT3VOei1Nel8zeU13?oc=5) SpaceX
+- [Starship's Friday launch in Texas could be last before Florida debut - Florida Today](https://news.google.com/rss/articles/CBMizwFBVV95cUxOR2FQU3p2Ulp1anZJRWNRa1ZiSWpHNXBER2JjVG9NbWZNaE5ydnhqcW5qVmxIUTVyUDVfZEsxWUV0M240bmplNHNwd3Fyc3ZjRndyenVXNkNITnhBLXRZWGVFUHBpakNVcW5oZVRJZVQ5bmlnNDhHZTRHbmQ1UEZjWTJSVHg4amV2d0tnV04xbUZyUGVuZ3liMUI0UndPbFdFUkM3OHNKbXQtYkQtTDRzZEpnMVBVS1YyUUVMWm03eWF5UnowZnNRYjZmNFBvZjA?oc=5) SpaceX
 
 ## Top News
 
-- [Starship Flight 15 to attempt first catch of both stages](https://spaceq.ca/starship-flight-15-catch-both-stages-preview) SpaceX
-- [What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time) SpaceX
-- [SpaceX wins Pentagon deal to test Starlink lasers for missile tracking - The Defence Blog](https://news.google.com/rss/articles/CBMinAFBVV95cUxQUVBNQ0tZaDFhZjZiYlNaTEprd2R6cTFPUnRtZkpXbHA3RkEwS2h1ZnE2SkNEYzRrXzNxd0lXaDZTT05sR1JPVzM1bnY0Ym85QmxNV3QtRWlNcWlaQXc0eFdKN01BVGhEOVR4OV91U0tTcEdWVUMyaTFBS1hZZ0RzdFZGVXRmdmpfTm80Q1E3Qkd3cGJaOEtGWE51MlfSAaIBQVVfeXFMTXZNMjI3WUkxc1lUSHdoZHA3MHcwRWVGUHd0eU1mZ09JZi1fZTZxSzBmUGhxSU1QQU9HRmpXaW5mYUw3ejZoMXQtajdfc2Y5dFh3WklIaS1HbFZzekxNOUVhSEUtRzI2X0lhOFJXQzQ3RWE4bkp2NjU2UDZ0dU02aDdHc0VWVTdlbzFVZ1hOcGhqLXNFUWdZT3VOei1Nel8zeU13?oc=5) SpaceX
+- [Starship's Friday launch in Texas could be last before Florida debut - Florida Today](https://news.google.com/rss/articles/CBMizwFBVV95cUxOR2FQU3p2Ulp1anZJRWNRa1ZiSWpHNXBER2JjVG9NbWZNaE5ydnhqcW5qVmxIUTVyUDVfZEsxWUV0M240bmplNHNwd3Fyc3ZjRndyenVXNkNITnhBLXRZWGVFUHBpakNVcW5oZVRJZVQ5bmlnNDhHZTRHbmQ1UEZjWTJSVHg4amV2d0tnV04xbUZyUGVuZ3liMUI0UndPbFdFUkM3OHNKbXQtYkQtTDRzZEpnMVBVS1YyUUVMWm03eWF5UnowZnNRYjZmNFBvZjA?oc=5) SpaceX
 
 ## Risks And Watchpoints
 
