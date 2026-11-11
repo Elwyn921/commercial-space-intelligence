@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-11-10
+# 每日新闻情报日报 - 2026-11-11
 
-- Report ID: daily-2026-11-11-19eca79a
-- Source run: 8faacde2-2849-4948-9cb7-1f39cc75b03d
+- Report ID: daily-2026-11-11-08c55c26
+- Source run: d323f131-40b6-4007-b5fd-0cc8689ee92c
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 3
+- Total items: 4
 
 ## Executive Summary
 
-2026-11-11 共收录 3 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-11-11 共收录 4 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
