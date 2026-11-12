@@ -1,7 +1,7 @@
-# 每日新闻情报日报 - 2026-11-11
+# 每日新闻情报日报 - 2026-11-12
 
-- Report ID: daily-2026-11-12-72037662
-- Source run: 20714a76-97ce-476e-877c-8415628c23d0
+- Report ID: daily-2026-11-12-fedb8fa4
+- Source run: c135cb75-61a5-431d-beff-629c873a97cf
 - Generation status: skipped_no_secret
 - Companies covered: 1
 - Total items: 1
