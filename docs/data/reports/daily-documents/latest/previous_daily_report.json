@@ -1,159 +1,92 @@
 {
-  "as_of_date": "2026-11-11",
+  "as_of_date": "2026-11-12",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 4,
-        "other": 6,
-        "product": 1
-      },
-      "item_count": 11,
-      "latest_title": "Starlink Mini 2 Launches With Built-In Battery And One Year Of Free Service"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_types": {
-        "other": 2,
+        "launch": 10,
+        "other": 3,
         "product": 2
       },
-      "item_count": 4,
-      "latest_title": "Blue Origin Shows Off the Northstar, A Simpler and More Powerful Rocket Engine Than the BE-4 - autoevolution"
-    },
-    {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
-      "event_types": {
-        "funding": 1
-      },
-      "item_count": 1,
-      "latest_title": "垣信卫星完成新一轮融资：金额69.76亿元，估值500亿 - 新浪网"
+      "item_count": 15,
+      "latest_title": "Starlink Mini 2 arrives with one feature for true off-grid connectivity"
     }
   ],
-  "company_count": 3,
+  "company_count": 1,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "funding": 1,
-    "launch": 4,
-    "other": 8,
-    "product": 3
+    "launch": 10,
+    "other": 3,
+    "product": 2
   },
-  "generated_at": "2026-11-11T07:45:34.671912Z",
-  "period_end": "2026-11-10",
-  "period_start": "2026-11-10",
-  "report_date": "2026-11-10",
+  "generated_at": "2026-11-12T08:19:41.086520Z",
+  "period_end": "2026-11-11",
+  "period_start": "2026-11-11",
+  "report_date": "2026-11-11",
   "schema_version": "daily_document.v1",
-  "source_count": 4,
+  "source_count": 7,
   "source_counts": {
-    "autoevolution": 2,
-    "bing.com": 12,
-    "satellitetoday.com": 1,
-    "新浪网": 1
+    "Tesla Oracle": 1,
+    "The Defence Blog": 1,
+    "The Watchers - Watching the world evolve and transform": 1,
+    "USA Today": 1,
+    "bing.com": 6,
+    "space.com": 4,
+    "spaceq.ca": 1
   },
-  "summary": "2026-11-10 共归档 16 条新闻，覆盖 3 家公司、4 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、垣信卫星。",
+  "summary": "2026-11-11 共归档 15 条新闻，覆盖 1 家公司、7 个信息来源。 新闻量较多的公司包括 SpaceX。",
   "top_items": [
     {
-      "company_id": "yuanxin_satellite",
-      "company_name": "垣信卫星",
-      "event_type": "funding",
-      "item_id": "069cd259f7c7e5df",
-      "published_at": "2026-11-10T00:35:08Z",
-      "source_name": "新浪网",
-      "title": "垣信卫星完成新一轮融资：金额69.76亿元，估值500亿 - 新浪网",
-      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxOZzNEdlptc1VjTmxJbHY2QUpsd0VoNlZSbmYtbDV6WEJiMk9Ma05zV1VBdkR5a2piMTBLcXhGRTZBMlA2aVdPVnpHZjdlclN4Y29fdHNxelMwUjlTMHpqZlVpT05EalIwMmVBbUVNS25WTXhxWWFqTkZpQWg3NklEaERzY1RnQk85MGpFSVhNV2NhR3ZMV2VtLUtEOW5OOUZRWk8xMnB2MzhHdlF0NnBVTVZqREVQV19wRG9iYk05bWFMLW9EYnVoOEh3c2dUOEhGcXFyY3doY1ZKUVd5N1lyWTBpaU9zQllVWm5FVGFPalpvTTdPZFRhc0ctTFFrSzZGTVNzN3VPY1NKejlOQWp2dzJxM2sxSF82OVVURlJ3b2MyZU52UkhlSVRmWDA1empwVVd5NmF5S3ZscEFBWkZBQVBJZnp5a255ZlIwRjc2QndVc0xuczNkNnV4SFZxNXpBMWdpU3dBTlZLTC1HOS10b21MeC1acTJu?oc=5"
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "317d5b00a9f732d5",
+      "published_at": "2026-11-11T13:13:00Z",
+      "source_name": "bing.com",
+      "title": "Starlink Mini 2 arrives with one feature for true off-grid connectivity",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6af5409715474152b9756b085a8ff457&url=https%3A%2F%2Fwww.teslarati.com%2Fstarlink-mini-2-arrives-one-feature-true-off-grid-connectivity%2F&c=312583629942077966&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "ee9b4f469aec28e6",
-      "published_at": "2026-11-10T15:10:00Z",
-      "source_name": "bing.com",
-      "title": "Starlink Mini 2 Launches With Built-In Battery And One Year Of Free Service",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6af3de37a5f74c768f7891dd2c5420d6&url=https%3A%2F%2Fwww.redmondpie.com%2Fstarlink-mini-2-launches-with-built-in-battery-and-one-year-of-free-service%2F&c=18243931504851000784&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "other",
-      "item_id": "3f770ac0e2c2658a",
-      "published_at": "2026-11-10T11:04:13Z",
-      "source_name": "autoevolution",
-      "title": "Blue Origin Shows Off the Northstar, A Simpler and More Powerful Rocket Engine Than the BE-4 - autoevolution",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRHAwbUJpR1ktWVREbzB1LUtLSzJZMWZPT3dPZVVxQlcyODZhaGtFSElTVFpEcFZXeUI3aVRzSWFSTE5LLWdzX2EyODVsaFZvcHZJS1FnRWtCd3A0ZFVkZU55ZHJOVDV6Qm5rWTJGVTlQVkthVTdHalVmaUR4eWJ2SlFOUXVYeWd3ODJoNUlyc1A1eEFfNnl6S3Y4TnNVWi1WR05NZm5DUTlBM2taQldRa1A5RjdpVndfMDVYalpoOE5LOTJqOWRvek5jaVk4QzU0NFhCcw?oc=5"
+      "item_id": "2ef12502be5c39ae",
+      "published_at": "2026-11-11T12:08:00Z",
+      "source_name": "spaceq.ca",
+      "title": "Starship Flight 15 to attempt first catch of both stages",
+      "url": "https://spaceq.ca/starship-flight-15-catch-both-stages-preview"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "6ff11c96179feaff",
-      "published_at": "2026-11-10T10:24:00Z",
+      "item_id": "1c5e6f0a17601d04",
+      "published_at": "2026-11-11T11:30:00Z",
       "source_name": "bing.com",
-      "title": "From explosions to catches, how SpaceX's Starship reached flight 15",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6af39c57f1454e568e93eb155a5f4f5d&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Ftech%2Fspace%2F2026%2F11%2F10%2Fspace-starship-flight-15-recap%2F92687632007%2F&c=11943008616595240475&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "product",
-      "item_id": "d73ac41cc60fadd9",
-      "published_at": "2026-11-10T06:43:00Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin uses Additive Manufacturing for over 65% of new Northstar rocket engine",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6af3de3e4b174084bb3ca3f413bdfbaf&url=https%3A%2F%2Fwww.metal-am.com%2Fblue-origin-uses-additive-manufacturing-for-over-65-of-new-northstar-rocket-engine%2F&c=2094552937616799801&mkt=en-us"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "product",
-      "item_id": "4d494ebecf3b701b",
-      "published_at": "2026-11-10T06:43:00Z",
-      "source_name": "bing.com",
-      "title": "Blue Origin uses Additive Manufacturing for over 65% of new Northstar rocket engine",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6af39c5f9494418aa5de52a76fe3b42b&url=https%3A%2F%2Fwww.metal-am.com%2Fblue-origin-uses-additive-manufacturing-for-over-65-of-new-northstar-rocket-engine%2F&c=2094552937616799801&mkt=en-us"
+      "title": "Nov 13 Could Be A Huge Day For SpaceX Stock",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6af4fe28f67a4dc9b19f089051059fac&url=https%3A%2F%2Fwww.fool.com%2Finvesting%2F2026%2F11%2F11%2Fnov-13-could-be-a-huge-day-for-spacex-stock%2F&c=18276084553931132299&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "6c856069c164de39",
-      "published_at": "2026-11-10T05:15:00Z",
-      "source_name": "bing.com",
-      "title": "SpaceX targets historic double rocket recovery in Starship launch Friday",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6af32128ba384e7f9ca95ea89728528c&url=https%3A%2F%2Fseekingalpha.com%2Fnews%2F4669730-spacex-targets-historic-double-rocket-recovery-in-starship-launch-friday&c=8128380268321111369&mkt=en-us"
+      "item_id": "bb29210d5cb15097",
+      "published_at": "2026-11-11T11:00:00Z",
+      "source_name": "space.com",
+      "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "7fa24a5516f0fadb",
-      "published_at": "2026-11-09T22:33:00Z",
+      "item_id": "294eeef68f9bae3e",
+      "published_at": "2026-11-11T07:22:36Z",
       "source_name": "bing.com",
-      "title": "BT to hold off Starlink launch until Ukraine 'noise' dies down, CEO tells FT",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6af32128ba384e7f9ca95ea89728528c&url=https%3A%2F%2Fwww.aol.com%2Farticles%2Fbt-hold-off-starlink-launch-063012000.html&c=5538980225473123838&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "other",
-      "item_id": "41a04ec6602686fc",
-      "published_at": "2026-11-09T21:59:13Z",
-      "source_name": "satellitetoday.com",
-      "title": "What Starlink Restrictions in Ukraine Reveal About Europe’s Space Sovereignty and the Path Forward",
-      "url": "https://www.satellitetoday.com/podcast/2026/11/09/what-starlink-restrictions-in-ukraine-reveal-about-europes-space-sovereignty-and-the-path-forward"
-    },
-    {
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_type": "other",
-      "item_id": "feaa914235b99f23",
-      "published_at": "2026-11-09T16:26:51Z",
-      "source_name": "autoevolution",
-      "title": "Blue Origin's New Glenn Mega Rocket Gets a Third Stage to Send Stuff Deeper Into Space - autoevolution",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ1phX29ZLWRpVVFScWJ6SjlrZHl1RGF4YlMxdlFCOVhuQkstTnVmR1hMV19UQW5BcEp6dDZQVHNvNHZQNFhrYUVPcXl4YWhNbEdIdHNHanlKR0pzem1CYW5MM1RvanVpNktVV1FqV25xemlPOENEaTNUZ19ETFhMWlpoekFRcVZMM3EyenhwOHB0T0tjMUg2QlYxcXFFX2xtUE5LZnhBRzZhMHZVU3ZpT0RMNXlQNng1bnBJVVNSTU5nbkExSDBzaXFpRm15QQ?oc=5"
+      "title": "SpaceX Falcon 9's second burn failure put 20 Starlink satellites in low orbit",
+      "url": "https://www.msn.com/en-us/news/other/spacex-falcon-9s-second-burn-failure-put-20-starlink-satellites-in-low-orbit/vi-AA2hdrPL?ocid=BingNewsVerp"
     }
   ],
-  "total_items": 16
+  "total_items": 15
 }
