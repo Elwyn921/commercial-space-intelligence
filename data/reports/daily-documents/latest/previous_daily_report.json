@@ -1,92 +1,150 @@
 {
-  "as_of_date": "2026-11-12",
+  "as_of_date": "2026-11-13",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 10,
-        "other": 3,
-        "product": 2
+        "launch": 6,
+        "other": 15
       },
-      "item_count": 15,
-      "latest_title": "Starlink Mini 2 arrives with one feature for true off-grid connectivity"
+      "item_count": 21,
+      "latest_title": "SpaceX laser system could help US satellites track hypersonic missiles in flight"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_types": {
+        "other": 3
+      },
+      "item_count": 3,
+      "latest_title": "圆满成功！中科宇航力擎系列发动机完成关键试车考核 - 新浪财经"
+    },
+    {
+      "company_id": "china_satnet",
+      "company_name": "中国星网",
+      "event_types": {
+        "launch": 1
+      },
+      "item_count": 1,
+      "latest_title": "宇宙人(2106期)探源计划探路者卫星成功发射；中国星网等牵头制定L频段手机直连卫星终端标准；NASA借“动力地球飞掠”送双探测器奔火星 - Sohu"
     }
   ],
-  "company_count": 1,
+  "company_count": 3,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 10,
-    "other": 3,
-    "product": 2
+    "launch": 7,
+    "other": 18
   },
-  "generated_at": "2026-11-12T08:19:41.086520Z",
-  "period_end": "2026-11-11",
-  "period_start": "2026-11-11",
-  "report_date": "2026-11-11",
+  "generated_at": "2026-11-13T07:57:32.924340Z",
+  "period_end": "2026-11-12",
+  "period_start": "2026-11-12",
+  "report_date": "2026-11-12",
   "schema_version": "daily_document.v1",
-  "source_count": 7,
+  "source_count": 9,
   "source_counts": {
-    "Tesla Oracle": 1,
-    "The Defence Blog": 1,
-    "The Watchers - Watching the world evolve and transform": 1,
-    "USA Today": 1,
-    "bing.com": 6,
-    "space.com": 4,
-    "spaceq.ca": 1
+    "Florida Today": 1,
+    "HowStuffWorks": 1,
+    "Sohu": 1,
+    "Space": 1,
+    "bing.com": 16,
+    "space.com": 1,
+    "新浪财经": 2,
+    "第一财经": 1,
+    "조선일보": 1
   },
-  "summary": "2026-11-11 共归档 15 条新闻，覆盖 1 家公司、7 个信息来源。 新闻量较多的公司包括 SpaceX。",
+  "summary": "2026-11-12 共归档 25 条新闻，覆盖 3 家公司、9 个信息来源。 新闻量较多的公司包括 SpaceX、中科宇航、中国星网。",
   "top_items": [
     {
+      "company_id": "china_satnet",
+      "company_name": "中国星网",
+      "event_type": "launch",
+      "item_id": "f6c0076c63207068",
+      "published_at": "2026-11-12T13:00:00Z",
+      "source_name": "Sohu",
+      "title": "宇宙人(2106期)探源计划探路者卫星成功发射；中国星网等牵头制定L频段手机直连卫星终端标准；NASA借“动力地球飞掠”送双探测器奔火星 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1NNbXBoemVxNmdobEVZaXVvQjNnS0lZU3dJSjc3LUltODRXdy1GcUNhb1pyR1AtVk5oRzJ1bjdGVHNSU2JwWWFIa0QwbnVIQ3NaSnU4RXV0MWgwXzNGa0E1VTAtREdKTHQ2TjFGN0FiT1NYUzJYbjVzbndjRllQV0VvMnA0ajZX?oc=5"
+    },
+    {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "317d5b00a9f732d5",
-      "published_at": "2026-11-11T13:13:00Z",
+      "event_type": "other",
+      "item_id": "7d0775f9b5f0568f",
+      "published_at": "2026-11-12T05:31:00Z",
       "source_name": "bing.com",
-      "title": "Starlink Mini 2 arrives with one feature for true off-grid connectivity",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6af5409715474152b9756b085a8ff457&url=https%3A%2F%2Fwww.teslarati.com%2Fstarlink-mini-2-arrives-one-feature-true-off-grid-connectivity%2F&c=312583629942077966&mkt=en-us"
+      "title": "SpaceX laser system could help US satellites track hypersonic missiles in flight",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6af5c71db66345b4adec136c611aba83&url=https%3A%2F%2Finterestingengineering.com%2Fmilitary%2Fspacex-starlink-laser-for-missile-tracking-satellites&c=5481858438893782796&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "2ef12502be5c39ae",
-      "published_at": "2026-11-11T12:08:00Z",
-      "source_name": "spaceq.ca",
-      "title": "Starship Flight 15 to attempt first catch of both stages",
-      "url": "https://spaceq.ca/starship-flight-15-catch-both-stages-preview"
+      "item_id": "c9532902730c2315",
+      "published_at": "2026-11-12T05:26:18Z",
+      "source_name": "Space",
+      "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (photos) - Space",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSDVhY3ZiVWw0WFRNcDBENXBCRU1tbU4yTG9MYUhQZ2pNVEtNeDRDMUZGaS0zT2tkXzZyOUFLeUhFNFJaMHo5R3pxRDVHMXcya0tiRF80aktGZGFXMmlVUkdUQUhUSG1Bd1BsSEpHMnQ4enhuaVh3X0RRZEw5bE1XU1JNYW9ndmRSUGpzQmhBc256OWMtd3NRUEhtMEFweVhFOTEwZm5TZ0VlcXNzYTl6QUZGeFZ0VklpNS1RZ2EtTXFyNTY1V1paZEt6bGRDWnV6?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "1c5e6f0a17601d04",
-      "published_at": "2026-11-11T11:30:00Z",
-      "source_name": "bing.com",
-      "title": "Nov 13 Could Be A Huge Day For SpaceX Stock",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6af4fe28f67a4dc9b19f089051059fac&url=https%3A%2F%2Fwww.fool.com%2Finvesting%2F2026%2F11%2F11%2Fnov-13-could-be-a-huge-day-for-spacex-stock%2F&c=18276084553931132299&mkt=en-us"
-    },
-    {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "bb29210d5cb15097",
-      "published_at": "2026-11-11T11:00:00Z",
+      "item_id": "0e2c6bda79e25e30",
+      "published_at": "2026-11-12T05:24:54Z",
       "source_name": "space.com",
-      "title": "What time will SpaceX launch Starship Flight 15, its 1st double landing test, on Nov. 13? (Full mission timeline)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-1st-booster-ship-double-catch-full-recovery-what-time"
+      "title": "SpaceX launches 2nd mystery mission for US Space Force in 6-day span (video, photos)",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-2nd-mystery-mission-for-us-space-force-in-6-day-span-photos"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "launch",
-      "item_id": "294eeef68f9bae3e",
-      "published_at": "2026-11-11T07:22:36Z",
+      "event_type": "other",
+      "item_id": "e7738be114f5ed44",
+      "published_at": "2026-11-12T04:25:00Z",
       "source_name": "bing.com",
-      "title": "SpaceX Falcon 9's second burn failure put 20 Starlink satellites in low orbit",
-      "url": "https://www.msn.com/en-us/news/other/spacex-falcon-9s-second-burn-failure-put-20-starlink-satellites-in-low-orbit/vi-AA2hdrPL?ocid=BingNewsVerp"
+      "title": "SpaceX’s Next Market: Musk Says Starlink Can “Outcompete Undersea Cables”",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6af5c71db66345b4adec136c611aba83&url=https%3A%2F%2Ffinance.yahoo.com%2Fmarkets%2Fstocks%2Farticles%2Fspacex-next-market-musk-says-122524496.html&c=2661817031799728791&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "other",
+      "item_id": "395a705eda18c474",
+      "published_at": "2026-11-12T04:25:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX’s Next Market: Musk Says Starlink Can “Outcompete Undersea Cables”",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6af643d9949f49f097916c4774cffdb4&url=https%3A%2F%2Ffinance.yahoo.com%2Fmarkets%2Fstocks%2Farticles%2Fspacex-next-market-musk-says-122524496.html&c=2661817031799728791&mkt=en-us"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "other",
+      "item_id": "10c8591b3fd32db2",
+      "published_at": "2026-11-12T13:28:24Z",
+      "source_name": "新浪财经",
+      "title": "圆满成功！中科宇航力擎系列发动机完成关键试车考核 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iVUdYVlh5VWNfcjgwQzRwMGw3bVJLWC1OU0E3U3ZvSlRBM1RqX2xUUURLSThNREJYNDFGNUQ4RFdELWJKVHNRcnhPTW1nVjRCaEVmTm90RGN2VXo0RXBYaDZBUmJPSUR2SXZjSkhheVlHMTdTNkRwdlpjWHd5WmM?oc=5"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "other",
+      "item_id": "f85353364c63c028",
+      "published_at": "2026-11-12T11:35:34Z",
+      "source_name": "第一财经",
+      "title": "中科宇航力擎系列发动机完成关键试车考核 - 第一财经",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqX21GUG1EelFDODBaWnQ4dHJUckdSbktXamVITndxOTRJaFhCaHVHZFNmZW52ODFLeUFBb0NIY1M4X2ZMQTRoOVk2YjlEeHFxQVdF?oc=5"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "other",
+      "item_id": "47a0b03d4e22bf36",
+      "published_at": "2026-11-12T11:22:35Z",
+      "source_name": "新浪财经",
+      "title": "中科宇航：力擎系列发动机完成关键试车考核，取得圆满成功 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3SGVyN2pEZWRvNUdjUGZYOUU5enhYYWhnak51TTFmcHZIa1pSZ3FHT3I4a2NPbVdneTRzeXM1bUxVWUpyVEV6Y0FWLWRHWWh5a3pYZFVPS2FjcWtUMzdVcjJYX3I4QW05VmRMLXlXcjlpT0x2TDBGSUQzY3VfUlk?oc=5"
     }
   ],
-  "total_items": 15
+  "total_items": 25
 }
