@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-11-13
+# 每日新闻情报日报 - 2026-11-14
 
-- Report ID: daily-2026-11-14-aaf295d4
-- Source run: 867929f3-46ae-42d3-ae44-102372536301
+- Report ID: daily-2026-11-14-7706ee92
+- Source run: 624cdda1-b015-4d1d-a61c-d7f49fc1f335
 - Generation status: skipped_no_secret
-- Companies covered: 1
-- Total items: 2
+- Companies covered: 2
+- Total items: 9
 
 ## Executive Summary
 
-2026-11-14 共收录 2 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-11-14 共收录 9 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
 
 ## Industry Chain Sections
 
@@ -31,13 +31,17 @@ No LLM summary.
 
 No LLM summary.
 
-- [Elon Musk’s SpaceX Has Spent $15 Billion on Starship. Tonight Could Change Everything - 24/7 Wall St.](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbnlkNl95ajNjaklSN3otNFl0ODdaVEF3b3RwS2ExVndzLVB6djZlcy1lN1RZay1KNVk2X3BzRkdwbmoxX3U0dk1HSGY4M2U0QmV4NlhMREN4ZU1wU0MtREJZanJucWozZkhDNklkdmdWQlpwWDZuMEktX1BraUxRVHU1UEdfbXF3MEUwOGtmM3NLTmwzTWV2dzN4OG83NVlWTjdfaFlzcnVBazYzTXpBdEViZENPNGpLMkRVR2Z4b0E5UWYw?oc=5) SpaceX
-- [AST SpaceMobile to government customers: We’re not like Starlink. You keep data control, you keep the kill switch](https://www.spaceintelreport.com/ast-spacemobile-to-government-customers-were-not-like-starlink-you-keep-data-control-you-keep-the-kill-switch) SpaceX
+- [Starship flight 15 powers to orbit—setting up a possible catch on Saturday](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday) SpaceX
+- [Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?](https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth) SpaceX
+- [SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video) - Space](https://news.google.com/rss/articles/CBMixAFBVV95cUxNcEhQWFJRdTk2a2oxdnBsNm1ZUHdjSUdDNUtuQnloQjlTdHZIdXpVeFlQeTNNMk8xeE9uXzhpamdiTnZHaFY2ZFZZbmViSEhBYUxGTENfNXVtZ3RHY2Z2SGlqSXU3cEZNRmtZdDFUc3VHbERUbWFiTEFNUk4wTHF2TVBJblIxUFc1UnBSY1lJRnM5VnFLM3hfYVU3VEpvWW44NmxNSmtUa3pUUXdxUEFHWV8tcnpkUE52MWFOX1pLZjNldlN1?oc=5) SpaceX
+- [Blue Origin Skips Orbital Reef Station Bid: NASA Wants Two Stations, May Afford One - Tech Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS3RBQm5CNjA0NjRQOGNTQldCVXRRbllJbzN3Uk4xWGxLa2pJOTJxcHBjY0QyaUxPX20tNWtHWG5HMFpIRTJOazJURHlyOVZtNUE1b3FCRUxaaWFSWEZMc3kzZ2w5TnRhcUE4UjdSMHRURzZiaWxSSF9ST0VocW9rMTNIZ2t3dmphQnZodzZYUEZHblFUenV5dURBQ2ZsOGNsekNFRmozNXN2M2R0aUhTTGVLcl9STm5GUzFzcXoxS05XMVZXTTlpUDRTTG5ybjVPREE?oc=5) Blue Origin
 
 ## Top News
 
-- [Elon Musk’s SpaceX Has Spent $15 Billion on Starship. Tonight Could Change Everything - 24/7 Wall St.](https://news.google.com/rss/articles/CBMixAFBVV95cUxPbnlkNl95ajNjaklSN3otNFl0ODdaVEF3b3RwS2ExVndzLVB6djZlcy1lN1RZay1KNVk2X3BzRkdwbmoxX3U0dk1HSGY4M2U0QmV4NlhMREN4ZU1wU0MtREJZanJucWozZkhDNklkdmdWQlpwWDZuMEktX1BraUxRVHU1UEdfbXF3MEUwOGtmM3NLTmwzTWV2dzN4OG83NVlWTjdfaFlzcnVBazYzTXpBdEViZENPNGpLMkRVR2Z4b0E5UWYw?oc=5) SpaceX
-- [AST SpaceMobile to government customers: We’re not like Starlink. You keep data control, you keep the kill switch](https://www.spaceintelreport.com/ast-spacemobile-to-government-customers-were-not-like-starlink-you-keep-data-control-you-keep-the-kill-switch) SpaceX
+- [Starship flight 15 powers to orbit—setting up a possible catch on Saturday](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday) SpaceX
+- [Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?](https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth) SpaceX
+- [SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video) - Space](https://news.google.com/rss/articles/CBMixAFBVV95cUxNcEhQWFJRdTk2a2oxdnBsNm1ZUHdjSUdDNUtuQnloQjlTdHZIdXpVeFlQeTNNMk8xeE9uXzhpamdiTnZHaFY2ZFZZbmViSEhBYUxGTENfNXVtZ3RHY2Z2SGlqSXU3cEZNRmtZdDFUc3VHbERUbWFiTEFNUk4wTHF2TVBJblIxUFc1UnBSY1lJRnM5VnFLM3hfYVU3VEpvWW44NmxNSmtUa3pUUXdxUEFHWV8tcnpkUE52MWFOX1pLZjNldlN1?oc=5) SpaceX
+- [Blue Origin Skips Orbital Reef Station Bid: NASA Wants Two Stations, May Afford One - Tech Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS3RBQm5CNjA0NjRQOGNTQldCVXRRbllJbzN3Uk4xWGxLa2pJOTJxcHBjY0QyaUxPX20tNWtHWG5HMFpIRTJOazJURHlyOVZtNUE1b3FCRUxaaWFSWEZMc3kzZ2w5TnRhcUE4UjdSMHRURzZiaWxSSF9ST0VocW9rMTNIZ2t3dmphQnZodzZYUEZHblFUenV5dURBQ2ZsOGNsekNFRmozNXN2M2R0aUhTTGVLcl9STm5GUzFzcXoxS05XMVZXTTlpUDRTTG5ybjVPREE?oc=5) Blue Origin
 
 ## Risks And Watchpoints
 
