@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-11-14
 
-- Report ID: daily-2026-11-14-d7cc5030
-- Source run: fbd3a3c7-ad26-498a-9c8f-954c2ed415b6
+- Report ID: daily-2026-11-15-6006e799
+- Source run: 04f526b0-83fa-4dad-b976-ddc793644c9f
 - Generation status: skipped_no_secret
-- Companies covered: 2
-- Total items: 9
+- Companies covered: 1
+- Total items: 1
 
 ## Executive Summary
 
-2026-11-14 共收录 9 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin。
+2026-11-15 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,17 +31,11 @@ No LLM summary.
 
 No LLM summary.
 
-- [Starship flight 15 powers to orbit—setting up a possible catch on Saturday](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday) SpaceX
-- [Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?](https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth) SpaceX
-- [SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video) - Space](https://news.google.com/rss/articles/CBMixAFBVV95cUxNcEhQWFJRdTk2a2oxdnBsNm1ZUHdjSUdDNUtuQnloQjlTdHZIdXpVeFlQeTNNMk8xeE9uXzhpamdiTnZHaFY2ZFZZbmViSEhBYUxGTENfNXVtZ3RHY2Z2SGlqSXU3cEZNRmtZdDFUc3VHbERUbWFiTEFNUk4wTHF2TVBJblIxUFc1UnBSY1lJRnM5VnFLM3hfYVU3VEpvWW44NmxNSmtUa3pUUXdxUEFHWV8tcnpkUE52MWFOX1pLZjNldlN1?oc=5) SpaceX
-- [Blue Origin Skips Orbital Reef Station Bid: NASA Wants Two Stations, May Afford One - Tech Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS3RBQm5CNjA0NjRQOGNTQldCVXRRbllJbzN3Uk4xWGxLa2pJOTJxcHBjY0QyaUxPX20tNWtHWG5HMFpIRTJOazJURHlyOVZtNUE1b3FCRUxaaWFSWEZMc3kzZ2w5TnRhcUE4UjdSMHRURzZiaWxSSF9ST0VocW9rMTNIZ2t3dmphQnZodzZYUEZHblFUenV5dURBQ2ZsOGNsekNFRmozNXN2M2R0aUhTTGVLcl9STm5GUzFzcXoxS05XMVZXTTlpUDRTTG5ybjVPREE?oc=5) Blue Origin
+- [SpaceX Guides Ship 42 Back to Texas for First Orbital Upper-Stage Tower Catch](https://satnews.com/2026/11/14/spacex-guides-ship-42-back-to-texas-for-first-orbital-upper-stage-tower-catch) SpaceX
 
 ## Top News
 
-- [Starship flight 15 powers to orbit—setting up a possible catch on Saturday](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday) SpaceX
-- [Starship IFT-15 is in Orbit — Will it be “Caught” When It Returns to Earth?](https://spacepolicyonline.com/news/starship-ift-15-is-in-orbit-will-it-be-caught-when-it-returns-to-earth) SpaceX
-- [SpaceX launches Starship on ambitious 22-hour Flight 15 test, but aborts booster 'chopsticks' catch (video) - Space](https://news.google.com/rss/articles/CBMixAFBVV95cUxNcEhQWFJRdTk2a2oxdnBsNm1ZUHdjSUdDNUtuQnloQjlTdHZIdXpVeFlQeTNNMk8xeE9uXzhpamdiTnZHaFY2ZFZZbmViSEhBYUxGTENfNXVtZ3RHY2Z2SGlqSXU3cEZNRmtZdDFUc3VHbERUbWFiTEFNUk4wTHF2TVBJblIxUFc1UnBSY1lJRnM5VnFLM3hfYVU3VEpvWW44NmxNSmtUa3pUUXdxUEFHWV8tcnpkUE52MWFOX1pLZjNldlN1?oc=5) SpaceX
-- [Blue Origin Skips Orbital Reef Station Bid: NASA Wants Two Stations, May Afford One - Tech Times](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS3RBQm5CNjA0NjRQOGNTQldCVXRRbllJbzN3Uk4xWGxLa2pJOTJxcHBjY0QyaUxPX20tNWtHWG5HMFpIRTJOazJURHlyOVZtNUE1b3FCRUxaaWFSWEZMc3kzZ2w5TnRhcUE4UjdSMHRURzZiaWxSSF9ST0VocW9rMTNIZ2t3dmphQnZodzZYUEZHblFUenV5dURBQ2ZsOGNsekNFRmozNXN2M2R0aUhTTGVLcl9STm5GUzFzcXoxS05XMVZXTTlpUDRTTG5ybjVPREE?oc=5) Blue Origin
+- [SpaceX Guides Ship 42 Back to Texas for First Orbital Upper-Stage Tower Catch](https://satnews.com/2026/11/14/spacex-guides-ship-42-back-to-texas-for-first-orbital-upper-stage-tower-catch) SpaceX
 
 ## Risks And Watchpoints
 
