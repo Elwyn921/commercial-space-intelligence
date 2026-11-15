@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-11-14
+# 每日新闻情报日报 - 2026-11-15
 
-- Report ID: daily-2026-11-15-6006e799
-- Source run: 04f526b0-83fa-4dad-b976-ddc793644c9f
+- Report ID: daily-2026-11-15-8331815d
+- Source run: a1a540d5-07ee-4912-95e0-879c0c4d19c0
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 1
+- Total items: 8
 
 ## Executive Summary
 
-2026-11-15 共收录 1 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-11-15 共收录 8 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,11 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
-- [SpaceX Guides Ship 42 Back to Texas for First Orbital Upper-Stage Tower Catch](https://satnews.com/2026/11/14/spacex-guides-ship-42-back-to-texas-for-first-orbital-upper-stage-tower-catch) SpaceX
+- [SpaceX returned its Starship rocket on Saturday—but there's a catch](https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world) SpaceX
+- [The New York Times. . SpaceX’s Starship made history as the first rocket to orbit Earth and land on the same launchpad it took off from. The successful mission is a major step in the company’s quest to build reusable rockets. https://nytimes.visitlink.me/IkrK6E - Facebook](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHQ2Z2ZlZi16LWsxaDhUMkZPc0l2NEdCcGluWTR2amR5TzN4ZFREa1Fta0lfWWxIQTRzd1RSOXRYTndzdnB2eHhEaG9vWEcwQnJjNkZiZWZPVi1GYzMtN1Bkek9HRWxIZzByNzJyUjlXSWc1cml6MEJRb3RzYXRmUDZIeUxQRkQtczVRUUkzT1cyc3luX1h6SWtNanlWSFNmSktZalBLRmhxSXNhY3EzRlNn?oc=5) SpaceX
+- [SpaceX catches Starship spacecraft at Texas launch tower for first time - The Jerusalem Post](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ING5KNDRhRTBwelp1NzAyMGE4MXlaeFItZXdCeEtkNnQwQmZVY0paRkRwNjBxR1kwU0psMjRUaFU4UDhLaUlTcC1hWmVlQXRtU0ZMU01Vc2l1U24teUFjYUNfdTVpZ0RDUGs5MQ?oc=5) SpaceX
 
 ## Top News
 
-- [SpaceX Guides Ship 42 Back to Texas for First Orbital Upper-Stage Tower Catch](https://satnews.com/2026/11/14/spacex-guides-ship-42-back-to-texas-for-first-orbital-upper-stage-tower-catch) SpaceX
+- [SpaceX returned its Starship rocket on Saturday—but there's a catch](https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world) SpaceX
+- [The New York Times. . SpaceX’s Starship made history as the first rocket to orbit Earth and land on the same launchpad it took off from. The successful mission is a major step in the company’s quest to build reusable rockets. https://nytimes.visitlink.me/IkrK6E - Facebook](https://news.google.com/rss/articles/CBMisgFBVV95cUxQOHQ2Z2ZlZi16LWsxaDhUMkZPc0l2NEdCcGluWTR2amR5TzN4ZFREa1Fta0lfWWxIQTRzd1RSOXRYTndzdnB2eHhEaG9vWEcwQnJjNkZiZWZPVi1GYzMtN1Bkek9HRWxIZzByNzJyUjlXSWc1cml6MEJRb3RzYXRmUDZIeUxQRkQtczVRUUkzT1cyc3luX1h6SWtNanlWSFNmSktZalBLRmhxSXNhY3EzRlNn?oc=5) SpaceX
+- [SpaceX catches Starship spacecraft at Texas launch tower for first time - The Jerusalem Post](https://news.google.com/rss/articles/CBMibEFVX3lxTE9ING5KNDRhRTBwelp1NzAyMGE4MXlaeFItZXdCeEtkNnQwQmZVY0paRkRwNjBxR1kwU0psMjRUaFU4UDhLaUlTcC1hWmVlQXRtU0ZMU01Vc2l1U24teUFjYUNfdTVpZ0RDUGs5MQ?oc=5) SpaceX
 
 ## Risks And Watchpoints
 
