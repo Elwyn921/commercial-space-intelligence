@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-11-15
+# 每日新闻情报日报 - 2026-11-16
 
-- Report ID: daily-2026-11-15-565cba1c
-- Source run: 23279fb5-6d12-44be-83a1-f5b042cdb7e6
+- Report ID: daily-2026-11-16-98bd745d
+- Source run: b69bcffb-70db-4402-afc6-eafd6e8c85c8
 - Generation status: skipped_no_secret
-- Companies covered: 1
-- Total items: 8
+- Companies covered: 2
+- Total items: 3
 
 ## Executive Summary
 
-2026-11-15 共收录 8 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-11-16 共收录 3 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、垣信卫星。
 
 ## Industry Chain Sections
 
@@ -26,20 +26,20 @@ No LLM summary.
 
 No LLM summary.
 
+- [Qianfan Constellation Reaches 274 Satellites, 50 Short of SpaceSail's Year-End Service Target - Pandaily](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMWxBV0xKYzI0S1RUVHk4a2dTeTRULUhZMmxmY254Q0lXUjVfaGE2NURYRnlKaDg0Q0hFbXRTVEx2eEpLVDZGN0J6cWliQTV0bUo3ZEgzSkpNcU9hY0dTcThMY0hyUzM0VmJITWhqSk5pSE9zT3MyMzRGQXgtdGJ1NjBNcTNrLUZsTnZvc1lPMFg3Vnpwd0xLMzJsQjI3OVJ5ZVE?oc=5) 垣信卫星
 
 ### 国外大厂
 
 No LLM summary.
 
-- [SpaceX Catches Starship From Orbit for the First Time. Here’s What It Means for Starlink’s Costs - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUxEbmpFVnAzM3EzQVhTdGtoY1ZpUFZ4VlMyaW9Zc1BhTVZ4eUNVZ3NPdktMdTNVTVZxY2NMU3JQbktqVFlnR2Q5UVpQSktVM1pPcHJJR0ZRS1lscDNJZUhyd2piSTJ3ZnNfVG9PRExBSWt6X2hSbEt4M2QyMTBZMWx2NWVsQmhFYzgxaUttRFlCQTB2R3RuazhfNXdSM3JjYWc?oc=5) SpaceX
-- [What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?](https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch) SpaceX
-- [Next Falcon 9 Launch and the Missions Behind Its Launch Cadence - KeepTrack](https://news.google.com/rss/articles/CBMiaEFVX3lxTE01bXFoRGpOTFA0dlQ1UGY3anFCcVhUWDBnYTdubk1JVWJhM3BXTE1yRExFcHV6eFVnR1lacWNiemV1UHMyamxjNVZZRTVTZVo1OFFvSDhGYzZRN3ZmUmhscUZoNG1wQnR4?oc=5) SpaceX
+- [SpaceX Catches Starship In Landing After Orbital Flight for First Time](https://www.satellitetoday.com/launch/2026/11/15/spacex-catches-starship-in-landing-after-orbital-flight-for-first-time) SpaceX
+- [Vulcan rocket fails during launch, dealing major blow to SpaceX competitors - Ars Technica](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUxOYm5OblhQZDVfeDdldl90VHBYZ2VkUlFRT2J6a0Etc2NuM3B1RkgyUUpjSUFHNmNaMl9TN1dudUg1VDVjdUhGTzN2UFU1d2x0UGJWUGlhb1IwZWdOUzJtaDVhMG4ySmZEV2dtblhuaTVoRUNGNnNqZV9raDdaS0pYZjlpVElSRzlYWDNkQmppSFA5VDBCNXRtREQyUHEycjRIZEd0SkUxLUppN3ZpR2wxMA?oc=5) SpaceX
 
 ## Top News
 
-- [SpaceX Catches Starship From Orbit for the First Time. Here’s What It Means for Starlink’s Costs - Yahoo Finance](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZUxEbmpFVnAzM3EzQVhTdGtoY1ZpUFZ4VlMyaW9Zc1BhTVZ4eUNVZ3NPdktMdTNVTVZxY2NMU3JQbktqVFlnR2Q5UVpQSktVM1pPcHJJR0ZRS1lscDNJZUhyd2piSTJ3ZnNfVG9PRExBSWt6X2hSbEt4M2QyMTBZMWx2NWVsQmhFYzgxaUttRFlCQTB2R3RuazhfNXdSM3JjYWc?oc=5) SpaceX
-- [What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?](https://www.space.com/space-exploration/launches-spacecraft/whats-next-for-spacexs-starship-after-epic-flight-15-chopsticks-catch) SpaceX
-- [Next Falcon 9 Launch and the Missions Behind Its Launch Cadence - KeepTrack](https://news.google.com/rss/articles/CBMiaEFVX3lxTE01bXFoRGpOTFA0dlQ1UGY3anFCcVhUWDBnYTdubk1JVWJhM3BXTE1yRExFcHV6eFVnR1lacWNiemV1UHMyamxjNVZZRTVTZVo1OFFvSDhGYzZRN3ZmUmhscUZoNG1wQnR4?oc=5) SpaceX
+- [Qianfan Constellation Reaches 274 Satellites, 50 Short of SpaceSail's Year-End Service Target - Pandaily](https://news.google.com/rss/articles/CBMiogFBVV95cUxNMWxBV0xKYzI0S1RUVHk4a2dTeTRULUhZMmxmY254Q0lXUjVfaGE2NURYRnlKaDg0Q0hFbXRTVEx2eEpLVDZGN0J6cWliQTV0bUo3ZEgzSkpNcU9hY0dTcThMY0hyUzM0VmJITWhqSk5pSE9zT3MyMzRGQXgtdGJ1NjBNcTNrLUZsTnZvc1lPMFg3Vnpwd0xLMzJsQjI3OVJ5ZVE?oc=5) 垣信卫星
+- [SpaceX Catches Starship In Landing After Orbital Flight for First Time](https://www.satellitetoday.com/launch/2026/11/15/spacex-catches-starship-in-landing-after-orbital-flight-for-first-time) SpaceX
+- [Vulcan rocket fails during launch, dealing major blow to SpaceX competitors - Ars Technica](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUxOYm5OblhQZDVfeDdldl90VHBYZ2VkUlFRT2J6a0Etc2NuM3B1RkgyUUpjSUFHNmNaMl9TN1dudUg1VDVjdUhGTzN2UFU1d2x0UGJWUGlhb1IwZWdOUzJtaDVhMG4ySmZEV2dtblhuaTVoRUNGNnNqZV9raDdaS0pYZjlpVElSRzlYWDNkQmppSFA5VDBCNXRtREQyUHEycjRIZEd0SkUxLUppN3ZpR2wxMA?oc=5) SpaceX
 
 ## Risks And Watchpoints
 
