@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-11-17
 
-- Report ID: daily-2026-11-17-aa18fa47
-- Source run: f00abb34-e014-4aa2-bd0a-048092d4d792
+- Report ID: daily-2026-11-17-d19ab3e3
+- Source run: ba5da051-fde1-477b-82ba-341318065065
 - Generation status: skipped_no_secret
-- Companies covered: 1
-- Total items: 7
+- Companies covered: 2
+- Total items: 8
 
 ## Executive Summary
 
-2026-11-17 共收录 7 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-11-17 共收录 8 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 SpaceX、星河动力。
 
 ## Industry Chain Sections
 
@@ -21,6 +21,7 @@ No LLM summary.
 
 No LLM summary.
 
+- [一周前沿科技盘点〔217〕丨摩尔线程MTT AICUBE 重磅升级小麦家庭AI 管家上线打造全屋智能中枢；星河动力谷神星二号遥三火箭发射成功北京亦庄年度商业航天发射达29 次 - 国际科技创新中心](https://news.google.com/rss/articles/CBMicEFVX3lxTE1lZXdEdFdqTU1VaEUwcUktSkpBSUZiNWpYTlMyaXF2WHVRZ1hPc1FCU1lRMEhZR3FUbU5LaWtacDdURTdUQWsxaVMwS0Q3Mm1QUk54R1l4d3NfdWM5ZVBIME1sUUpQd0JNYjlGMVNuU2E?oc=5) 星河动力
 
 ### 卫星互联网服务
 
@@ -31,15 +32,16 @@ No LLM summary.
 
 No LLM summary.
 
-- [Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch](https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch) SpaceX
-- [SpaceX is about to attempt the ‘holy grail’ of rocketry - MarketWatch](https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1RKa3BnbE9RVzFXc3B0YjZLdDQ3U3pSMGJXLWowendObDc2YmgzempMVzctQVdOcUVtcGdRbTQtTkllMnd0YXk5YUk0dlBCN1dYdEdNNHVRNFNKUzZIb3hieEtEdUxqbEJmR0RrMFRzNklyM0NhWlY4bzBGY0lMRjVMdjg5Y3pPTVlWdHFUWXJ6anZuZzBlWkpHaHk?oc=5) SpaceX
-- [Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model](https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model) SpaceX
+- [SEOPS Expands Waymaker Rideshare Program with Stoke Space, Third SpaceX Mission and Readiness Report](https://spacewatch.global/2026/11/seops-expands-waymaker-rideshare-program-with-stoke-space-third-spacex-mission-and-readiness-report) SpaceX
+- [ICASA orders SpaceX to stop unauthorised Starlink services in South Africa](http://www.bing.com/news/apiclick.aspx?aid=&tid=6afc6b9aa72944cabf5363b9f2effbdb&url=https%3A%2F%2Fiol.co.za%2Fcapetimes%2Fnews%2F2026-11-17-icasa-orders-spacex-to-stop-unauthorised-starlink-services-in-south-africa%2F&c=14973057511831069023&mkt=en-us) SpaceX
+- [Relive Starship's historic Flight 15 with our best photos from launch and 'Mechazilla' tower catch](https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch) SpaceX
 
 ## Top News
 
-- [Relive Starship’s historic Flight 15 with our best photos from launch and ‘Mechazilla’ tower catch](https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch) SpaceX
-- [SpaceX is about to attempt the ‘holy grail’ of rocketry - MarketWatch](https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1RKa3BnbE9RVzFXc3B0YjZLdDQ3U3pSMGJXLWowendObDc2YmgzempMVzctQVdOcUVtcGdRbTQtTkllMnd0YXk5YUk0dlBCN1dYdEdNNHVRNFNKUzZIb3hieEtEdUxqbEJmR0RrMFRzNklyM0NhWlY4bzBGY0lMRjVMdjg5Y3pPTVlWdHFUWXJ6anZuZzBlWkpHaHk?oc=5) SpaceX
-- [Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model](https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model) SpaceX
+- [SEOPS Expands Waymaker Rideshare Program with Stoke Space, Third SpaceX Mission and Readiness Report](https://spacewatch.global/2026/11/seops-expands-waymaker-rideshare-program-with-stoke-space-third-spacex-mission-and-readiness-report) SpaceX
+- [一周前沿科技盘点〔217〕丨摩尔线程MTT AICUBE 重磅升级小麦家庭AI 管家上线打造全屋智能中枢；星河动力谷神星二号遥三火箭发射成功北京亦庄年度商业航天发射达29 次 - 国际科技创新中心](https://news.google.com/rss/articles/CBMicEFVX3lxTE1lZXdEdFdqTU1VaEUwcUktSkpBSUZiNWpYTlMyaXF2WHVRZ1hPc1FCU1lRMEhZR3FUbU5LaWtacDdURTdUQWsxaVMwS0Q3Mm1QUk54R1l4d3NfdWM5ZVBIME1sUUpQd0JNYjlGMVNuU2E?oc=5) 星河动力
+- [ICASA orders SpaceX to stop unauthorised Starlink services in South Africa](http://www.bing.com/news/apiclick.aspx?aid=&tid=6afc6b9aa72944cabf5363b9f2effbdb&url=https%3A%2F%2Fiol.co.za%2Fcapetimes%2Fnews%2F2026-11-17-icasa-orders-spacex-to-stop-unauthorised-starlink-services-in-south-africa%2F&c=14973057511831069023&mkt=en-us) SpaceX
+- [Relive Starship's historic Flight 15 with our best photos from launch and 'Mechazilla' tower catch](https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch) SpaceX
 
 ## Risks And Watchpoints
 
