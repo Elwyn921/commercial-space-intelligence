@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-11-18
 
-- Report ID: daily-2026-11-18-a6f87141
-- Source run: bd4ca1d4-df8c-4e23-b15b-2616327da4aa
+- Report ID: daily-2026-11-19-ca5cf8e2
+- Source run: a14026a5-a002-4f01-ac4f-dbf18a907899
 - Generation status: skipped_no_secret
-- Companies covered: 3
-- Total items: 11
+- Companies covered: 2
+- Total items: 4
 
 ## Executive Summary
 
-2026-11-18 共收录 11 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 中科宇航、SpaceX、蓝箭航天。
+2026-11-19 共收录 4 条新闻，覆盖 2 家公司。新闻量靠前的公司包括 Blue Origin、中科宇航。
 
 ## Industry Chain Sections
 
@@ -21,11 +21,7 @@ No LLM summary.
 
 No LLM summary.
 
-- [朱雀三号回收火箭传来好消息！9台发动机全部通过试车：价值或超亿元 - 驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmUlZ0cjYyM3NjSFdjakhhc0JQNFQzcGs4TVVhWWp5V2ViVV9oWmdsZC1WN1JOdUlXQjR0bXB6YlVJN3pLQmtjZzNFcU9WMzdqQlNQQjFtQzM?oc=5) 蓝箭航天
-- [蓝箭航天：朱雀三号遥二回收一子级9台发动机并完成验收试车 - 观点网](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xNjBZa3F2bnVMRHdpU21VWXVxRGVGWDhHcWhSVEpCSG5CS21iOWVmb0F4Sng0TS0zZ2NoQ0xyZFRRN3VrM3BsWHlMaTA3MTh5bTVYYnlEVHhNdXE5dFJlaUpn?oc=5) 蓝箭航天
-- [一箭18星！中科宇航力箭二号首担千帆组网任务，火箭批产与可回收同步推进｜现场直击 - 财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4QXZrUFFzRlBaYV96dHlUSWwtbW1DcXNLelNlR3RDYklCNGRTZEpkLV9CMUxKbjFmOG52WmpIMU5TbkI3Y1FfXw?oc=5) 中科宇航
-- [力箭一号遥十六通过出厂评审，中科宇航两发火箭进入海射准备 - 全天候科技](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LZ0lGb2poNUJhUnNXUnBMMUxpNGQ0N0hHNlgxZER3REZsdnJLZ2h6eHozUEtxOVJDMWFJdm1yUzBuOFBXR2VKWTVR?oc=5) 中科宇航
-- [一箭2星！力箭一号遥十六运载火箭拟于近期在山东附近海域发射 - 凤凰网山东](https://news.google.com/rss/articles/CBMiSkFVX3lxTE84WHpMM0gxY1lfWTFmNWN5a1RyV2lvTDBwbG01Z1BEZUhFUDFRQlNKM0h4TVNjZmRkN2RQQmJET1hMMWZiRmp6SGZB?oc=5) 中科宇航
+- [影响市场重大事件：力箭一号遥十六运载火箭顺利出厂；亚太空间合作组织理事会第二十次会议在京召开；阿波罗全球管理CEO称保险资金将支撑规模高达8万亿美元的AI建设热潮 - www.mrjjxw.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3dE5tUFZSSmF6WmRrYjJIcjZmdkNxR2dKV1NDb2VYTlVCSFVGV1psdDJmTHpCeER5TFFyYU5tRTM1VXJyWmJfR2xaWVpNWFh4NlY5Vl9jLVRhTFlkVDFjT0Y3cFdZUQ?oc=5) 中科宇航
 
 ### 卫星互联网服务
 
@@ -36,20 +32,16 @@ No LLM summary.
 
 No LLM summary.
 
-- [#SpaceWatchGL GRAY SPACE – Mechazilla Catches Starship: Europe’s Day of Reckoning Gets Closer](https://spacewatch.global/2026/11/spacewatchgl-gray-space-mechazilla-catches-starship-europes-day-of-reckoning-gets-closer) SpaceX
-- [NASA to Cover 35th SpaceX Resupply Mission Space Station Departure](https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure) SpaceX
-- [Starlink Satellites Pass Over South Africa, But Licensing Approval Remains Stalled](https://satnews.com/2026/11/17/starlink-satellites-pass-over-south-africa-but-licensing-approval-remains-stalled) SpaceX
+- [ULA: Vulcan failure linked to rocket, not Blue Origin-built engines - Florida Today](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjhDWW9fWU5ZcXhxcGhTQjFyM3FMR0hMLW4xTTExTElVdFhJQXdESGR0Wm1hWHEyWkJHZm9fbEg0WUtaaFZJRUphOHBJVVdkUVFNeVNpRnA5aE9GdUxCUFlNRkIxVjdqNVdxLUZ3QWxFeVVtWG5uOEQ0cUtZUzdNdnNieTVIUjlwSzVCZGlyZzE0ZXFaWk81bm9nUEV5Y1AwZE1JRlpXOVBrY1Q1akpnSHBQU19RSGJJeFQyN3BLNlhYTkNGcUNxYVJVem5iUGdPS0lVdkVDUlpIY085TFhfYUZCdEZYOUtXYWZ0Q191SC1IOUV0X1FxLVAyOUxHMFl4b3h3RGpmdmY?oc=5) Blue Origin
+- [Latest findings point to fuel supply, not Blue Origin’s engines, in loss of Amazon Leo satellites - GeekWire](https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVR6YXVwN3dZZVF2cUZDaU1VbDVKRkkzMmF5TFN3N1poN0tzLVg4cXp6TEhnY0JmY1M3NGc4N2xTOGpyNFZ2VUtBY20zZGtKRkxmSHAzRVdsaEttZFRGNkJxUXB1UHA3TklORWU2VUgwUHFHOUVOZG5hdlFtdGtZTXVSNkZrcS02RDdUT2ZNUDV2b0hyaHZ0ZG1lemM3eWF5bGVjN2pRYU1wazltcHZaQkRjcFJmZ3Jxc2cxeEUyYy1EaWs?oc=5) Blue Origin
+- [Main booster, but not Blue Origin’s BE-4 engines, ID’d as source of Vulcan launch failure, ULA says - Orlando Sentinel](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenlTM2V3Nkg0SEI1dnZteV95VXNWclpRSXVDc1hwSmJoM2oyUDlrUEhnUkxjT0VOaUMxcDA0d3BpUUlJOU5CVE5oRmVXN2M4VDZoV21odXUyYlc2eXJvZmFpbE1RN0QyMm9USmFKUjFpS1ZsaXFrNmxZbldHTmc3VU9QcXg1ZWtKZUR5SER5UkdZRDRUd3k1NnNaUDU5TlBCaEozbURnaG0zdw?oc=5) Blue Origin
 
 ## Top News
 
-- [朱雀三号回收火箭传来好消息！9台发动机全部通过试车：价值或超亿元 - 驱动之家](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmUlZ0cjYyM3NjSFdjakhhc0JQNFQzcGs4TVVhWWp5V2ViVV9oWmdsZC1WN1JOdUlXQjR0bXB6YlVJN3pLQmtjZzNFcU9WMzdqQlNQQjFtQzM?oc=5) 蓝箭航天
-- [蓝箭航天：朱雀三号遥二回收一子级9台发动机并完成验收试车 - 观点网](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xNjBZa3F2bnVMRHdpU21VWXVxRGVGWDhHcWhSVEpCSG5CS21iOWVmb0F4Sng0TS0zZ2NoQ0xyZFRRN3VrM3BsWHlMaTA3MTh5bTVYYnlEVHhNdXE5dFJlaUpn?oc=5) 蓝箭航天
-- [一箭18星！中科宇航力箭二号首担千帆组网任务，火箭批产与可回收同步推进｜现场直击 - 财联社](https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4QXZrUFFzRlBaYV96dHlUSWwtbW1DcXNLelNlR3RDYklCNGRTZEpkLV9CMUxKbjFmOG52WmpIMU5TbkI3Y1FfXw?oc=5) 中科宇航
-- [#SpaceWatchGL GRAY SPACE – Mechazilla Catches Starship: Europe’s Day of Reckoning Gets Closer](https://spacewatch.global/2026/11/spacewatchgl-gray-space-mechazilla-catches-starship-europes-day-of-reckoning-gets-closer) SpaceX
-- [力箭一号遥十六通过出厂评审，中科宇航两发火箭进入海射准备 - 全天候科技](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LZ0lGb2poNUJhUnNXUnBMMUxpNGQ0N0hHNlgxZER3REZsdnJLZ2h6eHozUEtxOVJDMWFJdm1yUzBuOFBXR2VKWTVR?oc=5) 中科宇航
-- [一箭2星！力箭一号遥十六运载火箭拟于近期在山东附近海域发射 - 凤凰网山东](https://news.google.com/rss/articles/CBMiSkFVX3lxTE84WHpMM0gxY1lfWTFmNWN5a1RyV2lvTDBwbG01Z1BEZUhFUDFRQlNKM0h4TVNjZmRkN2RQQmJET1hMMWZiRmp6SGZB?oc=5) 中科宇航
-- [NASA to Cover 35th SpaceX Resupply Mission Space Station Departure](https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure) SpaceX
-- [Starlink Satellites Pass Over South Africa, But Licensing Approval Remains Stalled](https://satnews.com/2026/11/17/starlink-satellites-pass-over-south-africa-but-licensing-approval-remains-stalled) SpaceX
+- [影响市场重大事件：力箭一号遥十六运载火箭顺利出厂；亚太空间合作组织理事会第二十次会议在京召开；阿波罗全球管理CEO称保险资金将支撑规模高达8万亿美元的AI建设热潮 - www.mrjjxw.com](https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3dE5tUFZSSmF6WmRrYjJIcjZmdkNxR2dKV1NDb2VYTlVCSFVGV1psdDJmTHpCeER5TFFyYU5tRTM1VXJyWmJfR2xaWVpNWFh4NlY5Vl9jLVRhTFlkVDFjT0Y3cFdZUQ?oc=5) 中科宇航
+- [ULA: Vulcan failure linked to rocket, not Blue Origin-built engines - Florida Today](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjhDWW9fWU5ZcXhxcGhTQjFyM3FMR0hMLW4xTTExTElVdFhJQXdESGR0Wm1hWHEyWkJHZm9fbEg0WUtaaFZJRUphOHBJVVdkUVFNeVNpRnA5aE9GdUxCUFlNRkIxVjdqNVdxLUZ3QWxFeVVtWG5uOEQ0cUtZUzdNdnNieTVIUjlwSzVCZGlyZzE0ZXFaWk81bm9nUEV5Y1AwZE1JRlpXOVBrY1Q1akpnSHBQU19RSGJJeFQyN3BLNlhYTkNGcUNxYVJVem5iUGdPS0lVdkVDUlpIY085TFhfYUZCdEZYOUtXYWZ0Q191SC1IOUV0X1FxLVAyOUxHMFl4b3h3RGpmdmY?oc=5) Blue Origin
+- [Latest findings point to fuel supply, not Blue Origin’s engines, in loss of Amazon Leo satellites - GeekWire](https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVR6YXVwN3dZZVF2cUZDaU1VbDVKRkkzMmF5TFN3N1poN0tzLVg4cXp6TEhnY0JmY1M3NGc4N2xTOGpyNFZ2VUtBY20zZGtKRkxmSHAzRVdsaEttZFRGNkJxUXB1UHA3TklORWU2VUgwUHFHOUVOZG5hdlFtdGtZTXVSNkZrcS02RDdUT2ZNUDV2b0hyaHZ0ZG1lemM3eWF5bGVjN2pRYU1wazltcHZaQkRjcFJmZ3Jxc2cxeEUyYy1EaWs?oc=5) Blue Origin
+- [Main booster, but not Blue Origin’s BE-4 engines, ID’d as source of Vulcan launch failure, ULA says - Orlando Sentinel](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenlTM2V3Nkg0SEI1dnZteV95VXNWclpRSXVDc1hwSmJoM2oyUDlrUEhnUkxjT0VOaUMxcDA0d3BpUUlJOU5CVE5oRmVXN2M4VDZoV21odXUyYlc2eXJvZmFpbE1RN0QyMm9USmFKUjFpS1ZsaXFrNmxZbldHTmc3VU9QcXg1ZWtKZUR5SER5UkdZRDRUd3k1NnNaUDU5TlBCaEozbURnaG0zdw?oc=5) Blue Origin
 
 ## Risks And Watchpoints
 
