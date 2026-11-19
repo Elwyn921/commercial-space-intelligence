@@ -1,112 +1,183 @@
 {
-  "as_of_date": "2026-11-18",
+  "as_of_date": "2026-11-19",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 5,
-        "order": 2,
-        "other": 3
+        "launch": 8,
+        "other": 2
       },
       "item_count": 10,
-      "latest_title": "SEOPS Expands Waymaker Rideshare Program with Stoke Space, Third SpaceX Mission and Readiness Report"
+      "latest_title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure"
     },
     {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
       "event_types": {
-        "launch": 1
+        "launch": 5,
+        "other": 1
       },
-      "item_count": 1,
-      "latest_title": "一周前沿科技盘点〔217〕丨摩尔线程MTT AICUBE 重磅升级小麦家庭AI 管家上线打造全屋智能中枢；星河动力谷神星二号遥三火箭发射成功北京亦庄年度商业航天发射达29 次 - 国际科技创新中心"
+      "item_count": 6,
+      "latest_title": "一箭18星！中科宇航力箭二号首担千帆组网任务，火箭批产与可回收同步推进｜现场直击 - 财联社"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_types": {
+        "other": 2
+      },
+      "item_count": 2,
+      "latest_title": "朱雀三号回收火箭传来好消息！9台发动机全部通过试车：价值或超亿元 - 驱动之家"
     }
   ],
-  "company_count": 2,
+  "company_count": 3,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 6,
-    "order": 2,
-    "other": 3
+    "launch": 13,
+    "other": 5
   },
-  "generated_at": "2026-11-18T08:32:47.954080Z",
-  "period_end": "2026-11-17",
-  "period_start": "2026-11-17",
-  "report_date": "2026-11-17",
+  "generated_at": "2026-11-19T08:48:24.577537Z",
+  "period_end": "2026-11-18",
+  "period_start": "2026-11-18",
+  "report_date": "2026-11-18",
   "schema_version": "daily_document.v1",
-  "source_count": 8,
+  "source_count": 11,
   "source_counts": {
-    "MarketWatch": 1,
-    "arstechnica.com": 1,
-    "bing.com": 3,
-    "europeanspaceflight.com": 1,
-    "space.com": 2,
-    "spaceq.ca": 1,
+    "NASA": 1,
+    "Sohu": 1,
+    "bing.com": 7,
+    "satnews.com": 1,
     "spacewatch.global": 1,
-    "国际科技创新中心": 1
+    "全天候科技": 1,
+    "凤凰网山东": 1,
+    "凤凰网科技": 1,
+    "观点网": 1,
+    "财联社": 1,
+    "驱动之家": 2
   },
-  "summary": "2026-11-17 共归档 11 条新闻，覆盖 2 家公司、8 个信息来源。 新闻量较多的公司包括 SpaceX、星河动力。",
+  "summary": "2026-11-18 共归档 18 条新闻，覆盖 3 家公司、11 个信息来源。 新闻量较多的公司包括 SpaceX、中科宇航、蓝箭航天。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "08da30d6f20ef1ad",
-      "published_at": "2026-11-17T07:00:00Z",
-      "source_name": "spacewatch.global",
-      "title": "SEOPS Expands Waymaker Rideshare Program with Stoke Space, Third SpaceX Mission and Readiness Report",
-      "url": "https://spacewatch.global/2026/11/seops-expands-waymaker-rideshare-program-with-stoke-space-third-spacex-mission-and-readiness-report"
-    },
-    {
-      "company_id": "galactic_energy",
-      "company_name": "星河动力",
-      "event_type": "launch",
-      "item_id": "e7e72090da0e6bdb",
-      "published_at": "2026-11-17T02:57:25Z",
-      "source_name": "国际科技创新中心",
-      "title": "一周前沿科技盘点〔217〕丨摩尔线程MTT AICUBE 重磅升级小麦家庭AI 管家上线打造全屋智能中枢；星河动力谷神星二号遥三火箭发射成功北京亦庄年度商业航天发射达29 次 - 国际科技创新中心",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lZXdEdFdqTU1VaEUwcUktSkpBSUZiNWpYTlMyaXF2WHVRZ1hPc1FCU1lRMEhZR3FUbU5LaWtacDdURTdUQWsxaVMwS0Q3Mm1QUk54R1l4d3NfdWM5ZVBIME1sUUpQd0JNYjlGMVNuU2E?oc=5"
+      "item_id": "0796ea0ed1877059",
+      "published_at": "2026-11-17T19:16:22Z",
+      "source_name": "NASA",
+      "title": "NASA to Cover 35th SpaceX Resupply Mission Space Station Departure",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-35th-spacex-resupply-mission-space-station-departure"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "f7d694df92e5d2c2",
-      "published_at": "2026-11-16T21:26:29Z",
-      "source_name": "space.com",
-      "title": "Relive Starship's historic Flight 15 with our best photos from launch and 'Mechazilla' tower catch",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/relive-starships-historic-flight-15-with-our-best-photos-from-launch-and-mechazilla-tower-catch"
+      "item_id": "6ee60124b1c7b0ae",
+      "published_at": "2026-11-18T05:47:00Z",
+      "source_name": "bing.com",
+      "title": "SpaceX stock rises as Citi sees wireless network and AI growth potential",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6afe3721bc774a2c850f5b697b4efbb4&url=https%3A%2F%2Finvezz.com%2Fnews%2F2026%2F11%2F18%2Fspacex-stock-rises-as-citi-sees-wireless-network-and-ai-growth-potential%2F&c=10942108833903325086&mkt=en-us"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "other",
+      "item_id": "9906705adf9fdbdf",
+      "published_at": "2026-11-18T14:35:00Z",
+      "source_name": "驱动之家",
+      "title": "朱雀三号回收火箭传来好消息！9台发动机全部通过试车：价值或超亿元 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmUlZ0cjYyM3NjSFdjakhhc0JQNFQzcGs4TVVhWWp5V2ViVV9oWmdsZC1WN1JOdUlXQjR0bXB6YlVJN3pLQmtjZzNFcU9WMzdqQlNQQjFtQzM?oc=5"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "5648f1365b66080f",
+      "published_at": "2026-11-18T11:34:03Z",
+      "source_name": "bing.com",
+      "title": "SpaceX launches Starlink satellites and nails rocket landing",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6afe3721988f45a1b28bfcc19bb4ccf1&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fnews%2Fother%2Fspacex-launches-starlink-satellites-and-nails-rocket-landing%2Fvi-AA2hIsBe&c=10128742086572625143&mkt=en-us"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "launch",
+      "item_id": "52a99fdd4c677448",
+      "published_at": "2026-11-18T11:34:03Z",
+      "source_name": "bing.com",
+      "title": "SpaceX launches Starlink satellites and nails rocket landing",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6afe7dabf90f483eb8a887066c0ab965&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Fnews%2Fother%2Fspacex-launches-starlink-satellites-and-nails-rocket-landing%2Fvi-AA2hIsBe&c=10128742086572625143&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "other",
-      "item_id": "eab328683b0d0947",
-      "published_at": "2026-11-16T20:24:00Z",
-      "source_name": "MarketWatch",
-      "title": "SpaceX is about to attempt the ‘holy grail’ of rocketry - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX1RKa3BnbE9RVzFXc3B0YjZLdDQ3U3pSMGJXLWowendObDc2YmgzempMVzctQVdOcUVtcGdRbTQtTkllMnd0YXk5YUk0dlBCN1dYdEdNNHVRNFNKUzZIb3hieEtEdUxqbEJmR0RrMFRzNklyM0NhWlY4bzBGY0lMRjVMdjg5Y3pPTVlWdHFUWXJ6anZuZzBlWkpHaHk?oc=5"
+      "item_id": "63c9b2d9066cea34",
+      "published_at": "2026-11-18T11:00:00Z",
+      "source_name": "bing.com",
+      "title": "Starlink explained - why SpaceX needs 42,000 satellites",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6afe3721bc774a2c850f5b697b4efbb4&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fstarlink-explained-why-spacex-needs-42-000-satellites%2Fvi-AA2hIidF&c=409731675970395412&mkt=en-us"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
       "event_type": "launch",
-      "item_id": "f5ecd4432db74725",
-      "published_at": "2026-11-16T20:04:22Z",
-      "source_name": "space.com",
-      "title": "Elon Musk says SpaceX’s Starship, already the largest rocket on Earth, will get even bigger with next-gen V4 model",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/elon-musk-says-spacexs-starship-already-the-largest-rocket-on-earth-will-get-even-bigger-with-next-gen-v4-model"
+      "item_id": "8380f7797a6a4973",
+      "published_at": "2026-11-18T10:46:18Z",
+      "source_name": "财联社",
+      "title": "一箭18星！中科宇航力箭二号首担千帆组网任务，火箭批产与可回收同步推进｜现场直击 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4QXZrUFFzRlBaYV96dHlUSWwtbW1DcXNLelNlR3RDYklCNGRTZEpkLV9CMUxKbjFmOG52WmpIMU5TbkI3Y1FfXw?oc=5"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
       "event_type": "other",
-      "item_id": "e475bed4dbb6e207",
-      "published_at": "2026-11-16T17:50:24Z",
-      "source_name": "europeanspaceflight.com",
-      "title": "UK MOD Defends Satcom Resilience Amid SpaceX Starshield Concerns",
-      "url": "https://europeanspaceflight.com/uk-mod-defends-satcom-resilience-amid-spacex-starshield-concerns"
+      "item_id": "8127859f42a94e78",
+      "published_at": "2026-11-18T08:58:00Z",
+      "source_name": "全天候科技",
+      "title": "力箭一号遥十六通过出厂评审，中科宇航两发火箭进入海射准备 - 全天候科技",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5LZ0lGb2poNUJhUnNXUnBMMUxpNGQ0N0hHNlgxZER3REZsdnJLZ2h6eHozUEtxOVJDMWFJdm1yUzBuOFBXR2VKWTVR?oc=5"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "ce0f65e600c9016c",
+      "published_at": "2026-11-18T06:40:14Z",
+      "source_name": "凤凰网山东",
+      "title": "一箭2星！力箭一号遥十六运载火箭拟于近期在山东附近海域发射 - 凤凰网山东",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84WHpMM0gxY1lfWTFmNWN5a1RyV2lvTDBwbG01Z1BEZUhFUDFRQlNKM0h4TVNjZmRkN2RQQmJET1hMMWZiRmp6SGZB?oc=5"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "ad02987b31cde43a",
+      "published_at": "2026-11-18T02:37:18Z",
+      "source_name": "凤凰网科技",
+      "title": "中科宇航力箭一号遥十六运载火箭完成总装测试，近期将海上发射“一箭2星” - 凤凰网科技",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JTTFlOTRWeXNkcHltTnpnXzBINTlfVmtOaWdDQ2RCc2FGa3lOWWpjSFZJNFRkNU02OGxOQkhrcm5OYmRvbF9xeG9McUs?oc=5"
+    },
+    {
+      "company_id": "cas_space",
+      "company_name": "中科宇航",
+      "event_type": "launch",
+      "item_id": "4e13216d7085c6ee",
+      "published_at": "2026-11-18T01:00:00Z",
+      "source_name": "驱动之家",
+      "title": "力箭一号遥十六运载火箭顺利出厂：将在海上发射 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vZTd3bVp1alRacFlQaTNIbHNOdEpUUUZ3ZDl5RFVNTEdxOW1zNlFoZUVpNWpwNXBTRVpkWFRLN25oVUxFdktkNHNleHllS3liVUlGQi1oMk4?oc=5"
+    },
+    {
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_type": "other",
+      "item_id": "695590b30c45d7cf",
+      "published_at": "2026-11-18T10:48:52Z",
+      "source_name": "观点网",
+      "title": "蓝箭航天：朱雀三号遥二回收一子级9台发动机并完成验收试车 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xNjBZa3F2bnVMRHdpU21VWXVxRGVGWDhHcWhSVEpCSG5CS21iOWVmb0F4Sng0TS0zZ2NoQ0xyZFRRN3VrM3BsWHlMaTA3MTh5bTVYYnlEVHhNdXE5dFJlaUpn?oc=5"
     }
   ],
-  "total_items": 11
+  "total_items": 18
 }
