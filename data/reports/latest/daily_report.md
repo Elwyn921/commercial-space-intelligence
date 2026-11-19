@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-11-19
 
-- Report ID: daily-2026-11-19-38dabd05
-- Source run: db8c59d9-c10a-4d54-9afb-f0914ffe434d
+- Report ID: daily-2026-11-19-24fac805
+- Source run: 35dd1ee3-6144-40be-9829-b96edc437313
 - Generation status: skipped_no_secret
 - Companies covered: 3
-- Total items: 6
+- Total items: 12
 
 ## Executive Summary
 
-2026-11-19 共收录 6 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 Blue Origin、SpaceX、中科宇航。
+2026-11-19 共收录 12 条新闻，覆盖 3 家公司。新闻量靠前的公司包括 Blue Origin、SpaceX、中科宇航。
 
 ## Industry Chain Sections
 
@@ -32,20 +32,20 @@ No LLM summary.
 
 No LLM summary.
 
-- [ULA: Vulcan failure linked to rocket, not Blue Origin-built engines - Florida Today](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjhDWW9fWU5ZcXhxcGhTQjFyM3FMR0hMLW4xTTExTElVdFhJQXdESGR0Wm1hWHEyWkJHZm9fbEg0WUtaaFZJRUphOHBJVVdkUVFNeVNpRnA5aE9GdUxCUFlNRkIxVjdqNVdxLUZ3QWxFeVVtWG5uOEQ0cUtZUzdNdnNieTVIUjlwSzVCZGlyZzE0ZXFaWk81bm9nUEV5Y1AwZE1JRlpXOVBrY1Q1akpnSHBQU19RSGJJeFQyN3BLNlhYTkNGcUNxYVJVem5iUGdPS0lVdkVDUlpIY085TFhfYUZCdEZYOUtXYWZ0Q191SC1IOUV0X1FxLVAyOUxHMFl4b3h3RGpmdmY?oc=5) Blue Origin
-- [Latest findings point to fuel supply, not Blue Origin’s engines, in loss of Amazon Leo satellites - GeekWire](https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVR6YXVwN3dZZVF2cUZDaU1VbDVKRkkzMmF5TFN3N1poN0tzLVg4cXp6TEhnY0JmY1M3NGc4N2xTOGpyNFZ2VUtBY20zZGtKRkxmSHAzRVdsaEttZFRGNkJxUXB1UHA3TklORWU2VUgwUHFHOUVOZG5hdlFtdGtZTXVSNkZrcS02RDdUT2ZNUDV2b0hyaHZ0ZG1lemM3eWF5bGVjN2pRYU1wazltcHZaQkRjcFJmZ3Jxc2cxeEUyYy1EaWs?oc=5) Blue Origin
-- [Elon Musk tries to explain what’s going on with Ukraine and Starlink](http://www.bing.com/news/apiclick.aspx?aid=&tid=6afe7dab28c8450a980f356462d20263&url=https%3A%2F%2Fwww.theverge.com%2Ftech%2F1037448%2Felon-musk-ukraine-starlink-starshield-nyt-dealbook&c=7048531201054971833&mkt=en-us) SpaceX
-- [Main booster, but not Blue Origin’s BE-4 engines, ID’d as source of Vulcan launch failure, ULA says - Orlando Sentinel](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenlTM2V3Nkg0SEI1dnZteV95VXNWclpRSXVDc1hwSmJoM2oyUDlrUEhnUkxjT0VOaUMxcDA0d3BpUUlJOU5CVE5oRmVXN2M4VDZoV21odXUyYlc2eXJvZmFpbE1RN0QyMm9USmFKUjFpS1ZsaXFrNmxZbldHTmc3VU9QcXg1ZWtKZUR5SER5UkdZRDRUd3k1NnNaUDU5TlBCaEozbURnaG0zdw?oc=5) Blue Origin
-- [Elon Musk Eyes Producing 'Micro Cell Towers' For Starlink Mobile Next Year](http://www.bing.com/news/apiclick.aspx?aid=&tid=6afe7dab28c8450a980f356462d20263&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Felon-musk-eyes-producing-micro-cell-towers-for-starlink-mobile-next-year&c=5651058677853155130&mkt=en-us) SpaceX
+- [Google picks Bezos' Blue Origin to launch AI computing satellites in 2029 - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3VqbnV1MzJhUTVfQzlfY2kyX2gzdk1FU0lyNU15dWhzVk40ZGNtRFlPaUFlS0hYeEhZQ0trUkdMUV9OQmIwZTE5aWliLVVYX0Faa2cxUUpjdWw2TFE5OTBCSnh6d3BqWnA0Znc1MV82SnpMdGZVQzRPXzVXcDV5X0hrckZ0TklGQlJmTTdiOFdob19wajZDT2dnUnlhNEZtVkhKMllQZ3R0U3VhOHdOQTl6WU5kRTNieHZqWVIyQlRERms?oc=5) Blue Origin
+- [Blue Origin will launch Google’s AI server satellites in 2029 - The Verge](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLS10TmJzcGw2Si1YLWg3NXBCclRTcGVKUUJYVUx2UDI0TS05QkJxVVZrMV9LVEZ5WEhqQ3hOcElENndyZ3VzTlFFZDFMbS1nUkt3QTIxeHlhcTBxLW9PQkFncnN3WEUybk0xZm96ZFFDdTBiY3Q3ZkdNOHMxQmsxd2IzdXN0aVU?oc=5) Blue Origin
+- [Google Partners with Blue Origin for Space AI Launch - The Tech Buzz](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNTVDMXRNb2h0cWtEWGhGeTBmUXY5QXZ4VWRkeHM2YmlYQ1NOWUp4RVFyT2g0cnhyUWpzS3lNZXVGWEhuVWJaOTFJeXllQjVmeUhUYmR3SHpxME55RHU0OVV4TW80cGRQT3pFWlhMd0U0MXRoY1VPMFNZOGF4aG1ZYWFCclMwT1FOVzBvRE1n?oc=5) Blue Origin
+- [Elon Musk Says SpaceX Will Provide Starlink Mobile Users Rooftop Microcell Towers To Push Signals Through Thick Walls In Dense Cities](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aff0b8aada44abaa7ed49209e2b697c&url=https%3A%2F%2Fwccftech.com%2Felon-musk-says-spacex-will-provide-starlink-mobile-users-rooftop-microcell-towers-to-push-signals-through-thick-walls-in-dense-cities%2F&c=6926112673334383672&mkt=en-us) SpaceX
+- [Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aff0b8aada44abaa7ed49209e2b697c&url=https%3A%2F%2Fnypost.com%2F2026%2F11%2F19%2Fworld-news%2Felon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink%2F&c=2845368486868577551&mkt=en-us) SpaceX
 
 ## Top News
 
+- [Google picks Bezos' Blue Origin to launch AI computing satellites in 2029 - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3VqbnV1MzJhUTVfQzlfY2kyX2gzdk1FU0lyNU15dWhzVk40ZGNtRFlPaUFlS0hYeEhZQ0trUkdMUV9OQmIwZTE5aWliLVVYX0Faa2cxUUpjdWw2TFE5OTBCSnh6d3BqWnA0Znc1MV82SnpMdGZVQzRPXzVXcDV5X0hrckZ0TklGQlJmTTdiOFdob19wajZDT2dnUnlhNEZtVkhKMllQZ3R0U3VhOHdOQTl6WU5kRTNieHZqWVIyQlRERms?oc=5) Blue Origin
+- [Blue Origin will launch Google’s AI server satellites in 2029 - The Verge](https://news.google.com/rss/articles/CBMihwFBVV95cUxNLS10TmJzcGw2Si1YLWg3NXBCclRTcGVKUUJYVUx2UDI0TS05QkJxVVZrMV9LVEZ5WEhqQ3hOcElENndyZ3VzTlFFZDFMbS1nUkt3QTIxeHlhcTBxLW9PQkFncnN3WEUybk0xZm96ZFFDdTBiY3Q3ZkdNOHMxQmsxd2IzdXN0aVU?oc=5) Blue Origin
+- [Google Partners with Blue Origin for Space AI Launch - The Tech Buzz](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNTVDMXRNb2h0cWtEWGhGeTBmUXY5QXZ4VWRkeHM2YmlYQ1NOWUp4RVFyT2g0cnhyUWpzS3lNZXVGWEhuVWJaOTFJeXllQjVmeUhUYmR3SHpxME55RHU0OVV4TW80cGRQT3pFWlhMd0U0MXRoY1VPMFNZOGF4aG1ZYWFCclMwT1FOVzBvRE1n?oc=5) Blue Origin
+- [Elon Musk Says SpaceX Will Provide Starlink Mobile Users Rooftop Microcell Towers To Push Signals Through Thick Walls In Dense Cities](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aff0b8aada44abaa7ed49209e2b697c&url=https%3A%2F%2Fwccftech.com%2Felon-musk-says-spacex-will-provide-starlink-mobile-users-rooftop-microcell-towers-to-push-signals-through-thick-walls-in-dense-cities%2F&c=6926112673334383672&mkt=en-us) SpaceX
 - [影响市场重大事件：力箭一号遥十六运载火箭顺利出厂；亚太空间合作组织理事会第二十次会议在京召开；阿波罗全球管理CEO称保险资金将支撑规模高达8万亿美元的AI建设热潮 - https://www.mrjjxw.com/](https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3dE5tUFZSSmF6WmRrYjJIcjZmdkNxR2dKV1NDb2VYTlVCSFVGV1psdDJmTHpCeER5TFFyYU5tRTM1VXJyWmJfR2xaWVpNWFh4NlY5Vl9jLVRhTFlkVDFjT0Y3cFdZUQ?oc=5) 中科宇航
-- [ULA: Vulcan failure linked to rocket, not Blue Origin-built engines - Florida Today](https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVjhDWW9fWU5ZcXhxcGhTQjFyM3FMR0hMLW4xTTExTElVdFhJQXdESGR0Wm1hWHEyWkJHZm9fbEg0WUtaaFZJRUphOHBJVVdkUVFNeVNpRnA5aE9GdUxCUFlNRkIxVjdqNVdxLUZ3QWxFeVVtWG5uOEQ0cUtZUzdNdnNieTVIUjlwSzVCZGlyZzE0ZXFaWk81bm9nUEV5Y1AwZE1JRlpXOVBrY1Q1akpnSHBQU19RSGJJeFQyN3BLNlhYTkNGcUNxYVJVem5iUGdPS0lVdkVDUlpIY085TFhfYUZCdEZYOUtXYWZ0Q191SC1IOUV0X1FxLVAyOUxHMFl4b3h3RGpmdmY?oc=5) Blue Origin
-- [Latest findings point to fuel supply, not Blue Origin’s engines, in loss of Amazon Leo satellites - GeekWire](https://news.google.com/rss/articles/CBMiwwFBVV95cUxORVR6YXVwN3dZZVF2cUZDaU1VbDVKRkkzMmF5TFN3N1poN0tzLVg4cXp6TEhnY0JmY1M3NGc4N2xTOGpyNFZ2VUtBY20zZGtKRkxmSHAzRVdsaEttZFRGNkJxUXB1UHA3TklORWU2VUgwUHFHOUVOZG5hdlFtdGtZTXVSNkZrcS02RDdUT2ZNUDV2b0hyaHZ0ZG1lemM3eWF5bGVjN2pRYU1wazltcHZaQkRjcFJmZ3Jxc2cxeEUyYy1EaWs?oc=5) Blue Origin
-- [Elon Musk tries to explain what’s going on with Ukraine and Starlink](http://www.bing.com/news/apiclick.aspx?aid=&tid=6afe7dab28c8450a980f356462d20263&url=https%3A%2F%2Fwww.theverge.com%2Ftech%2F1037448%2Felon-musk-ukraine-starlink-starshield-nyt-dealbook&c=7048531201054971833&mkt=en-us) SpaceX
-- [Main booster, but not Blue Origin’s BE-4 engines, ID’d as source of Vulcan launch failure, ULA says - Orlando Sentinel](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPenlTM2V3Nkg0SEI1dnZteV95VXNWclpRSXVDc1hwSmJoM2oyUDlrUEhnUkxjT0VOaUMxcDA0d3BpUUlJOU5CVE5oRmVXN2M4VDZoV21odXUyYlc2eXJvZmFpbE1RN0QyMm9USmFKUjFpS1ZsaXFrNmxZbldHTmc3VU9QcXg1ZWtKZUR5SER5UkdZRDRUd3k1NnNaUDU5TlBCaEozbURnaG0zdw?oc=5) Blue Origin
-- [Elon Musk Eyes Producing 'Micro Cell Towers' For Starlink Mobile Next Year](http://www.bing.com/news/apiclick.aspx?aid=&tid=6afe7dab28c8450a980f356462d20263&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Felon-musk-eyes-producing-micro-cell-towers-for-starlink-mobile-next-year&c=5651058677853155130&mkt=en-us) SpaceX
+- [Elon Musk claims Russia would have won the war already if Ukraine didn’t have Starlink](http://www.bing.com/news/apiclick.aspx?aid=&tid=6aff0b8aada44abaa7ed49209e2b697c&url=https%3A%2F%2Fnypost.com%2F2026%2F11%2F19%2Fworld-news%2Felon-musk-claims-russia-would-have-won-the-war-already-if-ukraine-didnt-have-starlink%2F&c=2845368486868577551&mkt=en-us) SpaceX
 
 ## Risks And Watchpoints
 
