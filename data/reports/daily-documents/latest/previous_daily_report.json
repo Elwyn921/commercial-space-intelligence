@@ -1,242 +1,167 @@
 {
-  "as_of_date": "2026-11-24",
+  "as_of_date": "2026-11-25",
   "companies": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_types": {
-        "launch": 7,
-        "market": 1,
-        "order": 1,
-        "other": 7
-      },
-      "item_count": 16,
-      "latest_title": "SpaceX: Why I'm Upgrading After The Crash"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_types": {
         "launch": 5,
         "order": 1,
-        "other": 2
+        "other": 3
       },
-      "item_count": 8,
-      "latest_title": "火箭已开始批量化生产？中科宇航最新通报 - 东方财富网"
-    },
-    {
-      "company_id": "yushi_space",
-      "company_name": "宇石空间",
-      "event_types": {
-        "other": 7
-      },
-      "item_count": 7,
-      "latest_title": "筷子捕获臂 - IT之家"
+      "item_count": 9,
+      "latest_title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
       "event_types": {
-        "launch": 1
+        "other": 1
       },
       "item_count": 1,
-      "latest_title": "Blue Origin Books Google's New Glenn Launch as New Shepard Tourist Flights Wait Until 2028 Restart - Tech Times"
+      "latest_title": "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket - Space"
+    },
+    {
+      "company_id": "china_satnet",
+      "company_name": "中国星网",
+      "event_types": {
+        "other": 1
+      },
+      "item_count": 1,
+      "latest_title": "中国星网GW星座组网进程如何 规模化部署加速推进 - 中华网"
+    },
+    {
+      "company_id": "yushi_space",
+      "company_name": "宇石空间",
+      "event_types": {
+        "other": 1
+      },
+      "item_count": 1,
+      "latest_title": "Astronstone Completes Ground Validation of Full-Size Rocket Capture Arms - Pandaily"
+    },
+    {
+      "company_id": "galaxyspace",
+      "company_name": "银河航天",
+      "event_types": {
+        "other": 1
+      },
+      "item_count": 1,
+      "latest_title": "Satellite Internet Market Size, Share, Trends, and Growth Forecast by Frequency Band, Industry, and Region, 2026-2033 | LEO Constellations Propel 15.1% CAGR to USD 35.74 Billion"
     }
   ],
-  "company_count": 4,
+  "company_count": 5,
   "document_type": "previous_day_daily_report",
   "event_type_counts": {
-    "launch": 13,
-    "market": 1,
-    "order": 2,
-    "other": 16
+    "launch": 5,
+    "order": 1,
+    "other": 7
   },
-  "generated_at": "2026-11-24T10:55:59.434397Z",
-  "period_end": "2026-11-23",
-  "period_start": "2026-11-23",
-  "report_date": "2026-11-23",
+  "generated_at": "2026-11-25T09:52:09.048475Z",
+  "period_end": "2026-11-24",
+  "period_start": "2026-11-24",
+  "report_date": "2026-11-24",
   "schema_version": "daily_document.v1",
-  "source_count": 16,
+  "source_count": 6,
   "source_counts": {
-    "36kr": 1,
-    "IT之家": 2,
-    "Jiemian.com": 1,
-    "Sohu": 2,
+    "Pandaily": 1,
     "Space": 1,
-    "Tech Times": 1,
-    "bing.com": 12,
-    "cnBeta.COM": 1,
+    "Spaceflight Now": 1,
+    "bing.com": 8,
     "satnews.com": 1,
-    "space.com": 1,
-    "spaceq.ca": 1,
-    "www.itsdw.cn": 1,
-    "东方财富网": 1,
-    "新浪财经": 3,
-    "经济观察网": 1,
-    "财联社": 2
+    "中华网": 1
   },
-  "summary": "2026-11-23 共归档 32 条新闻，覆盖 4 家公司、16 个信息来源。 新闻量较多的公司包括 SpaceX、中科宇航、宇石空间、Blue Origin。",
+  "summary": "2026-11-24 共归档 13 条新闻，覆盖 5 家公司、6 个信息来源。 新闻量较多的公司包括 SpaceX、Blue Origin、中国星网、宇石空间。",
   "top_items": [
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
-      "event_type": "market",
-      "item_id": "2edc227c4211bd7c",
-      "published_at": "2026-11-23T06:25:00Z",
+      "event_type": "launch",
+      "item_id": "011fa023932c5803",
+      "published_at": "2026-11-23T22:21:32Z",
+      "source_name": "Spaceflight Now",
+      "title": "Live coverage: SpaceX to launch classified payload for the U.S. Space Force",
+      "url": "https://spaceflightnow.com/2026/11/23/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-3"
+    },
+    {
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_type": "order",
+      "item_id": "45329e71caf9a49c",
+      "published_at": "2026-11-24T10:16:00Z",
       "source_name": "bing.com",
-      "title": "SpaceX: Why I'm Upgrading After The Crash",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b046b726bb7445da6a028528beebca8&url=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4971054-spacex-why-im-upgrading-after-the-crash&c=6951512796480087698&mkt=en-us"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "other",
-      "item_id": "3caedeb66520a68f",
-      "published_at": "2026-11-23T13:50:55Z",
-      "source_name": "东方财富网",
-      "title": "火箭已开始批量化生产？中科宇航最新通报 - 东方财富网",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiUVRLUTRBMC1WRTZaYmhmbndtM29fRVpETjBfMHc0dmh6VkRYSXQ2U25yVjJOMXZrNnFQUndoNGtvd19yd3lRd005X2x3N2NRb1J5V3gtQ0VYVDh4SjRmZ2xHeTRtdw?oc=5"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "other",
-      "item_id": "138585186131ac8f",
-      "published_at": "2026-11-23T13:41:22Z",
-      "source_name": "Sohu",
-      "title": "火箭已开始批量化生产？中科宇航最新通报 - Sohu",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa2tMa2ZSY3Nkc3lJZ0ZKbXJMX0F0cXI4WURTR0pBUVBRZUN6eFlzX0E0WFRLRTRtYnRWVEFDMFdtREt4VHRiQ1hwSWtDUDdKWUtMYnFvZ1JGQmhVOFdWdWFoMS1YTHVab01KLThQUW10c1p4WVhTZ1VfZzBtMTE1c1JNeTFReWtO?oc=5"
+      "title": "SpaceX to Feds: We'll Offer Starlink for Free in BEAD Areas If You Drop Oversight",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b063ca83e264197aca387fcf0d2fad6&url=https%3A%2F%2Fwww.pcmag.com%2Fnews%2Fspacex-to-feds-well-offer-starlink-for-free-in-bead-areas-if-you-drop-oversight&c=1500627070681849642&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "1b6c27eb488edd7d",
-      "published_at": "2026-11-23T06:01:00Z",
+      "item_id": "bbdd52f9e72ceb5a",
+      "published_at": "2026-11-24T08:24:00Z",
       "source_name": "bing.com",
-      "title": "Is there a SpaceX launch today? Where to see Falcon 9 in Arizona",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b046b72b0ad4025bd17dc14bea81b6d&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Farizona%2F2026%2F11%2F23%2Fspacex-falcon-9-rocket-launch-schedule%2F92875377007%2F&c=1683214714566354653&mkt=en-us"
+      "title": "SpaceX succeeds in California rocket launch today. Here's a recap",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b05bc489f8a4cfaaac646eb42ee27a3&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Flocal%2Fcalifornia%2F2026%2F11%2F24%2Fspacex-falcon-9-rocket-launch-today-vandenberg--live%2F92938234007%2F&c=8049543308764796814&mkt=en-us"
     },
     {
-      "company_id": "spacex",
-      "company_name": "SpaceX",
+      "company_id": "galaxyspace",
+      "company_name": "银河航天",
       "event_type": "other",
-      "item_id": "8d4f20a1ab3c30b6",
-      "published_at": "2026-11-23T05:10:08Z",
-      "source_name": "spaceq.ca",
-      "title": "Weekly ISS update: Canadarm2 joint heads home aboard Dragon",
-      "url": "https://spaceq.ca/weekly-iss-update-canadarm2-part-heads-home-aboard-dragon"
+      "item_id": "0ffae33bcbf183bc",
+      "published_at": "2026-11-24T08:10:00Z",
+      "source_name": "bing.com",
+      "title": "Satellite Internet Market Size, Share, Trends, and Growth Forecast by Frequency Band, Industry, and Region, 2026-2033 | LEO Constellations Propel 15.1% CAGR to USD 35.74 Billion",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b063cf164a648f78da66f94eb53f05e&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fsatellite-internet-market-size-share-160900183.html&c=7304328977937595623&mkt=en-us"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "134fcfd3b86f4fb5",
-      "published_at": "2026-11-23T04:26:23Z",
+      "item_id": "ccaf8caf8fbe9061",
+      "published_at": "2026-11-24T08:03:32Z",
       "source_name": "bing.com",
-      "title": "Falcon 9 rocket reuse costs and SpaceX's Starlink revenue goals",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b046b72b0ad4025bd17dc14bea81b6d&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Ffalcon-9-rocket-reuse-costs-and-spacex-s-starlink-revenue-goals%2Fvi-AA2i2gvq&c=1974324971562056419&mkt=en-us"
+      "title": "SpaceX plans $100B Starbase Louisiana, moves Starlink launches to Starship",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b05bc489f8a4cfaaac646eb42ee27a3&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-plans-100b-starbase-louisiana-moves-starlink-launches-to-starship%2Fvi-AA2bO9Rj&c=6570826447117102304&mkt=en-us"
+    },
+    {
+      "company_id": "china_satnet",
+      "company_name": "中国星网",
+      "event_type": "other",
+      "item_id": "f891b28d1f568736",
+      "published_at": "2026-11-24T05:44:32Z",
+      "source_name": "中华网",
+      "title": "中国星网GW星座组网进程如何 规模化部署加速推进 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XVDByTlFJQVdoVk5jWkowcEI0WmJUWmZ3Q0hUdTRmb3I4aVRPQTFRTGtCN2FVRk9FU2o5aGJ3bWo0RFR4YlJjZjVjbkxuRmM3QWY1SHBjMVFESDIwNzZOR2J2RjdHSTJnTjN4QUxDUEI?oc=5"
     },
     {
       "company_id": "spacex",
       "company_name": "SpaceX",
       "event_type": "launch",
-      "item_id": "01a098f00c0976c5",
-      "published_at": "2026-11-23T04:26:23Z",
+      "item_id": "ef26883cc835db80",
+      "published_at": "2026-11-24T02:35:01Z",
       "source_name": "bing.com",
-      "title": "Falcon 9 rocket reuse costs and SpaceX's Starlink revenue goals",
-      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0504d634944ca3a3a04de3e127bd69&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Ffalcon-9-rocket-reuse-costs-and-spacexs-starlink-revenue-goals%2Fvi-AA2i2gvq&c=10874838744065319210&mkt=en-us"
+      "title": "SpaceX launches 26 Starlink satellites from foggy Vandenberg",
+      "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b05bc49869f45d381690312ce6effdc&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Ftechnology%2Fspace-exploration%2Fspacex-launches-26-starlink-satellites-from-foggy-vandenberg%2Fvi-AA2i6UKC&c=4752456314727696543&mkt=en-us"
+    },
+    {
+      "company_id": "yushi_space",
+      "company_name": "宇石空间",
+      "event_type": "other",
+      "item_id": "b4ab46aeb4a6a0fc",
+      "published_at": "2026-11-24T02:01:25Z",
+      "source_name": "Pandaily",
+      "title": "Astronstone Completes Ground Validation of Full-Size Rocket Capture Arms - Pandaily",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnI2djhCQTFMZWx5RkNZQVBmYTY1NWh6V1hVRHMwZkZ4M1l6eFVMLURTMlJuLWk1ekw4QU83Z3plNWdlazJQZk5Id0hldEo4VlhEZ25fSXl0UTBpU2lGb1hZQzV1aHYtSGpWYWhhdDZYd0JxLUtzeG9FRWNES0RiVlR2YjhITGs?oc=5"
     },
     {
       "company_id": "blue_origin",
       "company_name": "Blue Origin",
-      "event_type": "launch",
-      "item_id": "995e5ff743166940",
-      "published_at": "2026-11-23T02:37:58Z",
-      "source_name": "Tech Times",
-      "title": "Blue Origin Books Google's New Glenn Launch as New Shepard Tourist Flights Wait Until 2028 Restart - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdzcycGNEYjdHbmZ3LWNXQjlzNy1QZmJ6MGJ2X0haNlRkdkI0eWNCRzJIUmtwQXFNYzdISzVXUzQ4QjFUYzZMTW9CRTFsaDZ1Qjl6cWVpaHRoWUV3TDFBUm5ZN2w3eTMyOXYtUUlzcU9oUzAza3dyblV0Znd1ekVNdUJLYUNzVG1PXzZQUk9TLXdqbEc3bzA5QlFqT2F0UFdZN294Und0TGZ5VTgtRkc4UkR2clJrRFVOWGlnblRENjlCVnBQRTlkTVA1MkY1Tlo3bVdmaFdpeDdJbjFBMERQQk9OZw?oc=5"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "0096e236c425c3e3",
-      "published_at": "2026-11-23T01:52:00Z",
-      "source_name": "经济观察网",
-      "title": "中科宇航力箭二号运载火箭进入多发并行总装阶段 - 经济观察网",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16QnBPTW5WazZyaHYtSVdZdC0tUFpiVGh2aXJvV2tYeGRpR3dkRHBBNzV0SGYwcFo1bHdmSm5tRDYzTnNKUWRYVm9DQ0h6ZDBicnlPaTh5cm0?oc=5"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "24f7b068c04615fb",
-      "published_at": "2026-11-23T01:14:28Z",
-      "source_name": "36kr",
-      "title": "中科宇航力箭二号运载火箭进入多发并行总装阶段-36氪 - 36kr",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oVEJ1VjUtakdUU0VCUy0yOVRJcWF5WTYySnY4eGRTdXdvTkE3dk1pRXRNRW5YWG5GTlZmanVSX25oT09vNkJEQ1lJTFAzSXZqRDhrWTYxUFk?oc=5"
-    },
-    {
-      "company_id": "cas_space",
-      "company_name": "中科宇航",
-      "event_type": "launch",
-      "item_id": "1be7091de3accb56",
-      "published_at": "2026-11-23T00:55:09Z",
-      "source_name": "新浪财经",
-      "title": "中科宇航力箭二号运载火箭进入多发并行总装阶段，批量化生产体系迈上新台阶 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UdTd1Y3FhVjJGbmc4OVFfaThBWDVueHo2WHhNVVZxLWNSWnNKc0w0U3ZyOGZ6eEl2Q0Y2cV9OeXE1VzRPNXBlMmVkTlc5SnBjSjRpWVkxMm5OSUEzUWZyRlowY0YzcXRNQnZCRE5DZUQ0OGNMcmZ3THhLRDk5dGc?oc=5"
-    },
-    {
-      "company_id": "yushi_space",
-      "company_name": "宇石空间",
       "event_type": "other",
-      "item_id": "206ed6250ab950ff",
-      "published_at": "2026-11-23T13:35:25Z",
-      "source_name": "IT之家",
-      "title": "筷子捕获臂 - IT之家",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBub1JEdWowS2VVVkZ2N09qMW41aG5WT3J2MUJPa3BUbmtNZklEem5mR0dkcmZDZkJCTjNoMzFuMFE1LXFhSDhmajZUZXFDZlRleXYwTTJld2pJQVVReHBGZWJaU2tIdzFUYWY5YjVfZndpVzU3dklHSDA4VjQ2d0U?oc=5"
-    },
-    {
-      "company_id": "yushi_space",
-      "company_name": "宇石空间",
-      "event_type": "other",
-      "item_id": "c13c10b1d81c23d4",
-      "published_at": "2026-11-23T12:12:00Z",
-      "source_name": "cnBeta.COM",
-      "title": "国产“筷子夹火箭”迎重大突破：宇石空间自研百吨级捕获臂完成验证- 科学探索 - cnBeta.COM",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pZ1QxZzA0ZFc5SlJNclhUa3BrS0hoLUZrN2NYWVZKSnRQdjk1a0VPTEhkLUt2bkpwVVdTV0hsSDR4TnVacllhTDV6ZV8yVWk2cGxrX0FSdmZaWUJCUDN0Q09sWU8?oc=5"
-    },
-    {
-      "company_id": "yushi_space",
-      "company_name": "宇石空间",
-      "event_type": "other",
-      "item_id": "d3124b6591e9cbbf",
-      "published_at": "2026-11-23T11:45:57Z",
-      "source_name": "www.itsdw.cn",
-      "title": "宇石空间百吨级“筷子”捕获臂完成地面验证 - www.itsdw.cn",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ldDBRbmtvTjlORm9UNjU1MVc1QW0xZWJJVThMNFdoMzVZZ2pCQXlzODBjNHliOTZJYzFLSWxSUi1OSUVxUnFVTVJibTc?oc=5"
-    },
-    {
-      "company_id": "yushi_space",
-      "company_name": "宇石空间",
-      "event_type": "other",
-      "item_id": "f2bb667f038edd1e",
-      "published_at": "2026-11-23T11:28:51Z",
-      "source_name": "IT之家",
-      "title": "宇石空间自研百吨级全尺寸“筷子”捕获臂完成联合地面验证试验 - IT之家",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5idjhQVzJtQy1TcklOM2wyVi1VUEhlOUtPYXptVWpXYUE4ZFNPeTE5Mm1DRnU3czFPQnhTeEY0blJkTW1JdVo5Sm50V2g?oc=5"
-    },
-    {
-      "company_id": "yushi_space",
-      "company_name": "宇石空间",
-      "event_type": "other",
-      "item_id": "4e445319968130fb",
-      "published_at": "2026-11-23T11:28:51Z",
-      "source_name": "新浪财经",
-      "title": "宇石空间自研百吨级全尺寸“筷子”捕获臂完成联合地面验证试验 - 新浪财经",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpSFBfUm11NEFKSDl2WlJsN213UVQ4MlEtVmNPWGxzTF9hWU1VUjhnU0xuUkJPREZKWTF1ckZEMzhoRW41UUNVYkpIMTJGc3JGUVVGZE4xa00weGctY04tS19oSDZxZ3JuSWM4MG1CRnZrQlkxMEtZNTkydzZyMDg?oc=5"
+      "item_id": "34ed77444e05a042",
+      "published_at": "2026-11-23T18:10:48Z",
+      "source_name": "Space",
+      "title": "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket - Space",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc05xQVZSbDRNWmFqVE9XUFRCQ0VWNkFUWmE0WWdTUERmd1c5UnIxMi1WVXVFX1NnUWF2S2FHWFc3ZE1LanZFTm51b05pNWM2TmM0c21ySjVPRWg2eGx4WkRTdTk1VXVOVDZVWmJmRkhEbm9ET1Vyb1AzdGtuZFZmUkFERQ?oc=5"
     }
   ],
-  "total_items": 32
+  "total_items": 13
 }
