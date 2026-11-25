@@ -1,14 +1,14 @@
-# 每日新闻情报日报 - 2026-11-24
+# 每日新闻情报日报 - 2026-11-25
 
-- Report ID: daily-2026-11-24-3de8bdaf
-- Source run: b289ea34-b7ff-4050-98b1-891ee547cf06
+- Report ID: daily-2026-11-25-649293e0
+- Source run: 1502e6d3-2f6b-41d3-9826-678004d83967
 - Generation status: skipped_no_secret
-- Companies covered: 4
-- Total items: 9
+- Companies covered: 1
+- Total items: 4
 
 ## Executive Summary
 
-2026-11-24 共收录 9 条新闻，覆盖 4 家公司。新闻量靠前的公司包括 SpaceX、Blue Origin、中国星网。
+2026-11-25 共收录 4 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -21,31 +21,25 @@ No LLM summary.
 
 No LLM summary.
 
-- [Astronstone Completes Ground Validation of Full-Size Rocket Capture Arms - Pandaily](https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnI2djhCQTFMZWx5RkNZQVBmYTY1NWh6V1hVRHMwZkZ4M1l6eFVMLURTMlJuLWk1ekw4QU83Z3plNWdlazJQZk5Id0hldEo4VlhEZ25fSXl0UTBpU2lGb1hZQzV1aHYtSGpWYWhhdDZYd0JxLUtzeG9FRWNES0RiVlR2YjhITGs?oc=5) 宇石空间
 
 ### 卫星互联网服务
 
 No LLM summary.
 
-- [中国星网GW星座组网进程如何 规模化部署加速推进 - 中华网](https://news.google.com/rss/articles/CBMicEFVX3lxTE5XVDByTlFJQVdoVk5jWkowcEI0WmJUWmZ3Q0hUdTRmb3I4aVRPQTFRTGtCN2FVRk9FU2o5aGJ3bWo0RFR4YlJjZjVjbkxuRmM3QWY1SHBjMVFESDIwNzZOR2J2RjdHSTJnTjN4QUxDUEI?oc=5) 中国星网
 
 ### 国外大厂
 
 No LLM summary.
 
-- [SpaceX succeeds in California rocket launch today. Here's a recap](http://www.bing.com/news/apiclick.aspx?aid=&tid=6b05bc489f8a4cfaaac646eb42ee27a3&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Flocal%2Fcalifornia%2F2026%2F11%2F24%2Fspacex-falcon-9-rocket-launch-today-vandenberg--live%2F92938234007%2F&c=8049543308764796814&mkt=en-us) SpaceX
-- [SpaceX plans $100B Starbase Louisiana, moves Starlink launches to Starship](http://www.bing.com/news/apiclick.aspx?aid=&tid=6b05bc489f8a4cfaaac646eb42ee27a3&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-plans-100b-starbase-louisiana-moves-starlink-launches-to-starship%2Fvi-AA2bO9Rj&c=6570826447117102304&mkt=en-us) SpaceX
-- [SpaceX launches 26 Starlink satellites from foggy Vandenberg](http://www.bing.com/news/apiclick.aspx?aid=&tid=6b05bc49869f45d381690312ce6effdc&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Ftechnology%2Fspace-exploration%2Fspacex-launches-26-starlink-satellites-from-foggy-vandenberg%2Fvi-AA2i6UKC&c=4752456314727696543&mkt=en-us) SpaceX
-- [On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket - Space](https://news.google.com/rss/articles/CBMigwFBVV95cUxQc05xQVZSbDRNWmFqVE9XUFRCQ0VWNkFUWmE0WWdTUERmd1c5UnIxMi1WVXVFX1NnUWF2S2FHWFc3ZE1LanZFTm51b05pNWM2TmM0c21ySjVPRWg2eGx4WkRTdTk1VXVOVDZVWmJmRkhEbm9ET1Vyb1AzdGtuZFZmUkFERQ?oc=5) Blue Origin
+- [Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions](https://www.nasaspaceflight.com/2026/11/launch-preview-112426) SpaceX
+- [Starlink’s global merchant plans will cost US$4,650 per month in 2027 - Riviera Maritime Media](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMGdERk1TNHNaLTcxN1p3X1Y4QnpZaFM2Um5TUEZNdVFyRkw3Rk14a0Z1UGtRQ05qMzZCMTE4LWhLWk5uZkxBV3U1RE1FY1FkaVl3aWdNSEtjSzdUczVMSUxNelZPRmdiVjFTb3J0ODF3c29uZW1XVF95Yng3LU9lTFFYQXdMbjM1aFo0R0sxc2tIamVCQzVEbURSNUI0VGNHZ0lLVUtOU2tkMUV0c1phTEdNTTJydU5pQXZ1aw?oc=5) SpaceX
+- [SpaceX launches secretive spy satellites from California for US Space Force (video)](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video) SpaceX
 
 ## Top News
 
-- [SpaceX succeeds in California rocket launch today. Here's a recap](http://www.bing.com/news/apiclick.aspx?aid=&tid=6b05bc489f8a4cfaaac646eb42ee27a3&url=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Fnews%2Flocal%2Fcalifornia%2F2026%2F11%2F24%2Fspacex-falcon-9-rocket-launch-today-vandenberg--live%2F92938234007%2F&c=8049543308764796814&mkt=en-us) SpaceX
-- [SpaceX plans $100B Starbase Louisiana, moves Starlink launches to Starship](http://www.bing.com/news/apiclick.aspx?aid=&tid=6b05bc489f8a4cfaaac646eb42ee27a3&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-plans-100b-starbase-louisiana-moves-starlink-launches-to-starship%2Fvi-AA2bO9Rj&c=6570826447117102304&mkt=en-us) SpaceX
-- [中国星网GW星座组网进程如何 规模化部署加速推进 - 中华网](https://news.google.com/rss/articles/CBMicEFVX3lxTE5XVDByTlFJQVdoVk5jWkowcEI0WmJUWmZ3Q0hUdTRmb3I4aVRPQTFRTGtCN2FVRk9FU2o5aGJ3bWo0RFR4YlJjZjVjbkxuRmM3QWY1SHBjMVFESDIwNzZOR2J2RjdHSTJnTjN4QUxDUEI?oc=5) 中国星网
-- [SpaceX launches 26 Starlink satellites from foggy Vandenberg](http://www.bing.com/news/apiclick.aspx?aid=&tid=6b05bc49869f45d381690312ce6effdc&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Ftechnology%2Fspace-exploration%2Fspacex-launches-26-starlink-satellites-from-foggy-vandenberg%2Fvi-AA2i6UKC&c=4752456314727696543&mkt=en-us) SpaceX
-- [Astronstone Completes Ground Validation of Full-Size Rocket Capture Arms - Pandaily](https://news.google.com/rss/articles/CBMihwFBVV95cUxQQnI2djhCQTFMZWx5RkNZQVBmYTY1NWh6V1hVRHMwZkZ4M1l6eFVMLURTMlJuLWk1ekw4QU83Z3plNWdlazJQZk5Id0hldEo4VlhEZ25fSXl0UTBpU2lGb1hZQzV1aHYtSGpWYWhhdDZYd0JxLUtzeG9FRWNES0RiVlR2YjhITGs?oc=5) 宇石空间
-- [On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket - Space](https://news.google.com/rss/articles/CBMigwFBVV95cUxQc05xQVZSbDRNWmFqVE9XUFRCQ0VWNkFUWmE0WWdTUERmd1c5UnIxMi1WVXVFX1NnUWF2S2FHWFc3ZE1LanZFTm51b05pNWM2TmM0c21ySjVPRWg2eGx4WkRTdTk1VXVOVDZVWmJmRkhEbm9ET1Vyb1AzdGtuZFZmUkFERQ?oc=5) Blue Origin
+- [Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions](https://www.nasaspaceflight.com/2026/11/launch-preview-112426) SpaceX
+- [Starlink’s global merchant plans will cost US$4,650 per month in 2027 - Riviera Maritime Media](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMGdERk1TNHNaLTcxN1p3X1Y4QnpZaFM2Um5TUEZNdVFyRkw3Rk14a0Z1UGtRQ05qMzZCMTE4LWhLWk5uZkxBV3U1RE1FY1FkaVl3aWdNSEtjSzdUczVMSUxNelZPRmdiVjFTb3J0ODF3c29uZW1XVF95Yng3LU9lTFFYQXdMbjM1aFo0R0sxc2tIamVCQzVEbURSNUI0VGNHZ0lLVUtOU2tkMUV0c1phTEdNTTJydU5pQXZ1aw?oc=5) SpaceX
+- [SpaceX launches secretive spy satellites from California for US Space Force (video)](https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video) SpaceX
 
 ## Risks And Watchpoints
 
