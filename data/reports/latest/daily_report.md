@@ -1,14 +1,14 @@
 # 每日新闻情报日报 - 2026-11-28
 
-- Report ID: daily-2026-11-28-0f7d366f
-- Source run: cc2c2404-fa71-4479-a978-24af97bf4171
+- Report ID: daily-2026-11-28-77b2aa0d
+- Source run: 2e9efdb6-c860-420f-84d3-438bf2888780
 - Generation status: skipped_no_secret
 - Companies covered: 1
-- Total items: 2
+- Total items: 5
 
 ## Executive Summary
 
-2026-11-28 共收录 2 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
+2026-11-28 共收录 5 条新闻，覆盖 1 家公司。新闻量靠前的公司包括 SpaceX。
 
 ## Industry Chain Sections
 
@@ -31,13 +31,15 @@ No LLM summary.
 
 No LLM summary.
 
-- [FCC gives OK for SpaceX to launch 1 million satellites - TheDesk.net](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkE3VWJoWXNwLTRSaTdVNkhJOHBBV2Y1ZnNDcldtYUJ6TVQteUtSYjFCRUw1WWtpbVUtTlBYdWtZbDRLNlhodzZua0U3ZHdJUDF1MktpM2U2UDBqcGR3T2F4bXc2YnNvMFBHZUl2QmNSWUZ5LVBtcnZCNUtSZmJodlZVaDV2TWhGcVFn?oc=5) SpaceX
-- [FCC clears SpaceX Starmind data centre satellites to fly](https://spaceq.ca/spacex-starmind-fcc-million-orbital-data-centres) SpaceX
+- [Live coverage: SpaceX to launch satellites for U.S. Space Force’s data network](https://spaceflightnow.com/2026/11/28/live-coverage-spacex-to-launch-satellites-for-u-s-space-forces-data-network) SpaceX
+- [How to track SpaceX's next rocket launch today at Vandenberg](http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0ae7218d854a60b33b62705404b325&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Ftrack-spacexs-next-rocket-launch-140026087.html&c=7496698314673913193&mkt=en-us) SpaceX
+- [SpaceX Falcon 9 launches Starlink satellites, nails rocket landing](http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0ae7218c194a4b8a36a9c51f4b3d7b&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Ftechnology%2Fspace-exploration%2Fspacex-falcon-9-launches-starlink-satellites-nails-rocket-landing%2Fvi-AA2ipnL4&c=5245503733661116201&mkt=en-us) SpaceX
 
 ## Top News
 
-- [FCC gives OK for SpaceX to launch 1 million satellites - TheDesk.net](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkE3VWJoWXNwLTRSaTdVNkhJOHBBV2Y1ZnNDcldtYUJ6TVQteUtSYjFCRUw1WWtpbVUtTlBYdWtZbDRLNlhodzZua0U3ZHdJUDF1MktpM2U2UDBqcGR3T2F4bXc2YnNvMFBHZUl2QmNSWUZ5LVBtcnZCNUtSZmJodlZVaDV2TWhGcVFn?oc=5) SpaceX
-- [FCC clears SpaceX Starmind data centre satellites to fly](https://spaceq.ca/spacex-starmind-fcc-million-orbital-data-centres) SpaceX
+- [Live coverage: SpaceX to launch satellites for U.S. Space Force’s data network](https://spaceflightnow.com/2026/11/28/live-coverage-spacex-to-launch-satellites-for-u-s-space-forces-data-network) SpaceX
+- [How to track SpaceX's next rocket launch today at Vandenberg](http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0ae7218d854a60b33b62705404b325&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fscience%2Farticles%2Ftrack-spacexs-next-rocket-launch-140026087.html&c=7496698314673913193&mkt=en-us) SpaceX
+- [SpaceX Falcon 9 launches Starlink satellites, nails rocket landing](http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0ae7218c194a4b8a36a9c51f4b3d7b&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Ftechnology%2Fspace-exploration%2Fspacex-falcon-9-launches-starlink-satellites-nails-rocket-landing%2Fvi-AA2ipnL4&c=5245503733661116201&mkt=en-us) SpaceX
 
 ## Risks And Watchpoints
 
