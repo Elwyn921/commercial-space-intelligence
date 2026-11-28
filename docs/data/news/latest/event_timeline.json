@@ -1,419 +1,33 @@
 {
-  "article_count": 17450,
+  "article_count": 17484,
   "artifact_version": 1,
   "company_count": 13,
   "earliest_at": "2017-12-29T08:00:00Z",
-  "embedded_article_count": 17450,
-  "event_count": 2664,
+  "embedded_article_count": 17484,
+  "event_count": 2667,
   "event_type_counts": {
     "corporate": 67,
     "financing": 125,
-    "launch": 1013,
+    "launch": 1014,
     "market": 233,
     "order": 44,
-    "other": 1018,
+    "other": 1020,
     "partnership": 40,
     "product": 85,
     "regulation": 39
   },
   "events": [
     {
-      "article_count": 10,
+      "article_count": 12,
       "articles": [
         {
           "date_is_inferred": false,
-          "id": "1c0563f101a1d65d",
-          "published_at": "2026-11-27T13:29:49Z",
-          "source_name": "Nature World News",
-          "title": "FCC Approves SpaceX's Plan for Up to 1 Million Starmind Satellites, Alarming Astronomers Worldwide - Nature World News",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdjNNVWdacUEyRGgteEhUdlVNUEFBaHdpSV90dmlVVXM0bU9ETVFwZXUyYXRaUTJNVDljNDE5RjV3TVdMa1JIblktcEdqOHFzTURnM3NhLU01dkRmY3FWbW8xRmpwdDJMOEV2UWVmTm5ncVNjcUUwRnp5UEtNMTRaYXRhTFFoczNVVnNoeHc1YUk5UktKV2Fmc1dpTFJuSWlmdVZQeHU1aENsWld3ajVRMEN6RmpUZjdrTDNTMTFrRnhtbDA5SG9OS0xhSHExRGdzQkE4VWFVWUx0UHRrMExj?oc=5"
+          "id": "12317115b20fd326",
+          "published_at": "2026-11-27T19:34:01Z",
+          "source_name": "TheDesk.net",
+          "title": "FCC gives OK for SpaceX to launch 1 million satellites - TheDesk.net",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkE3VWJoWXNwLTRSaTdVNkhJOHBBV2Y1ZnNDcldtYUJ6TVQteUtSYjFCRUw1WWtpbVUtTlBYdWtZbDRLNlhodzZua0U3ZHdJUDF1MktpM2U2UDBqcGR3T2F4bXc2YnNvMFBHZUl2QmNSWUZ5LVBtcnZCNUtSZmJodlZVaDV2TWhGcVFn?oc=5"
         },
-        {
-          "date_is_inferred": false,
-          "id": "a7d0401893d73902",
-          "published_at": "2026-11-26T22:40:55Z",
-          "source_name": "NASASpaceflight",
-          "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
-          "url": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "adba7abfe5ad8b64",
-          "published_at": "2026-11-26T22:16:00Z",
-          "source_name": "DNE Africa",
-          "title": "SpaceX FCC approval clears 1mn-satellite AI data centre plan - DNE Africa",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpelZ6UWE3NmpCcjc4UkxtekVxZHEyU19jOUw3YzBrSklDbkw0N3ZaNFNNSk5HOV9jTU5UQmVTamxmaHIxdnFhX3JrMlZ3Z1V1Y2NZeklMMXRlMThHcU1Bb1J5cURnSHk4Nl9BS294aXc?oc=5"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "32dca25bd953bdb6",
-          "published_at": "2026-11-26T10:39:45Z",
-          "source_name": "Nacionale",
-          "title": "What is SpaceX Starmind? The million-satellite data center network the FCC just approved - Nacionale",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2tQWkZVdTRXM29LbjY4TmdiVlZkQ2dsMkd6bm0xLXhxY3hVU0NjcWU1RTJjN1lzQ2Eta3MyekQ2Z1ozSk9wanl1d1ViRENoLXFOUFE2SlRQRjI2ZmhpM21wWXdfZno1T0RfT21rY0pOSGFUR2t6aTJyWFc3VkMybzRKdjdJTC1WSm1IcUtXM1FOM2xBU0NKemJtdjJiNG9JN3RTb3d5aUpFeWdxcXRIX0QtdU0?oc=5"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "230d1aa627af9a35",
-          "published_at": "2026-11-26T07:56:02Z",
-          "source_name": "Tech Times",
-          "title": "SpaceX’s 1 Million-Satellite Plan Gets FCC Approval—What Will They Be Used For? - Tech Times",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3JYVFBpeUkzN01KSTdycXNNLW14Y0RsMmlLRldRY3hwb2FzMEhSdjBzYWxqTldOQkIzUWx6Q1JoUXA2T09ZSUdpajBYZGVEVF80Q1NIVXRscUtPOUJoTFltSFBSbzAyQTM2SHRSM1FrdnF6d3hPZ3ByR093Q0d3cGxocmFBVWVleU1RWWloSG9fLTc1OU9RamFQTzBPMTZXVzZIYUFUTXV0c3JLZ09JNC1sSndfYS12aGZXZE01N2Q5cVE?oc=5"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "892bf9f530ea24ce",
-          "published_at": "2026-11-25T18:49:15Z",
-          "source_name": "space.com",
-          "title": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "156f5251845821ea",
-          "published_at": "2026-11-25T18:49:15Z",
-          "source_name": "Space",
-          "title": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites - Space",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS2NyX0J6T1I2cmJON2R3dVpwM0RFeGdEem9Yb1cyN0R1Ym04UktnRmZuRkJlOU5Mek5sanhRRmFVUHh5c1BkYllaREVmcVhxNVVLQWItUExGTktWc254VDlzMS1FSnZ5ZTFVUlh3S3M0MVA4cEItOWM5WC12RkhOa3JZR1R1bHhDbzlBM0lTd1RTNUZYaTBjRDZ4ZTd1V1EwcFcxR0ZrSkRBRmRCNVFkd25vZnlsSkhhRjJ2RlFJbzBYQlh3ODdOV0xEa3p1SldnaElMV21n?oc=5"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "2615673b56f90ee0",
-          "published_at": "2026-11-25T18:22:38Z",
-          "source_name": "arstechnica.com",
-          "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
-          "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "2dd85bb09ff18b2f",
-          "published_at": "2026-11-25T13:44:00Z",
-          "source_name": "bing.com",
-          "title": "Stock Market Today, Nov. 25: SpaceX Gets Historic FCC Approval for 1 Million Satellites. Is This Its Next Growth Engine?",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b078796ccb5406494a18a09e75a57a2&url=https%3A%2F%2Fwww.fool.com%2Fcoverage%2Fstock-market-today%2F2026%2F11%2F25%2Fstock-market-today-nov-25-spacex-gets-historic-fcc-approval-for-1-million-satellites-is-this-its-next-growth-engine%2F&c=9962280373972079833&mkt=en-us"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "55a0894cd96bb60a",
-          "published_at": "2026-11-25T13:05:17Z",
-          "source_name": "bing.com",
-          "title": "FCC approves SpaceX plan for 1 million data center satellites",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b078796ccb5406494a18a09e75a57a2&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Ffcc-approves-spacex-plan-for-1-million-data-center-satellites%2Far-AA2ie0Lt&c=1467433669809769117&mkt=en-us"
-        }
-      ],
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "5d3490ce8617a4f5",
-      "event_label": "监管与政策",
-      "event_type": "regulation",
-      "headline": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
-      "importance_score": 100,
-      "latest_at": "2026-11-27T13:29:49Z",
-      "latest_url": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040",
-      "source_count": 9,
-      "source_names": [
-        "DNE Africa",
-        "NASASpaceflight",
-        "Nacionale",
-        "Nature World News",
-        "Space",
-        "Tech Times",
-        "arstechnica.com",
-        "bing.com",
-        "space.com"
-      ],
-      "started_at": "2026-11-25T13:05:17Z",
-      "summary": "SpaceX的监管与政策事件，已汇集 10 篇报道、9 个来源。"
-    },
-    {
-      "article_count": 1,
-      "articles": [
-        {
-          "date_is_inferred": false,
-          "id": "6e4d60765e2a4753",
-          "published_at": "2026-11-27T11:06:22Z",
-          "source_name": "Starlust.org",
-          "title": "Blue Origin's New Glenn 2027 return flight delayed by couple of weeks, according to CADENA - Starlust.org",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY1Z2X25XS0p3dmVfeTIwZFpma0dWVnFuQm4taGprYmFVMHZkQUF0SVJSRWNQeEtIQnE2OURnMUdUbHkxY3E5bHBkQzF1eS0zOGRiZDZiY3E2bE1fTl9VZ0MzalJWUlgzWFNmZlZxalBmMy1vUmlFVkxzejNjVUJUXzJkTUNSNzYyUUxtZGFfbE5pcVZC?oc=5"
-        }
-      ],
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_id": "4c2a81f0fcd54c8c",
-      "event_label": "其他动态",
-      "event_type": "other",
-      "headline": "Blue Origin's New Glenn 2027 return flight delayed by couple of weeks, according to CADENA - Starlust.org",
-      "importance_score": 47,
-      "latest_at": "2026-11-27T11:06:22Z",
-      "latest_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY1Z2X25XS0p3dmVfeTIwZFpma0dWVnFuQm4taGprYmFVMHZkQUF0SVJSRWNQeEtIQnE2OURnMUdUbHkxY3E5bHBkQzF1eS0zOGRiZDZiY3E2bE1fTl9VZ0MzalJWUlgzWFNmZlZxalBmMy1vUmlFVkxzejNjVUJUXzJkTUNSNzYyUUxtZGFfbE5pcVZC?oc=5",
-      "source_count": 1,
-      "source_names": [
-        "Starlust.org"
-      ],
-      "started_at": "2026-11-27T11:06:22Z",
-      "summary": "Blue Origin的其他动态事件，已汇集 1 篇报道、1 个来源。"
-    },
-    {
-      "article_count": 5,
-      "articles": [
-        {
-          "date_is_inferred": false,
-          "id": "cb92f6ce800cf579",
-          "published_at": "2026-11-27T09:01:26Z",
-          "source_name": "Novinite.com",
-          "title": "Bulgaria's EnduroSat Books Two Dedicated Launches on Blue Origin's New Glenn Rocket - Novinite.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONFItdUR2RzNCMVhzLXBPTHA0ajBmQWkzdDlGYVRWaUNBb3VlWlBFM3lwcWRQYmZvZHVxLXp4MmduQVlYYzFtZ1pKY3dmRE1TckR5bURvWERld3VaUzVDLURtTWF2QVBtWG9nWTg3elFyNi1XLXdSVWItdVJNVXpyOHJCR1Y4ZWJ2Z3FVVGJHSGg4ellHeU05a3BOUUJqd2w1Z1cwTWdTZ3Z4Rjljd0FPcXBIUm16djdQSDdxOFAxalRoNmJIdmMw?oc=5"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "211cfbea527fb61d",
-          "published_at": "2026-11-25T21:15:12Z",
-          "source_name": "satellitetoday.com",
-          "title": "EnduroSat Buys 2 Dedicated Launches from Blue Origin",
-          "url": "https://www.satellitetoday.com/launch/2026/11/25/endurosat-buys-2-dedicated-launches-from-blue-origin"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "d7ba16a8fea4d3fe",
-          "published_at": "2026-11-25T19:20:09Z",
-          "source_name": "Blue Origin",
-          "title": "EnduroSat Signs Multi-Launch Agreement with Blue Origin for Dedicated New Glenn Missions for Its Customers - Blue Origin",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0RTJ0U2xqcmZlLXN1QUJMOXRGMDF3NHduQkNiMEJDYXNrNHZLYlFpUHEtMk5oaW45UF90LTRLajFMXzJFR0lVRElpLVkwR2ktd19IRWliREh0UG50YndBNnlHeHZ5bVVVcHkwTHRTaVF4U2NQNjJXMG53?oc=5"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "33937b74d0e5c639",
-          "published_at": "2026-11-25T11:00:00Z",
-          "source_name": "SpaceNews",
-          "title": "Satellite maker EnduroSat books two dedicated New Glenn launches - SpaceNews",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbjJha3pGWk5kdkJZa2Y4Q3ZsN0VaOWJ4bjBVMVNZZHpkaXM4aGYxazl2cnppVzZOTnVSZHIxOHZyVTQ3RmtPd3dTX3BjbXdSRHkwbXNmbHJkM3JaUWU1RlpWVmM3UlVQd3Bta09aYXRfOHhhaDF4dEwyN1Y1aUF5OHlWM3pnSy1paFE2ZWUwYUk?oc=5"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "7103442a8ed7ca62",
-          "published_at": "2026-11-25T03:00:00Z",
-          "source_name": "bing.com",
-          "title": "EnduroSat Signs Multi-Launch Agreement with Blue Origin for Dedicated New Glenn Missions for Its Customers",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b070983dae34e2c867907ff6ead16bc&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fendurosat-signs-multi-launch-agreement-110000833.html&c=10443232562075743863&mkt=en-us"
-        }
-      ],
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_id": "ad4bd3a5548aa676",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "Bulgaria's EnduroSat Books Two Dedicated Launches on Blue Origin's New Glenn Rocket - Novinite.com",
-      "importance_score": 100,
-      "latest_at": "2026-11-27T09:01:26Z",
-      "latest_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONFItdUR2RzNCMVhzLXBPTHA0ajBmQWkzdDlGYVRWaUNBb3VlWlBFM3lwcWRQYmZvZHVxLXp4MmduQVlYYzFtZ1pKY3dmRE1TckR5bURvWERld3VaUzVDLURtTWF2QVBtWG9nWTg3elFyNi1XLXdSVWItdVJNVXpyOHJCR1Y4ZWJ2Z3FVVGJHSGg4ellHeU05a3BOUUJqd2w1Z1cwTWdTZ3Z4Rjljd0FPcXBIUm16djdQSDdxOFAxalRoNmJIdmMw?oc=5",
-      "source_count": 5,
-      "source_names": [
-        "Blue Origin",
-        "Novinite.com",
-        "SpaceNews",
-        "bing.com",
-        "satellitetoday.com"
-      ],
-      "started_at": "2026-11-25T03:00:00Z",
-      "summary": "Blue Origin的发射与试验事件，已汇集 5 篇报道、5 个来源。"
-    },
-    {
-      "article_count": 4,
-      "articles": [
-        {
-          "date_is_inferred": false,
-          "id": "ea9066941d6398c9",
-          "published_at": "2026-11-27T07:05:55Z",
-          "source_name": "bing.com",
-          "title": "Explainer-A million satellites? What SpaceX's Starmind could mean for Earth and space",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fexplainer-a-million-satellites-what-spacex-s-starmind-could-mean-for-earth-and-space%2Far-AA2imyF3&c=10683842600800456419&mkt=en-us"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "3a7803de69a61efb",
-          "published_at": "2026-11-26T15:35:38Z",
-          "source_name": "CBC",
-          "title": "U.S. approves SpaceX plan to deploy 1 million satellites for data centres in space - CBC",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJTDdwWUgxcFFfWEZSUkFWOVBOVExBMXFabE9WMTBXWTVjRHAzYkgyUXdKdER5XzFwLUlQZW9FQkZoZnAzbHlhUEdpWUdoTUs1?oc=5"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "3023c964e934c503",
-          "published_at": "2026-11-26T15:31:59Z",
-          "source_name": "CBC",
-          "title": "U.S. approves SpaceX plan to deploy 1 million satellites for data centres in space - CBC",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbTYzTVR6aHp2d2VZN3FIYmUzQmdNelFuN1NhemhSRVp4dXBnQlpNbUhtb3d5NzB2TVRlTmM3bEhpaWlBNW53T3BTU0JOM2RFT05IdUEwNjFZUXZhT1RoWjdhbnlVV1RlSC1zMTZpRFlSSFdTMlZUS0M1MXlsOVQ2eEpxU2wwQQ?oc=5"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "b9014cfd93d18774",
-          "published_at": "2026-11-26T09:27:44Z",
-          "source_name": "BBC",
-          "title": "US approves SpaceX plan to send a million data satellites to space - BBC",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KMGNuQ0YwUmpnNHZpaThEbUQzVEhfZXB3ZnNpRk9Renc0bkVxQm9CbFNRU3lXTzlfYmlOT0R2aW1Bdkl2YmtsUXpETGs2bnZQNmtlSlMtdnRpamc?oc=5"
-        }
-      ],
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "fbd5d14589e1c88a",
-      "event_label": "其他动态",
-      "event_type": "other",
-      "headline": "Explainer-A million satellites? What SpaceX's Starmind could mean for Earth and space",
-      "importance_score": 79,
-      "latest_at": "2026-11-27T07:05:55Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fexplainer-a-million-satellites-what-spacex-s-starmind-could-mean-for-earth-and-space%2Far-AA2imyF3&c=10683842600800456419&mkt=en-us",
-      "source_count": 3,
-      "source_names": [
-        "BBC",
-        "CBC",
-        "bing.com"
-      ],
-      "started_at": "2026-11-26T09:27:44Z",
-      "summary": "SpaceX的其他动态事件，已汇集 4 篇报道、3 个来源。"
-    },
-    {
-      "article_count": 1,
-      "articles": [
-        {
-          "date_is_inferred": false,
-          "id": "871f75c0638d55c3",
-          "published_at": "2026-11-27T05:17:34Z",
-          "source_name": "bing.com",
-          "title": "Blue Origin's New Glenn static-fire test damages booster and launch pad",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a4a1d2d742ce8edb3189fac3cc03&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-static-fire-test-damages-booster-and-launch-pad%2Fvi-AA2aPpqt&c=15545104331825690412&mkt=en-us"
-        }
-      ],
-      "company_id": "blue_origin",
-      "company_name": "Blue Origin",
-      "event_id": "99762e1adadbc35d",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "Blue Origin's New Glenn static-fire test damages booster and launch pad",
-      "importance_score": 59,
-      "latest_at": "2026-11-27T05:17:34Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a4a1d2d742ce8edb3189fac3cc03&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-static-fire-test-damages-booster-and-launch-pad%2Fvi-AA2aPpqt&c=15545104331825690412&mkt=en-us",
-      "source_count": 1,
-      "source_names": [
-        "bing.com"
-      ],
-      "started_at": "2026-11-27T05:17:34Z",
-      "summary": "Blue Origin的发射与试验事件，已汇集 1 篇报道、1 个来源。"
-    },
-    {
-      "article_count": 1,
-      "articles": [
-        {
-          "date_is_inferred": false,
-          "id": "555e634f2eab9c9d",
-          "published_at": "2026-11-27T03:32:12Z",
-          "source_name": "bing.com",
-          "title": "SpaceX loses key Starlink executive after decade-long stint as chief Michael Nicolls announces ‘significant org change’: report",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-loses-key-starlink-executive-after-decade-long-stint-as-chief-michael-nicolls-announces-significant-org-change-report%2Far-AA2imvsG&c=1835503645084592000&mkt=en-us"
-        }
-      ],
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "80dc8fb28d2ee5e1",
-      "event_label": "公司治理",
-      "event_type": "corporate",
-      "headline": "SpaceX loses key Starlink executive after decade-long stint as chief Michael Nicolls announces ‘significant org change’: report",
-      "importance_score": 47,
-      "latest_at": "2026-11-27T03:32:12Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-loses-key-starlink-executive-after-decade-long-stint-as-chief-michael-nicolls-announces-significant-org-change-report%2Far-AA2imvsG&c=1835503645084592000&mkt=en-us",
-      "source_count": 1,
-      "source_names": [
-        "bing.com"
-      ],
-      "started_at": "2026-11-27T03:32:12Z",
-      "summary": "SpaceX的公司治理事件，已汇集 1 篇报道、1 个来源。"
-    },
-    {
-      "article_count": 1,
-      "articles": [
-        {
-          "date_is_inferred": false,
-          "id": "075ea1b3a26feb1b",
-          "published_at": "2026-11-27T02:45:00Z",
-          "source_name": "bing.com",
-          "title": "Elon Musk Hopes All Teslas Will Get SpaceX’s Starlink Connectivity—Except in China, Where It’s ‘Illegal’: Says It Will Be Key for Unsupervised FSD",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-hopes-teslas-spacex-104507393.html&c=5138644236082964790&mkt=en-us"
-        }
-      ],
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "0a6d4f999d9e3e2d",
-      "event_label": "其他动态",
-      "event_type": "other",
-      "headline": "Elon Musk Hopes All Teslas Will Get SpaceX’s Starlink Connectivity—Except in China, Where It’s ‘Illegal’: Says It Will Be Key for Unsupervised FSD",
-      "importance_score": 47,
-      "latest_at": "2026-11-27T02:45:00Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-hopes-teslas-spacex-104507393.html&c=5138644236082964790&mkt=en-us",
-      "source_count": 1,
-      "source_names": [
-        "bing.com"
-      ],
-      "started_at": "2026-11-27T02:45:00Z",
-      "summary": "SpaceX的其他动态事件，已汇集 1 篇报道、1 个来源。"
-    },
-    {
-      "article_count": 1,
-      "articles": [
-        {
-          "date_is_inferred": false,
-          "id": "c270a98fc05945c9",
-          "published_at": "2026-11-27T02:12:00Z",
-          "source_name": "bing.com",
-          "title": "SpaceX’s AI unit now out-earns Starlink, with Anthropic and Alphabet as anchors",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Fcryptobriefing.com%2Fspacex-ai-revenue-overtakes-starlink%2F&c=11422785768927897669&mkt=en-us"
-        }
-      ],
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "219cf0d32f193bd3",
-      "event_label": "其他动态",
-      "event_type": "other",
-      "headline": "SpaceX’s AI unit now out-earns Starlink, with Anthropic and Alphabet as anchors",
-      "importance_score": 47,
-      "latest_at": "2026-11-27T02:12:00Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Fcryptobriefing.com%2Fspacex-ai-revenue-overtakes-starlink%2F&c=11422785768927897669&mkt=en-us",
-      "source_count": 1,
-      "source_names": [
-        "bing.com"
-      ],
-      "started_at": "2026-11-27T02:12:00Z",
-      "summary": "SpaceX的其他动态事件，已汇集 1 篇报道、1 个来源。"
-    },
-    {
-      "article_count": 1,
-      "articles": [
-        {
-          "date_is_inferred": false,
-          "id": "92520d5edaa7313a",
-          "published_at": "2026-11-26T22:46:00Z",
-          "source_name": "bing.com",
-          "title": "Starlink Mobile Reached 3M+ Kazakh Users in “Cellular Dead Zones” in Under Two Months. Bad News for AST SpaceMobile",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Ffinance.yahoo.com%2Fmarkets%2Fstocks%2Farticles%2Fstarlink-mobile-reached-3m-kazakh-064605009.html&c=14280222591548409099&mkt=en-us"
-        }
-      ],
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "fc95251ee2eafaf7",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "Starlink Mobile Reached 3M+ Kazakh Users in “Cellular Dead Zones” in Under Two Months. Bad News for AST SpaceMobile",
-      "importance_score": 59,
-      "latest_at": "2026-11-26T22:46:00Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Ffinance.yahoo.com%2Fmarkets%2Fstocks%2Farticles%2Fstarlink-mobile-reached-3m-kazakh-064605009.html&c=14280222591548409099&mkt=en-us",
-      "source_count": 1,
-      "source_names": [
-        "bing.com"
-      ],
-      "started_at": "2026-11-26T22:46:00Z",
-      "summary": "SpaceX的发射与试验事件，已汇集 1 篇报道、1 个来源。"
-    },
-    {
-      "article_count": 11,
-      "articles": [
         {
           "date_is_inferred": false,
           "id": "9f738a51a8f82348",
@@ -510,9 +124,9 @@
       "event_type": "launch",
       "headline": "FCC green lights SpaceX’s plan to launch 1 million ‘Starmind’ data center satellites",
       "importance_score": 100,
-      "latest_at": "2026-11-26T20:21:00Z",
+      "latest_at": "2026-11-27T19:34:01Z",
       "latest_url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites",
-      "source_count": 9,
+      "source_count": 10,
       "source_names": [
         "BBC Sky at Night Magazine",
         "CNBC",
@@ -520,12 +134,513 @@
         "France 24",
         "Free Malaysia Today",
         "Spaceflight Now",
+        "TheDesk.net",
         "bing.com",
         "satellitetoday.com",
         "spacewatch.global"
       ],
       "started_at": "2026-11-25T12:17:00Z",
-      "summary": "SpaceX的发射与试验事件，已汇集 11 篇报道、9 个来源。"
+      "summary": "SpaceX的发射与试验事件，已汇集 12 篇报道、10 个来源。"
+    },
+    {
+      "article_count": 11,
+      "articles": [
+        {
+          "date_is_inferred": false,
+          "id": "9d64c850be372d27",
+          "published_at": "2026-11-27T18:28:46Z",
+          "source_name": "spaceq.ca",
+          "title": "FCC clears SpaceX Starmind data centre satellites to fly",
+          "url": "https://spaceq.ca/spacex-starmind-fcc-million-orbital-data-centres"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "1c0563f101a1d65d",
+          "published_at": "2026-11-27T13:29:49Z",
+          "source_name": "Nature World News",
+          "title": "FCC Approves SpaceX's Plan for Up to 1 Million Starmind Satellites, Alarming Astronomers Worldwide - Nature World News",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdjNNVWdacUEyRGgteEhUdlVNUEFBaHdpSV90dmlVVXM0bU9ETVFwZXUyYXRaUTJNVDljNDE5RjV3TVdMa1JIblktcEdqOHFzTURnM3NhLU01dkRmY3FWbW8xRmpwdDJMOEV2UWVmTm5ncVNjcUUwRnp5UEtNMTRaYXRhTFFoczNVVnNoeHc1YUk5UktKV2Fmc1dpTFJuSWlmdVZQeHU1aENsWld3ajVRMEN6RmpUZjdrTDNTMTFrRnhtbDA5SG9OS0xhSHExRGdzQkE4VWFVWUx0UHRrMExj?oc=5"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "a7d0401893d73902",
+          "published_at": "2026-11-26T22:40:55Z",
+          "source_name": "NASASpaceflight",
+          "title": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+          "url": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "adba7abfe5ad8b64",
+          "published_at": "2026-11-26T22:16:00Z",
+          "source_name": "DNE Africa",
+          "title": "SpaceX FCC approval clears 1mn-satellite AI data centre plan - DNE Africa",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpelZ6UWE3NmpCcjc4UkxtekVxZHEyU19jOUw3YzBrSklDbkw0N3ZaNFNNSk5HOV9jTU5UQmVTamxmaHIxdnFhX3JrMlZ3Z1V1Y2NZeklMMXRlMThHcU1Bb1J5cURnSHk4Nl9BS294aXc?oc=5"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "32dca25bd953bdb6",
+          "published_at": "2026-11-26T10:39:45Z",
+          "source_name": "Nacionale",
+          "title": "What is SpaceX Starmind? The million-satellite data center network the FCC just approved - Nacionale",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2tQWkZVdTRXM29LbjY4TmdiVlZkQ2dsMkd6bm0xLXhxY3hVU0NjcWU1RTJjN1lzQ2Eta3MyekQ2Z1ozSk9wanl1d1ViRENoLXFOUFE2SlRQRjI2ZmhpM21wWXdfZno1T0RfT21rY0pOSGFUR2t6aTJyWFc3VkMybzRKdjdJTC1WSm1IcUtXM1FOM2xBU0NKemJtdjJiNG9JN3RTb3d5aUpFeWdxcXRIX0QtdU0?oc=5"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "230d1aa627af9a35",
+          "published_at": "2026-11-26T07:56:02Z",
+          "source_name": "Tech Times",
+          "title": "SpaceX’s 1 Million-Satellite Plan Gets FCC Approval—What Will They Be Used For? - Tech Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3JYVFBpeUkzN01KSTdycXNNLW14Y0RsMmlLRldRY3hwb2FzMEhSdjBzYWxqTldOQkIzUWx6Q1JoUXA2T09ZSUdpajBYZGVEVF80Q1NIVXRscUtPOUJoTFltSFBSbzAyQTM2SHRSM1FrdnF6d3hPZ3ByR093Q0d3cGxocmFBVWVleU1RWWloSG9fLTc1OU9RamFQTzBPMTZXVzZIYUFUTXV0c3JLZ09JNC1sSndfYS12aGZXZE01N2Q5cVE?oc=5"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "892bf9f530ea24ce",
+          "published_at": "2026-11-25T18:49:15Z",
+          "source_name": "space.com",
+          "title": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "156f5251845821ea",
+          "published_at": "2026-11-25T18:49:15Z",
+          "source_name": "Space",
+          "title": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites - Space",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQS2NyX0J6T1I2cmJON2R3dVpwM0RFeGdEem9Yb1cyN0R1Ym04UktnRmZuRkJlOU5Mek5sanhRRmFVUHh5c1BkYllaREVmcVhxNVVLQWItUExGTktWc254VDlzMS1FSnZ5ZTFVUlh3S3M0MVA4cEItOWM5WC12RkhOa3JZR1R1bHhDbzlBM0lTd1RTNUZYaTBjRDZ4ZTd1V1EwcFcxR0ZrSkRBRmRCNVFkd25vZnlsSkhhRjJ2RlFJbzBYQlh3ODdOV0xEa3p1SldnaElMV21n?oc=5"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "2615673b56f90ee0",
+          "published_at": "2026-11-25T18:22:38Z",
+          "source_name": "arstechnica.com",
+          "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+          "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "2dd85bb09ff18b2f",
+          "published_at": "2026-11-25T13:44:00Z",
+          "source_name": "bing.com",
+          "title": "Stock Market Today, Nov. 25: SpaceX Gets Historic FCC Approval for 1 Million Satellites. Is This Its Next Growth Engine?",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b078796ccb5406494a18a09e75a57a2&url=https%3A%2F%2Fwww.fool.com%2Fcoverage%2Fstock-market-today%2F2026%2F11%2F25%2Fstock-market-today-nov-25-spacex-gets-historic-fcc-approval-for-1-million-satellites-is-this-its-next-growth-engine%2F&c=9962280373972079833&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "55a0894cd96bb60a",
+          "published_at": "2026-11-25T13:05:17Z",
+          "source_name": "bing.com",
+          "title": "FCC approves SpaceX plan for 1 million data center satellites",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b078796ccb5406494a18a09e75a57a2&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Ffcc-approves-spacex-plan-for-1-million-data-center-satellites%2Far-AA2ie0Lt&c=1467433669809769117&mkt=en-us"
+        }
+      ],
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "5d3490ce8617a4f5",
+      "event_label": "监管与政策",
+      "event_type": "regulation",
+      "headline": "FCC authorizes SpaceX to deploy up to 1 million Starmind AI satellites by 2040",
+      "importance_score": 100,
+      "latest_at": "2026-11-27T18:28:46Z",
+      "latest_url": "https://www.nasaspaceflight.com/2026/11/fcc-authorizes-spacex-1-million-starmind-2040",
+      "source_count": 10,
+      "source_names": [
+        "DNE Africa",
+        "NASASpaceflight",
+        "Nacionale",
+        "Nature World News",
+        "Space",
+        "Tech Times",
+        "arstechnica.com",
+        "bing.com",
+        "space.com",
+        "spaceq.ca"
+      ],
+      "started_at": "2026-11-25T13:05:17Z",
+      "summary": "SpaceX的监管与政策事件，已汇集 11 篇报道、10 个来源。"
+    },
+    {
+      "article_count": 6,
+      "articles": [
+        {
+          "date_is_inferred": false,
+          "id": "1339212de033f8f6",
+          "published_at": "2026-11-27T15:56:28Z",
+          "source_name": "The Jerusalem Post",
+          "title": "What environmental impacts would a million SpaceX satellites have on Earth, space? - explainer - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcHdOR3RJZVdGWFJFendzR2lxRUlFMVVLa0tzUk9tZXZmb2V0TllKS0xONVp3c0tNRTVZQmhuM2s0ajZrSENjOFhTWnloX3p1Qm5UZzVsZXdWRm0yVDJ4OGc0Z21Dd1V6MGZOb0dLRkdPb2dsYVRaM0VwMUI3VVMtSVo2TkN4QQ?oc=5"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "dbfeb6819db5f47b",
+          "published_at": "2026-11-27T07:49:52Z",
+          "source_name": "bing.com",
+          "title": "Explainer-A million satellites? What SpaceX's Starmind could mean for Earth and space",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a240f9b674a34a8ca66635e48b59c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fexplainer-a-million-satellites-what-spacexs-starmind-could-mean-for-earth-and-space%2Far-AA2in1a6&c=15883834065830059777&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "ea9066941d6398c9",
+          "published_at": "2026-11-27T07:05:55Z",
+          "source_name": "bing.com",
+          "title": "Explainer-A million satellites? What SpaceX's Starmind could mean for Earth and space",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fexplainer-a-million-satellites-what-spacex-s-starmind-could-mean-for-earth-and-space%2Far-AA2imyF3&c=10683842600800456419&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "3a7803de69a61efb",
+          "published_at": "2026-11-26T15:35:38Z",
+          "source_name": "CBC",
+          "title": "U.S. approves SpaceX plan to deploy 1 million satellites for data centres in space - CBC",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJTDdwWUgxcFFfWEZSUkFWOVBOVExBMXFabE9WMTBXWTVjRHAzYkgyUXdKdER5XzFwLUlQZW9FQkZoZnAzbHlhUEdpWUdoTUs1?oc=5"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "3023c964e934c503",
+          "published_at": "2026-11-26T15:31:59Z",
+          "source_name": "CBC",
+          "title": "U.S. approves SpaceX plan to deploy 1 million satellites for data centres in space - CBC",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbTYzTVR6aHp2d2VZN3FIYmUzQmdNelFuN1NhemhSRVp4dXBnQlpNbUhtb3d5NzB2TVRlTmM3bEhpaWlBNW53T3BTU0JOM2RFT05IdUEwNjFZUXZhT1RoWjdhbnlVV1RlSC1zMTZpRFlSSFdTMlZUS0M1MXlsOVQ2eEpxU2wwQQ?oc=5"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "b9014cfd93d18774",
+          "published_at": "2026-11-26T09:27:44Z",
+          "source_name": "BBC",
+          "title": "US approves SpaceX plan to send a million data satellites to space - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KMGNuQ0YwUmpnNHZpaThEbUQzVEhfZXB3ZnNpRk9Renc0bkVxQm9CbFNRU3lXTzlfYmlOT0R2aW1Bdkl2YmtsUXpETGs2bnZQNmtlSlMtdnRpamc?oc=5"
+        }
+      ],
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "89a695d098be82e7",
+      "event_label": "其他动态",
+      "event_type": "other",
+      "headline": "What environmental impacts would a million SpaceX satellites have on Earth, space? - explainer - The Jerusalem Post",
+      "importance_score": 99,
+      "latest_at": "2026-11-27T15:56:28Z",
+      "latest_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcHdOR3RJZVdGWFJFendzR2lxRUlFMVVLa0tzUk9tZXZmb2V0TllKS0xONVp3c0tNRTVZQmhuM2s0ajZrSENjOFhTWnloX3p1Qm5UZzVsZXdWRm0yVDJ4OGc0Z21Dd1V6MGZOb0dLRkdPb2dsYVRaM0VwMUI3VVMtSVo2TkN4QQ?oc=5",
+      "source_count": 4,
+      "source_names": [
+        "BBC",
+        "CBC",
+        "The Jerusalem Post",
+        "bing.com"
+      ],
+      "started_at": "2026-11-26T09:27:44Z",
+      "summary": "SpaceX的其他动态事件，已汇集 6 篇报道、4 个来源。"
+    },
+    {
+      "article_count": 1,
+      "articles": [
+        {
+          "date_is_inferred": false,
+          "id": "8a8b5f282136292b",
+          "published_at": "2026-11-27T12:27:31Z",
+          "source_name": "Sohu",
+          "title": "2026太空经济年度商业创新奖揭晓 银河航天等十个项目入选 - Sohu",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWpSeWVjVVo3LWhMTzFFWENwUWM2UC1XcElGb3FVdzVEcnBNLUx2eV93QnhoWVhNck9aS1NrZ05raGxxWFVla2xQOE8yOTBMZHhHallBUDRvWHh6ZEdjY3kyOVd0cFpqOXZtLUpNcER0SDBydjJEUjQ3d3NRWFkxWnBHMmE5Sm5C?oc=5"
+        }
+      ],
+      "company_id": "galaxyspace",
+      "company_name": "银河航天",
+      "event_id": "de0ac6a54a1584de",
+      "event_label": "其他动态",
+      "event_type": "other",
+      "headline": "2026太空经济年度商业创新奖揭晓 银河航天等十个项目入选 - Sohu",
+      "importance_score": 47,
+      "latest_at": "2026-11-27T12:27:31Z",
+      "latest_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdWpSeWVjVVo3LWhMTzFFWENwUWM2UC1XcElGb3FVdzVEcnBNLUx2eV93QnhoWVhNck9aS1NrZ05raGxxWFVla2xQOE8yOTBMZHhHallBUDRvWHh6ZEdjY3kyOVd0cFpqOXZtLUpNcER0SDBydjJEUjQ3d3NRWFkxWnBHMmE5Sm5C?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "Sohu"
+      ],
+      "started_at": "2026-11-27T12:27:31Z",
+      "summary": "银河航天的其他动态事件，已汇集 1 篇报道、1 个来源。"
+    },
+    {
+      "article_count": 1,
+      "articles": [
+        {
+          "date_is_inferred": false,
+          "id": "6e4d60765e2a4753",
+          "published_at": "2026-11-27T10:18:47Z",
+          "source_name": "Starlust.org",
+          "title": "Blue Origin's New Glenn 2027 return flight delayed by couple of weeks, according to CADENA - Starlust.org",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY1Z2X25XS0p3dmVfeTIwZFpma0dWVnFuQm4taGprYmFVMHZkQUF0SVJSRWNQeEtIQnE2OURnMUdUbHkxY3E5bHBkQzF1eS0zOGRiZDZiY3E2bE1fTl9VZ0MzalJWUlgzWFNmZlZxalBmMy1vUmlFVkxzejNjVUJUXzJkTUNSNzYyUUxtZGFfbE5pcVZC?oc=5"
+        }
+      ],
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_id": "4c2a81f0fcd54c8c",
+      "event_label": "其他动态",
+      "event_type": "other",
+      "headline": "Blue Origin's New Glenn 2027 return flight delayed by couple of weeks, according to CADENA - Starlust.org",
+      "importance_score": 47,
+      "latest_at": "2026-11-27T10:18:47Z",
+      "latest_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY1Z2X25XS0p3dmVfeTIwZFpma0dWVnFuQm4taGprYmFVMHZkQUF0SVJSRWNQeEtIQnE2OURnMUdUbHkxY3E5bHBkQzF1eS0zOGRiZDZiY3E2bE1fTl9VZ0MzalJWUlgzWFNmZlZxalBmMy1vUmlFVkxzejNjVUJUXzJkTUNSNzYyUUxtZGFfbE5pcVZC?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "Starlust.org"
+      ],
+      "started_at": "2026-11-27T10:18:47Z",
+      "summary": "Blue Origin的其他动态事件，已汇集 1 篇报道、1 个来源。"
+    },
+    {
+      "article_count": 5,
+      "articles": [
+        {
+          "date_is_inferred": false,
+          "id": "cb92f6ce800cf579",
+          "published_at": "2026-11-27T09:01:26Z",
+          "source_name": "Novinite.com",
+          "title": "Bulgaria's EnduroSat Books Two Dedicated Launches on Blue Origin's New Glenn Rocket - Novinite.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONFItdUR2RzNCMVhzLXBPTHA0ajBmQWkzdDlGYVRWaUNBb3VlWlBFM3lwcWRQYmZvZHVxLXp4MmduQVlYYzFtZ1pKY3dmRE1TckR5bURvWERld3VaUzVDLURtTWF2QVBtWG9nWTg3elFyNi1XLXdSVWItdVJNVXpyOHJCR1Y4ZWJ2Z3FVVGJHSGg4ellHeU05a3BOUUJqd2w1Z1cwTWdTZ3Z4Rjljd0FPcXBIUm16djdQSDdxOFAxalRoNmJIdmMw?oc=5"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "211cfbea527fb61d",
+          "published_at": "2026-11-25T21:15:12Z",
+          "source_name": "satellitetoday.com",
+          "title": "EnduroSat Buys 2 Dedicated Launches from Blue Origin",
+          "url": "https://www.satellitetoday.com/launch/2026/11/25/endurosat-buys-2-dedicated-launches-from-blue-origin"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "d7ba16a8fea4d3fe",
+          "published_at": "2026-11-25T19:20:09Z",
+          "source_name": "Blue Origin",
+          "title": "EnduroSat Signs Multi-Launch Agreement with Blue Origin for Dedicated New Glenn Missions for Its Customers - Blue Origin",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0RTJ0U2xqcmZlLXN1QUJMOXRGMDF3NHduQkNiMEJDYXNrNHZLYlFpUHEtMk5oaW45UF90LTRLajFMXzJFR0lVRElpLVkwR2ktd19IRWliREh0UG50YndBNnlHeHZ5bVVVcHkwTHRTaVF4U2NQNjJXMG53?oc=5"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "33937b74d0e5c639",
+          "published_at": "2026-11-25T11:00:00Z",
+          "source_name": "SpaceNews",
+          "title": "Satellite maker EnduroSat books two dedicated New Glenn launches - SpaceNews",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbjJha3pGWk5kdkJZa2Y4Q3ZsN0VaOWJ4bjBVMVNZZHpkaXM4aGYxazl2cnppVzZOTnVSZHIxOHZyVTQ3RmtPd3dTX3BjbXdSRHkwbXNmbHJkM3JaUWU1RlpWVmM3UlVQd3Bta09aYXRfOHhhaDF4dEwyN1Y1aUF5OHlWM3pnSy1paFE2ZWUwYUk?oc=5"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "7103442a8ed7ca62",
+          "published_at": "2026-11-25T03:00:00Z",
+          "source_name": "bing.com",
+          "title": "EnduroSat Signs Multi-Launch Agreement with Blue Origin for Dedicated New Glenn Missions for Its Customers",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b070983dae34e2c867907ff6ead16bc&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fendurosat-signs-multi-launch-agreement-110000833.html&c=10443232562075743863&mkt=en-us"
+        }
+      ],
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_id": "ad4bd3a5548aa676",
+      "event_label": "发射与试验",
+      "event_type": "launch",
+      "headline": "Bulgaria's EnduroSat Books Two Dedicated Launches on Blue Origin's New Glenn Rocket - Novinite.com",
+      "importance_score": 100,
+      "latest_at": "2026-11-27T09:01:26Z",
+      "latest_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONFItdUR2RzNCMVhzLXBPTHA0ajBmQWkzdDlGYVRWaUNBb3VlWlBFM3lwcWRQYmZvZHVxLXp4MmduQVlYYzFtZ1pKY3dmRE1TckR5bURvWERld3VaUzVDLURtTWF2QVBtWG9nWTg3elFyNi1XLXdSVWItdVJNVXpyOHJCR1Y4ZWJ2Z3FVVGJHSGg4ellHeU05a3BOUUJqd2w1Z1cwTWdTZ3Z4Rjljd0FPcXBIUm16djdQSDdxOFAxalRoNmJIdmMw?oc=5",
+      "source_count": 5,
+      "source_names": [
+        "Blue Origin",
+        "Novinite.com",
+        "SpaceNews",
+        "bing.com",
+        "satellitetoday.com"
+      ],
+      "started_at": "2026-11-25T03:00:00Z",
+      "summary": "Blue Origin的发射与试验事件，已汇集 5 篇报道、5 个来源。"
+    },
+    {
+      "article_count": 1,
+      "articles": [
+        {
+          "date_is_inferred": false,
+          "id": "871f75c0638d55c3",
+          "published_at": "2026-11-27T05:17:34Z",
+          "source_name": "bing.com",
+          "title": "Blue Origin's New Glenn static-fire test damages booster and launch pad",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a4a1d2d742ce8edb3189fac3cc03&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-static-fire-test-damages-booster-and-launch-pad%2Fvi-AA2aPpqt&c=15545104331825690412&mkt=en-us"
+        }
+      ],
+      "company_id": "blue_origin",
+      "company_name": "Blue Origin",
+      "event_id": "99762e1adadbc35d",
+      "event_label": "发射与试验",
+      "event_type": "launch",
+      "headline": "Blue Origin's New Glenn static-fire test damages booster and launch pad",
+      "importance_score": 59,
+      "latest_at": "2026-11-27T05:17:34Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a4a1d2d742ce8edb3189fac3cc03&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fblue-origin-s-new-glenn-static-fire-test-damages-booster-and-launch-pad%2Fvi-AA2aPpqt&c=15545104331825690412&mkt=en-us",
+      "source_count": 1,
+      "source_names": [
+        "bing.com"
+      ],
+      "started_at": "2026-11-27T05:17:34Z",
+      "summary": "Blue Origin的发射与试验事件，已汇集 1 篇报道、1 个来源。"
+    },
+    {
+      "article_count": 2,
+      "articles": [
+        {
+          "date_is_inferred": false,
+          "id": "a93a72deebeafd4d",
+          "published_at": "2026-11-27T03:32:12Z",
+          "source_name": "bing.com",
+          "title": "SpaceX loses key Starlink executive after decade-long stint as chief Michael Nicolls announces ‘significant org change’: report",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a240f9b674a34a8ca66635e48b59c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-loses-key-starlink-executive-after-decade-long-stint-as-chief-michael-nicolls-announces-significant-org-change-report%2Far-AA2imvsG&c=1835503645084592000&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "555e634f2eab9c9d",
+          "published_at": "2026-11-27T03:32:12Z",
+          "source_name": "bing.com",
+          "title": "SpaceX loses key Starlink executive after decade-long stint as chief Michael Nicolls announces ‘significant org change’: report",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-loses-key-starlink-executive-after-decade-long-stint-as-chief-michael-nicolls-announces-significant-org-change-report%2Far-AA2imvsG&c=1835503645084592000&mkt=en-us"
+        }
+      ],
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "80dc8fb28d2ee5e1",
+      "event_label": "公司治理",
+      "event_type": "corporate",
+      "headline": "SpaceX loses key Starlink executive after decade-long stint as chief Michael Nicolls announces ‘significant org change’: report",
+      "importance_score": 55,
+      "latest_at": "2026-11-27T03:32:12Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a240f9b674a34a8ca66635e48b59c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-loses-key-starlink-executive-after-decade-long-stint-as-chief-michael-nicolls-announces-significant-org-change-report%2Far-AA2imvsG&c=1835503645084592000&mkt=en-us",
+      "source_count": 1,
+      "source_names": [
+        "bing.com"
+      ],
+      "started_at": "2026-11-27T03:32:12Z",
+      "summary": "SpaceX的公司治理事件，已汇集 2 篇报道、1 个来源。"
+    },
+    {
+      "article_count": 2,
+      "articles": [
+        {
+          "date_is_inferred": false,
+          "id": "9f1fcc27576c1ee6",
+          "published_at": "2026-11-27T02:45:00Z",
+          "source_name": "bing.com",
+          "title": "Elon Musk Hopes All Teslas Will Get SpaceX’s Starlink Connectivity—Except in China, Where It’s ‘Illegal’: Says It Will Be Key for Unsupervised FSD",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a240f9b674a34a8ca66635e48b59c&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-hopes-teslas-spacex-104507393.html&c=5138644236082964790&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "075ea1b3a26feb1b",
+          "published_at": "2026-11-27T02:45:00Z",
+          "source_name": "bing.com",
+          "title": "Elon Musk Hopes All Teslas Will Get SpaceX’s Starlink Connectivity—Except in China, Where It’s ‘Illegal’: Says It Will Be Key for Unsupervised FSD",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-hopes-teslas-spacex-104507393.html&c=5138644236082964790&mkt=en-us"
+        }
+      ],
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "0a6d4f999d9e3e2d",
+      "event_label": "其他动态",
+      "event_type": "other",
+      "headline": "Elon Musk Hopes All Teslas Will Get SpaceX’s Starlink Connectivity—Except in China, Where It’s ‘Illegal’: Says It Will Be Key for Unsupervised FSD",
+      "importance_score": 55,
+      "latest_at": "2026-11-27T02:45:00Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a240f9b674a34a8ca66635e48b59c&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Felon-musk-hopes-teslas-spacex-104507393.html&c=5138644236082964790&mkt=en-us",
+      "source_count": 1,
+      "source_names": [
+        "bing.com"
+      ],
+      "started_at": "2026-11-27T02:45:00Z",
+      "summary": "SpaceX的其他动态事件，已汇集 2 篇报道、1 个来源。"
+    },
+    {
+      "article_count": 2,
+      "articles": [
+        {
+          "date_is_inferred": false,
+          "id": "c270a98fc05945c9",
+          "published_at": "2026-11-27T02:12:00Z",
+          "source_name": "bing.com",
+          "title": "SpaceX’s AI unit now out-earns Starlink, with Anthropic and Alphabet as anchors",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Fcryptobriefing.com%2Fspacex-ai-revenue-overtakes-starlink%2F&c=11422785768927897669&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "3e0f4cd7bb7359ab",
+          "published_at": "2026-11-27T02:12:00Z",
+          "source_name": "bing.com",
+          "title": "SpaceX’s AI unit now out-earns Starlink, with Anthropic and Alphabet as anchors",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a240f9b674a34a8ca66635e48b59c&url=https%3A%2F%2Fcryptobriefing.com%2Fspacex-ai-revenue-overtakes-starlink%2F&c=11422785768927897669&mkt=en-us"
+        }
+      ],
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "219cf0d32f193bd3",
+      "event_label": "其他动态",
+      "event_type": "other",
+      "headline": "SpaceX’s AI unit now out-earns Starlink, with Anthropic and Alphabet as anchors",
+      "importance_score": 55,
+      "latest_at": "2026-11-27T02:12:00Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Fcryptobriefing.com%2Fspacex-ai-revenue-overtakes-starlink%2F&c=11422785768927897669&mkt=en-us",
+      "source_count": 1,
+      "source_names": [
+        "bing.com"
+      ],
+      "started_at": "2026-11-27T02:12:00Z",
+      "summary": "SpaceX的其他动态事件，已汇集 2 篇报道、1 个来源。"
+    },
+    {
+      "article_count": 1,
+      "articles": [
+        {
+          "date_is_inferred": false,
+          "id": "15767bcba1f05834",
+          "published_at": "2026-11-26T23:37:00Z",
+          "source_name": "财联社",
+          "title": "10:44:26【阿里巴巴、上汽集团入股低轨卫星星座运营商垣信卫星】 - 财联社",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NNVJoNWRIWFRhNi15TVN1dU1jM0dPOWdKXzhWeUZWWVhteWUtQzQyWjJlLUM0dGNCb3ZYM3NvY1YtSG5LZl9GTmtuU05ZMTN6TmRzRWVVTmNYYUFNNUhEWTRMU3NORnlkV0pvZg?oc=5"
+        }
+      ],
+      "company_id": "yuanxin_satellite",
+      "company_name": "垣信卫星",
+      "event_id": "bcb660c74a9b274b",
+      "event_label": "其他动态",
+      "event_type": "other",
+      "headline": "10:44:26【阿里巴巴、上汽集团入股低轨卫星星座运营商垣信卫星】 - 财联社",
+      "importance_score": 47,
+      "latest_at": "2026-11-26T23:37:00Z",
+      "latest_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NNVJoNWRIWFRhNi15TVN1dU1jM0dPOWdKXzhWeUZWWVhteWUtQzQyWjJlLUM0dGNCb3ZYM3NvY1YtSG5LZl9GTmtuU05ZMTN6TmRzRWVVTmNYYUFNNUhEWTRMU3NORnlkV0pvZg?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "财联社"
+      ],
+      "started_at": "2026-11-26T23:37:00Z",
+      "summary": "垣信卫星的其他动态事件，已汇集 1 篇报道、1 个来源。"
+    },
+    {
+      "article_count": 1,
+      "articles": [
+        {
+          "date_is_inferred": false,
+          "id": "92520d5edaa7313a",
+          "published_at": "2026-11-26T22:46:00Z",
+          "source_name": "bing.com",
+          "title": "Starlink Mobile Reached 3M+ Kazakh Users in “Cellular Dead Zones” in Under Two Months. Bad News for AST SpaceMobile",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Ffinance.yahoo.com%2Fmarkets%2Fstocks%2Farticles%2Fstarlink-mobile-reached-3m-kazakh-064605009.html&c=14280222591548409099&mkt=en-us"
+        }
+      ],
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "fc95251ee2eafaf7",
+      "event_label": "发射与试验",
+      "event_type": "launch",
+      "headline": "Starlink Mobile Reached 3M+ Kazakh Users in “Cellular Dead Zones” in Under Two Months. Bad News for AST SpaceMobile",
+      "importance_score": 59,
+      "latest_at": "2026-11-26T22:46:00Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a49b3e8741a9b54cfe77059767e2&url=https%3A%2F%2Ffinance.yahoo.com%2Fmarkets%2Fstocks%2Farticles%2Fstarlink-mobile-reached-3m-kazakh-064605009.html&c=14280222591548409099&mkt=en-us",
+      "source_count": 1,
+      "source_names": [
+        "bing.com"
+      ],
+      "started_at": "2026-11-26T22:46:00Z",
+      "summary": "SpaceX的发射与试验事件，已汇集 1 篇报道、1 个来源。"
     },
     {
       "article_count": 1,
@@ -666,6 +781,124 @@
       ],
       "started_at": "2026-11-26T06:00:00Z",
       "summary": "SpaceX的其他动态事件，已汇集 1 篇报道、1 个来源。"
+    },
+    {
+      "article_count": 12,
+      "articles": [
+        {
+          "date_is_inferred": false,
+          "id": "be09c47266fc69c9",
+          "published_at": "2026-11-25T23:18:00Z",
+          "source_name": "bing.com",
+          "title": "SpaceX launches another group of Starlink satellites",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a2410e0cf42f88aaed99fd60294d0&url=https%3A%2F%2Fmynews13.com%2Ffl%2Forlando%2Fspace%2F2026%2F03%2F20%2Fspacex-starlink-10-62&c=15497693569753740975&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "a7a1dfbdccd1bd67",
+          "published_at": "2026-11-24T22:37:19Z",
+          "source_name": "space.com",
+          "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "ccaf8caf8fbe9061",
+          "published_at": "2026-11-24T08:03:32Z",
+          "source_name": "bing.com",
+          "title": "SpaceX plans $100B Starbase Louisiana, moves Starlink launches to Starship",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b05bc489f8a4cfaaac646eb42ee27a3&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-plans-100b-starbase-louisiana-moves-starlink-launches-to-starship%2Fvi-AA2bO9Rj&c=6570826447117102304&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "ef26883cc835db80",
+          "published_at": "2026-11-24T02:35:01Z",
+          "source_name": "bing.com",
+          "title": "SpaceX launches 26 Starlink satellites from foggy Vandenberg",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b05bc49869f45d381690312ce6effdc&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Ftechnology%2Fspace-exploration%2Fspacex-launches-26-starlink-satellites-from-foggy-vandenberg%2Fvi-AA2i6UKC&c=4752456314727696543&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "134fcfd3b86f4fb5",
+          "published_at": "2026-11-23T04:26:23Z",
+          "source_name": "bing.com",
+          "title": "Falcon 9 rocket reuse costs and SpaceX's Starlink revenue goals",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b046b72b0ad4025bd17dc14bea81b6d&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Ffalcon-9-rocket-reuse-costs-and-spacex-s-starlink-revenue-goals%2Fvi-AA2i2gvq&c=1974324971562056419&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "01a098f00c0976c5",
+          "published_at": "2026-11-23T04:26:23Z",
+          "source_name": "bing.com",
+          "title": "Falcon 9 rocket reuse costs and SpaceX's Starlink revenue goals",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0504d634944ca3a3a04de3e127bd69&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Ffalcon-9-rocket-reuse-costs-and-spacexs-starlink-revenue-goals%2Fvi-AA2i2gvq&c=10874838744065319210&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "5554c2191c2a375d",
+          "published_at": "2026-11-22T19:33:29Z",
+          "source_name": "bing.com",
+          "title": "SpaceX Falcon 9 launches 23 Starlink satellites, lands rocket successfully",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b03bd32a16f411d8dcc73dd9dce457a&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Ftechnology%2Fspace-exploration%2Fspacex-falcon-9-launches-23-starlink-satellites-lands-rocket-successfully%2Fvi-AA2i0iZW&c=6868617531152175279&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "b2c2cc44d16fc451",
+          "published_at": "2026-11-22T08:07:32Z",
+          "source_name": "bing.com",
+          "title": "How SpaceX plans to launch larger Starlink satellites with Starship",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b03726a3048429cbb618801feb9345e&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fhow-spacex-plans-to-launch-larger-starlink-satellites-with-starship%2Fvi-AA2hYI8G&c=9610774469945577750&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "098c909dbc5d3e49",
+          "published_at": "2026-11-22T08:07:32Z",
+          "source_name": "bing.com",
+          "title": "How SpaceX plans to launch larger Starlink satellites with Starship",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b03bd3150a64a67ad2f750cb0e39cb8&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fhow-spacex-plans-to-launch-larger-starlink-satellites-with-starship%2Fvi-AA2hYI8G&c=9610774469945577750&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "f877a981081c89e5",
+          "published_at": "2026-11-21T12:11:40Z",
+          "source_name": "bing.com",
+          "title": "How SpaceX develops new Starlink satellites and launch systems",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b02f0c274954e8eb9e63ddee28a5334&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fhow-spacex-develops-new-starlink-satellites-and-launch-systems%2Fvi-AA2hWoDg&c=5899684922611035887&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "ddaa9e780c5449bf",
+          "published_at": "2026-11-21T12:11:40Z",
+          "source_name": "bing.com",
+          "title": "How SpaceX develops new Starlink satellites and launch systems",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b03726a3048429cbb618801feb9345e&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fhow-spacex-develops-new-starlink-satellites-and-launch-systems%2Fvi-AA2hWoDg&c=5899684922611035887&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "89005a60f75a5f96",
+          "published_at": "2026-11-19T15:47:00Z",
+          "source_name": "Drive Tesla Canada",
+          "title": "Elon Musk Reveals Starlink V2 Launch Plans and New Rooftop Cell Tower - Drive Tesla Canada",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ELW5JT3hTaGdKVG9GUW1yc21BemFZSFQ0Sm10akpyRU5tYzFTaVFvWkdVUmFlS0NvWFpjLTlHeWZ6YWFTZ0w4S2RPZnJwSW5qZTcyaWtoMlpnd0NTQm9fdjlicUp2NjBMVFlYYg?oc=5"
+        }
+      ],
+      "company_id": "spacex",
+      "company_name": "SpaceX",
+      "event_id": "3ee8ddd25908cad1",
+      "event_label": "发射与试验",
+      "event_type": "launch",
+      "headline": "SpaceX launches another group of Starlink satellites",
+      "importance_score": 100,
+      "latest_at": "2026-11-25T23:18:00Z",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a2410e0cf42f88aaed99fd60294d0&url=https%3A%2F%2Fmynews13.com%2Ffl%2Forlando%2Fspace%2F2026%2F03%2F20%2Fspacex-starlink-10-62&c=15497693569753740975&mkt=en-us",
+      "source_count": 3,
+      "source_names": [
+        "Drive Tesla Canada",
+        "bing.com",
+        "space.com"
+      ],
+      "started_at": "2026-11-19T15:47:00Z",
+      "summary": "SpaceX的发射与试验事件，已汇集 12 篇报道、3 个来源。"
     },
     {
       "article_count": 1,
@@ -1117,116 +1350,6 @@
       "summary": "微纳星空的合作事件，已汇集 3 篇报道、2 个来源。"
     },
     {
-      "article_count": 11,
-      "articles": [
-        {
-          "date_is_inferred": false,
-          "id": "a7a1dfbdccd1bd67",
-          "published_at": "2026-11-24T22:37:19Z",
-          "source_name": "space.com",
-          "title": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "ccaf8caf8fbe9061",
-          "published_at": "2026-11-24T08:03:32Z",
-          "source_name": "bing.com",
-          "title": "SpaceX plans $100B Starbase Louisiana, moves Starlink launches to Starship",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b05bc489f8a4cfaaac646eb42ee27a3&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacex-plans-100b-starbase-louisiana-moves-starlink-launches-to-starship%2Fvi-AA2bO9Rj&c=6570826447117102304&mkt=en-us"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "ef26883cc835db80",
-          "published_at": "2026-11-24T02:35:01Z",
-          "source_name": "bing.com",
-          "title": "SpaceX launches 26 Starlink satellites from foggy Vandenberg",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b05bc49869f45d381690312ce6effdc&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Ftechnology%2Fspace-exploration%2Fspacex-launches-26-starlink-satellites-from-foggy-vandenberg%2Fvi-AA2i6UKC&c=4752456314727696543&mkt=en-us"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "134fcfd3b86f4fb5",
-          "published_at": "2026-11-23T04:26:23Z",
-          "source_name": "bing.com",
-          "title": "Falcon 9 rocket reuse costs and SpaceX's Starlink revenue goals",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b046b72b0ad4025bd17dc14bea81b6d&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Ffalcon-9-rocket-reuse-costs-and-spacex-s-starlink-revenue-goals%2Fvi-AA2i2gvq&c=1974324971562056419&mkt=en-us"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "01a098f00c0976c5",
-          "published_at": "2026-11-23T04:26:23Z",
-          "source_name": "bing.com",
-          "title": "Falcon 9 rocket reuse costs and SpaceX's Starlink revenue goals",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0504d634944ca3a3a04de3e127bd69&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Ffalcon-9-rocket-reuse-costs-and-spacexs-starlink-revenue-goals%2Fvi-AA2i2gvq&c=10874838744065319210&mkt=en-us"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "5554c2191c2a375d",
-          "published_at": "2026-11-22T19:33:29Z",
-          "source_name": "bing.com",
-          "title": "SpaceX Falcon 9 launches 23 Starlink satellites, lands rocket successfully",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b03bd32a16f411d8dcc73dd9dce457a&url=https%3A%2F%2Fwww.msn.com%2Fen-gb%2Ftechnology%2Fspace-exploration%2Fspacex-falcon-9-launches-23-starlink-satellites-lands-rocket-successfully%2Fvi-AA2i0iZW&c=6868617531152175279&mkt=en-us"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "b2c2cc44d16fc451",
-          "published_at": "2026-11-22T08:07:32Z",
-          "source_name": "bing.com",
-          "title": "How SpaceX plans to launch larger Starlink satellites with Starship",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b03726a3048429cbb618801feb9345e&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fhow-spacex-plans-to-launch-larger-starlink-satellites-with-starship%2Fvi-AA2hYI8G&c=9610774469945577750&mkt=en-us"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "098c909dbc5d3e49",
-          "published_at": "2026-11-22T08:07:32Z",
-          "source_name": "bing.com",
-          "title": "How SpaceX plans to launch larger Starlink satellites with Starship",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b03bd3150a64a67ad2f750cb0e39cb8&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fhow-spacex-plans-to-launch-larger-starlink-satellites-with-starship%2Fvi-AA2hYI8G&c=9610774469945577750&mkt=en-us"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "f877a981081c89e5",
-          "published_at": "2026-11-21T12:11:40Z",
-          "source_name": "bing.com",
-          "title": "How SpaceX develops new Starlink satellites and launch systems",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b02f0c274954e8eb9e63ddee28a5334&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fhow-spacex-develops-new-starlink-satellites-and-launch-systems%2Fvi-AA2hWoDg&c=5899684922611035887&mkt=en-us"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "ddaa9e780c5449bf",
-          "published_at": "2026-11-21T12:11:40Z",
-          "source_name": "bing.com",
-          "title": "How SpaceX develops new Starlink satellites and launch systems",
-          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b03726a3048429cbb618801feb9345e&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fhow-spacex-develops-new-starlink-satellites-and-launch-systems%2Fvi-AA2hWoDg&c=5899684922611035887&mkt=en-us"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "89005a60f75a5f96",
-          "published_at": "2026-11-19T15:47:00Z",
-          "source_name": "Drive Tesla Canada",
-          "title": "Elon Musk Reveals Starlink V2 Launch Plans and New Rooftop Cell Tower - Drive Tesla Canada",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ELW5JT3hTaGdKVG9GUW1yc21BemFZSFQ0Sm10akpyRU5tYzFTaVFvWkdVUmFlS0NvWFpjLTlHeWZ6YWFTZ0w4S2RPZnJwSW5qZTcyaWtoMlpnd0NTQm9fdjlicUp2NjBMVFlYYg?oc=5"
-        }
-      ],
-      "company_id": "spacex",
-      "company_name": "SpaceX",
-      "event_id": "926d2650c65870a8",
-      "event_label": "发射与试验",
-      "event_type": "launch",
-      "headline": "SpaceX launches secretive spy satellites from California for US Space Force (video)",
-      "importance_score": 100,
-      "latest_at": "2026-11-24T22:37:19Z",
-      "latest_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-california-for-us-space-force-video",
-      "source_count": 3,
-      "source_names": [
-        "Drive Tesla Canada",
-        "bing.com",
-        "space.com"
-      ],
-      "started_at": "2026-11-19T15:47:00Z",
-      "summary": "SpaceX的发射与试验事件，已汇集 11 篇报道、3 个来源。"
-    },
-    {
       "article_count": 1,
       "articles": [
         {
@@ -1407,8 +1530,44 @@
       "summary": "SpaceX的发射与试验事件，已汇集 1 篇报道、1 个来源。"
     },
     {
-      "article_count": 5,
+      "article_count": 1,
       "articles": [
+        {
+          "date_is_inferred": false,
+          "id": "89eb81e54731cb85",
+          "published_at": "2026-11-24T08:14:55Z",
+          "source_name": "集微网",
+          "title": "蓝箭航天签署10亿美元火箭发射合同，2026年第二季度琥珀平台入口量同比激增45% - 集微网",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5WU9rcnotNFVfY2xoSDd5M0t0b1ZUTTBMU3J6MVhQWTROYkVBVjRrTlpLN25rMUxVaU44aUd3QmdkOTl0ZUxzb0pSQ0NWUkFGa21CVWU3SDJLajVyeUlIRU5R?oc=5"
+        }
+      ],
+      "company_id": "landspace",
+      "company_name": "蓝箭航天",
+      "event_id": "64f9e0ace32568e6",
+      "event_label": "发射与试验",
+      "event_type": "launch",
+      "headline": "蓝箭航天签署10亿美元火箭发射合同，2026年第二季度琥珀平台入口量同比激增45% - 集微网",
+      "importance_score": 59,
+      "latest_at": "2026-11-24T08:14:55Z",
+      "latest_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5WU9rcnotNFVfY2xoSDd5M0t0b1ZUTTBMU3J6MVhQWTROYkVBVjRrTlpLN25rMUxVaU44aUd3QmdkOTl0ZUxzb0pSQ0NWUkFGa21CVWU3SDJLajVyeUlIRU5R?oc=5",
+      "source_count": 1,
+      "source_names": [
+        "集微网"
+      ],
+      "started_at": "2026-11-24T08:14:55Z",
+      "summary": "蓝箭航天的发射与试验事件，已汇集 1 篇报道、1 个来源。"
+    },
+    {
+      "article_count": 6,
+      "articles": [
+        {
+          "date_is_inferred": false,
+          "id": "bca731dd30276c7e",
+          "published_at": "2026-11-24T08:10:00Z",
+          "source_name": "bing.com",
+          "title": "Satellite Internet Market Size, Share, Trends, and Growth Forecast by Frequency Band, Industry, and Region, 2026-2033 | LEO Constellations Propel 15.1% CAGR to USD 35.74 Billion",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a245a947e4bf1a199ce4e318bd884&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fsatellite-internet-market-size-share-160900183.html&c=7304328977937595623&mkt=en-us"
+        },
         {
           "date_is_inferred": false,
           "id": "7a5d305a5a407d1c",
@@ -1456,18 +1615,18 @@
       "event_label": "其他动态",
       "event_type": "other",
       "headline": "Satellite Internet Market Size, Share, Trends, and Growth Forecast by Frequency Band, Industry, and Region, 2026-2033 | LEO Constellations Propel 15.1% CAGR to USD 35.74 Billion",
-      "importance_score": 79,
+      "importance_score": 87,
       "latest_at": "2026-11-24T08:10:00Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a4e596324c938c7b31ae35df9982&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fsatellite-internet-market-size-share-160900183.html&c=7304328977937595623&mkt=en-us",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a245a947e4bf1a199ce4e318bd884&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Farticles%2Fsatellite-internet-market-size-share-160900183.html&c=7304328977937595623&mkt=en-us",
       "source_count": 1,
       "source_names": [
         "bing.com"
       ],
       "started_at": "2026-11-24T08:10:00Z",
-      "summary": "银河航天的其他动态事件，已汇集 5 篇报道、1 个来源。"
+      "summary": "银河航天的其他动态事件，已汇集 6 篇报道、1 个来源。"
     },
     {
-      "article_count": 7,
+      "article_count": 8,
       "articles": [
         {
           "date_is_inferred": false,
@@ -1492,6 +1651,14 @@
           "source_name": "bing.com",
           "title": "Why Amazon’s rival to Starlink is struggling to catch up with SpaceX",
           "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b078796ccb5406494a18a09e75a57a2&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fwhy-amazon-s-rival-to-starlink-is-struggling-to-catch-up-with-spacex%2Far-AA2i4wKj&c=12294026922986843711&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "e912cd343a5d83f3",
+          "published_at": "2026-11-23T17:00:00Z",
+          "source_name": "bing.com",
+          "title": "Why Amazon’s rival to Starlink is struggling to catch up with SpaceX",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a240f9b674a34a8ca66635e48b59c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Ftech-companies%2Fwhy-amazon-s-rival-to-starlink-is-struggling-to-catch-up-with-spacex%2Far-AA2i4wKj&c=4142950229562403484&mkt=en-us"
         },
         {
           "date_is_inferred": false,
@@ -1532,7 +1699,7 @@
       "event_label": "其他动态",
       "event_type": "other",
       "headline": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX",
-      "importance_score": 95,
+      "importance_score": 100,
       "latest_at": "2026-11-24T06:22:00Z",
       "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b08d8f49f6d4c2da3e281ba6da1876a&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fwhy-amazon-s-rival-to-starlink-is-struggling-to-catch-up-with-spacex%2Far-AA2i4wKj&c=12294026922986843711&mkt=en-us",
       "source_count": 1,
@@ -1540,7 +1707,7 @@
         "bing.com"
       ],
       "started_at": "2026-11-23T17:00:00Z",
-      "summary": "SpaceX的其他动态事件，已汇集 7 篇报道、1 个来源。"
+      "summary": "SpaceX的其他动态事件，已汇集 8 篇报道、1 个来源。"
     },
     {
       "article_count": 1,
@@ -1689,8 +1856,8 @@
           "date_is_inferred": false,
           "id": "3caedeb66520a68f",
           "published_at": "2026-11-23T13:50:55Z",
-          "source_name": "东方财富网",
-          "title": "火箭已开始批量化生产？中科宇航最新通报 - 东方财富网",
+          "source_name": "东方财富",
+          "title": "火箭已开始批量化生产？中科宇航最新通报 - 东方财富",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiUVRLUTRBMC1WRTZaYmhmbndtM29fRVpETjBfMHc0dmh6VkRYSXQ2U25yVjJOMXZrNnFQUndoNGtvd19yd3lRd005X2x3N2NRb1J5V3gtQ0VYVDh4SjRmZ2xHeTRtdw?oc=5"
         },
         {
@@ -1707,14 +1874,14 @@
       "event_id": "e3e932d353b78f92",
       "event_label": "其他动态",
       "event_type": "other",
-      "headline": "火箭已开始批量化生产？中科宇航最新通报 - 东方财富网",
+      "headline": "火箭已开始批量化生产？中科宇航最新通报 - 东方财富",
       "importance_score": 59,
       "latest_at": "2026-11-23T13:50:55Z",
       "latest_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiUVRLUTRBMC1WRTZaYmhmbndtM29fRVpETjBfMHc0dmh6VkRYSXQ2U25yVjJOMXZrNnFQUndoNGtvd19yd3lRd005X2x3N2NRb1J5V3gtQ0VYVDh4SjRmZ2xHeTRtdw?oc=5",
       "source_count": 2,
       "source_names": [
         "Sohu",
-        "东方财富网"
+        "东方财富"
       ],
       "started_at": "2026-11-23T13:41:22Z",
       "summary": "中科宇航的其他动态事件，已汇集 2 篇报道、2 个来源。"
@@ -2115,7 +2282,7 @@
       "summary": "SpaceX的发射与试验事件，已汇集 2 篇报道、2 个来源。"
     },
     {
-      "article_count": 40,
+      "article_count": 41,
       "articles": [
         {
           "date_is_inferred": false,
@@ -2375,6 +2542,14 @@
         },
         {
           "date_is_inferred": false,
+          "id": "5a88a88cf95570de",
+          "published_at": "2026-11-20T05:03:09Z",
+          "source_name": "bing.com",
+          "title": "Google picks Blue Origin’s New Glenn to launch AI satellites from Florida",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a2417e9ec43cc94addaacea237487&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Fgoogle-picks-blue-origin-s-new-glenn-to-launch-ai-satellites-from-florida%2Far-AA2hRasg&c=10532027579878539267&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
           "id": "fa135b4f64fa69a9",
           "published_at": "2026-11-20T04:34:20Z",
           "source_name": "bing.com",
@@ -2456,7 +2631,7 @@
         "bing.com"
       ],
       "started_at": "2026-11-19T09:38:44Z",
-      "summary": "Blue Origin的发射与试验事件，已汇集 40 篇报道、5 个来源。"
+      "summary": "Blue Origin的发射与试验事件，已汇集 41 篇报道、5 个来源。"
     },
     {
       "article_count": 10,
@@ -3104,7 +3279,7 @@
         {
           "date_is_inferred": false,
           "id": "a7662f73e8d9f024",
-          "published_at": "2026-11-19T23:50:32Z",
+          "published_at": "2026-11-20T00:39:00Z",
           "source_name": "京报网",
           "title": "视频丨朱雀三号回收发动机再次点火试车，全过程记录 - 京报网",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qeWw0NW5TY29XVHRsZmtOX0ozOGxYaF9RT3pGMjlzNUFpd0treGdXQnI0eXBiS1dua0tEZ0s4YU5vOVpNRHVWOThhRmNBZ1l4eTNhNnAwVVRfVm9ySzhuU01yMmpKVV9Db0lFSkVTWWQ4UQ?oc=5"
@@ -3112,7 +3287,7 @@
       ],
       "company_id": "landspace",
       "company_name": "蓝箭航天",
-      "event_id": "889be74ee464b068",
+      "event_id": "e092f78eda65e827",
       "event_label": "其他动态",
       "event_type": "other",
       "headline": "[共同关注]朱雀三号9台回收发动机全部完成验收试车 独家探访：回收火箭发动机如何再次使用？ - 央视网",
@@ -3126,7 +3301,7 @@
         "第一财经",
         "财富号"
       ],
-      "started_at": "2026-11-19T23:50:32Z",
+      "started_at": "2026-11-20T00:39:00Z",
       "summary": "蓝箭航天的其他动态事件，已汇集 5 篇报道、4 个来源。"
     },
     {
@@ -3949,7 +4124,7 @@
       "summary": "SpaceX的发射与试验事件，已汇集 1 篇报道、1 个来源。"
     },
     {
-      "article_count": 31,
+      "article_count": 32,
       "articles": [
         {
           "date_is_inferred": false,
@@ -3990,14 +4165,6 @@
           "source_name": "SpaceNews",
           "title": "New Glenn to launch Project Suncatcher data center satellites for Google - SpaceNews",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMzgtT2xLUHlWeVV0RW9PY2tUV1Z4bFJmc0tvVFBMSkZPek9tS1VZSTQ1MFlObzhTc3ZJZ21vMDh0LXNORWRlVF94RUpKbTZWQVlUalJxMmNramY5SGJqWml4dndjU0VRVmM4VnNLT1dNNHNoM2FGUV9ZdFNPUHFoX2tYbHJHcUNuSDFaZGZYb1VWNTc5WEw0VDd2MA?oc=5"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "98d457d0fb09f303",
-          "published_at": "2026-11-19T14:22:37Z",
-          "source_name": "Reuters",
-          "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3VqbnV1MzJhUTVfQzlfY2kyX2gzdk1FU0lyNU15dWhzVk40ZGNtRFlPaUFlS0hYeEhZQ0trUkdMUV9OQmIwZTE5aWliLVVYX0Faa2cxUUpjdWw2TFE5OTBCSnh6d3BqWnA0Znc1MV82SnpMdGZVQzRPXzVXcDV5X0hrckZ0TklGQlJmTTdiOFdob19wajZDT2dnUnlhNEZtVkhKMllQZ3R0U3VhOHdOQTl6WU5kRTNieHZqWVIyQlRERms?oc=5"
         },
         {
           "date_is_inferred": false,
@@ -4094,6 +4261,14 @@
           "source_name": "bing.com",
           "title": "Google selects Blue Origin’s New Glenn for Project Suncatcher",
           "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b011cf7b1f74be6a20ea3719a7c6c6c&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Fai%2Farticles%2Fgoogle-selects-blue-origin-glenn-210613870.html&c=8388539264770403201&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "6ca749f0af9a8375",
+          "published_at": "2026-11-19T13:06:00Z",
+          "source_name": "bing.com",
+          "title": "Google selects Blue Origin’s New Glenn for Project Suncatcher",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a2417e9ec43cc94addaacea237487&url=https%3A%2F%2Ffinance.yahoo.com%2Ftechnology%2Fai%2Farticles%2Fgoogle-selects-blue-origin-glenn-210613870.html&c=8388539264770403201&mkt=en-us"
         },
         {
           "date_is_inferred": false,
@@ -4198,6 +4373,14 @@
           "source_name": "bing.com",
           "title": "Google Selects Blue Origin’s New Glenn Rocket for 2029 AI Satellite Launch",
           "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b021b78137f42d19798b4281bce2da0&url=https%3A%2F%2Fsatnews.com%2F2026%2F11%2F19%2Fgoogle-selects-blue-origins-new-glenn-rocket-for-2029-ai-satellite-launch%2F&c=5845433319235801851&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "98d457d0fb09f303",
+          "published_at": "2026-11-19T08:00:00Z",
+          "source_name": "Reuters",
+          "title": "Google picks Bezos' Blue Origin to launch AI computing satellites in 2029 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3VqbnV1MzJhUTVfQzlfY2kyX2gzdk1FU0lyNU15dWhzVk40ZGNtRFlPaUFlS0hYeEhZQ0trUkdMUV9OQmIwZTE5aWliLVVYX0Faa2cxUUpjdWw2TFE5OTBCSnh6d3BqWnA0Znc1MV82SnpMdGZVQzRPXzVXcDV5X0hrckZ0TklGQlJmTTdiOFdob19wajZDT2dnUnlhNEZtVkhKMllQZ3R0U3VhOHdOQTl6WU5kRTNieHZqWVIyQlRERms?oc=5"
         }
       ],
       "company_id": "blue_origin",
@@ -4224,8 +4407,8 @@
         "satellitetoday.com",
         "satnews.com"
       ],
-      "started_at": "2026-11-19T08:42:00Z",
-      "summary": "Blue Origin的发射与试验事件，已汇集 31 篇报道、12 个来源。"
+      "started_at": "2026-11-19T08:00:00Z",
+      "summary": "Blue Origin的发射与试验事件，已汇集 32 篇报道、12 个来源。"
     },
     {
       "article_count": 1,
@@ -4426,7 +4609,7 @@
       "summary": "垣信卫星的其他动态事件，已汇集 1 篇报道、1 个来源。"
     },
     {
-      "article_count": 17,
+      "article_count": 19,
       "articles": [
         {
           "date_is_inferred": false,
@@ -4510,6 +4693,14 @@
         },
         {
           "date_is_inferred": false,
+          "id": "740c491183408cfb",
+          "published_at": "2026-11-19T12:55:00Z",
+          "source_name": "bing.com",
+          "title": "ULA Clears Blue Origin BE-4 Engines, Focuses Vulcan Failure Probe on Core Stage Fuel Supply",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a2417ec9245068ced7e4a0a4afb1e&url=https%3A%2F%2Fsatnews.com%2F2026%2F11%2F19%2Fula-clears-blue-origin-be-4-engines-focuses-vulcan-failure-probe-on-core-stage-fuel-supply%2F&c=6762201187265378365&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
           "id": "59acea556044a6a7",
           "published_at": "2026-11-19T12:55:00Z",
           "source_name": "bing.com",
@@ -4558,6 +4749,14 @@
         },
         {
           "date_is_inferred": false,
+          "id": "43eb357e7d604e17",
+          "published_at": "2026-11-18T11:16:00Z",
+          "source_name": "bing.com",
+          "title": "ULA: Vulcan failure linked to rocket, not Blue Origin-built engines",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a2417ec9245068ced7e4a0a4afb1e&url=https%3A%2F%2Fwarriorswire.usatoday.com%2Fstory%2Ftech%2Fscience%2Fspace%2F2026%2F11%2F18%2Fula-vulcan-anomaly-linked-to-rocket-not-blue-origin-be-4-engines-on-amazon-leo-1-mission-in-florida%2F92843945007%2F&c=2459430536706619293&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
           "id": "06307b2a9e876893",
           "published_at": "2026-11-18T11:16:00Z",
           "source_name": "bing.com",
@@ -4580,7 +4779,7 @@
         "bing.com"
       ],
       "started_at": "2026-11-18T11:16:00Z",
-      "summary": "Blue Origin的其他动态事件，已汇集 17 篇报道、2 个来源。"
+      "summary": "Blue Origin的其他动态事件，已汇集 19 篇报道、2 个来源。"
     },
     {
       "article_count": 3,
@@ -4870,7 +5069,7 @@
       "summary": "蓝箭航天的其他动态事件，已汇集 1 篇报道、1 个来源。"
     },
     {
-      "article_count": 28,
+      "article_count": 29,
       "articles": [
         {
           "date_is_inferred": false,
@@ -4911,6 +5110,14 @@
           "source_name": "bing.com",
           "title": "Main booster, but not Blue Origin’s BE-4 engines, ID’d as source of Vulcan launch failure, ULA says",
           "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b08d8fac019448599ba33ff6c236692&url=https%3A%2F%2Fwww.orlandosentinel.com%2F2026%2F11%2F18%2Fmain-booster-could-be-source-of-vulcan-launch-failure-ula-says%2F&c=12400707099629330560&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "058600e0f8d4b1c9",
+          "published_at": "2026-11-18T08:48:00Z",
+          "source_name": "bing.com",
+          "title": "Main booster, but not Blue Origin’s BE-4 engines, ID’d as source of Vulcan launch failure, ULA says",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a2417ec9245068ced7e4a0a4afb1e&url=https%3A%2F%2Fwww.orlandosentinel.com%2F2026%2F11%2F18%2Fmain-booster-could-be-source-of-vulcan-launch-failure-ula-says%2F&c=12400707099629330560&mkt=en-us"
         },
         {
           "date_is_inferred": false,
@@ -5113,7 +5320,7 @@
         "bing.com"
       ],
       "started_at": "2026-11-17T02:00:00Z",
-      "summary": "Blue Origin的发射与试验事件，已汇集 28 篇报道、3 个来源。"
+      "summary": "Blue Origin的发射与试验事件，已汇集 29 篇报道、3 个来源。"
     },
     {
       "article_count": 8,
@@ -5262,8 +5469,16 @@
       "summary": "中国星网的其他动态事件，已汇集 1 篇报道、1 个来源。"
     },
     {
-      "article_count": 17,
+      "article_count": 18,
       "articles": [
+        {
+          "date_is_inferred": false,
+          "id": "deea20af8aed2661",
+          "published_at": "2026-11-18T14:00:00Z",
+          "source_name": "bing.com",
+          "title": "The Future of Communication Infrastructure Transformed by Satellite-5G Integration | SpaceX",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a24102c5d43169db949d9b26a94ff&url=https%3A%2F%2Fnote.com%2Fspace_report%2Fn%2Fn6beb12f6c231%3Fhl%3Den&c=9240394655479560227&mkt=en-us"
+        },
         {
           "date_is_inferred": false,
           "id": "de85bad55e504c68",
@@ -5409,13 +5624,13 @@
       "headline": "The Future of Communication Infrastructure Transformed by Satellite-5G Integration | SpaceX",
       "importance_score": 100,
       "latest_at": "2026-11-18T14:00:00Z",
-      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b011cf136f44e71aa7a444601448b15&url=https%3A%2F%2Fnote.com%2Fspace_report%2Fn%2Fn6beb12f6c231%3Fhl%3Den&c=9240394655479560227&mkt=en-us",
+      "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a24102c5d43169db949d9b26a94ff&url=https%3A%2F%2Fnote.com%2Fspace_report%2Fn%2Fn6beb12f6c231%3Fhl%3Den&c=9240394655479560227&mkt=en-us",
       "source_count": 1,
       "source_names": [
         "bing.com"
       ],
       "started_at": "2026-11-18T14:00:00Z",
-      "summary": "SpaceX的其他动态事件，已汇集 17 篇报道、1 个来源。"
+      "summary": "SpaceX的其他动态事件，已汇集 18 篇报道、1 个来源。"
     },
     {
       "article_count": 1,
@@ -5592,7 +5807,7 @@
       "summary": "SpaceX的其他动态事件，已汇集 1 篇报道、1 个来源。"
     },
     {
-      "article_count": 3,
+      "article_count": 4,
       "articles": [
         {
           "date_is_inferred": false,
@@ -5612,6 +5827,14 @@
         },
         {
           "date_is_inferred": false,
+          "id": "31ce2370620e7ac0",
+          "published_at": "2026-11-18T10:01:59Z",
+          "source_name": "bing.com",
+          "title": "Latest findings point to fuel supply, not Blue Origin’s engines, in loss of Amazon Leo satellites",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a2417ec9245068ced7e4a0a4afb1e&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Flatest-findings-point-to-fuel-supply-not-blue-origin-s-engines-in-loss-of-amazon-leo-satellites%2Far-AA2hI2BB&c=9017630582367552355&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
           "id": "2510c41c8f23d374",
           "published_at": "2026-11-18T10:01:59Z",
           "source_name": "bing.com",
@@ -5625,7 +5848,7 @@
       "event_label": "发射与试验",
       "event_type": "launch",
       "headline": "Latest findings point to fuel supply, not Blue Origin’s engines, in loss of Amazon Leo satellites",
-      "importance_score": 75,
+      "importance_score": 83,
       "latest_at": "2026-11-18T10:01:59Z",
       "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b08d8fac019448599ba33ff6c236692&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Flatest-findings-point-to-fuel-supply-not-blue-origin-s-engines-in-loss-of-amazon-leo-satellites%2Far-AA2hI2BB&c=9017630582367552355&mkt=en-us",
       "source_count": 1,
@@ -5633,7 +5856,7 @@
         "bing.com"
       ],
       "started_at": "2026-11-18T10:01:59Z",
-      "summary": "Blue Origin的发射与试验事件，已汇集 3 篇报道、1 个来源。"
+      "summary": "Blue Origin的发射与试验事件，已汇集 4 篇报道、1 个来源。"
     },
     {
       "article_count": 2,
@@ -6967,7 +7190,7 @@
       "summary": "SpaceX的其他动态事件，已汇集 9 篇报道、5 个来源。"
     },
     {
-      "article_count": 137,
+      "article_count": 139,
       "articles": [
         {
           "date_is_inferred": false,
@@ -6984,6 +7207,14 @@
           "source_name": "bing.com",
           "title": "SpaceX Starship Put Up More Starlink Capacity Than Falcon 9 Last 6 Weeks",
           "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6afba95a716c4b1ebfd2a2c406a753e6&url=https%3A%2F%2Fwww.nextbigfuture.com%2F2026%2F11%2Fspacex-starship-put-up-more-starlink-capacity-than-falcon-9-last-6-weeks.html&c=2598369309931204354&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "dcb4bc99dd9660a2",
+          "published_at": "2026-11-14T12:22:00Z",
+          "source_name": "bing.com",
+          "title": "SpaceX Starship Put Up More Starlink Capacity Than Falcon 9 Last 6 Weeks",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a2410e0cf42f88aaed99fd60294d0&url=https%3A%2F%2Fwww.nextbigfuture.com%2F2026%2F11%2Fspacex-starship-put-up-more-starlink-capacity-than-falcon-9-last-6-weeks.html&c=2598369309931204354&mkt=en-us"
         },
         {
           "date_is_inferred": false,
@@ -7272,6 +7503,14 @@
           "source_name": "bing.com",
           "title": "SpaceX launches two dozen Starlink satellites",
           "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6af8556523104218ba7c3785797433ef&url=https%3A%2F%2Fmynews13.com%2Ffl%2Forlando%2Fspace%2F2024%2F02%2F24%2Fspacex-starlink-mission-6-39&c=9775474338321877422&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "4dd26a0d3aab3334",
+          "published_at": "2026-11-13T18:38:00Z",
+          "source_name": "bing.com",
+          "title": "Despite forecast, SpaceX launches Starlink satellites",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a2410e0cf42f88aaed99fd60294d0&url=https%3A%2F%2Fmynews13.com%2Ffl%2Forlando%2Fspace%2F2026%2F01%2F14%2Fspacex-starlink-6-98&c=8846773725629360305&mkt=en-us"
         },
         {
           "date_is_inferred": false,
@@ -8096,7 +8335,7 @@
         "صوت الإمارات"
       ],
       "started_at": "2026-10-30T08:47:00Z",
-      "summary": "SpaceX的发射与试验事件，已汇集 137 篇报道、17 个来源。"
+      "summary": "SpaceX的发射与试验事件，已汇集 139 篇报道、17 个来源。"
     },
     {
       "article_count": 1,
@@ -8371,7 +8610,7 @@
       "summary": "SpaceX的发射与试验事件，已汇集 2 篇报道、2 个来源。"
     },
     {
-      "article_count": 3,
+      "article_count": 4,
       "articles": [
         {
           "date_is_inferred": false,
@@ -8391,6 +8630,14 @@
         },
         {
           "date_is_inferred": false,
+          "id": "0d7e5385e1303caa",
+          "published_at": "2026-11-14T16:16:00Z",
+          "source_name": "bing.com",
+          "title": "SpaceX (SPCX) Curbs Ukraine Starshield Speeds And Plans Falcon 9 Retirement",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a24102c5d43169db949d9b26a94ff&url=https%3A%2F%2Ffinance.yahoo.com%2Fmarkets%2Fstocks%2Farticles%2Fspacex-spcx-curbs-ukraine-starshield-001639902.html&c=17442930600049641026&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
           "id": "01ab4ba4cf0d2ae1",
           "published_at": "2026-11-14T16:16:00Z",
           "source_name": "bing.com",
@@ -8404,7 +8651,7 @@
       "event_label": "其他动态",
       "event_type": "other",
       "headline": "SpaceX (SPCX) Curbs Ukraine Starshield Speeds And Plans Falcon 9 Retirement",
-      "importance_score": 63,
+      "importance_score": 71,
       "latest_at": "2026-11-14T16:16:00Z",
       "latest_url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b046b7279e440308d97cd2598c39275&url=https%3A%2F%2Ffinance.yahoo.com%2Fmarkets%2Fstocks%2Farticles%2Fspacex-spcx-curbs-ukraine-starshield-001639902.html&c=17442930600049641026&mkt=en-us",
       "source_count": 1,
@@ -8412,7 +8659,7 @@
         "bing.com"
       ],
       "started_at": "2026-11-14T16:16:00Z",
-      "summary": "SpaceX的其他动态事件，已汇集 3 篇报道、1 个来源。"
+      "summary": "SpaceX的其他动态事件，已汇集 4 篇报道、1 个来源。"
     },
     {
       "article_count": 1,
@@ -8709,7 +8956,7 @@
       "summary": "SpaceX的订单与合同事件，已汇集 1 篇报道、1 个来源。"
     },
     {
-      "article_count": 36,
+      "article_count": 37,
       "articles": [
         {
           "date_is_inferred": false,
@@ -8913,6 +9160,14 @@
         },
         {
           "date_is_inferred": false,
+          "id": "21a4540a692c85fa",
+          "published_at": "2026-11-13T15:19:18Z",
+          "source_name": "bing.com",
+          "title": "SpaceX unveils Starlink Mini 2 with a removable battery that can last up to 4.5 hours",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a240f9b674a34a8ca66635e48b59c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fconsumer-electronics%2Fspacex-unveils-starlink-mini-2-with-a-removable-battery-that-can-last-up-to-4-5-hours%2Far-AA2hoyEm&c=13087491686733960737&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
           "id": "11c0bcfef8168095",
           "published_at": "2026-11-13T15:19:18Z",
           "source_name": "bing.com",
@@ -9015,7 +9270,7 @@
         "bing.com"
       ],
       "started_at": "2026-11-10T07:20:00Z",
-      "summary": "SpaceX的产品与产能事件，已汇集 36 篇报道、2 个来源。"
+      "summary": "SpaceX的产品与产能事件，已汇集 37 篇报道、2 个来源。"
     },
     {
       "article_count": 1,
@@ -11628,7 +11883,7 @@
       "summary": "垣信卫星的其他动态事件，已汇集 4 篇报道、2 个来源。"
     },
     {
-      "article_count": 16,
+      "article_count": 17,
       "articles": [
         {
           "date_is_inferred": false,
@@ -11728,6 +11983,14 @@
         },
         {
           "date_is_inferred": false,
+          "id": "55f9b7e8ad156376",
+          "published_at": "2026-11-08T18:00:00Z",
+          "source_name": "bing.com",
+          "title": "SpaceX's Starlink Could Build a Nationwide Cell Network. Here's What Investors Need to Know",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a240f9b674a34a8ca66635e48b59c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fnews%2Fother%2Fspacexs-starlink-could-build-a-nationwide-cell-network-heres-what-investors-need-to-know%2Far-AA2h1OGO&c=17392961163545906074&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
           "id": "4b712c9d29611df4",
           "published_at": "2026-11-08T18:00:00Z",
           "source_name": "bing.com",
@@ -11773,7 +12036,7 @@
         "bing.com"
       ],
       "started_at": "2026-11-08T18:00:00Z",
-      "summary": "SpaceX的其他动态事件，已汇集 16 篇报道、1 个来源。"
+      "summary": "SpaceX的其他动态事件，已汇集 17 篇报道、1 个来源。"
     },
     {
       "article_count": 28,
@@ -12623,7 +12886,7 @@
       "summary": "星河动力的发射与试验事件，已汇集 39 篇报道、1 个来源。"
     },
     {
-      "article_count": 88,
+      "article_count": 89,
       "articles": [
         {
           "date_is_inferred": false,
@@ -12960,6 +13223,14 @@
           "source_name": "bing.com",
           "title": "Blue Origin targeting early January for 1st New Glenn launch since explosion",
           "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6af643e245634a2cbc40c2303f9baf12&url=https%3A%2F%2Fninerswire.usatoday.com%2Fstory%2Ftech%2Fscience%2Fspace%2F2026%2F11%2F05%2Fblue-origin-targeting-early-january-for-1st-new-glenn-rocket-launch-since-cape-canaveral-pad-blast%2F92629860007%2F&c=14709754731263613862&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "d7f9dee019f4fcc1",
+          "published_at": "2026-11-05T15:42:00Z",
+          "source_name": "bing.com",
+          "title": "Blue Origin targeting early January for 1st New Glenn launch since explosion",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a2417e9ec43cc94addaacea237487&url=https%3A%2F%2Fsportsbookwire.usatoday.com%2Fstory%2Ftech%2Fscience%2Fspace%2F2026%2F11%2F05%2Fblue-origin-targeting-early-january-for-1st-new-glenn-rocket-launch-since-cape-canaveral-pad-blast%2F92629860007%2F&c=12715907153282765666&mkt=en-us"
         },
         {
           "date_is_inferred": false,
@@ -13347,7 +13618,7 @@
         "bing.com"
       ],
       "started_at": "2026-11-05T08:00:00Z",
-      "summary": "Blue Origin的发射与试验事件，已汇集 88 篇报道、4 个来源。"
+      "summary": "Blue Origin的发射与试验事件，已汇集 89 篇报道、4 个来源。"
     },
     {
       "article_count": 1,
@@ -13447,6 +13718,14 @@
           "source_name": "chinadailyhk",
           "title": "Galactic Energy deploys 4 satellites in successful flight of Ceres 2 rocket - chinadailyhk",
           "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXMnc0VWtMQktaZTBBVGJEbkJ1elBra3pPUTZXOEQ2YXRBb3k3ek5tZzB5alRYWXB6X0pub2dRdkt1WUdFSnpJWXZoOXl6MHdxekhBYWx2RjI?oc=5"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "05081f486d19f861",
+          "published_at": "2026-11-07T08:00:00Z",
+          "source_name": "chinadailyhk",
+          "title": "Galactic Energy deploys 4 satellites in successful flight of Ceres 2 rocket - chinadailyhk",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KVC1nZmNoY1ZBUmNjYzducEdHZ3IxVUpDNVJEQ1c5ZFdsYVN1a21ra3dObUdLanc5LXVnQ01nTWtRcFJUbS02LW5EYnFXb0NpbW1rZlEzYnJjdw?oc=5"
         },
         {
           "date_is_inferred": false,
@@ -13743,19 +14022,11 @@
           "source_name": "bing.com",
           "title": "Galactic Energy deploys 4 satellites in successful flight of Ceres 2 rocket",
           "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b011d26fa3a4b0c933e334917323fda&url=https%3A%2F%2Fwww.chinadaily.com.cn%2Fa%2F202611%2F07%2FWS6aeec1c3e4b03ebf8519b057.html&c=11707266887806216300&mkt=en-us"
-        },
-        {
-          "date_is_inferred": false,
-          "id": "05081f486d19f861",
-          "published_at": "2026-11-06T16:33:00Z",
-          "source_name": "chinadailyhk",
-          "title": "Galactic Energy deploys 4 satellites in successful flight of Ceres 2 rocket - chinadailyhk",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KVC1nZmNoY1ZBUmNjYzducEdHZ3IxVUpDNVJEQ1c5ZFdsYVN1a21ra3dObUdLanc5LXVnQ01nTWtRcFJUbS02LW5EYnFXb0NpbW1rZlEzYnJjdw?oc=5"
         }
       ],
       "company_id": "galactic_energy",
       "company_name": "星河动力",
-      "event_id": "b91da9d837bdfebd",
+      "event_id": "a79419fe6bb5a45c",
       "event_label": "其他动态",
       "event_type": "other",
       "headline": "Galactic Energy deploys 4 satellites in successful flight of Ceres 2 rocket - chinadailyhk",
@@ -13768,7 +14039,7 @@
         "bing.com",
         "chinadailyhk"
       ],
-      "started_at": "2026-11-06T16:33:00Z",
+      "started_at": "2026-11-07T06:14:00Z",
       "summary": "星河动力的其他动态事件，已汇集 39 篇报道、3 个来源。"
     },
     {
@@ -14472,7 +14743,7 @@
       "summary": "银河航天的其他动态事件，已汇集 3 篇报道、3 个来源。"
     },
     {
-      "article_count": 16,
+      "article_count": 17,
       "articles": [
         {
           "date_is_inferred": false,
@@ -14580,6 +14851,14 @@
         },
         {
           "date_is_inferred": false,
+          "id": "2fe33e74e9718906",
+          "published_at": "2026-11-05T12:56:00Z",
+          "source_name": "bing.com",
+          "title": "Blue Origin announces 3rd stage for its powerful New Glenn rocket — and a new engine",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a2417ec9245068ced7e4a0a4afb1e&url=https%3A%2F%2Fwww.space.com%2Fspace-exploration%2Flaunches-spacecraft%2Fblue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine&c=13641544481900268961&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
           "id": "21016869b72a80c9",
           "published_at": "2026-11-05T08:00:00Z",
           "source_name": "Space",
@@ -14627,7 +14906,7 @@
         "Українські Національні Новини (УНН)"
       ],
       "started_at": "2026-11-05T02:00:00Z",
-      "summary": "Blue Origin的其他动态事件，已汇集 16 篇报道、11 个来源。"
+      "summary": "Blue Origin的其他动态事件，已汇集 17 篇报道、11 个来源。"
     },
     {
       "article_count": 24,
@@ -15634,7 +15913,7 @@
       "summary": "Blue Origin的发射与试验事件，已汇集 2 篇报道、1 个来源。"
     },
     {
-      "article_count": 7,
+      "article_count": 8,
       "articles": [
         {
           "date_is_inferred": false,
@@ -15667,6 +15946,14 @@
           "source_name": "bing.com",
           "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
           "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b09a4a1e5b94aeeb6b327c54af58af6&url=https%3A%2F%2Farstechnica.com%2Fspace%2F2026%2F11%2Fblue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance%2F&c=9604292273517679457&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "7aa0ef19d8168bfa",
+          "published_at": "2026-11-05T08:17:00Z",
+          "source_name": "bing.com",
+          "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a2417ec9245068ced7e4a0a4afb1e&url=https%3A%2F%2Farstechnica.com%2Fspace%2F2026%2F11%2Fblue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance%2F&c=9604292273517679457&mkt=en-us"
         },
         {
           "date_is_inferred": false,
@@ -15709,7 +15996,7 @@
         "bing.com"
       ],
       "started_at": "2026-11-05T08:00:00Z",
-      "summary": "Blue Origin的其他动态事件，已汇集 7 篇报道、3 个来源。"
+      "summary": "Blue Origin的其他动态事件，已汇集 8 篇报道、3 个来源。"
     },
     {
       "article_count": 1,
@@ -19204,7 +19491,7 @@
       "summary": "Blue Origin的发射与试验事件，已汇集 1 篇报道、1 个来源。"
     },
     {
-      "article_count": 32,
+      "article_count": 33,
       "articles": [
         {
           "date_is_inferred": false,
@@ -19392,6 +19679,14 @@
         },
         {
           "date_is_inferred": false,
+          "id": "368bef4f18bc691c",
+          "published_at": "2026-11-01T14:02:00Z",
+          "source_name": "bing.com",
+          "title": "Starlink's Subscriber Growth Is Explosive. Could SpaceX Unlock a Second Growth Engine?",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a240f9b674a34a8ca66635e48b59c&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Fmoney%2Fother%2Fstarlink-s-subscriber-growth-is-explosive-could-spacex-unlock-a-second-growth-engine%2Far-AA2gyau9&c=5786082528861943762&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
           "id": "344592f5cfa0a6b9",
           "published_at": "2026-11-01T14:02:00Z",
           "source_name": "bing.com",
@@ -19477,7 +19772,7 @@
         "bing.com"
       ],
       "started_at": "2026-11-01T13:02:00Z",
-      "summary": "SpaceX的其他动态事件，已汇集 32 篇报道、1 个来源。"
+      "summary": "SpaceX的其他动态事件，已汇集 33 篇报道、1 个来源。"
     },
     {
       "article_count": 2,
@@ -23361,7 +23656,7 @@
       "summary": "Blue Origin的发射与试验事件，已汇集 5 篇报道、1 个来源。"
     },
     {
-      "article_count": 3,
+      "article_count": 4,
       "articles": [
         {
           "date_is_inferred": false,
@@ -23381,6 +23676,14 @@
         },
         {
           "date_is_inferred": false,
+          "id": "1cfd96645ada99df",
+          "published_at": "2026-10-29T07:00:00Z",
+          "source_name": "Sohu",
+          "title": "蓝箭航天成功中标\"昊龙飞船\"发射任务！由朱雀三号托举飞船，要求5年内实现在轨交付 - Sohu",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oeVJhXzZlQUl1ZU9SaGxQaWI3V3YtdkRVOUt6VHZsVVVvUUVkN292ZTlRR21UVUpYem93MzN1T2xGWGpwZzRGeXhzd2Q5eGFsVC1z?oc=5"
+        },
+        {
+          "date_is_inferred": false,
           "id": "b1461e8a9252d330",
           "published_at": "2026-10-29T05:12:04Z",
           "source_name": "手机网易网",
@@ -23394,7 +23697,7 @@
       "event_label": "发射与试验",
       "event_type": "launch",
       "headline": "蓝箭航天成功中标\"昊龙飞船\"发射任务！由朱雀三号托举飞船，要求5年内实现在轨交付 - Sohu",
-      "importance_score": 83,
+      "importance_score": 91,
       "latest_at": "2026-10-29T07:00:00Z",
       "latest_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11X18yRXY4d3VXNk9PQlhNRHV3RHBLWkZtTHI2UGtOX2RRS2kxUDZYRlpOUXgyc2szTGdqLVdmUWtia19kcVAteENHSlc5LTBxb3F5OFVrOVBnb1lyVWx1Xw?oc=5",
       "source_count": 3,
@@ -23404,7 +23707,7 @@
         "财富号"
       ],
       "started_at": "2026-10-29T05:12:04Z",
-      "summary": "蓝箭航天的发射与试验事件，已汇集 3 篇报道、3 个来源。"
+      "summary": "蓝箭航天的发射与试验事件，已汇集 4 篇报道、3 个来源。"
     },
     {
       "article_count": 1,
@@ -25675,7 +25978,7 @@
       "summary": "蓝箭航天的其他动态事件，已汇集 2 篇报道、1 个来源。"
     },
     {
-      "article_count": 93,
+      "article_count": 94,
       "articles": [
         {
           "date_is_inferred": false,
@@ -26287,6 +26590,14 @@
         },
         {
           "date_is_inferred": false,
+          "id": "3dc42c5f63816939",
+          "published_at": "2026-10-23T08:59:00Z",
+          "source_name": "bing.com",
+          "title": "Explainer - What is going on with SpaceX's Starlink and Starshield in Ukraine?",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a24102c5d43169db949d9b26a94ff&url=https%3A%2F%2Fwww.msn.com%2Fen-au%2Fnews%2Fother%2Fexplainer-what-is-going-on-with-spacex-s-starlink-and-starshield-in-ukraine%2Far-AA2fVHWb&c=8888176968460178279&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
           "id": "31afe276cf0cf9c7",
           "published_at": "2026-10-23T08:59:00Z",
           "source_name": "bing.com",
@@ -26440,7 +26751,7 @@
         "space.com"
       ],
       "started_at": "2026-10-22T20:28:04Z",
-      "summary": "SpaceX的其他动态事件，已汇集 93 篇报道、5 个来源。"
+      "summary": "SpaceX的其他动态事件，已汇集 94 篇报道、5 个来源。"
     },
     {
       "article_count": 32,
@@ -30661,7 +30972,7 @@
       "summary": "SpaceX的其他动态事件，已汇集 1 篇报道、1 个来源。"
     },
     {
-      "article_count": 250,
+      "article_count": 252,
       "articles": [
         {
           "date_is_inferred": false,
@@ -30782,6 +31093,14 @@
           "source_name": "bing.com",
           "title": "What is Starshield, SpaceX’s military version of Starlink?",
           "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6aedd3a8c705460d9b75d99dccf6fd67&url=https%3A%2F%2Fwww.defensenews.com%2Findustry%2Ftechwatch%2F2026%2F10%2F16%2Fwhat-is-starshield-spacexs-military-version-of-starlink%2F&c=16836617008630614783&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "cad50b009ca274c6",
+          "published_at": "2026-10-16T13:08:00Z",
+          "source_name": "bing.com",
+          "title": "What is Starshield, SpaceX’s military version of Starlink?",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a24102c5d43169db949d9b26a94ff&url=https%3A%2F%2Fwww.defensenews.com%2Findustry%2Ftechwatch%2F2026%2F10%2F16%2Fwhat-is-starshield-spacexs-military-version-of-starlink%2F&c=16836617008630614783&mkt=en-us"
         },
         {
           "date_is_inferred": false,
@@ -31358,6 +31677,14 @@
           "source_name": "bing.com",
           "title": "What Is Starshield, SpaceX's Military Version of Starlink, and Why Is It So Important to Ukraine?",
           "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0058cea7e045b58d52548d23ca3cbd&url=https%3A%2F%2Ftime.com%2Farticle%2F2026%2F10%2F15%2Fwhat-is-starshield-spacex-military-version-starlink-restrictions-ukraine-battlefield%2F&c=1939730098478835662&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
+          "id": "d36c55fa03612878",
+          "published_at": "2026-10-15T13:44:00Z",
+          "source_name": "bing.com",
+          "title": "What Is Starshield, SpaceX's Military Version of Starlink, and Why Is It So Important to Ukraine?",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a24102c5d43169db949d9b26a94ff&url=https%3A%2F%2Ftime.com%2Farticle%2F2026%2F10%2F15%2Fwhat-is-starshield-spacex-military-version-starlink-restrictions-ukraine-battlefield%2F&c=1939730098478835662&mkt=en-us"
         },
         {
           "date_is_inferred": false,
@@ -32681,7 +33008,7 @@
         "satellitetoday.com"
       ],
       "started_at": "2026-10-14T12:44:20Z",
-      "summary": "SpaceX的其他动态事件，已汇集 250 篇报道、4 个来源。"
+      "summary": "SpaceX的其他动态事件，已汇集 252 篇报道、4 个来源。"
     },
     {
       "article_count": 2,
@@ -38633,7 +38960,7 @@
       "summary": "SpaceX的其他动态事件，已汇集 1 篇报道、1 个来源。"
     },
     {
-      "article_count": 190,
+      "article_count": 191,
       "articles": [
         {
           "date_is_inferred": false,
@@ -39941,6 +40268,14 @@
         },
         {
           "date_is_inferred": false,
+          "id": "128ed868e16553dc",
+          "published_at": "2026-10-13T03:16:00Z",
+          "source_name": "bing.com",
+          "title": "Falcon 9 return: SpaceX resumes Starlink launches with 27 satellites after weeks of delays",
+          "url": "http://www.bing.com/news/apiclick.aspx?aid=&tid=6b0a2410e0cf42f88aaed99fd60294d0&url=https%3A%2F%2Fwww.msn.com%2Fen-us%2Ftechnology%2Fspace-exploration%2Ffalcon-9-return-spacex-resumes-starlink-launches-with-27-satellites-after-weeks-of-delays%2Far-AA2e8tjV&c=4688651336461561369&mkt=en-us"
+        },
+        {
+          "date_is_inferred": false,
           "id": "0d607ec1bb127b4d",
           "published_at": "2026-10-13T03:16:00Z",
           "source_name": "bing.com",
@@ -40181,7 +40516,7 @@
         "space.com"
       ],
       "started_at": "2026-10-10T02:59:00Z",
-      "summary": "SpaceX的发射与试验事件，已汇集 190 篇报道、12 个来源。"
+      "summary": "SpaceX的发射与试验事件，已汇集 191 篇报道、12 个来源。"
     },
     {
       "article_count": 19,
@@ -194627,10 +194962,10 @@
       "summary": "微纳星空的产品与产能事件，已汇集 1 篇报道、1 个来源。"
     }
   ],
-  "generated_at": "2026-11-27T15:42:43.010482Z",
+  "generated_at": "2026-11-28T00:46:31.446338Z",
   "inferred_date_article_count": 1,
   "is_complete": true,
-  "latest_at": "2026-11-27T13:29:49Z",
-  "run_id": "4391e3cc-9fb5-4cb6-a536-e140bc7aea69",
+  "latest_at": "2026-11-27T19:34:01Z",
+  "run_id": "cc2c2404-fa71-4479-a978-24af97bf4171",
   "schema_version": "company_event_timeline.v2"
 }
